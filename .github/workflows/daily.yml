@@ -1,0 +1,50 @@
+name: Daily data archive
+
+on:
+  schedule:
+    # Runs every day at 06:00 UTC. GitHub's cron can be delayed by a few
+    # minutes under load — that's normal.
+    - cron: "0 6 * * *"
+  # Lets you trigger a run manually from the Actions tab.
+  workflow_dispatch:
+
+# Allow the workflow to push commits back to the repo.
+permissions:
+  contents: write
+
+jobs:
+  archive:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run daily update
+        env:
+          # Optional: add a free NASA key as a repo secret to avoid rate limits.
+          NASA_API_KEY: ${{ secrets.NASA_API_KEY }}
+        run: python daily_update.py
+
+      - name: Commit and push
+        env:
+          # These default to your values below. To change them without editing
+          # this file, set repo variables GIT_AUTHOR_NAME / GIT_AUTHOR_EMAIL
+          # (Settings -> Secrets and variables -> Actions -> Variables).
+          AUTHOR_NAME: ${{ vars.GIT_AUTHOR_NAME || 'Oumar Tamba Tirera' }}
+          AUTHOR_EMAIL: ${{ vars.GIT_AUTHOR_EMAIL || 'oumartambatirera@gmail.com' }}
+        run: |
+          # Commit AS YOU so it counts toward your contribution graph.
+          git config user.name "$AUTHOR_NAME"
+          git config user.email "$AUTHOR_EMAIL"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Daily archive: $(date -u +'%Y-%m-%d')"
+            git push
+          fi
