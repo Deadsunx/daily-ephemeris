@@ -43,12 +43,10 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $65,616 | -0.46% |
-| Ethereum | $1,920.91 | +0.14% |
-| Solana | $77.4 | +0.26% |
+| Bitcoin | $65,577 | -0.54% |
+| Ethereum | $1,922.38 | +0.15% |
+| Solana | $77.35 | +0.04% |
 
-**🔭 NASA:** [The Large Magellanic Cloud](https://apod.nasa.gov/apod/image/2607/LMC_1024.jpg)
-
-**🚗 Car news:** [Gotcha: Toyota's New Mid-Engine Sports Car Possibly Caught Testing On Video](https://www.motor1.com/news/802471/toyota-celica-sports-car-caught-testing-fuji/)
+**🚗 Car news:** [Bigger Hyundai Tucson Spied With Massive Screen](https://www.motor1.com/news/802498/2027-hyundai-tucson-spy-video/)
 
 <!-- LATEST:END -->
