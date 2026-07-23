@@ -523,6 +523,22 @@
     const PARALLAX = 16;            // max px shift from cursor
     const mouse = { x: 0, y: 0, tx: 0, ty: 0 };
 
+    // Rare shooting stars.
+    let shooters = [], shootTimer = 4 + Math.random() * 6;
+    function spawnShooter() {
+      const angle = (Math.random() * 22 + 18) * Math.PI / 180;  // 18–40° downward
+      shooters.push({
+        x: Math.random() * w * 0.7,
+        y: Math.random() * h * 0.35,
+        angle,
+        speed: Math.random() * 320 + 620,     // px/s
+        len: Math.random() * 90 + 120,
+        ttl: Math.random() * 0.4 + 0.7,
+        age: 0,
+        brass: Math.random() < 0.4
+      });
+    }
+
     function build() {
       w = innerWidth; h = innerHeight;
       dpr = Math.min(2, devicePixelRatio || 1);
@@ -579,6 +595,38 @@
         ctx.beginPath();
         ctx.fillStyle = "rgba(" + color + "," + alpha.toFixed(3) + ")";
         ctx.arc(px, py, s.r, 0, 6.283);
+        ctx.fill();
+      }
+
+      // Shooting stars
+      if (dt && !reduce) {
+        shootTimer -= dt;
+        if (shootTimer <= 0) { spawnShooter(); shootTimer = 12 + Math.random() * 12; }
+      }
+      for (let i = shooters.length - 1; i >= 0; i--) {
+        const sh = shooters[i];
+        sh.age += dt;
+        const p = sh.age / sh.ttl;
+        if (p >= 1) { shooters.splice(i, 1); continue; }
+        sh.x += Math.cos(sh.angle) * sh.speed * dt;
+        sh.y += Math.sin(sh.angle) * sh.speed * dt;
+        const fade = Math.sin(p * Math.PI);                 // ease in and out
+        const tailX = sh.x - Math.cos(sh.angle) * sh.len;
+        const tailY = sh.y - Math.sin(sh.angle) * sh.len;
+        const col = sh.brass ? BRASS : WHITE;
+        const grad = ctx.createLinearGradient(sh.x, sh.y, tailX, tailY);
+        grad.addColorStop(0, "rgba(" + col + "," + (0.9 * fade).toFixed(3) + ")");
+        grad.addColorStop(1, "rgba(" + col + ",0)");
+        ctx.strokeStyle = grad;
+        ctx.lineWidth = 1.6;
+        ctx.lineCap = "round";
+        ctx.beginPath();
+        ctx.moveTo(sh.x, sh.y);
+        ctx.lineTo(tailX, tailY);
+        ctx.stroke();
+        ctx.beginPath();                                    // bright head
+        ctx.fillStyle = "rgba(" + col + "," + (0.95 * fade).toFixed(3) + ")";
+        ctx.arc(sh.x, sh.y, 1.5, 0, 6.283);
         ctx.fill();
       }
     }
