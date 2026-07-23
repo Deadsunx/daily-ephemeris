@@ -1,11 +1,11 @@
 {
   "date": "2026-07-23",
-  "fetched_at": "2026-07-23T09:21:56.694389+00:00",
+  "fetched_at": "2026-07-23T09:32:47.748073+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 65686,
-      "usd_24h_change": -0.5,
-      "usd_market_cap": 1317536707627.6465,
+      "usd": 65689,
+      "usd_24h_change": -0.39,
+      "usd_market_cap": 1317709581094.0752,
       "spark": [
         62662.29,
         60989.57,
@@ -37,13 +37,13 @@
         65143.63,
         66538.78,
         66077.06,
-        65679.51
+        65687.16
       ]
     },
     "ethereum": {
-      "usd": 1929.41,
-      "usd_24h_change": 0.27,
-      "usd_market_cap": 232795978678.6443,
+      "usd": 1928.39,
+      "usd_24h_change": 0.28,
+      "usd_market_cap": 232711027389.96426,
       "spark": [
         1665.72,
         1620.64,
@@ -75,13 +75,13 @@
         1900.92,
         1928.73,
         1933.41,
-        1929.41
+        1928.5
       ]
     },
     "solana": {
-      "usd": 77.57,
-      "usd_24h_change": 0.24,
-      "usd_market_cap": 45205820400.35299,
+      "usd": 77.53,
+      "usd_24h_change": 0.19,
+      "usd_market_cap": 45189293900.76441,
       "spark": [
         69.61,
         67.95,
@@ -113,7 +113,7 @@
         77.73,
         78.12,
         77.94,
-        77.57
+        77.52
       ]
     }
   },
@@ -122,7 +122,10 @@
     "author": "Steve Harvey"
   },
   "nasa": {
-    "error": "HTTP Error 403: Forbidden"
+    "title": "The Large Magellanic Cloud",
+    "explanation": "Have you ever seen another galaxy with your own eyes?   The featured image shows the Large Magellanic Cloud (LMC), one of the closest neighbors of our Milky Way.     If you are anywhere south of latitude 20\u00b0 N (but the further south, the better), you can see it with the unaided eye if you go to a dark sky location, away from big cities and light polution.   It is a dwarf irregular galaxy about 163,000 light-years away, and a member of our Local Group of galaxies.   Despite being small, with a total mass approximately equivalent to 10% - 20% of the mass of the Milky Way, the LMC is very actively forming stars.   This is likely due in part to the gravitational push and pull of tides caused by the Milky Way on the LMC.   Some astronomers have predicted that it will collide with the Milky Way in in about 2 billion years.",
+    "url": "https://apod.nasa.gov/apod/image/2607/LMC_1024.jpg",
+    "media_type": "image"
   },
   "car_news": {
     "headline": "Porsche's Cost-Cutting Drive To Claim Another 5,000 Jobs: Report",
