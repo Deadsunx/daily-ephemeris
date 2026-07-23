@@ -7,6 +7,9 @@ every single day and archiving them — all automatically via a scheduled
 Because the automation runs on **GitHub's servers**, the daily commit happens
 whether my laptop is on or off.
 
+**🌐 Live page → https://deadsunx.github.io/un-peu-trop-secret/**
+_(the "Ephemeris" — a daily record of sky, market, word & road)_
+
 ## What it collects each day
 
 | # | Source | Provider |
