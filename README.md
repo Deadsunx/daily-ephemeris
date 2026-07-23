@@ -43,12 +43,16 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $65,616 | -0.46% |
-| Ethereum | $1,920.91 | +0.14% |
-| Solana | $77.4 | +0.26% |
+| Bitcoin | $65,686 | -0.5% |
+| Ethereum | $1,929.41 | +0.27% |
+| Solana | $77.57 | +0.24% |
 
 **🔭 NASA:** [The Large Magellanic Cloud](https://apod.nasa.gov/apod/image/2607/LMC_1024.jpg)
 
-**🚗 Car news:** [Gotcha: Toyota's New Mid-Engine Sports Car Possibly Caught Testing On Video](https://www.motor1.com/news/802471/toyota-celica-sports-car-caught-testing-fuji/)
+**🚗 Car news:** [Porsche's Cost-Cutting Drive To Claim Another 5,000 Jobs: Report](https://www.motor1.com/news/802508/porsche-5000-layoffs-report/)
+
+**📜 On this day, 685:** Election of pope John V following the death of pope Benedict II two months prior. — [Pope John V](https://en.wikipedia.org/wiki/Pope_John_V)
+
+**🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 8 repos · 0 followers
 
 <!-- LATEST:END -->

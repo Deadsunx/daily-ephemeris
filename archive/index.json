@@ -5,7 +5,9 @@
       "crypto",
       "quote",
       "nasa",
-      "car_news"
+      "car_news",
+      "onthisday",
+      "github"
     ]
   }
 ]

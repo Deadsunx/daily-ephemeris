@@ -3,8 +3,27 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<script>try{var t=localStorage.getItem('eph-theme');if(t)document.documentElement.dataset.theme=t;}catch(e){}</script>
 <title>Ephemeris — a daily record of sky, market, word & road</title>
-<meta name="description" content="An autonomous daily archive. Every day it logs four readings: the Sky (NASA), the Market (crypto), the Word (a quote), and the Road (car news)." />
+<meta name="description" content="An autonomous daily archive. Every day it logs six readings: the Sky (NASA), the Word (a quote), the Market (crypto), the Road (car news), a moment On This Day, and the Archivist's GitHub." />
+
+<!-- Favicon: a brass star on deep ink -->
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='5' fill='%23090E24'/%3E%3Cpath d='M16 4 L18 14 L28 16 L18 18 L16 28 L14 18 L4 16 L14 14 Z' fill='%23E7CB86'/%3E%3C/svg%3E" />
+
+<!-- Social preview -->
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="Ephemeris" />
+<meta property="og:title" content="Ephemeris — a daily record of sky, market, word & road" />
+<meta property="og:description" content="An autonomous almanac. Every day it logs the Sky, the Word, the Market, the Road, a moment in history, and the Archivist — committed on its own, laptop or not." />
+<meta property="og:url" content="https://un-peu-trop-secret.vercel.app/" />
+<meta property="og:image" content="https://un-peu-trop-secret.vercel.app/og.png" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Ephemeris — a daily record of sky, market, word & road" />
+<meta name="twitter:description" content="An autonomous daily almanac that commits itself every day." />
+<meta name="twitter:image" content="https://un-peu-trop-secret.vercel.app/og.png" />
+
 <link rel="preconnect" href="https://fonts.googleapis.com" />
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;1,9..144,400;1,9..144,500&family=Spectral:ital,wght@0,400;0,500;1,400&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet" />
@@ -23,10 +42,31 @@
     --coral: #DE8168;
     --star: #F5F2E9;
     --shadow: 0 30px 80px -40px rgba(0,0,0,0.9);
+    /* backdrop + starfield */
+    --bg1: #070B1E; --bg2: #090E24; --bg3: #0A0F27;
+    --neb1: rgba(30,44,96,0.55); --neb2: rgba(20,30,70,0.6);
+    --star-a: 245,242,233; --star-b: 231,203,134; --star-alpha: 1;
+  }
+  :root[data-theme="light"] {
+    --ink: #E7E0CE;
+    --ink-2: #F3EEDF;
+    --panel: #FBF8EE;
+    --line: rgba(154, 123, 46, 0.32);
+    --line-soft: rgba(40, 52, 84, 0.12);
+    --bone: #2B3450;
+    --bone-dim: #6C6F7E;
+    --brass: #9A7B2E;
+    --brass-bright: #7C6220;
+    --patina: #2E8B84;
+    --coral: #C0563B;
+    --star: #1B2440;
+    --shadow: 0 24px 60px -42px rgba(30,40,80,0.4);
+    --bg1: #CFE0F2; --bg2: #E4E7E4; --bg3: #F1EAD9;
+    --neb1: rgba(255,214,150,0.55); --neb2: rgba(150,180,220,0.45);
+    --star-a: 120,120,140; --star-b: 154,123,46; --star-alpha: 0.22;
   }
 
   * { box-sizing: border-box; }
-
   html { scroll-behavior: smooth; }
 
   body {
@@ -41,377 +81,184 @@
     overflow-x: hidden;
   }
 
-  /* Deep-space base + nebula glow. Stars are drawn on the canvas above this. */
   .sky-bg {
     position: fixed;
     inset: 0;
     z-index: -2;
+    transition: background 0.5s ease;
     background:
-      radial-gradient(circle at 78% -10%, rgba(30,44,96,0.55), transparent 55%),
-      radial-gradient(circle at 10% 108%, rgba(20,30,70,0.6), transparent 50%),
-      linear-gradient(180deg, #070B1E 0%, #090E24 45%, #0A0F27 100%);
+      radial-gradient(circle at 78% -10%, var(--neb1), transparent 55%),
+      radial-gradient(circle at 10% 108%, var(--neb2), transparent 50%),
+      linear-gradient(180deg, var(--bg1) 0%, var(--bg2) 45%, var(--bg3) 100%);
   }
-  /* Animated living starfield — drifts + twinkles, quiet parallax. */
-  #starfield {
-    position: fixed;
-    inset: 0;
-    z-index: -1;
-    display: block;
-    pointer-events: none;
-  }
+  #starfield { position: fixed; inset: 0; z-index: -1; display: block; pointer-events: none; }
 
-  .wrap {
-    max-width: 1080px;
-    margin: 0 auto;
-    padding: clamp(1.4rem, 4vw, 3rem);
-  }
+  .wrap { max-width: 1080px; margin: 0 auto; padding: clamp(1.4rem, 4vw, 3rem); }
 
-  /* ---------- shared type ---------- */
   .eyebrow {
     font-family: "Space Mono", monospace;
-    font-size: 0.72rem;
-    letter-spacing: 0.34em;
-    text-transform: uppercase;
-    color: var(--brass);
+    font-size: 0.72rem; letter-spacing: 0.34em; text-transform: uppercase; color: var(--brass);
   }
   .mono { font-family: "Space Mono", monospace; }
   a { color: inherit; }
 
-  /* ---------- masthead / signature dial ---------- */
-  .masthead {
-    position: relative;
-    padding: clamp(2.5rem, 7vw, 5.5rem) 0 clamp(2rem, 5vw, 3.5rem);
-    border-bottom: 1px solid var(--line);
+  /* theme toggle */
+  .theme-toggle {
+    position: fixed; top: 1rem; right: 1rem; z-index: 10;
+    font-family: "Space Mono", monospace; font-size: 0.68rem; letter-spacing: 0.12em;
+    text-transform: uppercase; color: var(--brass);
+    background: color-mix(in srgb, var(--panel) 82%, transparent);
+    border: 1px solid var(--line); border-radius: 999px;
+    padding: 0.5rem 0.9rem; cursor: pointer; backdrop-filter: blur(6px);
+    transition: color .2s, border-color .2s;
   }
-  .dial {
-    position: absolute;
-    top: clamp(-1rem, 2vw, 1rem);
-    right: clamp(-4rem, -2vw, 0rem);
-    width: clamp(220px, 34vw, 380px);
-    height: clamp(220px, 34vw, 380px);
-    opacity: 0.5;
-    pointer-events: none;
-  }
+  .theme-toggle:hover { color: var(--brass-bright); border-color: var(--brass); }
+
+  /* ---------- masthead ---------- */
+  .masthead { position: relative; padding: clamp(2.5rem, 7vw, 5.5rem) 0 clamp(2rem, 5vw, 3.5rem); border-bottom: 1px solid var(--line); }
+  .dial { position: absolute; top: clamp(-1rem, 2vw, 1rem); right: clamp(-4rem, -2vw, 0rem); width: clamp(220px, 34vw, 380px); height: clamp(220px, 34vw, 380px); opacity: 0.5; pointer-events: none; }
   .dial circle, .dial line { fill: none; stroke: var(--brass); }
+  .masthead-eyebrow { display: flex; align-items: center; gap: 1rem; margin-bottom: clamp(1.4rem, 4vw, 2.4rem); }
+  .masthead-eyebrow::after { content: ""; height: 1px; flex: 1; background: linear-gradient(90deg, var(--line), transparent); }
 
-  .masthead-eyebrow {
-    display: flex;
-    align-items: center;
-    gap: 1rem;
-    margin-bottom: clamp(1.4rem, 4vw, 2.4rem);
-  }
-  .masthead-eyebrow::after {
-    content: "";
-    height: 1px;
-    flex: 1;
-    background: linear-gradient(90deg, var(--line), transparent);
-  }
+  h1.title { font-family: "Fraunces", serif; font-weight: 400; font-optical-sizing: auto; font-size: clamp(2.6rem, 8.5vw, 5.7rem); line-height: 0.98; letter-spacing: -0.015em; margin: 0; color: var(--star); max-width: 15ch; }
+  h1.title em { font-style: italic; color: var(--brass-bright); }
 
-  h1.title {
-    font-family: "Fraunces", serif;
-    font-weight: 400;
-    font-optical-sizing: auto;
-    font-size: clamp(2.6rem, 8.5vw, 5.7rem);
-    line-height: 0.98;
-    letter-spacing: -0.015em;
-    margin: 0;
-    color: var(--star);
-    max-width: 15ch;
-  }
-  h1.title em {
-    font-style: italic;
-    color: var(--brass-bright);
-  }
-
-  .meta {
-    margin-top: clamp(1.6rem, 4vw, 2.4rem);
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.6rem 1.4rem;
-    font-family: "Space Mono", monospace;
-    font-size: 0.82rem;
-    letter-spacing: 0.06em;
-    color: var(--bone-dim);
-  }
+  .meta { margin-top: clamp(1.6rem, 4vw, 2.4rem); display: flex; flex-wrap: wrap; gap: 0.6rem 1.4rem; font-family: "Space Mono", monospace; font-size: 0.82rem; letter-spacing: 0.06em; color: var(--bone-dim); }
   .meta b { color: var(--bone); font-weight: 700; }
   .meta .sep { color: var(--brass); }
 
-  /* ---------- readings grid ---------- */
-  .readings {
-    display: grid;
-    grid-template-columns: repeat(12, 1fr);
-    gap: clamp(1rem, 2.4vw, 1.6rem);
-    padding: clamp(2rem, 5vw, 3.5rem) 0;
+  /* ---------- day navigator ---------- */
+  .daybar { display: flex; align-items: center; gap: 1rem; padding: 1.4rem 0 0.2rem; }
+  .daybar button {
+    font-family: "Space Mono", monospace; font-size: 1rem; color: var(--brass);
+    background: var(--panel); border: 1px solid var(--line); border-radius: 3px;
+    width: 2.4rem; height: 2.4rem; cursor: pointer; transition: color .15s, border-color .15s;
   }
-  .reading {
-    background: linear-gradient(180deg, var(--panel), var(--ink-2));
-    border: 1px solid var(--line-soft);
-    border-radius: 3px;
-    padding: clamp(1.3rem, 2.6vw, 2rem);
-    box-shadow: var(--shadow);
-    position: relative;
-    min-width: 0;
-  }
-  .reading::before {
-    content: "";
-    position: absolute;
-    top: 0; left: 0;
-    width: 34px; height: 1px;
-    background: var(--brass);
-  }
-  .r-sky   { grid-column: span 7; }
-  .r-word  { grid-column: span 5; display: flex; flex-direction: column; }
-  .r-market{ grid-column: span 5; }
-  .r-road  { grid-column: span 7; display: flex; flex-direction: column; }
+  .daybar button:hover:not(:disabled) { color: var(--brass-bright); border-color: var(--brass); }
+  .daybar button:disabled { opacity: 0.32; cursor: not-allowed; }
+  .daybar-label { flex: 1; text-align: center; }
+  .daybar-date { font-family: "Fraunces", serif; font-size: 1.15rem; color: var(--star); }
+  .daybar-sub { display: block; font-family: "Space Mono", monospace; font-size: 0.68rem; letter-spacing: 0.1em; color: var(--bone-dim); margin-top: 0.15rem; }
 
-  .r-head {
-    display: flex;
-    align-items: baseline;
-    gap: 0.8rem;
-    margin-bottom: 1.2rem;
-  }
-  .r-num {
-    font-family: "Space Mono", monospace;
-    font-size: 0.72rem;
-    color: var(--brass);
-    letter-spacing: 0.1em;
-  }
-  .r-label {
-    font-family: "Space Mono", monospace;
-    font-size: 0.72rem;
-    letter-spacing: 0.28em;
-    text-transform: uppercase;
-    color: var(--bone-dim);
-  }
+  /* ---------- readings grid ---------- */
+  .readings { display: grid; grid-template-columns: repeat(12, 1fr); gap: clamp(1rem, 2.4vw, 1.6rem); padding: clamp(1.4rem, 3vw, 2.4rem) 0 clamp(2rem, 5vw, 3.5rem); }
+  .reading { background: linear-gradient(180deg, var(--panel), var(--ink-2)); border: 1px solid var(--line-soft); border-radius: 3px; padding: clamp(1.3rem, 2.6vw, 2rem); box-shadow: var(--shadow); position: relative; min-width: 0; }
+  .reading::before { content: ""; position: absolute; top: 0; left: 0; width: 34px; height: 1px; background: var(--brass); }
+  .r-sky    { grid-column: span 7; }
+  .r-word   { grid-column: span 5; display: flex; flex-direction: column; }
+  .r-market { grid-column: span 5; }
+  .r-road   { grid-column: span 7; display: flex; flex-direction: column; }
+  .r-otd    { grid-column: span 7; display: flex; flex-direction: column; }
+  .r-github { grid-column: span 5; }
+
+  .r-head { display: flex; align-items: baseline; gap: 0.8rem; margin-bottom: 1.2rem; }
+  .r-num { font-family: "Space Mono", monospace; font-size: 0.72rem; color: var(--brass); letter-spacing: 0.1em; }
+  .r-label { font-family: "Space Mono", monospace; font-size: 0.72rem; letter-spacing: 0.28em; text-transform: uppercase; color: var(--bone-dim); }
 
   /* Sky */
-  .plate {
-    display: block;
-    width: 100%;
-    aspect-ratio: 16 / 10;
-    object-fit: cover;
-    border: 1px solid var(--line);
-    filter: saturate(1.05) contrast(1.03);
-    background: #05070f;
-  }
-  .plate-wrap { position: relative; }
-  .plate-caption {
-    font-family: "Fraunces", serif;
-    font-size: clamp(1.3rem, 2.6vw, 1.7rem);
-    line-height: 1.15;
-    margin: 1rem 0 0.5rem;
-    color: var(--star);
-  }
-  .plate-text {
-    font-size: 0.93rem;
-    color: var(--bone-dim);
-    display: -webkit-box;
-    -webkit-line-clamp: 4;
-    -webkit-box-orient: vertical;
-    overflow: hidden;
-  }
-  .plate-link {
-    display: inline-block;
-    margin-top: 0.9rem;
-    font-family: "Space Mono", monospace;
-    font-size: 0.74rem;
-    letter-spacing: 0.12em;
-    color: var(--brass-bright);
-    text-decoration: none;
-    border-bottom: 1px solid var(--line);
-    padding-bottom: 2px;
-  }
-  .plate-link:hover { border-color: var(--brass-bright); }
+  .plate { display: block; width: 100%; aspect-ratio: 16 / 10; object-fit: cover; border: 1px solid var(--line); filter: saturate(1.05) contrast(1.03); background: #05070f; }
+  .plate-caption { font-family: "Fraunces", serif; font-size: clamp(1.3rem, 2.6vw, 1.7rem); line-height: 1.15; margin: 1rem 0 0.5rem; color: var(--star); }
+  .plate-text { font-size: 0.93rem; color: var(--bone-dim); display: -webkit-box; -webkit-line-clamp: 4; -webkit-box-orient: vertical; overflow: hidden; }
+  .plate-link, .otd-link { display: inline-block; margin-top: 0.9rem; font-family: "Space Mono", monospace; font-size: 0.74rem; letter-spacing: 0.12em; color: var(--brass-bright); text-decoration: none; border-bottom: 1px solid var(--line); padding-bottom: 2px; }
+  .plate-link:hover, .otd-link:hover { border-color: var(--brass-bright); }
 
   /* Word */
-  .quote {
-    font-family: "Fraunces", serif;
-    font-style: italic;
-    font-weight: 400;
-    font-size: clamp(1.5rem, 3.4vw, 2.15rem);
-    line-height: 1.24;
-    color: var(--bone);
-    margin: auto 0;
-    text-wrap: balance;
-  }
-  .quote-mark {
-    font-size: 2.4em;
-    line-height: 0;
-    color: var(--brass);
-    vertical-align: -0.32em;
-    margin-right: 0.06em;
-  }
-  .quote-author {
-    margin-top: 1.4rem;
-    font-family: "Space Mono", monospace;
-    font-size: 0.78rem;
-    letter-spacing: 0.14em;
-    text-transform: uppercase;
-    color: var(--brass);
-  }
+  .quote { font-family: "Fraunces", serif; font-style: italic; font-weight: 400; font-size: clamp(1.5rem, 3.4vw, 2.15rem); line-height: 1.24; color: var(--bone); margin: auto 0; text-wrap: balance; }
+  .quote-mark { font-size: 2.4em; line-height: 0; color: var(--brass); vertical-align: -0.32em; margin-right: 0.06em; }
+  .quote-author { margin-top: 1.4rem; font-family: "Space Mono", monospace; font-size: 0.78rem; letter-spacing: 0.14em; text-transform: uppercase; color: var(--brass); }
 
-  /* Market — the ephemeris table */
+  /* Market */
+  .market-wrap { overflow-x: auto; }
   table.market { width: 100%; border-collapse: collapse; }
-  table.market th {
-    text-align: left;
-    font-family: "Space Mono", monospace;
-    font-weight: 400;
-    font-size: 0.66rem;
-    letter-spacing: 0.16em;
-    text-transform: uppercase;
-    color: var(--bone-dim);
-    padding-bottom: 0.7rem;
-    border-bottom: 1px solid var(--line);
-  }
+  table.market th { text-align: left; font-family: "Space Mono", monospace; font-weight: 400; font-size: 0.62rem; letter-spacing: 0.14em; text-transform: uppercase; color: var(--bone-dim); padding-bottom: 0.7rem; border-bottom: 1px solid var(--line); white-space: nowrap; }
   table.market th.num, table.market td.num { text-align: right; }
-  table.market td {
-    padding: 0.85rem 0;
-    border-bottom: 1px solid var(--line-soft);
-  }
-  .coin {
-    font-family: "Fraunces", serif;
-    font-size: 1.12rem;
-    color: var(--star);
-  }
-  .coin small {
-    display: block;
-    font-family: "Space Mono", monospace;
-    font-size: 0.62rem;
-    letter-spacing: 0.16em;
-    color: var(--bone-dim);
-    text-transform: uppercase;
-  }
-  .price {
-    font-family: "Space Mono", monospace;
-    font-size: 1.05rem;
-    color: var(--bone);
-    font-variant-numeric: tabular-nums;
-  }
-  .chg {
-    font-family: "Space Mono", monospace;
-    font-size: 0.9rem;
-    font-variant-numeric: tabular-nums;
-    white-space: nowrap;
-  }
-  .chg.up   { color: var(--patina); }
-  .chg.down { color: var(--coral); }
+  table.market td { padding: 0.8rem 0.5rem 0.8rem 0; border-bottom: 1px solid var(--line-soft); }
+  .coin { font-family: "Fraunces", serif; font-size: 1.1rem; color: var(--star); }
+  .coin small { display: block; font-family: "Space Mono", monospace; font-size: 0.6rem; letter-spacing: 0.16em; color: var(--bone-dim); text-transform: uppercase; }
+  .price { font-family: "Space Mono", monospace; font-size: 1rem; color: var(--bone); font-variant-numeric: tabular-nums; }
+  .chg { font-family: "Space Mono", monospace; font-size: 0.86rem; font-variant-numeric: tabular-nums; white-space: nowrap; }
+  .chg.up { color: var(--patina); } .chg.down { color: var(--coral); }
+  .spark { display: block; height: 26px; width: 96px; }
+  .spark .ln { fill: none; stroke-width: 1.5; }
+  .spark .ar { stroke: none; opacity: 0.13; }
+  .spark.up .ln { stroke: var(--patina); } .spark.up .ar { fill: var(--patina); }
+  .spark.down .ln { stroke: var(--coral); } .spark.down .ar { fill: var(--coral); }
 
   /* Road */
-  .road-kicker {
-    font-family: "Space Mono", monospace;
-    font-size: 0.7rem;
-    letter-spacing: 0.2em;
-    text-transform: uppercase;
-    color: var(--brass);
-    margin-bottom: 0.6rem;
-  }
-  .road-headline {
-    font-family: "Fraunces", serif;
-    font-weight: 500;
-    font-size: clamp(1.5rem, 3.2vw, 2.1rem);
-    line-height: 1.14;
-    color: var(--star);
-    text-decoration: none;
-    margin: auto 0 0;
-    display: block;
-    text-wrap: balance;
-  }
+  .road-kicker { font-family: "Space Mono", monospace; font-size: 0.7rem; letter-spacing: 0.2em; text-transform: uppercase; color: var(--brass); margin-bottom: 0.6rem; }
+  .road-headline { font-family: "Fraunces", serif; font-weight: 500; font-size: clamp(1.5rem, 3.2vw, 2.1rem); line-height: 1.14; color: var(--star); text-decoration: none; margin: auto 0 0; display: block; text-wrap: balance; }
   .road-headline:hover { color: var(--brass-bright); }
-  .road-source {
-    margin-top: 1.1rem;
-    font-family: "Space Mono", monospace;
-    font-size: 0.7rem;
-    letter-spacing: 0.1em;
-    color: var(--bone-dim);
-    word-break: break-all;
-  }
+  .road-source { margin-top: 1.1rem; font-family: "Space Mono", monospace; font-size: 0.7rem; letter-spacing: 0.1em; color: var(--bone-dim); word-break: break-all; }
 
-  /* ---------- ledger ---------- */
-  .ledger {
-    padding: clamp(2rem, 5vw, 3rem) 0 1rem;
-    border-top: 1px solid var(--line);
-  }
-  .ledger-head {
-    display: flex;
-    align-items: baseline;
-    justify-content: space-between;
-    gap: 1rem;
-    flex-wrap: wrap;
-    margin-bottom: 1.6rem;
-  }
-  .ledger-head h2 {
-    font-family: "Fraunces", serif;
-    font-weight: 400;
-    font-size: clamp(1.6rem, 4vw, 2.4rem);
-    margin: 0;
-    color: var(--star);
-  }
+  /* On This Day */
+  .otd-year { font-family: "Fraunces", serif; font-weight: 600; font-size: clamp(2.4rem, 6vw, 3.6rem); color: var(--brass-bright); line-height: 1; letter-spacing: -0.01em; }
+  .otd-text { font-size: clamp(1.05rem, 2.2vw, 1.28rem); line-height: 1.4; color: var(--bone); margin: 0.7rem 0 0; text-wrap: pretty; }
+
+  /* GitHub / The Archivist */
+  .gh { display: flex; gap: 1rem; align-items: center; }
+  .gh-avatar { width: 64px; height: 64px; border-radius: 50%; border: 1px solid var(--line); flex-shrink: 0; background: var(--ink-2); }
+  .gh-name { font-family: "Fraunces", serif; font-size: 1.3rem; color: var(--star); text-decoration: none; }
+  .gh-name:hover { color: var(--brass-bright); }
+  .gh-stats { font-family: "Space Mono", monospace; font-size: 0.78rem; color: var(--bone-dim); margin-top: 0.35rem; }
+  .gh-stats b { color: var(--brass); }
+  .gh-since { font-family: "Space Mono", monospace; font-size: 0.66rem; letter-spacing: 0.08em; color: var(--bone-dim); margin-top: 0.3rem; }
+
+  /* ---------- sections ---------- */
+  .section { padding: clamp(2rem, 5vw, 3rem) 0 1rem; border-top: 1px solid var(--line); }
+  .section-head { display: flex; align-items: baseline; justify-content: space-between; gap: 1rem; flex-wrap: wrap; margin-bottom: 1.6rem; }
+  .section-head h2 { font-family: "Fraunces", serif; font-weight: 400; font-size: clamp(1.6rem, 4vw, 2.4rem); margin: 0; color: var(--star); }
+
+  /* Archive calendar */
+  .cal-wrap { overflow-x: auto; padding-bottom: 0.4rem; }
+  .cal { display: inline-grid; grid-auto-flow: column; grid-template-rows: repeat(7, 13px); gap: 3px; }
+  .cal-cell { width: 13px; height: 13px; border-radius: 2px; background: var(--cal0, rgba(236,228,208,0.06)); border: 1px solid transparent; }
+  .cal-cell.filled { cursor: pointer; }
+  .cal-cell.filled:hover { outline: 1px solid var(--brass-bright); outline-offset: 1px; }
+  .cal-cell.active { outline: 1.5px solid var(--brass-bright); outline-offset: 1px; }
+  .cal-cell.empty { visibility: hidden; }
+  .cal-cell.lvl1 { background: rgba(198,160,82,0.28); }
+  .cal-cell.lvl2 { background: rgba(198,160,82,0.48); }
+  .cal-cell.lvl3 { background: rgba(210,175,95,0.72); }
+  .cal-cell.lvl4 { background: var(--brass-bright); }
+  .cal-legend { display: flex; align-items: center; gap: 5px; margin-top: 0.9rem; font-family: "Space Mono", monospace; font-size: 0.66rem; letter-spacing: 0.1em; color: var(--bone-dim); }
+  .cal-legend i { width: 13px; height: 13px; border-radius: 2px; display: inline-block; }
+  .cal-legend i.lvl1 { background: rgba(198,160,82,0.28); } .cal-legend i.lvl2 { background: rgba(198,160,82,0.48); }
+  .cal-legend i.lvl3 { background: rgba(210,175,95,0.72); } .cal-legend i.lvl4 { background: var(--brass-bright); }
+
+  /* Ledger */
+  .ledger-tools { display: flex; align-items: center; gap: 1rem; flex-wrap: wrap; }
+  #ledger-search { font-family: "Space Mono", monospace; font-size: 0.78rem; color: var(--bone); background: var(--panel); border: 1px solid var(--line); border-radius: 3px; padding: 0.5rem 0.7rem; width: 12rem; max-width: 46vw; }
+  #ledger-search::placeholder { color: var(--bone-dim); }
+  .chk { display: inline-flex; align-items: center; gap: 0.4rem; font-family: "Space Mono", monospace; font-size: 0.68rem; letter-spacing: 0.08em; text-transform: uppercase; color: var(--bone-dim); cursor: pointer; }
+  .accent { accent-color: var(--brass); }
   .ledger-list { display: flex; flex-direction: column; }
-  .ledger-row {
-    display: grid;
-    grid-template-columns: 5rem 1fr auto;
-    align-items: center;
-    gap: 1rem;
-    width: 100%;
-    background: none;
-    border: none;
-    border-bottom: 1px solid var(--line-soft);
-    padding: 0.95rem 0.4rem;
-    color: var(--bone);
-    cursor: pointer;
-    text-align: left;
-    font: inherit;
-    transition: background 0.18s ease, padding-left 0.18s ease;
-  }
-  .ledger-row:hover, .ledger-row:focus-visible {
-    background: rgba(198,160,82,0.06);
-    padding-left: 0.9rem;
-    outline: none;
-  }
-  .ledger-row.active { background: rgba(198,160,82,0.10); }
-  .ledger-row .no {
-    font-family: "Space Mono", monospace;
-    font-size: 0.78rem;
-    color: var(--brass);
-  }
-  .ledger-row .date {
-    font-family: "Fraunces", serif;
-    font-size: 1.1rem;
-    color: var(--star);
-  }
-  .glyphs { display: flex; gap: 0.5rem; font-family: "Space Mono", monospace; font-size: 0.72rem; }
-  .glyph { color: var(--bone-dim); letter-spacing: 0.05em; }
+  .ledger-row { display: grid; grid-template-columns: 5rem 1fr auto; align-items: center; gap: 1rem; width: 100%; background: none; border: none; border-bottom: 1px solid var(--line-soft); padding: 0.95rem 0.4rem; color: var(--bone); cursor: pointer; text-align: left; font: inherit; transition: background 0.18s ease, padding-left 0.18s ease; }
+  .ledger-row:hover, .ledger-row:focus-visible { background: color-mix(in srgb, var(--brass) 8%, transparent); padding-left: 0.9rem; outline: none; }
+  .ledger-row.active { background: color-mix(in srgb, var(--brass) 13%, transparent); }
+  .ledger-row .no { font-family: "Space Mono", monospace; font-size: 0.78rem; color: var(--brass); }
+  .ledger-row .date { font-family: "Fraunces", serif; font-size: 1.1rem; color: var(--star); }
+  .ledger-empty { color: var(--bone-dim); font-family: "Space Mono", monospace; font-size: 0.8rem; padding: 1rem 0.4rem; }
+  .glyphs { display: flex; gap: 0.45rem; font-family: "Space Mono", monospace; font-size: 0.72rem; }
+  .glyph { color: var(--bone-dim); }
   .glyph.on { color: var(--patina); }
 
-  /* ---------- footer ---------- */
-  footer {
-    padding: 2.5rem 0 3.5rem;
-    border-top: 1px solid var(--line);
-    font-family: "Space Mono", monospace;
-    font-size: 0.74rem;
-    letter-spacing: 0.06em;
-    color: var(--bone-dim);
-    line-height: 1.9;
-  }
+  footer { padding: 2.5rem 0 3.5rem; border-top: 1px solid var(--line); font-family: "Space Mono", monospace; font-size: 0.74rem; letter-spacing: 0.06em; color: var(--bone-dim); line-height: 1.9; }
   footer a { color: var(--brass); text-decoration: none; border-bottom: 1px solid var(--line); }
   footer a:hover { color: var(--brass-bright); }
 
   :focus-visible { outline: 2px solid var(--brass-bright); outline-offset: 3px; }
 
-  /* Entrance motion */
   .rise { opacity: 0; transform: translateY(14px); animation: rise 0.9s cubic-bezier(0.2,0.7,0.2,1) forwards; }
-  .rise.d1 { animation-delay: 0.08s; }
-  .rise.d2 { animation-delay: 0.16s; }
-  .rise.d3 { animation-delay: 0.24s; }
+  .rise.d1 { animation-delay: 0.08s; } .rise.d2 { animation-delay: 0.16s; } .rise.d3 { animation-delay: 0.24s; }
   @keyframes rise { to { opacity: 1; transform: none; } }
 
   @media (max-width: 780px) {
     body { font-size: 17px; }
     .readings { grid-template-columns: 1fr; }
-    .r-sky, .r-word, .r-market, .r-road { grid-column: 1 / -1; }
+    .r-sky, .r-word, .r-market, .r-road, .r-otd, .r-github { grid-column: 1 / -1; }
     .dial { opacity: 0.28; }
   }
-
   @media (prefers-reduced-motion: reduce) {
     html { scroll-behavior: auto; }
     .rise { animation: none; opacity: 1; transform: none; }
@@ -422,6 +269,8 @@
 <div class="sky-bg" aria-hidden="true"></div>
 <canvas id="starfield" aria-hidden="true"></canvas>
 
+<button class="theme-toggle" id="theme-toggle" aria-label="Toggle day / night theme">◐ <span id="theme-label">Daylight</span></button>
+
 <div class="wrap">
 
   <header class="masthead">
@@ -429,18 +278,14 @@
       <circle cx="100" cy="100" r="98" stroke-width="0.6" />
       <circle cx="100" cy="100" r="78" stroke-width="0.6" />
       <circle cx="100" cy="100" r="52" stroke-width="0.6" opacity="0.6" />
-      <g stroke-width="0.8">
-        <script type="application/json" id="ticks"></script>
-      </g>
+      <g stroke-width="0.8"></g>
       <line x1="100" y1="2" x2="100" y2="14" stroke-width="1" />
       <line x1="100" y1="186" x2="100" y2="198" stroke-width="1" />
       <line x1="2" y1="100" x2="14" y2="100" stroke-width="1" />
       <line x1="186" y1="100" x2="198" y2="100" stroke-width="1" />
     </svg>
 
-    <div class="masthead-eyebrow">
-      <span class="eyebrow">Ephemeris — an autonomous daily record</span>
-    </div>
+    <div class="masthead-eyebrow"><span class="eyebrow">Ephemeris — an autonomous daily record</span></div>
 
     <h1 class="title rise">The Sky, the Market,<br />the Word <em>&amp;</em> the Road.</h1>
 
@@ -455,57 +300,89 @@
     </div>
   </header>
 
+  <nav class="daybar rise d1" aria-label="Day navigator">
+    <button id="prev-day" aria-label="Previous day">◀</button>
+    <div class="daybar-label">
+      <span class="daybar-date" id="daybar-date">—</span>
+      <span class="daybar-sub" id="daybar-sub">—</span>
+    </div>
+    <button id="next-day" aria-label="Next day">▶</button>
+  </nav>
+
   <main class="readings" id="readings">
-    <!-- I · THE SKY -->
     <section class="reading r-sky rise d1" aria-labelledby="sky-h">
       <div class="r-head"><span class="r-num">I</span><span class="r-label" id="sky-h">The Sky</span></div>
-      <div class="plate-wrap">
-        <img class="plate" id="sky-img" alt="" />
-      </div>
+      <img class="plate" id="sky-img" alt="" />
       <h3 class="plate-caption" id="sky-title">—</h3>
       <p class="plate-text" id="sky-text"></p>
       <a class="plate-link" id="sky-link" href="#" target="_blank" rel="noopener">View the plate ↗</a>
     </section>
 
-    <!-- II · THE WORD -->
     <section class="reading r-word rise d2" aria-labelledby="word-h">
       <div class="r-head"><span class="r-num">II</span><span class="r-label" id="word-h">The Word</span></div>
       <blockquote class="quote" id="quote"><span class="quote-mark">“</span>—</blockquote>
       <div class="quote-author" id="quote-author"></div>
     </section>
 
-    <!-- III · THE MARKET -->
     <section class="reading r-market rise d2" aria-labelledby="mkt-h">
       <div class="r-head"><span class="r-num">III</span><span class="r-label" id="mkt-h">The Market</span></div>
-      <table class="market">
-        <thead>
-          <tr><th>Body</th><th class="num">Reading (USD)</th><th class="num">24ʰ</th></tr>
-        </thead>
-        <tbody id="market-body"></tbody>
-      </table>
+      <div class="market-wrap">
+        <table class="market">
+          <thead><tr><th>Body</th><th>30-day</th><th class="num">Reading (USD)</th><th class="num">24ʰ</th></tr></thead>
+          <tbody id="market-body"></tbody>
+        </table>
+      </div>
     </section>
 
-    <!-- IV · THE ROAD -->
     <section class="reading r-road rise d3" aria-labelledby="road-h">
       <div class="r-head"><span class="r-num">IV</span><span class="r-label" id="road-h">The Road</span></div>
       <div class="road-kicker">Dispatch</div>
       <a class="road-headline" id="road-headline" href="#" target="_blank" rel="noopener">—</a>
       <div class="road-source" id="road-source"></div>
     </section>
+
+    <section class="reading r-otd rise d3" aria-labelledby="otd-h">
+      <div class="r-head"><span class="r-num">V</span><span class="r-label" id="otd-h">On This Day</span></div>
+      <div class="otd-year" id="otd-year">—</div>
+      <p class="otd-text" id="otd-text"></p>
+      <a class="otd-link" id="otd-link" href="#" target="_blank" rel="noopener">Read more ↗</a>
+    </section>
+
+    <section class="reading r-github rise d3" aria-labelledby="gh-h">
+      <div class="r-head"><span class="r-num">VI</span><span class="r-label" id="gh-h">The Archivist</span></div>
+      <div class="gh">
+        <img class="gh-avatar" id="gh-avatar" alt="" />
+        <div>
+          <a class="gh-name" id="gh-name" href="#" target="_blank" rel="noopener">—</a>
+          <div class="gh-stats"><b id="gh-repos">–</b> repos · <b id="gh-followers">–</b> followers · <b id="gh-following">–</b> following</div>
+          <div class="gh-since" id="gh-since"></div>
+        </div>
+      </div>
+    </section>
   </main>
 
-  <section class="ledger">
-    <div class="ledger-head">
+  <section class="section">
+    <div class="section-head"><h2>The Archive</h2><span class="eyebrow">every day since first light</span></div>
+    <div class="cal-wrap"><div class="cal" id="cal"></div></div>
+    <div class="cal-legend">Fewer readings <i class="lvl1"></i><i class="lvl2"></i><i class="lvl3"></i><i class="lvl4"></i> All six</div>
+  </section>
+
+  <section class="section">
+    <div class="section-head">
       <h2>The Ledger</h2>
-      <span class="eyebrow" id="ledger-count">— entries since first light</span>
+      <div class="ledger-tools">
+        <input id="ledger-search" type="search" placeholder="Filter by date…" aria-label="Filter ledger by date" />
+        <label class="chk"><input class="accent" type="checkbox" id="ledger-incomplete" /> incomplete only</label>
+        <span class="eyebrow" id="ledger-count">—</span>
+      </div>
     </div>
     <div class="ledger-list" id="ledger-list" role="list"></div>
   </section>
 
   <footer>
     Compiled autonomously at 06:00 UTC by a scheduled process — no hand on the wheel.<br />
-    Sources: CoinGecko · ZenQuotes · NASA APOD · Motor1 &nbsp;·&nbsp;
-    <a id="repo-link" href="https://github.com/Deadsunx/un-peu-trop-secret" target="_blank" rel="noopener">View the source on GitHub ↗</a>
+    Sources: CoinGecko · ZenQuotes · NASA APOD · Motor1 · Wikipedia · GitHub &nbsp;·&nbsp;
+    <a href="https://github.com/Deadsunx/un-peu-trop-secret" target="_blank" rel="noopener">View the source on GitHub ↗</a>
   </footer>
 
 </div>
@@ -517,318 +394,313 @@
     if (!canvas) return;
     const ctx = canvas.getContext("2d");
     const reduce = matchMedia("(prefers-reduced-motion: reduce)").matches;
-
     let w = 0, h = 0, dpr = 1, stars = [];
-    const WHITE = "245,242,233", BRASS = "231,203,134";
-    const PARALLAX = 16;            // max px shift from cursor
+    let WHITE = "245,242,233", BRASS = "231,203,134", ALPHA = 1;
+    const PARALLAX = 16;
     const mouse = { x: 0, y: 0, tx: 0, ty: 0 };
-
-    // Rare shooting stars.
     let shooters = [], shootTimer = 4 + Math.random() * 6;
+
+    function readTheme() {
+      const c = getComputedStyle(document.documentElement);
+      WHITE = (c.getPropertyValue("--star-a") || "245,242,233").trim();
+      BRASS = (c.getPropertyValue("--star-b") || "231,203,134").trim();
+      ALPHA = parseFloat(c.getPropertyValue("--star-alpha")) || 1;
+    }
+    window.__starRefresh = () => { readTheme(); if (reduce) draw(0, 0); };
+
     function spawnShooter() {
-      const angle = (Math.random() * 22 + 18) * Math.PI / 180;  // 18–40° downward
-      shooters.push({
-        x: Math.random() * w * 0.7,
-        y: Math.random() * h * 0.35,
-        angle,
-        speed: Math.random() * 320 + 620,     // px/s
-        len: Math.random() * 90 + 120,
-        ttl: Math.random() * 0.4 + 0.7,
-        age: 0,
-        brass: Math.random() < 0.4
-      });
+      const angle = (Math.random() * 22 + 18) * Math.PI / 180;
+      shooters.push({ x: Math.random() * w * 0.7, y: Math.random() * h * 0.35, angle,
+        speed: Math.random() * 320 + 620, len: Math.random() * 90 + 120,
+        ttl: Math.random() * 0.4 + 0.7, age: 0, brass: Math.random() < 0.4 });
     }
 
     function build() {
-      w = innerWidth; h = innerHeight;
-      dpr = Math.min(2, devicePixelRatio || 1);
-      canvas.width = Math.floor(w * dpr);
-      canvas.height = Math.floor(h * dpr);
-      canvas.style.width = w + "px";
-      canvas.style.height = h + "px";
+      w = innerWidth; h = innerHeight; dpr = Math.min(2, devicePixelRatio || 1);
+      canvas.width = Math.floor(w * dpr); canvas.height = Math.floor(h * dpr);
+      canvas.style.width = w + "px"; canvas.style.height = h + "px";
       ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
-
+      readTheme();
       const count = Math.max(40, Math.min(240, Math.floor((w * h) / 7000)));
       stars = [];
-      for (let i = 0; i < count; i++) {
-        stars.push({
-          x: Math.random() * w,
-          y: Math.random() * h,
-          r: Math.random() * 1.2 + 0.4,
-          base: Math.random() * 0.5 + 0.35,          // base opacity
-          tw: Math.random() * Math.PI * 2,            // twinkle phase
-          sp: Math.random() * 1.2 + 0.5,              // twinkle speed
-          vx: (Math.random() - 0.5) * 0.05,           // slow drift
-          vy: (Math.random() - 0.5) * 0.05,
-          depth: Math.random() * 0.7 + 0.3,           // parallax depth
-          brass: Math.random() < 0.22
-        });
-      }
+      for (let i = 0; i < count; i++) stars.push({
+        x: Math.random() * w, y: Math.random() * h, r: Math.random() * 1.2 + 0.4,
+        base: Math.random() * 0.5 + 0.35, tw: Math.random() * Math.PI * 2, sp: Math.random() * 1.2 + 0.5,
+        vx: (Math.random() - 0.5) * 0.05, vy: (Math.random() - 0.5) * 0.05,
+        depth: Math.random() * 0.7 + 0.3, brass: Math.random() < 0.22 });
     }
 
     function draw(t, dt) {
-      mouse.x += (mouse.tx - mouse.x) * 0.05;
-      mouse.y += (mouse.ty - mouse.y) * 0.05;
+      mouse.x += (mouse.tx - mouse.x) * 0.05; mouse.y += (mouse.ty - mouse.y) * 0.05;
       const scrollY = window.scrollY || 0;
       ctx.clearRect(0, 0, w, h);
-
       for (const s of stars) {
-        if (dt) {
-          s.x += s.vx * dt * 60;
-          s.y += s.vy * dt * 60;
+        if (dt) { s.x += s.vx * dt * 60; s.y += s.vy * dt * 60;
           if (s.x < -2) s.x = w + 2; else if (s.x > w + 2) s.x = -2;
-          if (s.y < -2) s.y = h + 2; else if (s.y > h + 2) s.y = -2;
-        }
+          if (s.y < -2) s.y = h + 2; else if (s.y > h + 2) s.y = -2; }
         const twinkle = reduce ? 1 : (0.55 + 0.45 * Math.sin(t * s.sp + s.tw));
-        const alpha = s.base * twinkle;
+        const alpha = s.base * twinkle * ALPHA;
         const ox = mouse.x * PARALLAX * s.depth;
         const oy = mouse.y * PARALLAX * s.depth - scrollY * 0.03 * s.depth;
-        const px = s.x + ox, py = s.y + oy;
-        const color = s.brass ? BRASS : WHITE;
-
-        if (s.r > 1) { // faint glow for the brighter stars
-          ctx.beginPath();
-          ctx.fillStyle = "rgba(" + color + "," + (alpha * 0.18).toFixed(3) + ")";
-          ctx.arc(px, py, s.r * 2.6, 0, 6.283);
-          ctx.fill();
-        }
-        ctx.beginPath();
-        ctx.fillStyle = "rgba(" + color + "," + alpha.toFixed(3) + ")";
-        ctx.arc(px, py, s.r, 0, 6.283);
-        ctx.fill();
+        const px = s.x + ox, py = s.y + oy, color = s.brass ? BRASS : WHITE;
+        if (s.r > 1) { ctx.beginPath(); ctx.fillStyle = "rgba(" + color + "," + (alpha * 0.18).toFixed(3) + ")"; ctx.arc(px, py, s.r * 2.6, 0, 6.283); ctx.fill(); }
+        ctx.beginPath(); ctx.fillStyle = "rgba(" + color + "," + alpha.toFixed(3) + ")"; ctx.arc(px, py, s.r, 0, 6.283); ctx.fill();
       }
-
-      // Shooting stars
-      if (dt && !reduce) {
-        shootTimer -= dt;
-        if (shootTimer <= 0) { spawnShooter(); shootTimer = 12 + Math.random() * 12; }
-      }
+      if (dt && !reduce) { shootTimer -= dt; if (shootTimer <= 0) { spawnShooter(); shootTimer = 12 + Math.random() * 12; } }
       for (let i = shooters.length - 1; i >= 0; i--) {
-        const sh = shooters[i];
-        sh.age += dt;
-        const p = sh.age / sh.ttl;
+        const sh = shooters[i]; sh.age += dt; const p = sh.age / sh.ttl;
         if (p >= 1) { shooters.splice(i, 1); continue; }
-        sh.x += Math.cos(sh.angle) * sh.speed * dt;
-        sh.y += Math.sin(sh.angle) * sh.speed * dt;
-        const fade = Math.sin(p * Math.PI);                 // ease in and out
-        const tailX = sh.x - Math.cos(sh.angle) * sh.len;
-        const tailY = sh.y - Math.sin(sh.angle) * sh.len;
+        sh.x += Math.cos(sh.angle) * sh.speed * dt; sh.y += Math.sin(sh.angle) * sh.speed * dt;
+        const fade = Math.sin(p * Math.PI) * ALPHA;
+        const tailX = sh.x - Math.cos(sh.angle) * sh.len, tailY = sh.y - Math.sin(sh.angle) * sh.len;
         const col = sh.brass ? BRASS : WHITE;
         const grad = ctx.createLinearGradient(sh.x, sh.y, tailX, tailY);
         grad.addColorStop(0, "rgba(" + col + "," + (0.9 * fade).toFixed(3) + ")");
         grad.addColorStop(1, "rgba(" + col + ",0)");
-        ctx.strokeStyle = grad;
-        ctx.lineWidth = 1.6;
-        ctx.lineCap = "round";
-        ctx.beginPath();
-        ctx.moveTo(sh.x, sh.y);
-        ctx.lineTo(tailX, tailY);
-        ctx.stroke();
-        ctx.beginPath();                                    // bright head
-        ctx.fillStyle = "rgba(" + col + "," + (0.95 * fade).toFixed(3) + ")";
-        ctx.arc(sh.x, sh.y, 1.5, 0, 6.283);
-        ctx.fill();
+        ctx.strokeStyle = grad; ctx.lineWidth = 1.6; ctx.lineCap = "round";
+        ctx.beginPath(); ctx.moveTo(sh.x, sh.y); ctx.lineTo(tailX, tailY); ctx.stroke();
+        ctx.beginPath(); ctx.fillStyle = "rgba(" + col + "," + (0.95 * fade).toFixed(3) + ")"; ctx.arc(sh.x, sh.y, 1.5, 0, 6.283); ctx.fill();
       }
     }
 
     let last = 0, raf = 0;
-    function loop(now) {
-      const t = now / 1000;
-      const dt = Math.min(0.05, last ? t - last : 0);
-      last = t;
-      draw(t, dt);
-      raf = requestAnimationFrame(loop);
-    }
-
+    function loop(now) { const t = now / 1000; const dt = Math.min(0.05, last ? t - last : 0); last = t; draw(t, dt); raf = requestAnimationFrame(loop); }
     function start() { if (!raf) raf = requestAnimationFrame(loop); }
     function stop() { cancelAnimationFrame(raf); raf = 0; last = 0; }
 
     addEventListener("resize", build, { passive: true });
     if (!reduce) {
-      addEventListener("pointermove", (e) => {
-        mouse.tx = (e.clientX / innerWidth - 0.5) * 2;
-        mouse.ty = (e.clientY / innerHeight - 0.5) * 2;
-      }, { passive: true });
-      document.addEventListener("visibilitychange", () =>
-        document.hidden ? stop() : start());
+      addEventListener("pointermove", (e) => { mouse.tx = (e.clientX / innerWidth - 0.5) * 2; mouse.ty = (e.clientY / innerHeight - 0.5) * 2; }, { passive: true });
+      document.addEventListener("visibilitychange", () => document.hidden ? stop() : start());
     }
-
     build();
-    if (reduce) draw(0, 0);   // one static frame
-    else start();
+    if (reduce) draw(0, 0); else start();
   })();
 
-  // Fallback so the page is beautiful even before/without the fetch.
+  // ---------- Data + rendering ----------
   const FALLBACK = {
     "date": "2026-07-23",
     "crypto": {
-      "bitcoin":  { "usd": 65616, "usd_24h_change": -0.46 },
-      "ethereum": { "usd": 1920.91, "usd_24h_change": 0.14 },
-      "solana":   { "usd": 77.4,  "usd_24h_change": 0.26 }
+      "bitcoin":  { "usd": 65584, "usd_24h_change": -0.52, "spark": [] },
+      "ethereum": { "usd": 1924.43, "usd_24h_change": 0.26, "spark": [] },
+      "solana":   { "usd": 77.37,  "usd_24h_change": 0.05, "spark": [] }
     },
     "quote": { "text": "You have the potential for greatness.", "author": "Steve Harvey" },
-    "nasa": {
-      "title": "The Large Magellanic Cloud",
-      "explanation": "One of the closest neighbors of our Milky Way, a dwarf irregular galaxy about 163,000 light-years away and a member of our Local Group.",
-      "url": "https://apod.nasa.gov/apod/image/2607/LMC_1024.jpg",
-      "media_type": "image"
-    },
-    "car_news": {
-      "headline": "Toyota's New Mid-Engine Sports Car Possibly Caught Testing On Video",
-      "url": "https://www.motor1.com/news/802471/toyota-celica-sports-car-caught-testing-fuji/",
-      "source": "motor1.com"
-    }
+    "nasa": { "title": "The Large Magellanic Cloud", "explanation": "One of the closest neighbors of our Milky Way, a dwarf irregular galaxy about 163,000 light-years away and a member of our Local Group.", "url": "https://apod.nasa.gov/apod/image/2607/LMC_1024.jpg", "media_type": "image" },
+    "car_news": { "headline": "Porsche's Cost-Cutting Drive To Claim Another 5,000 Jobs", "url": "https://www.motor1.com/news/802508/porsche-5000-layoffs-report/", "source": "motor1.com" },
+    "onthisday": { "year": 685, "text": "Election of pope John V following the death of pope Benedict II.", "title": "Pope John V", "url": "https://en.wikipedia.org/wiki/Pope_John_V" },
+    "github": { "login": "Deadsunx", "public_repos": 8, "followers": 0, "following": 0, "created_at": "2024-01-01T00:00:00Z", "html_url": "https://github.com/Deadsunx", "avatar_url": "" }
   };
 
   const COIN_TICKER = { bitcoin: "BTC", ethereum: "ETH", solana: "SOL" };
   const MONTHS = ["January","February","March","April","May","June","July","August","September","October","November","December"];
   const WEEKDAYS = ["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"];
+  const TOTAL_READINGS = 6;
 
-  let indexEntries = []; // oldest first: [{date, captured:[...]}]
+  let indexEntries = [];   // oldest first
+  let currentIndex = -1;   // pointer for prev/next
 
-  function dayOfYear(d) {
-    const start = Date.UTC(d.getUTCFullYear(), 0, 0);
-    return Math.floor((Date.UTC(d.getUTCFullYear(), d.getUTCMonth(), d.getUTCDate()) - start) / 86400000);
-  }
-  function pad(n){ return String(n).padStart(2, "0"); }
+  const $ = (id) => document.getElementById(id);
+  const pad = (n) => String(n).padStart(2, "0");
+  function dayOfYear(d) { const s = Date.UTC(d.getUTCFullYear(), 0, 0); return Math.floor((Date.UTC(d.getUTCFullYear(), d.getUTCMonth(), d.getUTCDate()) - s) / 86400000); }
+  function fmtPrice(v) { if (v == null) return "—"; return v >= 100 ? "$" + Math.round(v).toLocaleString("en-US") : "$" + v.toLocaleString("en-US", { minimumFractionDigits: 2, maximumFractionDigits: 2 }); }
+  function shortDate(d) { return WEEKDAYS[d.getUTCDay()].slice(0,3) + " " + d.getUTCDate() + " " + MONTHS[d.getUTCMonth()].slice(0,3) + " " + d.getUTCFullYear(); }
 
-  function fmtPrice(v) {
-    if (v == null) return "—";
-    return v >= 100 ? "$" + Math.round(v).toLocaleString("en-US")
-                    : "$" + v.toLocaleString("en-US", { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+  function sparkSVG(arr) {
+    if (!Array.isArray(arr) || arr.length < 2) return '<span class="mono" style="color:var(--bone-dim);font-size:0.7rem">accruing…</span>';
+    const W = 96, H = 26, p = 2, n = arr.length;
+    const min = Math.min(...arr), max = Math.max(...arr), rng = (max - min) || 1;
+    const pts = arr.map((v, i) => [p + (i / (n - 1)) * (W - 2*p), p + (1 - (v - min) / rng) * (H - 2*p)]);
+    const up = arr[n - 1] >= arr[0];
+    const line = pts.map((q, i) => (i ? "L" : "M") + q[0].toFixed(1) + " " + q[1].toFixed(1)).join(" ");
+    const area = line + " L " + pts[n-1][0].toFixed(1) + " " + (H-p) + " L " + pts[0][0].toFixed(1) + " " + (H-p) + " Z";
+    return '<svg class="spark ' + (up ? "up" : "down") + '" viewBox="0 0 ' + W + ' ' + H + '" preserveAspectRatio="none" aria-hidden="true">' +
+      '<path class="ar" d="' + area + '"/><path class="ln" d="' + line + '"/></svg>';
   }
 
   function setMeta(dateStr) {
-    const d = new Date(dateStr + "T00:00:00Z");
-    const doy = dayOfYear(d);
-    document.getElementById("meta-date").innerHTML =
-      "<b>" + WEEKDAYS[d.getUTCDay()] + ", " + d.getUTCDate() + " " + MONTHS[d.getUTCMonth()] + " " + d.getUTCFullYear() + "</b>";
-    document.getElementById("meta-doy").textContent = "Day " + doy + " of " + d.getUTCFullYear();
+    const d = new Date(dateStr + "T00:00:00Z"), doy = dayOfYear(d);
+    $("meta-date").innerHTML = "<b>" + WEEKDAYS[d.getUTCDay()] + ", " + d.getUTCDate() + " " + MONTHS[d.getUTCMonth()] + " " + d.getUTCFullYear() + "</b>";
+    $("meta-doy").textContent = "Day " + doy + " of " + d.getUTCFullYear();
     const idx = indexEntries.findIndex(e => e.date === dateStr);
     const entryNo = idx >= 0 ? idx + 1 : indexEntries.length || 1;
-    document.getElementById("meta-entry").textContent = "Entry Nº " + pad(entryNo);
-    // A playful faux right-ascension derived from the day, for instrument flavor.
-    const h = doy % 24, m = (doy * 7) % 60;
-    document.getElementById("meta-coord").textContent = "☉ " + pad(h) + "ʰ " + pad(m) + "ᵐ";
+    $("meta-entry").textContent = "Entry Nº " + pad(entryNo) + " of " + pad(indexEntries.length || 1);
+    const hh = doy % 24, mm = (doy * 7) % 60;
+    $("meta-coord").textContent = "☉ " + pad(hh) + "ʰ " + pad(mm) + "ᵐ";
+  }
+
+  function updateDaybar(dateStr) {
+    const idx = indexEntries.findIndex(e => e.date === dateStr);
+    currentIndex = idx;
+    const d = new Date(dateStr + "T00:00:00Z");
+    $("daybar-date").textContent = shortDate(d);
+    const cap = idx >= 0 ? (indexEntries[idx].captured || []).length : TOTAL_READINGS;
+    $("daybar-sub").textContent = "Nº " + pad(idx >= 0 ? idx + 1 : 1) + " · " + cap + "/" + TOTAL_READINGS + " readings captured";
+    $("prev-day").disabled = !(idx > 0);
+    $("next-day").disabled = !(idx >= 0 && idx < indexEntries.length - 1);
   }
 
   function render(data) {
     setMeta(data.date);
+    updateDaybar(data.date);
 
-    // Sky
     const sky = data.nasa || {};
-    const img = document.getElementById("sky-img");
-    if (sky.media_type === "image" && sky.url) {
-      img.src = sky.url; img.alt = sky.title || "NASA astronomy image of the day";
-      img.style.display = "";
-    } else { img.style.display = "none"; }
-    document.getElementById("sky-title").textContent = sky.title || "—";
-    document.getElementById("sky-text").textContent = sky.explanation || "";
-    const skyLink = document.getElementById("sky-link");
-    if (sky.url) { skyLink.href = sky.url; skyLink.style.display = ""; }
-    else { skyLink.style.display = "none"; }
+    const img = $("sky-img");
+    if (sky.media_type === "image" && sky.url) { img.src = sky.url; img.alt = sky.title || "NASA image of the day"; img.style.display = ""; }
+    else { img.style.display = "none"; }
+    $("sky-title").textContent = sky.title || "—";
+    $("sky-text").textContent = sky.explanation || "";
+    const skyLink = $("sky-link");
+    if (sky.url) { skyLink.href = sky.url; skyLink.style.display = ""; } else { skyLink.style.display = "none"; }
 
-    // Word
     const q = data.quote || {};
-    document.getElementById("quote").innerHTML =
-      '<span class="quote-mark">“</span>' + (q.text || "—");
-    document.getElementById("quote-author").textContent = q.author ? "— " + q.author : "";
+    $("quote").innerHTML = '<span class="quote-mark">“</span>' + (q.text || "—");
+    $("quote-author").textContent = q.author ? "— " + q.author : "";
 
-    // Market
-    const body = document.getElementById("market-body");
-    body.innerHTML = "";
+    const body = $("market-body"); body.innerHTML = "";
     const crypto = data.crypto || {};
     for (const coin of ["bitcoin", "ethereum", "solana"]) {
-      const v = crypto[coin];
-      if (!v) continue;
-      const chg = v.usd_24h_change ?? 0;
-      const up = chg >= 0;
+      const v = crypto[coin]; if (!v) continue;
+      const chg = v.usd_24h_change ?? 0, up = chg >= 0;
       const tr = document.createElement("tr");
       tr.innerHTML =
-        '<td><span class="coin">' + coin.charAt(0).toUpperCase() + coin.slice(1) +
-          '<small>' + (COIN_TICKER[coin] || "") + '</small></span></td>' +
+        '<td><span class="coin">' + coin.charAt(0).toUpperCase() + coin.slice(1) + '<small>' + (COIN_TICKER[coin] || "") + '</small></span></td>' +
+        '<td>' + sparkSVG(v.spark) + '</td>' +
         '<td class="num price">' + fmtPrice(v.usd) + '</td>' +
-        '<td class="num chg ' + (up ? "up" : "down") + '">' +
-          (up ? "▲ " : "▼ ") + Math.abs(chg).toFixed(2) + "%</td>";
+        '<td class="num chg ' + (up ? "up" : "down") + '">' + (up ? "▲ " : "▼ ") + Math.abs(chg).toFixed(2) + "%</td>";
       body.appendChild(tr);
     }
 
-    // Road
     const car = data.car_news || {};
-    const rh = document.getElementById("road-headline");
-    rh.textContent = car.headline || "—";
-    if (car.url) { rh.href = car.url; }
-    let src = car.source || "";
-    try { src = new URL(src).hostname.replace(/^www\./, ""); } catch (e) {}
-    document.getElementById("road-source").textContent = src ? "Source — " + src : "";
+    const rh = $("road-headline"); rh.textContent = car.headline || "—"; if (car.url) rh.href = car.url;
+    let src = car.source || ""; try { src = new URL(src).hostname.replace(/^www\./, ""); } catch (e) {}
+    $("road-source").textContent = src ? "Source — " + src : "";
+
+    const otd = data.onthisday || {};
+    $("otd-year").textContent = otd.year || "—";
+    $("otd-text").textContent = otd.text || "";
+    const otdLink = $("otd-link");
+    if (otd.url) { otdLink.href = otd.url; otdLink.textContent = (otd.title ? otd.title + " ↗" : "Read more ↗"); otdLink.style.display = ""; }
+    else { otdLink.style.display = "none"; }
+
+    const gh = data.github || {};
+    const av = $("gh-avatar");
+    if (gh.avatar_url) { av.src = gh.avatar_url; av.style.display = ""; } else { av.style.display = "none"; }
+    const nm = $("gh-name"); nm.textContent = "@" + (gh.login || "—"); if (gh.html_url) nm.href = gh.html_url;
+    $("gh-repos").textContent = gh.public_repos ?? "–";
+    $("gh-followers").textContent = gh.followers ?? "–";
+    $("gh-following").textContent = gh.following ?? "–";
+    $("gh-since").textContent = gh.created_at ? "Charting since " + new Date(gh.created_at).getUTCFullYear() : "";
   }
 
   function renderLedger() {
-    const list = document.getElementById("ledger-list");
-    list.innerHTML = "";
+    const list = $("ledger-list"); list.innerHTML = "";
+    const term = ($("ledger-search").value || "").trim().toLowerCase();
+    const incompleteOnly = $("ledger-incomplete").checked;
     const total = indexEntries.length;
-    document.getElementById("ledger-count").textContent =
-      total + (total === 1 ? " entry" : " entries") + " since first light";
-    // Newest first for display.
+    $("ledger-count").textContent = total + (total === 1 ? " entry" : " entries");
+
+    let shown = 0;
     for (let i = total - 1; i >= 0; i--) {
-      const e = indexEntries[i];
+      const e = indexEntries[i], cap = e.captured || [];
       const d = new Date(e.date + "T00:00:00Z");
+      const label = shortDate(d).toLowerCase();
+      if (term && !(e.date.includes(term) || label.includes(term))) continue;
+      if (incompleteOnly && cap.length >= TOTAL_READINGS) continue;
       const row = document.createElement("button");
-      row.className = "ledger-row";
+      row.className = "ledger-row" + (i === currentIndex ? " active" : "");
       row.setAttribute("role", "listitem");
-      const cap = e.captured || [];
-      const glyph = (key, sym) =>
-        '<span class="glyph ' + (cap.includes(key) ? "on" : "") + '" title="' + key + '">' + sym + '</span>';
-      row.innerHTML =
-        '<span class="no">Nº ' + pad(i + 1) + '</span>' +
-        '<span class="date">' + WEEKDAYS[d.getUTCDay()].slice(0,3) + " " +
-          d.getUTCDate() + " " + MONTHS[d.getUTCMonth()].slice(0,3) + " " + d.getUTCFullYear() + '</span>' +
-        '<span class="glyphs">' + glyph("nasa","✦") + glyph("crypto","$") +
-          glyph("quote","❝") + glyph("car_news","⌘") + '</span>';
-      row.addEventListener("click", () => loadDay(e.date, row));
-      list.appendChild(row);
+      const glyph = (k, sym) => '<span class="glyph ' + (cap.includes(k) ? "on" : "") + '" title="' + k + '">' + sym + '</span>';
+      row.innerHTML = '<span class="no">Nº ' + pad(i + 1) + '</span>' +
+        '<span class="date">' + shortDate(d) + '</span>' +
+        '<span class="glyphs">' + glyph("nasa","✦") + glyph("quote","❝") + glyph("crypto","$") + glyph("car_news","⌘") + glyph("onthisday","📜") + glyph("github","🐙") + '</span>';
+      row.addEventListener("click", () => loadDay(e.date));
+      list.appendChild(row); shown++;
+    }
+    if (!shown) { const p = document.createElement("div"); p.className = "ledger-empty"; p.textContent = "No days match that filter."; list.appendChild(p); }
+  }
+
+  function renderCalendar() {
+    const cal = $("cal"); cal.innerHTML = "";
+    if (!indexEntries.length) return;
+    const byDate = new Map(indexEntries.map(e => [e.date, (e.captured || []).length]));
+    const first = new Date(indexEntries[0].date + "T00:00:00Z");
+    const today = new Date(); const end = new Date(Date.UTC(today.getUTCFullYear(), today.getUTCMonth(), today.getUTCDate()));
+    const last = end > first ? end : first;
+    const gridStart = new Date(first); gridStart.setUTCDate(gridStart.getUTCDate() - gridStart.getUTCDay()); // back to Sunday
+    const level = (c) => c === 0 ? 0 : c <= 2 ? 1 : c <= 4 ? 2 : c <= 5 ? 3 : 4;
+    for (let d = new Date(gridStart); d <= last; d.setUTCDate(d.getUTCDate() + 1)) {
+      const iso = d.toISOString().slice(0, 10);
+      const cell = document.createElement("div");
+      if (d < first) { cell.className = "cal-cell empty"; }
+      else if (byDate.has(iso)) {
+        const c = byDate.get(iso);
+        cell.className = "cal-cell filled lvl" + level(c) + (iso === (indexEntries[currentIndex]||{}).date ? " active" : "");
+        cell.title = iso + " — " + c + "/" + TOTAL_READINGS + " captured";
+        cell.addEventListener("click", () => loadDay(iso));
+      } else { cell.className = "cal-cell"; cell.title = iso + " — no entry"; }
+      cal.appendChild(cell);
     }
   }
 
-  async function loadDay(dateStr, rowEl) {
-    document.querySelectorAll(".ledger-row.active").forEach(r => r.classList.remove("active"));
-    if (rowEl) rowEl.classList.add("active");
+  async function loadDay(dateStr) {
     try {
       const res = await fetch("archive/" + dateStr + ".json", { cache: "no-store" });
-      if (res.ok) render(await res.json());
-    } catch (e) { /* keep current view */ }
+      if (res.ok) { render(await res.json()); renderLedger(); renderCalendar(); return; }
+    } catch (e) {}
+  }
+
+  function step(delta) {
+    if (currentIndex < 0) return;
+    const ni = currentIndex + delta;
+    if (ni < 0 || ni >= indexEntries.length) return;
+    loadDay(indexEntries[ni].date);
   }
 
   function drawTicks() {
-    const holder = document.querySelector(".dial g");
-    if (!holder) return;
+    const holder = document.querySelector(".dial g"); if (!holder) return;
     let ticks = "";
     for (let a = 0; a < 360; a += 15) {
-      const rad = (a - 90) * Math.PI / 180;
-      const r1 = 98, r2 = a % 90 === 0 ? 86 : 92;
-      ticks += `<line x1="${100 + r1 * Math.cos(rad)}" y1="${100 + r1 * Math.sin(rad)}" x2="${100 + r2 * Math.cos(rad)}" y2="${100 + r2 * Math.sin(rad)}" />`;
+      const rad = (a - 90) * Math.PI / 180, r1 = 98, r2 = a % 90 === 0 ? 86 : 92;
+      ticks += '<line x1="' + (100 + r1 * Math.cos(rad)) + '" y1="' + (100 + r1 * Math.sin(rad)) + '" x2="' + (100 + r2 * Math.cos(rad)) + '" y2="' + (100 + r2 * Math.sin(rad)) + '" />';
     }
     holder.innerHTML = ticks;
   }
 
+  // Theme toggle
+  (function themeSetup() {
+    const btn = $("theme-toggle"), label = $("theme-label");
+    function apply(theme) {
+      document.documentElement.dataset.theme = theme;
+      label.textContent = theme === "light" ? "Night sky" : "Daylight";
+      if (window.__starRefresh) window.__starRefresh();
+    }
+    apply(document.documentElement.dataset.theme === "light" ? "light" : "dark");
+    btn.addEventListener("click", () => {
+      const next = document.documentElement.dataset.theme === "light" ? "dark" : "light";
+      try { localStorage.setItem("eph-theme", next); } catch (e) {}
+      apply(next);
+    });
+  })();
+
   async function boot() {
     drawTicks();
-    // Load the ledger index first so entry numbers are correct.
-    try {
-      const res = await fetch("archive/index.json", { cache: "no-store" });
-      if (res.ok) indexEntries = await res.json();
-    } catch (e) {}
-    if (!indexEntries.length) indexEntries = [{ date: FALLBACK.date, captured: ["nasa","crypto","quote","car_news"] }];
-    renderLedger();
+    $("prev-day").addEventListener("click", () => step(-1));
+    $("next-day").addEventListener("click", () => step(1));
+    $("ledger-search").addEventListener("input", renderLedger);
+    $("ledger-incomplete").addEventListener("change", renderLedger);
+    addEventListener("keydown", (e) => {
+      if (e.target && /INPUT|TEXTAREA/.test(e.target.tagName)) return;
+      if (e.key === "ArrowLeft") step(-1); else if (e.key === "ArrowRight") step(1);
+    });
 
-    // Load latest snapshot.
-    try {
-      const res = await fetch("archive/latest.json", { cache: "no-store" });
-      if (res.ok) { render(await res.json()); return; }
-    } catch (e) {}
+    try { const res = await fetch("archive/index.json", { cache: "no-store" }); if (res.ok) indexEntries = await res.json(); } catch (e) {}
+    if (!indexEntries.length) indexEntries = [{ date: FALLBACK.date, captured: ["nasa","quote","crypto","car_news","onthisday","github"] }];
+    renderCalendar(); renderLedger();
+
+    try { const res = await fetch("archive/latest.json", { cache: "no-store" }); if (res.ok) { render(await res.json()); renderLedger(); renderCalendar(); return; } } catch (e) {}
     render(FALLBACK);
   }
-
   boot();
 </script>
 </body>
