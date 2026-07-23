@@ -143,6 +143,37 @@ def write_archive(snapshot: dict) -> None:
     path.write_text(json.dumps(snapshot, indent=2), encoding="utf-8")
     print(f"wrote {path}")
 
+    # latest.json: what the web page loads first.
+    (ARCHIVE / "latest.json").write_text(
+        json.dumps(snapshot, indent=2), encoding="utf-8"
+    )
+
+
+def write_index() -> None:
+    """Rebuild archive/index.json: one entry per archived day, oldest first.
+
+    Each entry records the date and which readings succeeded that day, so the
+    web page's ledger can show at a glance what was captured.
+    """
+    entries = []
+    for path in sorted(ARCHIVE.glob("*.json")):
+        if path.stem in ("latest", "index"):
+            continue
+        try:
+            day = json.loads(path.read_text(encoding="utf-8"))
+        except Exception:
+            continue
+        ok = [
+            name
+            for name in ("crypto", "quote", "nasa", "car_news")
+            if isinstance(day.get(name), dict) and "error" not in day[name]
+        ]
+        entries.append({"date": day.get("date", path.stem), "captured": ok})
+    (ARCHIVE / "index.json").write_text(
+        json.dumps(entries, indent=2), encoding="utf-8"
+    )
+    print(f"wrote index with {len(entries)} entries")
+
 
 def append_crypto_csv(snapshot: dict) -> None:
     crypto = snapshot.get("crypto")
@@ -214,6 +245,7 @@ def update_readme(snapshot: dict) -> None:
 def main() -> None:
     snapshot = collect()
     write_archive(snapshot)
+    write_index()
     append_crypto_csv(snapshot)
     update_readme(snapshot)
     print("done")

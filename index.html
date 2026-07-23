@@ -1,0 +1,687 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Ephemeris — a daily record of sky, market, word & road</title>
+<meta name="description" content="An autonomous daily archive. Every day it logs four readings: the Sky (NASA), the Market (crypto), the Word (a quote), and the Road (car news)." />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;1,9..144,400;1,9..144,500&family=Spectral:ital,wght@0,400;0,500;1,400&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet" />
+<style>
+  :root {
+    --ink: #090E24;
+    --ink-2: #0C1330;
+    --panel: #10173A;
+    --line: rgba(198, 160, 82, 0.22);
+    --line-soft: rgba(236, 228, 208, 0.10);
+    --bone: #ECE4D0;
+    --bone-dim: #A8A290;
+    --brass: #C6A052;
+    --brass-bright: #E7CB86;
+    --patina: #6DBBB2;
+    --coral: #DE8168;
+    --star: #F5F2E9;
+    --shadow: 0 30px 80px -40px rgba(0,0,0,0.9);
+  }
+
+  * { box-sizing: border-box; }
+
+  html { scroll-behavior: smooth; }
+
+  body {
+    margin: 0;
+    background: var(--ink);
+    color: var(--bone);
+    font-family: "Spectral", Georgia, serif;
+    font-size: 18px;
+    line-height: 1.62;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    overflow-x: hidden;
+  }
+
+  /* Ambient starfield — quiet, generated, never depends on a network image. */
+  .sky-bg {
+    position: fixed;
+    inset: 0;
+    z-index: -1;
+    background:
+      radial-gradient(1.2px 1.2px at 12% 18%, rgba(245,242,233,0.9), transparent),
+      radial-gradient(1px 1px at 27% 62%, rgba(245,242,233,0.55), transparent),
+      radial-gradient(1.4px 1.4px at 43% 28%, rgba(245,242,233,0.8), transparent),
+      radial-gradient(1px 1px at 58% 75%, rgba(245,242,233,0.5), transparent),
+      radial-gradient(1.6px 1.6px at 71% 15%, rgba(231,203,134,0.7), transparent),
+      radial-gradient(1px 1px at 82% 52%, rgba(245,242,233,0.6), transparent),
+      radial-gradient(1.1px 1.1px at 91% 82%, rgba(245,242,233,0.55), transparent),
+      radial-gradient(1px 1px at 8% 88%, rgba(245,242,233,0.5), transparent),
+      radial-gradient(circle at 78% -10%, rgba(30,44,96,0.55), transparent 55%),
+      radial-gradient(circle at 10% 108%, rgba(20,30,70,0.6), transparent 50%),
+      linear-gradient(180deg, #070B1E 0%, #090E24 45%, #0A0F27 100%);
+  }
+
+  .wrap {
+    max-width: 1080px;
+    margin: 0 auto;
+    padding: clamp(1.4rem, 4vw, 3rem);
+  }
+
+  /* ---------- shared type ---------- */
+  .eyebrow {
+    font-family: "Space Mono", monospace;
+    font-size: 0.72rem;
+    letter-spacing: 0.34em;
+    text-transform: uppercase;
+    color: var(--brass);
+  }
+  .mono { font-family: "Space Mono", monospace; }
+  a { color: inherit; }
+
+  /* ---------- masthead / signature dial ---------- */
+  .masthead {
+    position: relative;
+    padding: clamp(2.5rem, 7vw, 5.5rem) 0 clamp(2rem, 5vw, 3.5rem);
+    border-bottom: 1px solid var(--line);
+  }
+  .dial {
+    position: absolute;
+    top: clamp(-1rem, 2vw, 1rem);
+    right: clamp(-4rem, -2vw, 0rem);
+    width: clamp(220px, 34vw, 380px);
+    height: clamp(220px, 34vw, 380px);
+    opacity: 0.5;
+    pointer-events: none;
+  }
+  .dial circle, .dial line { fill: none; stroke: var(--brass); }
+
+  .masthead-eyebrow {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin-bottom: clamp(1.4rem, 4vw, 2.4rem);
+  }
+  .masthead-eyebrow::after {
+    content: "";
+    height: 1px;
+    flex: 1;
+    background: linear-gradient(90deg, var(--line), transparent);
+  }
+
+  h1.title {
+    font-family: "Fraunces", serif;
+    font-weight: 400;
+    font-optical-sizing: auto;
+    font-size: clamp(2.6rem, 8.5vw, 5.7rem);
+    line-height: 0.98;
+    letter-spacing: -0.015em;
+    margin: 0;
+    color: var(--star);
+    max-width: 15ch;
+  }
+  h1.title em {
+    font-style: italic;
+    color: var(--brass-bright);
+  }
+
+  .meta {
+    margin-top: clamp(1.6rem, 4vw, 2.4rem);
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.6rem 1.4rem;
+    font-family: "Space Mono", monospace;
+    font-size: 0.82rem;
+    letter-spacing: 0.06em;
+    color: var(--bone-dim);
+  }
+  .meta b { color: var(--bone); font-weight: 700; }
+  .meta .sep { color: var(--brass); }
+
+  /* ---------- readings grid ---------- */
+  .readings {
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    gap: clamp(1rem, 2.4vw, 1.6rem);
+    padding: clamp(2rem, 5vw, 3.5rem) 0;
+  }
+  .reading {
+    background: linear-gradient(180deg, var(--panel), var(--ink-2));
+    border: 1px solid var(--line-soft);
+    border-radius: 3px;
+    padding: clamp(1.3rem, 2.6vw, 2rem);
+    box-shadow: var(--shadow);
+    position: relative;
+    min-width: 0;
+  }
+  .reading::before {
+    content: "";
+    position: absolute;
+    top: 0; left: 0;
+    width: 34px; height: 1px;
+    background: var(--brass);
+  }
+  .r-sky   { grid-column: span 7; }
+  .r-word  { grid-column: span 5; display: flex; flex-direction: column; }
+  .r-market{ grid-column: span 5; }
+  .r-road  { grid-column: span 7; display: flex; flex-direction: column; }
+
+  .r-head {
+    display: flex;
+    align-items: baseline;
+    gap: 0.8rem;
+    margin-bottom: 1.2rem;
+  }
+  .r-num {
+    font-family: "Space Mono", monospace;
+    font-size: 0.72rem;
+    color: var(--brass);
+    letter-spacing: 0.1em;
+  }
+  .r-label {
+    font-family: "Space Mono", monospace;
+    font-size: 0.72rem;
+    letter-spacing: 0.28em;
+    text-transform: uppercase;
+    color: var(--bone-dim);
+  }
+
+  /* Sky */
+  .plate {
+    display: block;
+    width: 100%;
+    aspect-ratio: 16 / 10;
+    object-fit: cover;
+    border: 1px solid var(--line);
+    filter: saturate(1.05) contrast(1.03);
+    background: #05070f;
+  }
+  .plate-wrap { position: relative; }
+  .plate-caption {
+    font-family: "Fraunces", serif;
+    font-size: clamp(1.3rem, 2.6vw, 1.7rem);
+    line-height: 1.15;
+    margin: 1rem 0 0.5rem;
+    color: var(--star);
+  }
+  .plate-text {
+    font-size: 0.93rem;
+    color: var(--bone-dim);
+    display: -webkit-box;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .plate-link {
+    display: inline-block;
+    margin-top: 0.9rem;
+    font-family: "Space Mono", monospace;
+    font-size: 0.74rem;
+    letter-spacing: 0.12em;
+    color: var(--brass-bright);
+    text-decoration: none;
+    border-bottom: 1px solid var(--line);
+    padding-bottom: 2px;
+  }
+  .plate-link:hover { border-color: var(--brass-bright); }
+
+  /* Word */
+  .quote {
+    font-family: "Fraunces", serif;
+    font-style: italic;
+    font-weight: 400;
+    font-size: clamp(1.5rem, 3.4vw, 2.15rem);
+    line-height: 1.24;
+    color: var(--bone);
+    margin: auto 0;
+    text-wrap: balance;
+  }
+  .quote-mark {
+    font-size: 2.4em;
+    line-height: 0;
+    color: var(--brass);
+    vertical-align: -0.32em;
+    margin-right: 0.06em;
+  }
+  .quote-author {
+    margin-top: 1.4rem;
+    font-family: "Space Mono", monospace;
+    font-size: 0.78rem;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--brass);
+  }
+
+  /* Market — the ephemeris table */
+  table.market { width: 100%; border-collapse: collapse; }
+  table.market th {
+    text-align: left;
+    font-family: "Space Mono", monospace;
+    font-weight: 400;
+    font-size: 0.66rem;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: var(--bone-dim);
+    padding-bottom: 0.7rem;
+    border-bottom: 1px solid var(--line);
+  }
+  table.market th.num, table.market td.num { text-align: right; }
+  table.market td {
+    padding: 0.85rem 0;
+    border-bottom: 1px solid var(--line-soft);
+  }
+  .coin {
+    font-family: "Fraunces", serif;
+    font-size: 1.12rem;
+    color: var(--star);
+  }
+  .coin small {
+    display: block;
+    font-family: "Space Mono", monospace;
+    font-size: 0.62rem;
+    letter-spacing: 0.16em;
+    color: var(--bone-dim);
+    text-transform: uppercase;
+  }
+  .price {
+    font-family: "Space Mono", monospace;
+    font-size: 1.05rem;
+    color: var(--bone);
+    font-variant-numeric: tabular-nums;
+  }
+  .chg {
+    font-family: "Space Mono", monospace;
+    font-size: 0.9rem;
+    font-variant-numeric: tabular-nums;
+    white-space: nowrap;
+  }
+  .chg.up   { color: var(--patina); }
+  .chg.down { color: var(--coral); }
+
+  /* Road */
+  .road-kicker {
+    font-family: "Space Mono", monospace;
+    font-size: 0.7rem;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--brass);
+    margin-bottom: 0.6rem;
+  }
+  .road-headline {
+    font-family: "Fraunces", serif;
+    font-weight: 500;
+    font-size: clamp(1.5rem, 3.2vw, 2.1rem);
+    line-height: 1.14;
+    color: var(--star);
+    text-decoration: none;
+    margin: auto 0 0;
+    display: block;
+    text-wrap: balance;
+  }
+  .road-headline:hover { color: var(--brass-bright); }
+  .road-source {
+    margin-top: 1.1rem;
+    font-family: "Space Mono", monospace;
+    font-size: 0.7rem;
+    letter-spacing: 0.1em;
+    color: var(--bone-dim);
+    word-break: break-all;
+  }
+
+  /* ---------- ledger ---------- */
+  .ledger {
+    padding: clamp(2rem, 5vw, 3rem) 0 1rem;
+    border-top: 1px solid var(--line);
+  }
+  .ledger-head {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 1rem;
+    flex-wrap: wrap;
+    margin-bottom: 1.6rem;
+  }
+  .ledger-head h2 {
+    font-family: "Fraunces", serif;
+    font-weight: 400;
+    font-size: clamp(1.6rem, 4vw, 2.4rem);
+    margin: 0;
+    color: var(--star);
+  }
+  .ledger-list { display: flex; flex-direction: column; }
+  .ledger-row {
+    display: grid;
+    grid-template-columns: 5rem 1fr auto;
+    align-items: center;
+    gap: 1rem;
+    width: 100%;
+    background: none;
+    border: none;
+    border-bottom: 1px solid var(--line-soft);
+    padding: 0.95rem 0.4rem;
+    color: var(--bone);
+    cursor: pointer;
+    text-align: left;
+    font: inherit;
+    transition: background 0.18s ease, padding-left 0.18s ease;
+  }
+  .ledger-row:hover, .ledger-row:focus-visible {
+    background: rgba(198,160,82,0.06);
+    padding-left: 0.9rem;
+    outline: none;
+  }
+  .ledger-row.active { background: rgba(198,160,82,0.10); }
+  .ledger-row .no {
+    font-family: "Space Mono", monospace;
+    font-size: 0.78rem;
+    color: var(--brass);
+  }
+  .ledger-row .date {
+    font-family: "Fraunces", serif;
+    font-size: 1.1rem;
+    color: var(--star);
+  }
+  .glyphs { display: flex; gap: 0.5rem; font-family: "Space Mono", monospace; font-size: 0.72rem; }
+  .glyph { color: var(--bone-dim); letter-spacing: 0.05em; }
+  .glyph.on { color: var(--patina); }
+
+  /* ---------- footer ---------- */
+  footer {
+    padding: 2.5rem 0 3.5rem;
+    border-top: 1px solid var(--line);
+    font-family: "Space Mono", monospace;
+    font-size: 0.74rem;
+    letter-spacing: 0.06em;
+    color: var(--bone-dim);
+    line-height: 1.9;
+  }
+  footer a { color: var(--brass); text-decoration: none; border-bottom: 1px solid var(--line); }
+  footer a:hover { color: var(--brass-bright); }
+
+  :focus-visible { outline: 2px solid var(--brass-bright); outline-offset: 3px; }
+
+  /* Entrance motion */
+  .rise { opacity: 0; transform: translateY(14px); animation: rise 0.9s cubic-bezier(0.2,0.7,0.2,1) forwards; }
+  .rise.d1 { animation-delay: 0.08s; }
+  .rise.d2 { animation-delay: 0.16s; }
+  .rise.d3 { animation-delay: 0.24s; }
+  @keyframes rise { to { opacity: 1; transform: none; } }
+
+  @media (max-width: 780px) {
+    body { font-size: 17px; }
+    .readings { grid-template-columns: 1fr; }
+    .r-sky, .r-word, .r-market, .r-road { grid-column: 1 / -1; }
+    .dial { opacity: 0.28; }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    html { scroll-behavior: auto; }
+    .rise { animation: none; opacity: 1; transform: none; }
+  }
+</style>
+</head>
+<body>
+<div class="sky-bg" aria-hidden="true"></div>
+
+<div class="wrap">
+
+  <header class="masthead">
+    <svg class="dial" viewBox="0 0 200 200" aria-hidden="true">
+      <circle cx="100" cy="100" r="98" stroke-width="0.6" />
+      <circle cx="100" cy="100" r="78" stroke-width="0.6" />
+      <circle cx="100" cy="100" r="52" stroke-width="0.6" opacity="0.6" />
+      <g stroke-width="0.8">
+        <script type="application/json" id="ticks"></script>
+      </g>
+      <line x1="100" y1="2" x2="100" y2="14" stroke-width="1" />
+      <line x1="100" y1="186" x2="100" y2="198" stroke-width="1" />
+      <line x1="2" y1="100" x2="14" y2="100" stroke-width="1" />
+      <line x1="186" y1="100" x2="198" y2="100" stroke-width="1" />
+    </svg>
+
+    <div class="masthead-eyebrow">
+      <span class="eyebrow">Ephemeris — an autonomous daily record</span>
+    </div>
+
+    <h1 class="title rise">The Sky, the Market,<br />the Word <em>&amp;</em> the Road.</h1>
+
+    <div class="meta rise d1" id="meta">
+      <span id="meta-date"><b>—</b></span>
+      <span class="sep">·</span>
+      <span id="meta-doy">Day —</span>
+      <span class="sep">·</span>
+      <span id="meta-entry">Entry Nº —</span>
+      <span class="sep">·</span>
+      <span id="meta-coord">☉ 00ʰ 00ᵐ</span>
+    </div>
+  </header>
+
+  <main class="readings" id="readings">
+    <!-- I · THE SKY -->
+    <section class="reading r-sky rise d1" aria-labelledby="sky-h">
+      <div class="r-head"><span class="r-num">I</span><span class="r-label" id="sky-h">The Sky</span></div>
+      <div class="plate-wrap">
+        <img class="plate" id="sky-img" alt="" />
+      </div>
+      <h3 class="plate-caption" id="sky-title">—</h3>
+      <p class="plate-text" id="sky-text"></p>
+      <a class="plate-link" id="sky-link" href="#" target="_blank" rel="noopener">View the plate ↗</a>
+    </section>
+
+    <!-- II · THE WORD -->
+    <section class="reading r-word rise d2" aria-labelledby="word-h">
+      <div class="r-head"><span class="r-num">II</span><span class="r-label" id="word-h">The Word</span></div>
+      <blockquote class="quote" id="quote"><span class="quote-mark">“</span>—</blockquote>
+      <div class="quote-author" id="quote-author"></div>
+    </section>
+
+    <!-- III · THE MARKET -->
+    <section class="reading r-market rise d2" aria-labelledby="mkt-h">
+      <div class="r-head"><span class="r-num">III</span><span class="r-label" id="mkt-h">The Market</span></div>
+      <table class="market">
+        <thead>
+          <tr><th>Body</th><th class="num">Reading (USD)</th><th class="num">24ʰ</th></tr>
+        </thead>
+        <tbody id="market-body"></tbody>
+      </table>
+    </section>
+
+    <!-- IV · THE ROAD -->
+    <section class="reading r-road rise d3" aria-labelledby="road-h">
+      <div class="r-head"><span class="r-num">IV</span><span class="r-label" id="road-h">The Road</span></div>
+      <div class="road-kicker">Dispatch</div>
+      <a class="road-headline" id="road-headline" href="#" target="_blank" rel="noopener">—</a>
+      <div class="road-source" id="road-source"></div>
+    </section>
+  </main>
+
+  <section class="ledger">
+    <div class="ledger-head">
+      <h2>The Ledger</h2>
+      <span class="eyebrow" id="ledger-count">— entries since first light</span>
+    </div>
+    <div class="ledger-list" id="ledger-list" role="list"></div>
+  </section>
+
+  <footer>
+    Compiled autonomously at 06:00 UTC by a scheduled process — no hand on the wheel.<br />
+    Sources: CoinGecko · ZenQuotes · NASA APOD · Motor1 &nbsp;·&nbsp;
+    <a id="repo-link" href="https://github.com/Deadsunx/un-peu-trop-secret" target="_blank" rel="noopener">View the source on GitHub ↗</a>
+  </footer>
+
+</div>
+
+<script>
+  // Fallback so the page is beautiful even before/without the fetch.
+  const FALLBACK = {
+    "date": "2026-07-23",
+    "crypto": {
+      "bitcoin":  { "usd": 65616, "usd_24h_change": -0.46 },
+      "ethereum": { "usd": 1920.91, "usd_24h_change": 0.14 },
+      "solana":   { "usd": 77.4,  "usd_24h_change": 0.26 }
+    },
+    "quote": { "text": "You have the potential for greatness.", "author": "Steve Harvey" },
+    "nasa": {
+      "title": "The Large Magellanic Cloud",
+      "explanation": "One of the closest neighbors of our Milky Way, a dwarf irregular galaxy about 163,000 light-years away and a member of our Local Group.",
+      "url": "https://apod.nasa.gov/apod/image/2607/LMC_1024.jpg",
+      "media_type": "image"
+    },
+    "car_news": {
+      "headline": "Toyota's New Mid-Engine Sports Car Possibly Caught Testing On Video",
+      "url": "https://www.motor1.com/news/802471/toyota-celica-sports-car-caught-testing-fuji/",
+      "source": "motor1.com"
+    }
+  };
+
+  const COIN_TICKER = { bitcoin: "BTC", ethereum: "ETH", solana: "SOL" };
+  const MONTHS = ["January","February","March","April","May","June","July","August","September","October","November","December"];
+  const WEEKDAYS = ["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"];
+
+  let indexEntries = []; // oldest first: [{date, captured:[...]}]
+
+  function dayOfYear(d) {
+    const start = Date.UTC(d.getUTCFullYear(), 0, 0);
+    return Math.floor((Date.UTC(d.getUTCFullYear(), d.getUTCMonth(), d.getUTCDate()) - start) / 86400000);
+  }
+  function pad(n){ return String(n).padStart(2, "0"); }
+
+  function fmtPrice(v) {
+    if (v == null) return "—";
+    return v >= 100 ? "$" + Math.round(v).toLocaleString("en-US")
+                    : "$" + v.toLocaleString("en-US", { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+  }
+
+  function setMeta(dateStr) {
+    const d = new Date(dateStr + "T00:00:00Z");
+    const doy = dayOfYear(d);
+    document.getElementById("meta-date").innerHTML =
+      "<b>" + WEEKDAYS[d.getUTCDay()] + ", " + d.getUTCDate() + " " + MONTHS[d.getUTCMonth()] + " " + d.getUTCFullYear() + "</b>";
+    document.getElementById("meta-doy").textContent = "Day " + doy + " of " + d.getUTCFullYear();
+    const idx = indexEntries.findIndex(e => e.date === dateStr);
+    const entryNo = idx >= 0 ? idx + 1 : indexEntries.length || 1;
+    document.getElementById("meta-entry").textContent = "Entry Nº " + pad(entryNo);
+    // A playful faux right-ascension derived from the day, for instrument flavor.
+    const h = doy % 24, m = (doy * 7) % 60;
+    document.getElementById("meta-coord").textContent = "☉ " + pad(h) + "ʰ " + pad(m) + "ᵐ";
+  }
+
+  function render(data) {
+    setMeta(data.date);
+
+    // Sky
+    const sky = data.nasa || {};
+    const img = document.getElementById("sky-img");
+    if (sky.media_type === "image" && sky.url) {
+      img.src = sky.url; img.alt = sky.title || "NASA astronomy image of the day";
+      img.style.display = "";
+    } else { img.style.display = "none"; }
+    document.getElementById("sky-title").textContent = sky.title || "—";
+    document.getElementById("sky-text").textContent = sky.explanation || "";
+    const skyLink = document.getElementById("sky-link");
+    if (sky.url) { skyLink.href = sky.url; skyLink.style.display = ""; }
+    else { skyLink.style.display = "none"; }
+
+    // Word
+    const q = data.quote || {};
+    document.getElementById("quote").innerHTML =
+      '<span class="quote-mark">“</span>' + (q.text || "—");
+    document.getElementById("quote-author").textContent = q.author ? "— " + q.author : "";
+
+    // Market
+    const body = document.getElementById("market-body");
+    body.innerHTML = "";
+    const crypto = data.crypto || {};
+    for (const coin of ["bitcoin", "ethereum", "solana"]) {
+      const v = crypto[coin];
+      if (!v) continue;
+      const chg = v.usd_24h_change ?? 0;
+      const up = chg >= 0;
+      const tr = document.createElement("tr");
+      tr.innerHTML =
+        '<td><span class="coin">' + coin.charAt(0).toUpperCase() + coin.slice(1) +
+          '<small>' + (COIN_TICKER[coin] || "") + '</small></span></td>' +
+        '<td class="num price">' + fmtPrice(v.usd) + '</td>' +
+        '<td class="num chg ' + (up ? "up" : "down") + '">' +
+          (up ? "▲ " : "▼ ") + Math.abs(chg).toFixed(2) + "%</td>";
+      body.appendChild(tr);
+    }
+
+    // Road
+    const car = data.car_news || {};
+    const rh = document.getElementById("road-headline");
+    rh.textContent = car.headline || "—";
+    if (car.url) { rh.href = car.url; }
+    let src = car.source || "";
+    try { src = new URL(src).hostname.replace(/^www\./, ""); } catch (e) {}
+    document.getElementById("road-source").textContent = src ? "Source — " + src : "";
+  }
+
+  function renderLedger() {
+    const list = document.getElementById("ledger-list");
+    list.innerHTML = "";
+    const total = indexEntries.length;
+    document.getElementById("ledger-count").textContent =
+      total + (total === 1 ? " entry" : " entries") + " since first light";
+    // Newest first for display.
+    for (let i = total - 1; i >= 0; i--) {
+      const e = indexEntries[i];
+      const d = new Date(e.date + "T00:00:00Z");
+      const row = document.createElement("button");
+      row.className = "ledger-row";
+      row.setAttribute("role", "listitem");
+      const cap = e.captured || [];
+      const glyph = (key, sym) =>
+        '<span class="glyph ' + (cap.includes(key) ? "on" : "") + '" title="' + key + '">' + sym + '</span>';
+      row.innerHTML =
+        '<span class="no">Nº ' + pad(i + 1) + '</span>' +
+        '<span class="date">' + WEEKDAYS[d.getUTCDay()].slice(0,3) + " " +
+          d.getUTCDate() + " " + MONTHS[d.getUTCMonth()].slice(0,3) + " " + d.getUTCFullYear() + '</span>' +
+        '<span class="glyphs">' + glyph("nasa","✦") + glyph("crypto","$") +
+          glyph("quote","❝") + glyph("car_news","⌘") + '</span>';
+      row.addEventListener("click", () => loadDay(e.date, row));
+      list.appendChild(row);
+    }
+  }
+
+  async function loadDay(dateStr, rowEl) {
+    document.querySelectorAll(".ledger-row.active").forEach(r => r.classList.remove("active"));
+    if (rowEl) rowEl.classList.add("active");
+    try {
+      const res = await fetch("archive/" + dateStr + ".json", { cache: "no-store" });
+      if (res.ok) render(await res.json());
+    } catch (e) { /* keep current view */ }
+  }
+
+  function drawTicks() {
+    const holder = document.querySelector(".dial g");
+    if (!holder) return;
+    let ticks = "";
+    for (let a = 0; a < 360; a += 15) {
+      const rad = (a - 90) * Math.PI / 180;
+      const r1 = 98, r2 = a % 90 === 0 ? 86 : 92;
+      ticks += `<line x1="${100 + r1 * Math.cos(rad)}" y1="${100 + r1 * Math.sin(rad)}" x2="${100 + r2 * Math.cos(rad)}" y2="${100 + r2 * Math.sin(rad)}" />`;
+    }
+    holder.innerHTML = ticks;
+  }
+
+  async function boot() {
+    drawTicks();
+    // Load the ledger index first so entry numbers are correct.
+    try {
+      const res = await fetch("archive/index.json", { cache: "no-store" });
+      if (res.ok) indexEntries = await res.json();
+    } catch (e) {}
+    if (!indexEntries.length) indexEntries = [{ date: FALLBACK.date, captured: ["nasa","crypto","quote","car_news"] }];
+    renderLedger();
+
+    // Load latest snapshot.
+    try {
+      const res = await fetch("archive/latest.json", { cache: "no-store" });
+      if (res.ok) { render(await res.json()); return; }
+    } catch (e) {}
+    render(FALLBACK);
+  }
+
+  boot();
+</script>
+</body>
+</html>
