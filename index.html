@@ -169,17 +169,19 @@
   .quote-author { margin-top: 1.4rem; font-family: "Space Mono", monospace; font-size: 0.78rem; letter-spacing: 0.14em; text-transform: uppercase; color: var(--brass); }
 
   /* Market */
-  .market-wrap { overflow-x: auto; }
-  table.market { width: 100%; border-collapse: collapse; }
-  table.market th { text-align: left; font-family: "Space Mono", monospace; font-weight: 400; font-size: 0.62rem; letter-spacing: 0.14em; text-transform: uppercase; color: var(--bone-dim); padding-bottom: 0.7rem; border-bottom: 1px solid var(--line); white-space: nowrap; }
+  table.market { width: 100%; border-collapse: collapse; table-layout: fixed; }
+  table.market th { text-align: left; font-family: "Space Mono", monospace; font-weight: 400; font-size: 0.6rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--bone-dim); padding-bottom: 0.7rem; border-bottom: 1px solid var(--line); white-space: nowrap; }
   table.market th.num, table.market td.num { text-align: right; }
-  table.market td { padding: 0.8rem 0.5rem 0.8rem 0; border-bottom: 1px solid var(--line-soft); }
-  .coin { font-family: "Fraunces", serif; font-size: 1.1rem; color: var(--star); }
-  .coin small { display: block; font-family: "Space Mono", monospace; font-size: 0.6rem; letter-spacing: 0.16em; color: var(--bone-dim); text-transform: uppercase; }
-  .price { font-family: "Space Mono", monospace; font-size: 1rem; color: var(--bone); font-variant-numeric: tabular-nums; }
-  .chg { font-family: "Space Mono", monospace; font-size: 0.86rem; font-variant-numeric: tabular-nums; white-space: nowrap; }
+  table.market td { padding: 0.8rem 0 0.8rem 0; border-bottom: 1px solid var(--line-soft); vertical-align: middle; }
+  table.market col.c-body { width: 34%; } table.market col.c-spark { width: 30%; } table.market col.c-usd { width: 36%; }
+  .coin { font-family: "Fraunces", serif; font-size: 1.08rem; color: var(--star); }
+  .coin small { display: block; font-family: "Space Mono", monospace; font-size: 0.58rem; letter-spacing: 0.16em; color: var(--bone-dim); text-transform: uppercase; }
+  .spark-cell { padding-right: 0.6rem !important; }
+  .usd { display: flex; flex-direction: column; align-items: flex-end; gap: 2px; }
+  .price { font-family: "Space Mono", monospace; font-size: 0.95rem; color: var(--bone); font-variant-numeric: tabular-nums; white-space: nowrap; }
+  .chg { font-family: "Space Mono", monospace; font-size: 0.78rem; font-variant-numeric: tabular-nums; white-space: nowrap; }
   .chg.up { color: var(--patina); } .chg.down { color: var(--coral); }
-  .spark { display: block; height: 26px; width: 96px; }
+  .spark { display: block; height: 26px; width: 100%; }
   .spark .ln { fill: none; stroke-width: 1.5; }
   .spark .ar { stroke: none; opacity: 0.13; }
   .spark.up .ln { stroke: var(--patina); } .spark.up .ar { fill: var(--patina); }
@@ -328,7 +330,8 @@
       <div class="r-head"><span class="r-num">III</span><span class="r-label" id="mkt-h">The Market</span></div>
       <div class="market-wrap">
         <table class="market">
-          <thead><tr><th>Body</th><th>30-day</th><th class="num">Reading (USD)</th><th class="num">24ʰ</th></tr></thead>
+          <colgroup><col class="c-body" /><col class="c-spark" /><col class="c-usd" /></colgroup>
+          <thead><tr><th>Body</th><th>30-day</th><th class="num">USD · 24ʰ</th></tr></thead>
           <tbody id="market-body"></tbody>
         </table>
       </div>
@@ -565,9 +568,9 @@
       const tr = document.createElement("tr");
       tr.innerHTML =
         '<td><span class="coin">' + coin.charAt(0).toUpperCase() + coin.slice(1) + '<small>' + (COIN_TICKER[coin] || "") + '</small></span></td>' +
-        '<td>' + sparkSVG(v.spark) + '</td>' +
-        '<td class="num price">' + fmtPrice(v.usd) + '</td>' +
-        '<td class="num chg ' + (up ? "up" : "down") + '">' + (up ? "▲ " : "▼ ") + Math.abs(chg).toFixed(2) + "%</td>";
+        '<td class="spark-cell">' + sparkSVG(v.spark) + '</td>' +
+        '<td class="num"><div class="usd"><span class="price">' + fmtPrice(v.usd) + '</span>' +
+          '<span class="chg ' + (up ? "up" : "down") + '">' + (up ? "▲ " : "▼ ") + Math.abs(chg).toFixed(2) + "%</span></div></td>";
       body.appendChild(tr);
     }
 
