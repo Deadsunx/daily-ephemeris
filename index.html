@@ -41,23 +41,23 @@
     overflow-x: hidden;
   }
 
-  /* Ambient starfield — quiet, generated, never depends on a network image. */
+  /* Deep-space base + nebula glow. Stars are drawn on the canvas above this. */
   .sky-bg {
     position: fixed;
     inset: 0;
-    z-index: -1;
+    z-index: -2;
     background:
-      radial-gradient(1.2px 1.2px at 12% 18%, rgba(245,242,233,0.9), transparent),
-      radial-gradient(1px 1px at 27% 62%, rgba(245,242,233,0.55), transparent),
-      radial-gradient(1.4px 1.4px at 43% 28%, rgba(245,242,233,0.8), transparent),
-      radial-gradient(1px 1px at 58% 75%, rgba(245,242,233,0.5), transparent),
-      radial-gradient(1.6px 1.6px at 71% 15%, rgba(231,203,134,0.7), transparent),
-      radial-gradient(1px 1px at 82% 52%, rgba(245,242,233,0.6), transparent),
-      radial-gradient(1.1px 1.1px at 91% 82%, rgba(245,242,233,0.55), transparent),
-      radial-gradient(1px 1px at 8% 88%, rgba(245,242,233,0.5), transparent),
       radial-gradient(circle at 78% -10%, rgba(30,44,96,0.55), transparent 55%),
       radial-gradient(circle at 10% 108%, rgba(20,30,70,0.6), transparent 50%),
       linear-gradient(180deg, #070B1E 0%, #090E24 45%, #0A0F27 100%);
+  }
+  /* Animated living starfield — drifts + twinkles, quiet parallax. */
+  #starfield {
+    position: fixed;
+    inset: 0;
+    z-index: -1;
+    display: block;
+    pointer-events: none;
   }
 
   .wrap {
@@ -420,6 +420,7 @@
 </head>
 <body>
 <div class="sky-bg" aria-hidden="true"></div>
+<canvas id="starfield" aria-hidden="true"></canvas>
 
 <div class="wrap">
 
@@ -510,6 +511,105 @@
 </div>
 
 <script>
+  // ---------- Living starfield ----------
+  (() => {
+    const canvas = document.getElementById("starfield");
+    if (!canvas) return;
+    const ctx = canvas.getContext("2d");
+    const reduce = matchMedia("(prefers-reduced-motion: reduce)").matches;
+
+    let w = 0, h = 0, dpr = 1, stars = [];
+    const WHITE = "245,242,233", BRASS = "231,203,134";
+    const PARALLAX = 16;            // max px shift from cursor
+    const mouse = { x: 0, y: 0, tx: 0, ty: 0 };
+
+    function build() {
+      w = innerWidth; h = innerHeight;
+      dpr = Math.min(2, devicePixelRatio || 1);
+      canvas.width = Math.floor(w * dpr);
+      canvas.height = Math.floor(h * dpr);
+      canvas.style.width = w + "px";
+      canvas.style.height = h + "px";
+      ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+
+      const count = Math.max(40, Math.min(240, Math.floor((w * h) / 7000)));
+      stars = [];
+      for (let i = 0; i < count; i++) {
+        stars.push({
+          x: Math.random() * w,
+          y: Math.random() * h,
+          r: Math.random() * 1.2 + 0.4,
+          base: Math.random() * 0.5 + 0.35,          // base opacity
+          tw: Math.random() * Math.PI * 2,            // twinkle phase
+          sp: Math.random() * 1.2 + 0.5,              // twinkle speed
+          vx: (Math.random() - 0.5) * 0.05,           // slow drift
+          vy: (Math.random() - 0.5) * 0.05,
+          depth: Math.random() * 0.7 + 0.3,           // parallax depth
+          brass: Math.random() < 0.22
+        });
+      }
+    }
+
+    function draw(t, dt) {
+      mouse.x += (mouse.tx - mouse.x) * 0.05;
+      mouse.y += (mouse.ty - mouse.y) * 0.05;
+      const scrollY = window.scrollY || 0;
+      ctx.clearRect(0, 0, w, h);
+
+      for (const s of stars) {
+        if (dt) {
+          s.x += s.vx * dt * 60;
+          s.y += s.vy * dt * 60;
+          if (s.x < -2) s.x = w + 2; else if (s.x > w + 2) s.x = -2;
+          if (s.y < -2) s.y = h + 2; else if (s.y > h + 2) s.y = -2;
+        }
+        const twinkle = reduce ? 1 : (0.55 + 0.45 * Math.sin(t * s.sp + s.tw));
+        const alpha = s.base * twinkle;
+        const ox = mouse.x * PARALLAX * s.depth;
+        const oy = mouse.y * PARALLAX * s.depth - scrollY * 0.03 * s.depth;
+        const px = s.x + ox, py = s.y + oy;
+        const color = s.brass ? BRASS : WHITE;
+
+        if (s.r > 1) { // faint glow for the brighter stars
+          ctx.beginPath();
+          ctx.fillStyle = "rgba(" + color + "," + (alpha * 0.18).toFixed(3) + ")";
+          ctx.arc(px, py, s.r * 2.6, 0, 6.283);
+          ctx.fill();
+        }
+        ctx.beginPath();
+        ctx.fillStyle = "rgba(" + color + "," + alpha.toFixed(3) + ")";
+        ctx.arc(px, py, s.r, 0, 6.283);
+        ctx.fill();
+      }
+    }
+
+    let last = 0, raf = 0;
+    function loop(now) {
+      const t = now / 1000;
+      const dt = Math.min(0.05, last ? t - last : 0);
+      last = t;
+      draw(t, dt);
+      raf = requestAnimationFrame(loop);
+    }
+
+    function start() { if (!raf) raf = requestAnimationFrame(loop); }
+    function stop() { cancelAnimationFrame(raf); raf = 0; last = 0; }
+
+    addEventListener("resize", build, { passive: true });
+    if (!reduce) {
+      addEventListener("pointermove", (e) => {
+        mouse.tx = (e.clientX / innerWidth - 0.5) * 2;
+        mouse.ty = (e.clientY / innerHeight - 0.5) * 2;
+      }, { passive: true });
+      document.addEventListener("visibilitychange", () =>
+        document.hidden ? stop() : start());
+    }
+
+    build();
+    if (reduce) draw(0, 0);   // one static frame
+    else start();
+  })();
+
   // Fallback so the page is beautiful even before/without the fetch.
   const FALLBACK = {
     "date": "2026-07-23",
