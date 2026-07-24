@@ -35,23 +35,23 @@ python daily_update.py
 Only the Python standard library is used — nothing to install.
 
 <!-- LATEST:START -->
-### 📅 Latest snapshot — 2026-07-23
+### 📅 Latest snapshot — 2026-07-24
 
-> *"You have the potential for greatness."* — **Steve Harvey**
+> *"Change is hard at first, messy in the middle and gorgeous at the end."* — **Robin Sharma**
 
 **Crypto (USD)**
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $64,779 | -1.57% |
-| Ethereum | $1,878.33 | -2.47% |
-| Solana | $75.6 | -2.56% |
+| Bitcoin | $65,272 | -0.52% |
+| Ethereum | $1,880.28 | -2.12% |
+| Solana | $75.72 | -2.19% |
 
-**🔭 NASA:** [The Large Magellanic Cloud](https://apod.nasa.gov/apod/image/2607/LMC_1024.jpg)
+**🔭 NASA:** [RCW 86: Historical Supernova Remnant](https://apod.nasa.gov/apod/image/2607/RCW86Final1024.jpg)
 
-**🚗 Car news:** [Toyota's Biggest Off-Roader Gets Even More Capable With A New Trim](https://www.motor1.com/news/802591/2027-toyota-sequoia-trailhunter/)
+**🚗 Car news:** [Ford's Next EVs Will Ditch Google For Apple Maps](https://www.motor1.com/news/802601/ford-evs-apple-maps/)
 
-**📜 On this day, 685:** The election of Pope John V following the death of Pope Benedict II two months prior. — [Pope John V](https://en.wikipedia.org/wiki/Pope_John_V)
+**📜 On this day, 1132:** Battle of Nocera between Ranulf II of Alife and Roger II of Sicily. — [Battle of Nocera](https://en.wikipedia.org/wiki/Battle_of_Nocera)
 
 **🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 8 repos · 0 followers
 
