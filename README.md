@@ -43,13 +43,13 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $65,272 | -0.52% |
-| Ethereum | $1,880.28 | -2.12% |
-| Solana | $75.72 | -2.19% |
+| Bitcoin | $65,335 | -0.3% |
+| Ethereum | $1,887.83 | -1.67% |
+| Solana | $75.75 | -1.96% |
 
 **🔭 NASA:** [RCW 86: Historical Supernova Remnant](https://apod.nasa.gov/apod/image/2607/RCW86Final1024.jpg)
 
-**🚗 Car news:** [Ford's Next EVs Will Ditch Google For Apple Maps](https://www.motor1.com/news/802601/ford-evs-apple-maps/)
+**🚗 Car news:** [The New Mercedes GLA Debuts Next Week](https://www.motor1.com/news/802626/2027-mercedes-gla-debut-date/)
 
 **📜 On this day, 1132:** Battle of Nocera between Ranulf II of Alife and Roger II of Sicily. — [Battle of Nocera](https://en.wikipedia.org/wiki/Battle_of_Nocera)
 
