@@ -43,16 +43,14 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $63,916 | -2.26% |
-| Ethereum | $1,853.5 | -2.04% |
-| Solana | $73.6 | -3.09% |
+| Bitcoin | $64,369 | +0.43% |
+| Ethereum | $1,875.0 | +0.98% |
+| Solana | $74.62 | +1.17% |
 
 **🔭 NASA:** [Tranquility and Serenity](https://apod.nasa.gov/apod/image/2607/TranquilitySerenity1024c.jpg)
 
-**🚗 Car news:** [A Genesis Pickup Truck Could Be Back On The Table Thanks To Hyundai](https://www.motor1.com/news/802709/genesis-considering-pickup-truck/)
+**🚗 Car news:** [This Is One Of The Rarest Mercedes G-Classes Ever Made, And It Just Sold For $143,000](https://www.motor1.com/news/802691/saudi-prince-mercedes-g-class-v8-amg/)
 
 **📜 On this day, 306:** Constantine I is proclaimed Roman emperor by his troops. — [Constantine the Great](https://en.wikipedia.org/wiki/Constantine_the_Great)
-
-**🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 8 repos · 0 followers
 
 <!-- LATEST:END -->
