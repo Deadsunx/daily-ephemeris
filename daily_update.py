@@ -146,13 +146,15 @@ def fetch_quote() -> dict:
 
 
 def fetch_nasa() -> dict:
-    url = f"https://api.nasa.gov/planetary/apod?api_key={NASA_KEY}"
+    # thumbs=true gives a thumbnail_url for video days (YouTube/Vimeo).
+    url = f"https://api.nasa.gov/planetary/apod?api_key={NASA_KEY}&thumbs=true"
     data = _get_json(url)
     return {
         "title": data.get("title"),
         "explanation": data.get("explanation"),
         "url": data.get("url"),
         "media_type": data.get("media_type"),
+        "thumbnail_url": data.get("thumbnail_url"),
     }
 
 

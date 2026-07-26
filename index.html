@@ -158,6 +158,7 @@
 
   /* Sky */
   .plate { display: block; width: 100%; aspect-ratio: 16 / 10; object-fit: cover; border: 1px solid var(--line); filter: saturate(1.05) contrast(1.03); background: #05070f; }
+  video.plate, iframe.plate { object-fit: contain; filter: none; }
   .plate-caption { font-family: "Fraunces", serif; font-size: clamp(1.3rem, 2.6vw, 1.7rem); line-height: 1.15; margin: 1rem 0 0.5rem; color: var(--star); }
   .plate-text { font-size: 0.93rem; color: var(--bone-dim); display: -webkit-box; -webkit-line-clamp: 4; -webkit-box-orient: vertical; overflow: hidden; }
   .plate-link, .otd-link { display: inline-block; margin-top: 0.9rem; font-family: "Space Mono", monospace; font-size: 0.74rem; letter-spacing: 0.12em; color: var(--brass-bright); text-decoration: none; border-bottom: 1px solid var(--line); padding-bottom: 2px; }
@@ -344,6 +345,8 @@
     <section class="reading r-sky rise d1" aria-labelledby="sky-h">
       <div class="r-head"><span class="r-num">I</span><span class="r-label" id="sky-h">The Sky</span></div>
       <img class="plate" id="sky-img" alt="" />
+      <video class="plate" id="sky-video" controls playsinline preload="metadata" style="display:none"></video>
+      <iframe class="plate" id="sky-frame" title="NASA video of the day" allow="encrypted-media; fullscreen; picture-in-picture" allowfullscreen loading="lazy" referrerpolicy="no-referrer" style="display:none"></iframe>
       <h3 class="plate-caption" id="sky-title">—</h3>
       <p class="plate-text" id="sky-text"></p>
       <a class="plate-link" id="sky-link" href="#" target="_blank" rel="noopener">View the plate ↗</a>
@@ -599,13 +602,26 @@
     updateDaybar(data.date);
 
     const sky = data.nasa || {};
-    const img = $("sky-img");
-    if (sky.media_type === "image" && sky.url) { img.src = sky.url; img.alt = sky.title || "NASA image of the day"; img.style.display = ""; }
-    else { img.style.display = "none"; }
+    const img = $("sky-img"), vid = $("sky-video"), frame = $("sky-frame");
+    // Reset all three so nothing keeps loading/playing across days.
+    img.style.display = "none";
+    vid.style.display = "none"; try { vid.pause(); } catch (e) {} vid.removeAttribute("src"); vid.removeAttribute("poster"); try { vid.load(); } catch (e) {}
+    frame.style.display = "none"; frame.removeAttribute("src");
+    if (sky.url && sky.media_type === "image") {
+      img.src = sky.url; img.alt = sky.title || "NASA image of the day"; img.style.display = "";
+    } else if (sky.url && sky.media_type === "video") {
+      if (/\.(mp4|webm|ogv|ogg)(\?|#|$)/i.test(sky.url)) {          // direct video file
+        if (sky.thumbnail_url) vid.setAttribute("poster", sky.thumbnail_url);
+        vid.src = sky.url; vid.style.display = "";
+      } else {                                                       // YouTube / Vimeo embed
+        frame.src = sky.url; frame.style.display = "";
+      }
+    }
     $("sky-title").textContent = sky.title || "—";
     $("sky-text").textContent = sky.explanation || "";
     const skyLink = $("sky-link");
-    if (sky.url) { skyLink.href = sky.url; skyLink.style.display = ""; } else { skyLink.style.display = "none"; }
+    if (sky.url) { skyLink.href = sky.url; skyLink.textContent = (sky.media_type === "video" ? "Open the video ↗" : "View the plate ↗"); skyLink.style.display = ""; }
+    else { skyLink.style.display = "none"; }
 
     const q = data.quote || {};
     $("quote").innerHTML = '<span class="quote-mark">“</span>' + (q.text || "—");
