@@ -1,11 +1,11 @@
 {
   "date": "2026-07-26",
-  "fetched_at": "2026-07-26T10:18:23.860994+00:00",
+  "fetched_at": "2026-07-26T16:57:55.865194+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 64463,
-      "usd_24h_change": 0.75,
-      "usd_market_cap": 1293214594350.865,
+      "usd": 64707,
+      "usd_24h_change": 0.89,
+      "usd_market_cap": 1298154660362.6533,
       "spark": [
         60022.33,
         59953.44,
@@ -37,13 +37,13 @@
         65033.02,
         64099.0,
         64318.25,
-        64461.89
+        64703.12
       ]
     },
     "ethereum": {
-      "usd": 1883.51,
-      "usd_24h_change": 1.38,
-      "usd_market_cap": 227306548403.9375,
+      "usd": 1915.79,
+      "usd_24h_change": 2.7,
+      "usd_market_cap": 231207367101.16162,
       "spark": [
         1576.92,
         1571.94,
@@ -75,45 +75,45 @@
         1876.95,
         1861.26,
         1874.46,
-        1883.21
+        1915.75
       ]
     },
     "solana": {
-      "usd": 75.09,
-      "usd_24h_change": 1.52,
-      "usd_market_cap": 43772959637.17003,
+      "usd": 75.53,
+      "usd_24h_change": 1.76,
+      "usd_market_cap": 44029797125.8669,
       "spark": [
-        71.83,
-        70.46,
-        71.4,
-        74.99,
-        73.52,
-        77.35,
+        71.81,
+        70.4,
+        71.27,
+        75.01,
+        73.56,
+        77.36,
         80.62,
-        82.27,
-        81.63,
-        81.46,
-        81.96,
-        80.7,
-        77.67,
-        78.02,
-        78.04,
-        76.99,
-        76.79,
-        74.79,
-        77.73,
-        77.25,
+        82.29,
+        81.7,
+        81.52,
+        81.89,
+        80.59,
+        77.79,
+        77.99,
+        78.07,
+        76.72,
+        76.87,
+        74.93,
+        77.81,
+        77.24,
         75.27,
-        74.99,
-        75.44,
+        75.0,
+        75.48,
         76.31,
-        77.69,
-        78.08,
-        77.84,
-        75.93,
-        73.88,
-        74.42,
-        75.07
+        77.75,
+        78.09,
+        77.94,
+        75.76,
+        73.93,
+        74.48,
+        75.53
       ]
     }
   },
@@ -129,8 +129,8 @@
     "thumbnail_url": ""
   },
   "car_news": {
-    "headline": "This Is One Of The Rarest Mercedes G-Classes Ever Made, And It Just Sold For $143,000",
-    "url": "https://www.motor1.com/news/802691/saudi-prince-mercedes-g-class-v8-amg/",
+    "headline": "Lexus Has The Happiest Dealers In America. Infiniti Doesn't",
+    "url": "https://www.motor1.com/news/802716/lexus-happiest-dealerships-amerca/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {
@@ -142,7 +142,7 @@
   "github": {
     "login": "Deadsunx",
     "name": "Oumar Tirera",
-    "public_repos": 8,
+    "public_repos": 9,
     "followers": 0,
     "following": 0,
     "created_at": "2022-05-12T17:33:47Z",
