@@ -35,24 +35,22 @@ python daily_update.py
 Only the Python standard library is used — nothing to install.
 
 <!-- LATEST:START -->
-### 📅 Latest snapshot — 2026-07-23
+### 📅 Latest snapshot — 2026-07-25
 
-> *"You have the potential for greatness."* — **Steve Harvey**
+> *"It is amazing what you can accomplish if you do not care who gets the credit."* — **Harry S. Truman**
 
 **Crypto (USD)**
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $65,689 | -0.39% |
-| Ethereum | $1,928.39 | +0.28% |
-| Solana | $77.53 | +0.19% |
+| Bitcoin | $64,369 | +0.43% |
+| Ethereum | $1,875.0 | +0.98% |
+| Solana | $74.62 | +1.17% |
 
-**🔭 NASA:** [The Large Magellanic Cloud](https://apod.nasa.gov/apod/image/2607/LMC_1024.jpg)
+**🔭 NASA:** [Tranquility and Serenity](https://apod.nasa.gov/apod/image/2607/TranquilitySerenity1024c.jpg)
 
-**🚗 Car news:** [Porsche's Cost-Cutting Drive To Claim Another 5,000 Jobs: Report](https://www.motor1.com/news/802508/porsche-5000-layoffs-report/)
+**🚗 Car news:** [This Is One Of The Rarest Mercedes G-Classes Ever Made, And It Just Sold For $143,000](https://www.motor1.com/news/802691/saudi-prince-mercedes-g-class-v8-amg/)
 
-**📜 On this day, 685:** Election of pope John V following the death of pope Benedict II two months prior. — [Pope John V](https://en.wikipedia.org/wiki/Pope_John_V)
-
-**🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 8 repos · 0 followers
+**📜 On this day, 306:** Constantine I is proclaimed Roman emperor by his troops. — [Constantine the Great](https://en.wikipedia.org/wiki/Constantine_the_Great)
 
 <!-- LATEST:END -->

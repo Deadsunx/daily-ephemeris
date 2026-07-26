@@ -1,11 +1,11 @@
 {
   "date": "2026-07-23",
-  "fetched_at": "2026-07-23T09:32:47.748073+00:00",
+  "fetched_at": "2026-07-23T19:23:16.490243+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 65689,
-      "usd_24h_change": -0.39,
-      "usd_market_cap": 1317709581094.0752,
+      "usd": 64779,
+      "usd_24h_change": -1.57,
+      "usd_market_cap": 1299203365599.1301,
       "spark": [
         62662.29,
         60989.57,
@@ -37,13 +37,13 @@
         65143.63,
         66538.78,
         66077.06,
-        65687.16
+        64765.03
       ]
     },
     "ethereum": {
-      "usd": 1928.39,
-      "usd_24h_change": 0.28,
-      "usd_market_cap": 232711027389.96426,
+      "usd": 1878.33,
+      "usd_24h_change": -2.47,
+      "usd_market_cap": 226599665951.69583,
       "spark": [
         1665.72,
         1620.64,
@@ -75,13 +75,13 @@
         1900.92,
         1928.73,
         1933.41,
-        1928.5
+        1878.33
       ]
     },
     "solana": {
-      "usd": 77.53,
-      "usd_24h_change": 0.19,
-      "usd_market_cap": 45189293900.76441,
+      "usd": 75.6,
+      "usd_24h_change": -2.56,
+      "usd_market_cap": 44052372424.1086,
       "spark": [
         69.61,
         67.95,
@@ -113,7 +113,7 @@
         77.73,
         78.12,
         77.94,
-        77.52
+        75.58
       ]
     }
   },
@@ -128,13 +128,13 @@
     "media_type": "image"
   },
   "car_news": {
-    "headline": "Porsche's Cost-Cutting Drive To Claim Another 5,000 Jobs: Report",
-    "url": "https://www.motor1.com/news/802508/porsche-5000-layoffs-report/",
+    "headline": "Toyota's Biggest Off-Roader Gets Even More Capable With A New Trim",
+    "url": "https://www.motor1.com/news/802591/2027-toyota-sequoia-trailhunter/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {
     "year": 685,
-    "text": "Election of pope John V following the death of pope Benedict II two months prior.",
+    "text": "The election of Pope John V following the death of Pope Benedict II two months prior.",
     "title": "Pope John V",
     "url": "https://en.wikipedia.org/wiki/Pope_John_V"
   },
