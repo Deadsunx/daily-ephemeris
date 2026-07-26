@@ -2,11 +2,11 @@ name: Daily data archive
 
 on:
   schedule:
-    # Primary run at 06:00 UTC, plus a backup at 18:00 UTC. If the morning run
-    # fails (a source is down), the evening run still keeps the streak alive.
-    # GitHub's cron can be delayed by a few minutes under load — that's normal.
-    - cron: "0 6 * * *"
-    - cron: "0 18 * * *"
+    # 04:00 and 16:00 UTC = 09:30 and 21:30 IST (UTC+5:30) — morning + evening.
+    # The backup run keeps the streak alive if the first one fails.
+    # GitHub's cron can be delayed 15 min–2 h under load — that's normal.
+    - cron: "0 4 * * *"
+    - cron: "0 16 * * *"
   # Lets you trigger a run manually from the Actions tab.
   workflow_dispatch:
 

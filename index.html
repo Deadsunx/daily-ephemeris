@@ -239,12 +239,15 @@
 
   /* Archive calendar */
   .cal-wrap { overflow-x: auto; padding-bottom: 0.4rem; }
-  .cal { display: inline-grid; grid-auto-flow: column; grid-template-rows: repeat(7, 13px); gap: 3px; }
+  .cal { display: inline-flex; gap: 8px; align-items: flex-start; }
+  .cal-wdays { display: grid; grid-template-rows: repeat(7, 13px); gap: 3px; }
+  .cal-wdays span { font-family: "Space Mono", monospace; font-size: 0.54rem; letter-spacing: 0.04em; color: var(--bone-dim); height: 13px; line-height: 13px; }
+  .cal-grid { display: inline-grid; grid-auto-flow: column; grid-template-rows: repeat(7, 13px); gap: 3px; }
   .cal-cell { width: 13px; height: 13px; border-radius: 2px; background: var(--cal0, rgba(236,228,208,0.06)); border: 1px solid transparent; }
   .cal-cell.filled { cursor: pointer; }
   .cal-cell.filled:hover { outline: 1px solid var(--brass-bright); outline-offset: 1px; }
   .cal-cell.active { outline: 1.5px solid var(--brass-bright); outline-offset: 1px; }
-  .cal-cell.empty { visibility: hidden; }
+  .cal-cell.future { visibility: hidden; }
   .cal-cell.lvl1 { background: rgba(198,160,82,0.28); }
   .cal-cell.lvl2 { background: rgba(198,160,82,0.48); }
   .cal-cell.lvl3 { background: rgba(210,175,95,0.72); }
@@ -673,25 +676,46 @@
 
   function renderCalendar() {
     const cal = $("cal"); cal.innerHTML = "";
-    if (!indexEntries.length) return;
     const byDate = new Map(indexEntries.map(e => [e.date, (e.captured || []).length]));
-    const first = new Date(indexEntries[0].date + "T00:00:00Z");
-    const today = new Date(); const end = new Date(Date.UTC(today.getUTCFullYear(), today.getUTCMonth(), today.getUTCDate()));
-    const last = end > first ? end : first;
-    const gridStart = new Date(first); gridStart.setUTCDate(gridStart.getUTCDate() - gridStart.getUTCDay()); // back to Sunday
     const level = (c) => c === 0 ? 0 : c <= 2 ? 1 : c <= 4 ? 2 : c <= 5 ? 3 : 4;
-    for (let d = new Date(gridStart); d <= last; d.setUTCDate(d.getUTCDate() + 1)) {
+    const activeDate = (indexEntries[currentIndex] || {}).date;
+
+    // Always render a full rectangle: the last N weeks ending this Saturday,
+    // aligned to Sunday. Empty days show faint; the archive fills in over time.
+    const WEEKS = 14;
+    const today = new Date();
+    const end = new Date(Date.UTC(today.getUTCFullYear(), today.getUTCMonth(), today.getUTCDate()));
+    const endSat = new Date(end); endSat.setUTCDate(endSat.getUTCDate() + (6 - endSat.getUTCDay()));
+    const start = new Date(endSat); start.setUTCDate(start.getUTCDate() - (WEEKS * 7 - 1));
+
+    // Weekday labels (Mon / Wed / Fri) down the left.
+    const wdays = document.createElement("div");
+    wdays.className = "cal-wdays";
+    ["", "Mon", "", "Wed", "", "Fri", ""].forEach((t) => {
+      const s = document.createElement("span"); s.textContent = t; wdays.appendChild(s);
+    });
+    cal.appendChild(wdays);
+
+    // The day grid.
+    const grid = document.createElement("div");
+    grid.className = "cal-grid";
+    for (let d = new Date(start); d <= endSat; d.setUTCDate(d.getUTCDate() + 1)) {
       const iso = d.toISOString().slice(0, 10);
       const cell = document.createElement("div");
-      if (d < first) { cell.className = "cal-cell empty"; }
-      else if (byDate.has(iso)) {
+      if (d > end) {
+        cell.className = "cal-cell future";
+      } else if (byDate.has(iso)) {
         const c = byDate.get(iso);
-        cell.className = "cal-cell filled lvl" + level(c) + (iso === (indexEntries[currentIndex]||{}).date ? " active" : "");
+        cell.className = "cal-cell filled lvl" + level(c) + (iso === activeDate ? " active" : "");
         cell.title = iso + " — " + c + "/" + TOTAL_READINGS + " captured";
         cell.addEventListener("click", () => loadDay(iso));
-      } else { cell.className = "cal-cell"; cell.title = iso + " — no entry"; }
-      cal.appendChild(cell);
+      } else {
+        cell.className = "cal-cell";
+        cell.title = iso + " — no entry";
+      }
+      grid.appendChild(cell);
     }
+    cal.appendChild(grid);
   }
 
   async function loadDay(dateStr) {
