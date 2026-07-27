@@ -43,13 +43,11 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $65,376 | +1.55% |
-| Ethereum | $1,967.9 | +4.47% |
-| Solana | $76.64 | +2.19% |
+| Bitcoin | $64,991 | +0.55% |
+| Ethereum | $1,941.61 | +1.63% |
+| Solana | $76.0 | +0.95% |
 
-**🔭 NASA:** [NGC 7635: The Bubble Nebula](https://apod.nasa.gov/apod/image/2607/Bubble_Piechnik_960.jpg)
-
-**🚗 Car news:** [Lexus Has The Happiest Dealers In America. Infiniti Doesn't](https://www.motor1.com/news/802716/lexus-happiest-dealerships-amerca/)
+**🚗 Car news:** [The Government May Ban Bad Door Handles](https://www.motor1.com/news/802857/nhtsa-banning-bad-door-handles/)
 
 **📜 On this day, 1054:** Siward, Earl of Northumbria, invades Scotland and defeats Macbeth, King of Scotland, somewhere north of the Firth of Forth. This is known as the Battle of Dunsinane. — [Siward, Earl of Northumbria](https://en.wikipedia.org/wiki/Siward%2C_Earl_of_Northumbria)
 

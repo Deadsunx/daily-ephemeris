@@ -1,11 +1,11 @@
 {
   "date": "2026-07-27",
-  "fetched_at": "2026-07-27T06:56:55.345263+00:00",
+  "fetched_at": "2026-07-27T17:41:12.908869+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 65376,
-      "usd_24h_change": 1.55,
-      "usd_market_cap": 1311571933978.6501,
+      "usd": 64991,
+      "usd_24h_change": 0.55,
+      "usd_market_cap": 1303852262335.182,
       "spark": [
         59953.44,
         59494.61,
@@ -36,13 +36,13 @@
         65033.02,
         64099.0,
         64316.36,
-        65376.42
+        64991.39
       ]
     },
     "ethereum": {
-      "usd": 1967.9,
-      "usd_24h_change": 4.47,
-      "usd_market_cap": 237491876170.16577,
+      "usd": 1941.61,
+      "usd_24h_change": 1.63,
+      "usd_market_cap": 234327435936.91254,
       "spark": [
         1571.94,
         1570.08,
@@ -73,45 +73,44 @@
         1876.95,
         1861.26,
         1874.03,
-        1967.9
+        1941.4
       ]
     },
     "solana": {
-      "usd": 76.64,
-      "usd_24h_change": 2.19,
-      "usd_market_cap": 44691129791.42875,
+      "usd": 76.0,
+      "usd_24h_change": 0.95,
+      "usd_market_cap": 44321776067.332695,
       "spark": [
-        70.46,
-        71.4,
-        74.99,
-        73.52,
-        77.35,
+        70.4,
+        71.27,
+        75.01,
+        73.56,
+        77.36,
         80.62,
-        82.27,
-        81.63,
-        81.46,
-        81.96,
-        80.7,
-        77.67,
-        78.02,
-        78.04,
-        76.99,
-        76.79,
-        74.79,
-        77.73,
-        77.25,
+        82.29,
+        81.7,
+        81.52,
+        81.89,
+        80.59,
+        77.79,
+        77.99,
+        78.07,
+        76.72,
+        76.87,
+        74.93,
+        77.81,
+        77.24,
         75.27,
-        74.99,
-        75.44,
+        75.0,
+        75.48,
         76.31,
-        77.69,
-        78.08,
-        77.84,
-        75.93,
-        73.88,
-        74.42,
-        76.6,
-        76.63
+        77.75,
+        78.09,
+        77.94,
+        75.76,
+        73.93,
+        74.47,
+        76.0
       ]
     }
   },
@@ -120,15 +119,11 @@
     "author": "D. H. Lawrence"
   },
   "nasa": {
-    "title": "NGC 7635: The Bubble Nebula",
-    "explanation": "What created this huge space bubble? Blown by the wind from a star, this tantalizing, head-like apparition is cataloged as NGC 7635, but known simply as the Bubble Nebula. Taken from Krakow, Poland, the featured view utilizes a long exposure to reveal the intricate details of this cosmic bubble and its environment. Although it looks delicate, the 10 light-year diameter bubble offers evidence of violent processes at work. Seen here right of the Bubble's center, a bright hot star is embedded in the nebula's reflecting dust. A fierce stellar wind and intense radiation from the star, which likely has a mass 10 to 20 times that of the Sun, has blasted out the structure of glowing gas against denser material in a surrounding molecular cloud. The intriguing Bubble Nebula lies a mere 11,000 light-years away toward the boastful constellation Cassiopeia.",
-    "url": "https://apod.nasa.gov/apod/image/2607/Bubble_Piechnik_960.jpg",
-    "media_type": "image",
-    "thumbnail_url": null
+    "error": "HTTP Error 403: Forbidden"
   },
   "car_news": {
-    "headline": "Lexus Has The Happiest Dealers In America. Infiniti Doesn't",
-    "url": "https://www.motor1.com/news/802716/lexus-happiest-dealerships-amerca/",
+    "headline": "The Government May Ban Bad Door Handles",
+    "url": "https://www.motor1.com/news/802857/nhtsa-banning-bad-door-handles/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {
