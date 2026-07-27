@@ -35,23 +35,23 @@ python daily_update.py
 Only the Python standard library is used — nothing to install.
 
 <!-- LATEST:START -->
-### 📅 Latest snapshot — 2026-07-26
+### 📅 Latest snapshot — 2026-07-27
 
-> *"Let us rather run the risk of wearing out than rusting out."* — **Theodore Roosevelt**
+> *"But better die than live mechanically a life that is a repetition of repetitions."* — **D. H. Lawrence**
 
 **Crypto (USD)**
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $64,707 | +0.89% |
-| Ethereum | $1,915.79 | +2.7% |
-| Solana | $75.53 | +1.76% |
+| Bitcoin | $65,376 | +1.55% |
+| Ethereum | $1,967.9 | +4.47% |
+| Solana | $76.64 | +2.19% |
 
-**🔭 NASA:** [Simulation TNG50: A Galaxy Cluster Forms](https://apod.nasa.gov/apod/image/2607/ClusterFormation_TNG50.mp4)
+**🔭 NASA:** [NGC 7635: The Bubble Nebula](https://apod.nasa.gov/apod/image/2607/Bubble_Piechnik_960.jpg)
 
 **🚗 Car news:** [Lexus Has The Happiest Dealers In America. Infiniti Doesn't](https://www.motor1.com/news/802716/lexus-happiest-dealerships-amerca/)
 
-**📜 On this day, 657:** First Fitna: In the Battle of Siffin, troops led by Ali ibn Abu Talib clash with those led by Muawiyah I. — [First Fitna](https://en.wikipedia.org/wiki/First_Fitna)
+**📜 On this day, 1054:** Siward, Earl of Northumbria, invades Scotland and defeats Macbeth, King of Scotland, somewhere north of the Firth of Forth. This is known as the Battle of Dunsinane. — [Siward, Earl of Northumbria](https://en.wikipedia.org/wiki/Siward%2C_Earl_of_Northumbria)
 
 **🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 9 repos · 0 followers
 
