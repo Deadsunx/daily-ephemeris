@@ -35,21 +35,23 @@ python daily_update.py
 Only the Python standard library is used — nothing to install.
 
 <!-- LATEST:START -->
-### 📅 Latest snapshot — 2026-07-27
+### 📅 Latest snapshot — 2026-07-28
 
-> *"But better die than live mechanically a life that is a repetition of repetitions."* — **D. H. Lawrence**
+> *"Be kind, for everyone you meet is fighting a harder battle."* — **Plato**
 
 **Crypto (USD)**
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $64,991 | +0.55% |
-| Ethereum | $1,941.61 | +1.63% |
-| Solana | $76.0 | +0.95% |
+| Bitcoin | $63,377 | -3.2% |
+| Ethereum | $1,877.84 | -4.4% |
+| Solana | $73.14 | -4.74% |
 
-**🚗 Car news:** [The Government May Ban Bad Door Handles](https://www.motor1.com/news/802857/nhtsa-banning-bad-door-handles/)
+**🔭 NASA:** [Barnards Loop over Twin Volcanoes](https://apod.nasa.gov/apod/image/2607/LoopVolcanos_Laserna_960.jpg)
 
-**📜 On this day, 1054:** Siward, Earl of Northumbria, invades Scotland and defeats Macbeth, King of Scotland, somewhere north of the Firth of Forth. This is known as the Battle of Dunsinane. — [Siward, Earl of Northumbria](https://en.wikipedia.org/wiki/Siward%2C_Earl_of_Northumbria)
+**🚗 Car news:** [The Land Rover Discovery Sport Is Dead](https://www.motor1.com/news/802876/land-rover-discovery-sport-dead-production-ends-2026/)
+
+**📜 On this day, 484:** Pope Felix III excommunicated patriarch Acacius of Constantinople for his support of the Henoticon and his support of the removal of patriarch John Talaia, leading to the Acacian schism. — [Pope Felix III](https://en.wikipedia.org/wiki/Pope_Felix_III)
 
 **🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 9 repos · 0 followers
 
