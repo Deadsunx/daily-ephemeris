@@ -43,13 +43,13 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $63,377 | -3.2% |
-| Ethereum | $1,877.84 | -4.4% |
-| Solana | $73.14 | -4.74% |
+| Bitcoin | $63,736 | -1.92% |
+| Ethereum | $1,910.0 | -1.7% |
+| Solana | $73.91 | -2.84% |
 
 **🔭 NASA:** [Barnards Loop over Twin Volcanoes](https://apod.nasa.gov/apod/image/2607/LoopVolcanos_Laserna_960.jpg)
 
-**🚗 Car news:** [The Land Rover Discovery Sport Is Dead](https://www.motor1.com/news/802876/land-rover-discovery-sport-dead-production-ends-2026/)
+**🚗 Car news:** [Spied: Mercedes-AMG GT Black Series Shows Off Its Big Wing And V8 Sound](https://www.motor1.com/news/802997/mercedes-amg-gt-black-series-spied-v8-engine/)
 
 **📜 On this day, 484:** Pope Felix III excommunicated patriarch Acacius of Constantinople for his support of the Henoticon and his support of the removal of patriarch John Talaia, leading to the Acacian schism. — [Pope Felix III](https://en.wikipedia.org/wiki/Pope_Felix_III)
 

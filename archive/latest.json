@@ -1,11 +1,11 @@
 {
   "date": "2026-07-28",
-  "fetched_at": "2026-07-28T06:20:43.127571+00:00",
+  "fetched_at": "2026-07-28T17:24:48.479638+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 63377,
-      "usd_24h_change": -3.2,
-      "usd_market_cap": 1271481734780.994,
+      "usd": 63736,
+      "usd_24h_change": -1.92,
+      "usd_market_cap": 1278956274562.6821,
       "spark": [
         59494.61,
         60152.36,
@@ -37,13 +37,13 @@
         64316.36,
         65310.39,
         63701.35,
-        63385.53
+        63736.08
       ]
     },
     "ethereum": {
-      "usd": 1877.84,
-      "usd_24h_change": -4.4,
-      "usd_market_cap": 226626194176.58612,
+      "usd": 1910.0,
+      "usd_24h_change": -1.7,
+      "usd_market_cap": 230529985976.11215,
       "spark": [
         1570.08,
         1609.75,
@@ -75,13 +75,13 @@
         1874.03,
         1951.79,
         1890.45,
-        1878.2
+        1910.48
       ]
     },
     "solana": {
-      "usd": 73.14,
-      "usd_24h_change": -4.74,
-      "usd_market_cap": 42644905179.03531,
+      "usd": 73.91,
+      "usd_24h_change": -2.84,
+      "usd_market_cap": 43095326179.14656,
       "spark": [
         71.27,
         75.01,
@@ -113,7 +113,7 @@
         74.47,
         76.6,
         74.14,
-        73.17
+        73.91
       ]
     }
   },
@@ -129,8 +129,8 @@
     "thumbnail_url": null
   },
   "car_news": {
-    "headline": "The Land Rover Discovery Sport Is Dead",
-    "url": "https://www.motor1.com/news/802876/land-rover-discovery-sport-dead-production-ends-2026/",
+    "headline": "Spied: Mercedes-AMG GT Black Series Shows Off Its Big Wing And V8 Sound",
+    "url": "https://www.motor1.com/news/802997/mercedes-amg-gt-black-series-spied-v8-engine/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {
