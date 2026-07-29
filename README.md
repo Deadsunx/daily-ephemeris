@@ -43,13 +43,13 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $64,104 | +1.07% |
-| Ethereum | $1,912.17 | +1.72% |
-| Solana | $73.72 | +0.61% |
+| Bitcoin | $63,762 | -0.02% |
+| Ethereum | $1,896.3 | -0.9% |
+| Solana | $73.31 | -1.02% |
 
 **🔭 NASA:** [Psyche Receives Gravity Assist from Mars](https://www.youtube.com/embed/6_cH5-daLjg?si=i9geSInQj3VMZwx3)
 
-**🚗 Car news:** [I Saw The New Audi Q9 Up Close. It's A Brilliant Full-Size Flagship SUV](https://www.motor1.com/news/803010/2027-audi-q9-sq9-details-specs-revealed/)
+**🚗 Car news:** [This Lovely Mercedes 190 Evo II Restomod Packs 765 Horsepower](https://www.motor1.com/news/803134/mercedes-benz-evo-ii-restomod/)
 
 **📜 On this day, -587:** The Neo-Babylonian Empire sacks Jerusalem and destroys the First Temple. — [Neo-Babylonian Empire](https://en.wikipedia.org/wiki/Neo-Babylonian_Empire)
 

@@ -1,11 +1,11 @@
 {
   "date": "2026-07-29",
-  "fetched_at": "2026-07-29T06:25:32.163914+00:00",
+  "fetched_at": "2026-07-29T17:12:59.132619+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 64104,
-      "usd_24h_change": 1.07,
-      "usd_market_cap": 1286102473430.145,
+      "usd": 63762,
+      "usd_24h_change": -0.02,
+      "usd_market_cap": 1278874921069.4312,
       "spark": [
         60152.36,
         58566.09,
@@ -37,13 +37,13 @@
         65310.39,
         63673.71,
         63881.94,
-        64104.34
+        63771.8
       ]
     },
     "ethereum": {
-      "usd": 1912.17,
-      "usd_24h_change": 1.72,
-      "usd_market_cap": 230765813060.50687,
+      "usd": 1896.3,
+      "usd_24h_change": -0.9,
+      "usd_market_cap": 228817263152.71683,
       "spark": [
         1609.75,
         1569.83,
@@ -75,13 +75,13 @@
         1951.79,
         1890.57,
         1920.49,
-        1911.05
+        1896.41
       ]
     },
     "solana": {
-      "usd": 73.72,
-      "usd_24h_change": 0.61,
-      "usd_market_cap": 42699102963.62616,
+      "usd": 73.31,
+      "usd_24h_change": -1.02,
+      "usd_market_cap": 42475385614.6536,
       "spark": [
         75.01,
         73.56,
@@ -113,7 +113,7 @@
         76.6,
         74.2,
         73.77,
-        73.68
+        73.36
       ]
     }
   },
@@ -129,8 +129,8 @@
     "thumbnail_url": "https://img.youtube.com/vi/6_cH5-daLjg/0.jpg"
   },
   "car_news": {
-    "headline": "I Saw The New Audi Q9 Up Close. It's A Brilliant Full-Size Flagship SUV",
-    "url": "https://www.motor1.com/news/803010/2027-audi-q9-sq9-details-specs-revealed/",
+    "headline": "This Lovely Mercedes 190 Evo II Restomod Packs 765 Horsepower",
+    "url": "https://www.motor1.com/news/803134/mercedes-benz-evo-ii-restomod/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {
