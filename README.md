@@ -35,24 +35,24 @@ python daily_update.py
 Only the Python standard library is used — nothing to install.
 
 <!-- LATEST:START -->
-### 📅 Latest snapshot — 2026-07-28
+### 📅 Latest snapshot — 2026-07-29
 
-> *"Be kind, for everyone you meet is fighting a harder battle."* — **Plato**
+> *"If you let your head get too big, it'll break your neck."* — **Elvis Presley**
 
 **Crypto (USD)**
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $63,736 | -1.92% |
-| Ethereum | $1,910.0 | -1.7% |
-| Solana | $73.91 | -2.84% |
+| Bitcoin | $64,104 | +1.07% |
+| Ethereum | $1,912.17 | +1.72% |
+| Solana | $73.72 | +0.61% |
 
-**🔭 NASA:** [Barnards Loop over Twin Volcanoes](https://apod.nasa.gov/apod/image/2607/LoopVolcanos_Laserna_960.jpg)
+**🔭 NASA:** [Psyche Receives Gravity Assist from Mars](https://www.youtube.com/embed/6_cH5-daLjg?si=i9geSInQj3VMZwx3)
 
-**🚗 Car news:** [Spied: Mercedes-AMG GT Black Series Shows Off Its Big Wing And V8 Sound](https://www.motor1.com/news/802997/mercedes-amg-gt-black-series-spied-v8-engine/)
+**🚗 Car news:** [I Saw The New Audi Q9 Up Close. It's A Brilliant Full-Size Flagship SUV](https://www.motor1.com/news/803010/2027-audi-q9-sq9-details-specs-revealed/)
 
-**📜 On this day, 484:** Pope Felix III excommunicated patriarch Acacius of Constantinople for his support of the Henoticon and his support of the removal of patriarch John Talaia, leading to the Acacian schism. — [Pope Felix III](https://en.wikipedia.org/wiki/Pope_Felix_III)
+**📜 On this day, -587:** The Neo-Babylonian Empire sacks Jerusalem and destroys the First Temple. — [Neo-Babylonian Empire](https://en.wikipedia.org/wiki/Neo-Babylonian_Empire)
 
-**🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 9 repos · 0 followers
+**🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 6 repos · 0 followers
 
 <!-- LATEST:END -->
