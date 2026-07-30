@@ -35,23 +35,23 @@ python daily_update.py
 Only the Python standard library is used — nothing to install.
 
 <!-- LATEST:START -->
-### 📅 Latest snapshot — 2026-07-29
+### 📅 Latest snapshot — 2026-07-30
 
-> *"If you let your head get too big, it'll break your neck."* — **Elvis Presley**
+> *"It isn't that they can't see the solution. It is that they can't see the problem."* — **Gilbert Chesterton**
 
 **Crypto (USD)**
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $63,762 | -0.02% |
-| Ethereum | $1,896.3 | -0.9% |
-| Solana | $73.31 | -1.02% |
+| Bitcoin | $63,923 | -0.23% |
+| Ethereum | $1,900.93 | -0.54% |
+| Solana | $73.52 | -0.18% |
 
-**🔭 NASA:** [Psyche Receives Gravity Assist from Mars](https://www.youtube.com/embed/6_cH5-daLjg?si=i9geSInQj3VMZwx3)
+**🔭 NASA:** [Red Sun through Wildfire Smoke](https://apod.nasa.gov/apod/image/2607/red_sun_1024.jpg)
 
-**🚗 Car news:** [This Lovely Mercedes 190 Evo II Restomod Packs 765 Horsepower](https://www.motor1.com/news/803134/mercedes-benz-evo-ii-restomod/)
+**🚗 Car news:** [Mini Is Testing Its Most Off-Road-Capable SUV Yet](https://www.motor1.com/news/803145/mini-countryman-edition-brand-toughest/)
 
-**📜 On this day, -587:** The Neo-Babylonian Empire sacks Jerusalem and destroys the First Temple. — [Neo-Babylonian Empire](https://en.wikipedia.org/wiki/Neo-Babylonian_Empire)
+**📜 On this day, -30:** Mark Antony wins a final cavalry battle against Octavian in the battle of Alexandria, but his infantry is defeated and the next day his fleet and troops start to desert to Octavian. — [Mark Antony](https://en.wikipedia.org/wiki/Mark_Antony)
 
 **🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 6 repos · 0 followers
 
