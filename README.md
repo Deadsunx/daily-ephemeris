@@ -35,24 +35,24 @@ python daily_update.py
 Only the Python standard library is used — nothing to install.
 
 <!-- LATEST:START -->
-### 📅 Latest snapshot — 2026-07-28
+### 📅 Latest snapshot — 2026-07-30
 
-> *"Be kind, for everyone you meet is fighting a harder battle."* — **Plato**
+> *"It isn't that they can't see the solution. It is that they can't see the problem."* — **Gilbert Chesterton**
 
 **Crypto (USD)**
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $63,736 | -1.92% |
-| Ethereum | $1,910.0 | -1.7% |
-| Solana | $73.91 | -2.84% |
+| Bitcoin | $63,923 | -0.23% |
+| Ethereum | $1,900.93 | -0.54% |
+| Solana | $73.52 | -0.18% |
 
-**🔭 NASA:** [Barnards Loop over Twin Volcanoes](https://apod.nasa.gov/apod/image/2607/LoopVolcanos_Laserna_960.jpg)
+**🔭 NASA:** [Red Sun through Wildfire Smoke](https://apod.nasa.gov/apod/image/2607/red_sun_1024.jpg)
 
-**🚗 Car news:** [Spied: Mercedes-AMG GT Black Series Shows Off Its Big Wing And V8 Sound](https://www.motor1.com/news/802997/mercedes-amg-gt-black-series-spied-v8-engine/)
+**🚗 Car news:** [Mini Is Testing Its Most Off-Road-Capable SUV Yet](https://www.motor1.com/news/803145/mini-countryman-edition-brand-toughest/)
 
-**📜 On this day, 484:** Pope Felix III excommunicated patriarch Acacius of Constantinople for his support of the Henoticon and his support of the removal of patriarch John Talaia, leading to the Acacian schism. — [Pope Felix III](https://en.wikipedia.org/wiki/Pope_Felix_III)
+**📜 On this day, -30:** Mark Antony wins a final cavalry battle against Octavian in the battle of Alexandria, but his infantry is defeated and the next day his fleet and troops start to desert to Octavian. — [Mark Antony](https://en.wikipedia.org/wiki/Mark_Antony)
 
-**🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 9 repos · 0 followers
+**🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 6 repos · 0 followers
 
 <!-- LATEST:END -->
