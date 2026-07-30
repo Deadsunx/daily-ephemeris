@@ -1,11 +1,11 @@
 {
   "date": "2026-07-30",
-  "fetched_at": "2026-07-30T06:21:16.590486+00:00",
+  "fetched_at": "2026-07-30T17:24:57.480384+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 63923,
-      "usd_24h_change": -0.23,
-      "usd_market_cap": 1282440713485.0403,
+      "usd": 64864,
+      "usd_24h_change": 1.74,
+      "usd_market_cap": 1301388872612.0012,
       "spark": [
         58566.09,
         59967.69,
@@ -37,13 +37,13 @@
         63673.71,
         63957.04,
         63916.6,
-        63925.4
+        64851.88
       ]
     },
     "ethereum": {
-      "usd": 1900.93,
-      "usd_24h_change": -0.54,
-      "usd_market_cap": 229396991563.6775,
+      "usd": 1920.05,
+      "usd_24h_change": 1.21,
+      "usd_market_cap": 231716481853.30597,
       "spark": [
         1569.94,
         1608.43,
@@ -75,13 +75,13 @@
         1888.32,
         1919.68,
         1908.53,
-        1899.9
+        1919.79
       ]
     },
     "solana": {
-      "usd": 73.52,
-      "usd_24h_change": -0.18,
-      "usd_market_cap": 42607997749.08194,
+      "usd": 74.54,
+      "usd_24h_change": 1.73,
+      "usd_market_cap": 43204942989.2576,
       "spark": [
         73.56,
         77.36,
@@ -113,7 +113,7 @@
         74.2,
         73.9,
         73.61,
-        73.5
+        74.53
       ]
     }
   },
@@ -129,8 +129,8 @@
     "thumbnail_url": null
   },
   "car_news": {
-    "headline": "Mini Is Testing Its Most Off-Road-Capable SUV Yet",
-    "url": "https://www.motor1.com/news/803145/mini-countryman-edition-brand-toughest/",
+    "headline": "Spider-Man Is Taking Over BMW's IMSA Race Car This Weekend",
+    "url": "https://www.motor1.com/news/803266/bmw-spider-man-livery-road-america-imsa/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {

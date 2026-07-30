@@ -43,13 +43,13 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $63,923 | -0.23% |
-| Ethereum | $1,900.93 | -0.54% |
-| Solana | $73.52 | -0.18% |
+| Bitcoin | $64,864 | +1.74% |
+| Ethereum | $1,920.05 | +1.21% |
+| Solana | $74.54 | +1.73% |
 
 **🔭 NASA:** [Red Sun through Wildfire Smoke](https://apod.nasa.gov/apod/image/2607/red_sun_1024.jpg)
 
-**🚗 Car news:** [Mini Is Testing Its Most Off-Road-Capable SUV Yet](https://www.motor1.com/news/803145/mini-countryman-edition-brand-toughest/)
+**🚗 Car news:** [Spider-Man Is Taking Over BMW's IMSA Race Car This Weekend](https://www.motor1.com/news/803266/bmw-spider-man-livery-road-america-imsa/)
 
 **📜 On this day, -30:** Mark Antony wins a final cavalry battle against Octavian in the battle of Alexandria, but his infantry is defeated and the next day his fleet and troops start to desert to Octavian. — [Mark Antony](https://en.wikipedia.org/wiki/Mark_Antony)
 
