@@ -35,23 +35,23 @@ python daily_update.py
 Only the Python standard library is used — nothing to install.
 
 <!-- LATEST:START -->
-### 📅 Latest snapshot — 2026-07-30
+### 📅 Latest snapshot — 2026-07-31
 
-> *"It isn't that they can't see the solution. It is that they can't see the problem."* — **Gilbert Chesterton**
+> *"New beginnings are disguised as painful endings."* — **Lao Tzu**
 
 **Crypto (USD)**
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $64,864 | +1.74% |
-| Ethereum | $1,920.05 | +1.21% |
-| Solana | $74.54 | +1.73% |
+| Bitcoin | $64,351 | +0.66% |
+| Ethereum | $1,905.13 | +0.22% |
+| Solana | $74.3 | +1.04% |
 
-**🔭 NASA:** [Red Sun through Wildfire Smoke](https://apod.nasa.gov/apod/image/2607/red_sun_1024.jpg)
+**🔭 NASA:** [NGC 4372 and the Dark Doodad](https://apod.nasa.gov/apod/image/2607/DARK-DOODAD_1024.jpg)
 
-**🚗 Car news:** [Spider-Man Is Taking Over BMW's IMSA Race Car This Weekend](https://www.motor1.com/news/803266/bmw-spider-man-livery-road-america-imsa/)
+**🚗 Car news:** [Hyundai Needs To Build This Baja Santa Fe For Real](https://www.motor1.com/news/803283/hyundai-santa-fe-for-baja/)
 
-**📜 On this day, -30:** Mark Antony wins a final cavalry battle against Octavian in the battle of Alexandria, but his infantry is defeated and the next day his fleet and troops start to desert to Octavian. — [Mark Antony](https://en.wikipedia.org/wiki/Mark_Antony)
+**📜 On this day, 398:** End of the Gildonic rebellion after Gildo's forces are defeated by forces loyal to Western Roman Emperor Honorius under Gildo's brother Mascezel and Gildo's subsequent death. — [Gildonic War](https://en.wikipedia.org/wiki/Gildonic_War)
 
 **🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 6 repos · 0 followers
 
