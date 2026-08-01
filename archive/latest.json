@@ -1,11 +1,11 @@
 {
   "date": "2026-08-01",
-  "fetched_at": "2026-08-01T06:22:10.927591+00:00",
+  "fetched_at": "2026-08-01T16:57:25.059769+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 62975,
-      "usd_24h_change": -2.12,
-      "usd_market_cap": 1263088668140.2249,
+      "usd": 62875,
+      "usd_24h_change": 0.11,
+      "usd_market_cap": 1261548830099.4153,
       "spark": [
         61490.21,
         62553.61,
@@ -37,13 +37,13 @@
         63934.1,
         64776.94,
         62820.09,
-        62974.83
+        62875.3
       ]
     },
     "ethereum": {
-      "usd": 1866.4,
-      "usd_24h_change": -2.02,
-      "usd_market_cap": 225138664901.64706,
+      "usd": 1866.95,
+      "usd_24h_change": 0.25,
+      "usd_market_cap": 225307784257.40863,
       "spark": [
         1698.56,
         1756.98,
@@ -75,13 +75,13 @@
         1907.78,
         1918.76,
         1860.59,
-        1865.55
+        1866.81
       ]
     },
     "solana": {
-      "usd": 72.92,
-      "usd_24h_change": -1.87,
-      "usd_market_cap": 42356310603.36709,
+      "usd": 72.66,
+      "usd_24h_change": -0.79,
+      "usd_market_cap": 42241158476.55429,
       "spark": [
         80.62,
         82.29,
@@ -113,7 +113,7 @@
         73.61,
         74.52,
         72.79,
-        72.9
+        72.69
       ]
     }
   },
@@ -129,8 +129,8 @@
     "thumbnail_url": null
   },
   "car_news": {
-    "headline": "JLR's New North American CEO Has A Lot Of Work To Do",
-    "url": "https://www.motor1.com/news/803393/jlr-new-north-american-ceo-appointed/",
+    "headline": "All 20 BMW Art Cars Are Finally Together In One Place",
+    "url": "https://www.motor1.com/news/803420/bmw-art-cars-welt/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {

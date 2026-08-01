@@ -43,13 +43,13 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $62,975 | -2.12% |
-| Ethereum | $1,866.4 | -2.02% |
-| Solana | $72.92 | -1.87% |
+| Bitcoin | $62,875 | +0.11% |
+| Ethereum | $1,866.95 | +0.25% |
+| Solana | $72.66 | -0.79% |
 
 **🔭 NASA:** [Buck Moon and Belt of Venus](https://apod.nasa.gov/apod/image/2608/FullMoon28-7-2026BrankoNadj1024.jpg)
 
-**🚗 Car news:** [JLR's New North American CEO Has A Lot Of Work To Do](https://www.motor1.com/news/803393/jlr-new-north-american-ceo-appointed/)
+**🚗 Car news:** [All 20 BMW Art Cars Are Finally Together In One Place](https://www.motor1.com/news/803420/bmw-art-cars-welt/)
 
 **📜 On this day, -30:** Octavian (later known as Augustus) enters Alexandria, Egypt, executes Marcus Antonius Antyllus, and brings the city under the control of the Roman Republic. (date is O.S.) — [Augustus](https://en.wikipedia.org/wiki/Augustus)
 
