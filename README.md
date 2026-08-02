@@ -35,23 +35,23 @@ python daily_update.py
 Only the Python standard library is used — nothing to install.
 
 <!-- LATEST:START -->
-### 📅 Latest snapshot — 2026-08-01
+### 📅 Latest snapshot — 2026-08-02
 
-> *"Expect the best of yourself, and then do what is necessary to make it a reality."* — **Ralph Marston**
+> *"Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present."* — **Joan Rivers**
 
 **Crypto (USD)**
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $62,875 | +0.11% |
-| Ethereum | $1,866.95 | +0.25% |
-| Solana | $72.66 | -0.79% |
+| Bitcoin | $63,404 | +0.63% |
+| Ethereum | $1,875.71 | +0.43% |
+| Solana | $73.51 | +0.81% |
 
-**🔭 NASA:** [Buck Moon and Belt of Venus](https://apod.nasa.gov/apod/image/2608/FullMoon28-7-2026BrankoNadj1024.jpg)
+**🔭 NASA:** [A Fire Rainbow over West Virginia](https://apod.nasa.gov/apod/image/2608/FireRainbow_Harbig_960.jpg)
 
 **🚗 Car news:** [All 20 BMW Art Cars Are Finally Together In One Place](https://www.motor1.com/news/803420/bmw-art-cars-welt/)
 
-**📜 On this day, -30:** Octavian (later known as Augustus) enters Alexandria, Egypt, executes Marcus Antonius Antyllus, and brings the city under the control of the Roman Republic. (date is O.S.) — [Augustus](https://en.wikipedia.org/wiki/Augustus)
+**📜 On this day, -338:** A Macedonian army led by Philip II defeated the combined forces of Athens and Thebes in the Battle of Chaeronea, securing Macedonian hegemony in Greece and the Aegean. — [Ancient Macedonian army](https://en.wikipedia.org/wiki/Ancient_Macedonian_army)
 
 **🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 7 repos · 0 followers
 
