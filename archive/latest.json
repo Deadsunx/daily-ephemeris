@@ -1,11 +1,11 @@
 {
   "date": "2026-08-02",
-  "fetched_at": "2026-08-02T06:27:48.336507+00:00",
+  "fetched_at": "2026-08-02T16:56:16.580688+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 63404,
-      "usd_24h_change": 0.63,
-      "usd_market_cap": 1272113167187.5452,
+      "usd": 63135,
+      "usd_24h_change": 0.41,
+      "usd_market_cap": 1266787463026.488,
       "spark": [
         62553.61,
         63088.41,
@@ -37,13 +37,13 @@
         64776.94,
         62896.51,
         62772.58,
-        63415.3
+        63134.6
       ]
     },
     "ethereum": {
-      "usd": 1875.71,
-      "usd_24h_change": 0.43,
-      "usd_market_cap": 226343046778.40985,
+      "usd": 1862.06,
+      "usd_24h_change": -0.26,
+      "usd_market_cap": 224701337975.91034,
       "spark": [
         1756.98,
         1779.91,
@@ -75,13 +75,13 @@
         1918.76,
         1863.14,
         1843.44,
-        1875.95
+        1861.89
       ]
     },
     "solana": {
-      "usd": 73.51,
-      "usd_24h_change": 0.81,
-      "usd_market_cap": 42712913808.963524,
+      "usd": 73.13,
+      "usd_24h_change": 0.59,
+      "usd_market_cap": 42499805587.69062,
       "spark": [
         82.29,
         81.7,
@@ -113,7 +113,7 @@
         74.52,
         72.88,
         71.89,
-        73.52
+        73.12
       ]
     }
   },
@@ -129,13 +129,13 @@
     "thumbnail_url": null
   },
   "car_news": {
-    "headline": "All 20 BMW Art Cars Are Finally Together In One Place",
-    "url": "https://www.motor1.com/news/803420/bmw-art-cars-welt/",
+    "headline": "Lotus Explains Why It Didn't Bring Its Electric SUV To America",
+    "url": "https://www.motor1.com/news/803425/lotus-electric-suv-not-sold-in-american/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {
     "year": -338,
-    "text": "A Macedonian army led by Philip II defeated the combined forces of Athens and Thebes in the Battle of Chaeronea, securing Macedonian hegemony in Greece and the Aegean.",
+    "text": "A Macedonian army led by Philip II defeats the combined forces of Athens and Thebes in the Battle of Chaeronea, securing Macedonian hegemony in Greece and the Aegean.",
     "title": "Ancient Macedonian army",
     "url": "https://en.wikipedia.org/wiki/Ancient_Macedonian_army"
   },

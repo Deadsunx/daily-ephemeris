@@ -43,15 +43,15 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $63,404 | +0.63% |
-| Ethereum | $1,875.71 | +0.43% |
-| Solana | $73.51 | +0.81% |
+| Bitcoin | $63,135 | +0.41% |
+| Ethereum | $1,862.06 | -0.26% |
+| Solana | $73.13 | +0.59% |
 
 **🔭 NASA:** [A Fire Rainbow over West Virginia](https://apod.nasa.gov/apod/image/2608/FireRainbow_Harbig_960.jpg)
 
-**🚗 Car news:** [All 20 BMW Art Cars Are Finally Together In One Place](https://www.motor1.com/news/803420/bmw-art-cars-welt/)
+**🚗 Car news:** [Lotus Explains Why It Didn't Bring Its Electric SUV To America](https://www.motor1.com/news/803425/lotus-electric-suv-not-sold-in-american/)
 
-**📜 On this day, -338:** A Macedonian army led by Philip II defeated the combined forces of Athens and Thebes in the Battle of Chaeronea, securing Macedonian hegemony in Greece and the Aegean. — [Ancient Macedonian army](https://en.wikipedia.org/wiki/Ancient_Macedonian_army)
+**📜 On this day, -338:** A Macedonian army led by Philip II defeats the combined forces of Athens and Thebes in the Battle of Chaeronea, securing Macedonian hegemony in Greece and the Aegean. — [Ancient Macedonian army](https://en.wikipedia.org/wiki/Ancient_Macedonian_army)
 
 **🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 7 repos · 0 followers
 
