@@ -116,8 +116,8 @@
   .theme-toggle:hover { color: var(--brass-bright); border-color: var(--brass); }
 
   /* ---------- masthead ---------- */
-  .masthead { position: relative; min-height: 100vh; display: flex; flex-direction: column; justify-content: center; padding: clamp(2.5rem, 7vw, 5.5rem) 0 clamp(4rem, 10vh, 6rem); border-bottom: 1px solid var(--line); }
-  .dial { position: absolute; top: 0; bottom: 0; margin: auto 0; right: clamp(-4rem, -2vw, 0rem); width: clamp(220px, 34vw, 380px); height: clamp(220px, 34vw, 380px); opacity: 0.5; pointer-events: none; }
+  .masthead { position: relative; min-height: 100vh; display: flex; flex-direction: column; justify-content: center; padding: clamp(2rem, 5vh, 4rem) 0 clamp(9rem, 22vh, 14rem); border-bottom: 1px solid var(--line); }
+  .dial { position: absolute; top: clamp(2rem, 5vh, 4rem); bottom: clamp(9rem, 22vh, 14rem); margin: auto 0; right: clamp(-4rem, -2vw, 0rem); width: clamp(220px, 34vw, 380px); height: clamp(220px, 34vw, 380px); opacity: 0.5; pointer-events: none; }
   .scroll-cue { position: absolute; left: 50%; bottom: clamp(1.6rem, 4vh, 3rem); transform: translateX(-50%); display: flex; flex-direction: column; align-items: center; gap: 0.5rem; font-family: "Space Mono", monospace; font-size: 0.6rem; letter-spacing: 0.28em; text-transform: uppercase; color: var(--brass); }
   .scroll-cue .arrow { font-size: 1.05rem; animation: cueBob 2.2s ease-in-out infinite; }
   @keyframes cueBob { 0%, 100% { transform: translateY(0); opacity: 0.45; } 50% { transform: translateY(6px); opacity: 1; } }
