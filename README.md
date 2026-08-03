@@ -43,13 +43,13 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $62,598 | -1.31% |
-| Ethereum | $1,848.93 | -1.38% |
-| Solana | $72.56 | -1.13% |
+| Bitcoin | $63,855 | +0.92% |
+| Ethereum | $1,868.11 | +0.03% |
+| Solana | $73.67 | +0.48% |
 
 **🔭 NASA:** [Vaporizing Meteor Photobombs the Lacerta Nebula](https://apod.nasa.gov/apod/image/2608/MeteorGecko_Burnett_1080.jpg)
 
-**🚗 Car news:** [BMW’s Next M3 Touring Gets A Codename And A Possible US Passport](https://www.motor1.com/news/803496/bmw-m3-touring-g88-us-possible/)
+**🚗 Car news:** [Lamborghini Honors A Legendary Supercar With Some Fancy Paint](https://www.motor1.com/news/803585/lamborghini-revuelto-miura-homage-package/)
 
 **📜 On this day, 8:** Roman Empire general Tiberius defeats the Dalmatae on the river Bosna. — [0s](https://en.wikipedia.org/wiki/0s)
 

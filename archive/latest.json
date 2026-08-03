@@ -1,11 +1,11 @@
 {
   "date": "2026-08-03",
-  "fetched_at": "2026-08-03T06:53:37.074688+00:00",
+  "fetched_at": "2026-08-03T17:49:10.784234+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 62598,
-      "usd_24h_change": -1.31,
-      "usd_market_cap": 1255974059298.1045,
+      "usd": 63855,
+      "usd_24h_change": 0.92,
+      "usd_market_cap": 1281260775412.7693,
       "spark": [
         63088.41,
         63586.1,
@@ -36,13 +36,13 @@
         64776.94,
         62896.51,
         62802.63,
-        62608.37
+        63871.1
       ]
     },
     "ethereum": {
-      "usd": 1848.93,
-      "usd_24h_change": -1.38,
-      "usd_market_cap": 223136973824.46295,
+      "usd": 1868.11,
+      "usd_24h_change": 0.03,
+      "usd_market_cap": 225447757969.5513,
       "spark": [
         1779.91,
         1784.26,
@@ -73,13 +73,13 @@
         1918.76,
         1863.14,
         1844.61,
-        1849.39
+        1868.5
       ]
     },
     "solana": {
-      "usd": 72.56,
-      "usd_24h_change": -1.13,
-      "usd_market_cap": 42174527068.49123,
+      "usd": 73.67,
+      "usd_24h_change": 0.48,
+      "usd_market_cap": 42817106651.49151,
       "spark": [
         81.7,
         81.52,
@@ -110,7 +110,7 @@
         74.52,
         72.88,
         71.89,
-        72.59
+        73.69
       ]
     }
   },
@@ -126,8 +126,8 @@
     "thumbnail_url": null
   },
   "car_news": {
-    "headline": "BMW\u2019s Next M3 Touring Gets A Codename And A Possible US Passport",
-    "url": "https://www.motor1.com/news/803496/bmw-m3-touring-g88-us-possible/",
+    "headline": "Lamborghini Honors A Legendary Supercar With Some Fancy Paint",
+    "url": "https://www.motor1.com/news/803585/lamborghini-revuelto-miura-homage-package/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {
