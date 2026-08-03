@@ -271,6 +271,8 @@
   .ledger-row .no { font-family: "Space Mono", monospace; font-size: 0.78rem; color: var(--brass); }
   .ledger-row .date { font-family: "Fraunces", serif; font-size: 1.1rem; color: var(--star); }
   .ledger-empty { color: var(--bone-dim); font-family: "Space Mono", monospace; font-size: 0.8rem; padding: 1rem 0.4rem; }
+  .ledger-month { font-family: "Space Mono", monospace; font-size: 0.62rem; letter-spacing: 0.24em; text-transform: uppercase; color: var(--brass); padding: 1.3rem 0.4rem 0.55rem; }
+  .ledger-month:first-child { padding-top: 0.2rem; }
   .ledger-more { display: block; width: 100%; margin-top: 1rem; padding: 0.85rem; background: none; border: 1px solid var(--line); border-radius: 3px; color: var(--brass); font-family: "Space Mono", monospace; font-size: 0.7rem; letter-spacing: 0.14em; text-transform: uppercase; cursor: pointer; transition: color .15s, border-color .15s, background .15s; }
   .ledger-more:hover { color: var(--brass-bright); border-color: var(--brass); background: color-mix(in srgb, var(--brass) 6%, transparent); }
   .glyphs { display: flex; gap: 0.45rem; font-family: "Space Mono", monospace; font-size: 0.72rem; }
@@ -707,7 +709,20 @@
       ? filtered.length + " of " + total + (total === 1 ? " entry" : " entries")
       : total + (total === 1 ? " entry" : " entries");
 
+    // Month headers, but only once the list actually spans more than one month.
+    const monthKey = (d) => d.getUTCFullYear() + "-" + d.getUTCMonth();
+    const showHeaders = new Set(view.map((v) => monthKey(v.d))).size > 1;
+    let lastMonth = null;
+
     for (const { i, e, cap, d } of view) {
+      if (showHeaders && monthKey(d) !== lastMonth) {
+        lastMonth = monthKey(d);
+        const h = document.createElement("div");
+        h.className = "ledger-month";
+        h.setAttribute("role", "presentation");
+        h.textContent = MONTHS[d.getUTCMonth()] + " " + d.getUTCFullYear();
+        list.appendChild(h);
+      }
       const row = document.createElement("button");
       row.className = "ledger-row" + (i === currentIndex ? " active" : "");
       row.setAttribute("role", "listitem");
