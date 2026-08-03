@@ -271,6 +271,8 @@
   .ledger-row .no { font-family: "Space Mono", monospace; font-size: 0.78rem; color: var(--brass); }
   .ledger-row .date { font-family: "Fraunces", serif; font-size: 1.1rem; color: var(--star); }
   .ledger-empty { color: var(--bone-dim); font-family: "Space Mono", monospace; font-size: 0.8rem; padding: 1rem 0.4rem; }
+  .ledger-more { display: block; width: 100%; margin-top: 1rem; padding: 0.85rem; background: none; border: 1px solid var(--line); border-radius: 3px; color: var(--brass); font-family: "Space Mono", monospace; font-size: 0.7rem; letter-spacing: 0.14em; text-transform: uppercase; cursor: pointer; transition: color .15s, border-color .15s, background .15s; }
+  .ledger-more:hover { color: var(--brass-bright); border-color: var(--brass); background: color-mix(in srgb, var(--brass) 6%, transparent); }
   .glyphs { display: flex; gap: 0.45rem; font-family: "Space Mono", monospace; font-size: 0.72rem; }
   .glyph { color: var(--bone-dim); }
   .glyph.on { color: var(--patina); }
@@ -434,6 +436,7 @@
       </div>
     </div>
     <div class="ledger-list" id="ledger-list" role="list"></div>
+    <button class="ledger-more" id="ledger-more" style="display:none"></button>
   </section>
 
   <footer>
@@ -678,20 +681,33 @@
     $("gh-since").textContent = gh.created_at ? "Charting since " + new Date(gh.created_at).getUTCFullYear() : "";
   }
 
+  const LEDGER_INITIAL = 8, LEDGER_STEP = 14;
+  let ledgerLimit = LEDGER_INITIAL;
+
   function renderLedger() {
     const list = $("ledger-list"); list.innerHTML = "";
     const term = ($("ledger-search").value || "").trim().toLowerCase();
     const incompleteOnly = $("ledger-incomplete").checked;
     const total = indexEntries.length;
-    $("ledger-count").textContent = total + (total === 1 ? " entry" : " entries");
+    const filtering = !!term || incompleteOnly;
 
-    let shown = 0;
+    // Filtered, newest-first.
+    const filtered = [];
     for (let i = total - 1; i >= 0; i--) {
       const e = indexEntries[i], cap = e.captured || [];
       const d = new Date(e.date + "T00:00:00Z");
-      const label = shortDate(d).toLowerCase();
-      if (term && !(e.date.includes(term) || label.includes(term))) continue;
+      if (term && !(e.date.includes(term) || shortDate(d).toLowerCase().includes(term))) continue;
       if (incompleteOnly && cap.length >= TOTAL_READINGS) continue;
+      filtered.push({ i, e, cap, d });
+    }
+
+    // When filtering, show every match; otherwise cap at the current limit.
+    const view = filtering ? filtered : filtered.slice(0, Math.min(ledgerLimit, filtered.length));
+    $("ledger-count").textContent = filtering
+      ? filtered.length + " of " + total + (total === 1 ? " entry" : " entries")
+      : total + (total === 1 ? " entry" : " entries");
+
+    for (const { i, e, cap, d } of view) {
       const row = document.createElement("button");
       row.className = "ledger-row" + (i === currentIndex ? " active" : "");
       row.setAttribute("role", "listitem");
@@ -700,9 +716,26 @@
         '<span class="date">' + shortDate(d) + '</span>' +
         '<span class="glyphs">' + glyph("nasa","✦") + glyph("quote","❝") + glyph("crypto","$") + glyph("car_news","⌘") + glyph("onthisday","📜") + glyph("github","🐙") + '</span>';
       row.addEventListener("click", () => loadDay(e.date));
-      list.appendChild(row); shown++;
+      list.appendChild(row);
     }
-    if (!shown) { const p = document.createElement("div"); p.className = "ledger-empty"; p.textContent = "No days match that filter."; list.appendChild(p); }
+    if (!filtered.length) { const p = document.createElement("div"); p.className = "ledger-empty"; p.textContent = "No days match that filter."; list.appendChild(p); }
+
+    // Show more / show less control.
+    const more = $("ledger-more");
+    if (filtering) {
+      more.style.display = "none";
+    } else if (view.length < filtered.length) {
+      const rem = filtered.length - view.length;
+      more.style.display = "";
+      more.dataset.mode = "more";
+      more.textContent = "Show " + Math.min(LEDGER_STEP, rem) + " more  ▾   ·   " + view.length + " of " + filtered.length;
+    } else if (filtered.length > LEDGER_INITIAL) {
+      more.style.display = "";
+      more.dataset.mode = "less";
+      more.textContent = "Show less  ▴";
+    } else {
+      more.style.display = "none";
+    }
   }
 
   function renderCalendar() {
@@ -795,6 +828,11 @@
     $("next-day").addEventListener("click", () => step(1));
     $("ledger-search").addEventListener("input", renderLedger);
     $("ledger-incomplete").addEventListener("change", renderLedger);
+    $("ledger-more").addEventListener("click", () => {
+      if ($("ledger-more").dataset.mode === "less") ledgerLimit = LEDGER_INITIAL;
+      else ledgerLimit += LEDGER_STEP;
+      renderLedger();
+    });
     addEventListener("keydown", (e) => {
       if (e.target && /INPUT|TEXTAREA/.test(e.target.tagName)) return;
       if (e.key === "ArrowLeft") step(-1); else if (e.key === "ArrowRight") step(1);
