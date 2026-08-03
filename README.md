@@ -35,23 +35,23 @@ python daily_update.py
 Only the Python standard library is used — nothing to install.
 
 <!-- LATEST:START -->
-### 📅 Latest snapshot — 2026-08-02
+### 📅 Latest snapshot — 2026-08-03
 
-> *"Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present."* — **Joan Rivers**
+> *"It all depends on what you choose to believe."* — **Spencer Johnson**
 
 **Crypto (USD)**
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $63,135 | +0.41% |
-| Ethereum | $1,862.06 | -0.26% |
-| Solana | $73.13 | +0.59% |
+| Bitcoin | $62,598 | -1.31% |
+| Ethereum | $1,848.93 | -1.38% |
+| Solana | $72.56 | -1.13% |
 
-**🔭 NASA:** [A Fire Rainbow over West Virginia](https://apod.nasa.gov/apod/image/2608/FireRainbow_Harbig_960.jpg)
+**🔭 NASA:** [Vaporizing Meteor Photobombs the Lacerta Nebula](https://apod.nasa.gov/apod/image/2608/MeteorGecko_Burnett_1080.jpg)
 
-**🚗 Car news:** [Lotus Explains Why It Didn't Bring Its Electric SUV To America](https://www.motor1.com/news/803425/lotus-electric-suv-not-sold-in-american/)
+**🚗 Car news:** [BMW’s Next M3 Touring Gets A Codename And A Possible US Passport](https://www.motor1.com/news/803496/bmw-m3-touring-g88-us-possible/)
 
-**📜 On this day, -338:** A Macedonian army led by Philip II defeats the combined forces of Athens and Thebes in the Battle of Chaeronea, securing Macedonian hegemony in Greece and the Aegean. — [Ancient Macedonian army](https://en.wikipedia.org/wiki/Ancient_Macedonian_army)
+**📜 On this day, 8:** Roman Empire general Tiberius defeats the Dalmatae on the river Bosna. — [0s](https://en.wikipedia.org/wiki/0s)
 
 **🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 7 repos · 0 followers
 
