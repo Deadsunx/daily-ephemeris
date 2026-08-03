@@ -1000,12 +1000,18 @@
 
   // 2) Scroll parallax (depth) — skip heavy scrubs on touch devices
   if (!coarse) {
+    // Far-background nebula drifts across the whole page.
     gsap.to(".sky-bg", { yPercent: 12, ease: "none",
       scrollTrigger: { trigger: document.body, start: "top top", end: "bottom bottom", scrub: true } });
-    gsap.to(".dial", { yPercent: 45, rotation: 30, ease: "none",
-      scrollTrigger: { trigger: ".masthead", start: "top top", end: "bottom top", scrub: true } });
-    gsap.to("h1.title", { yPercent: -45, ease: "none",
-      scrollTrigger: { trigger: ".masthead", start: "top top", end: "bottom top", scrub: true } });
+
+    // Pinned hero: the masthead locks while the title recedes and the dial turns,
+    // then releases into the readings (Apple-style pinned scrub).
+    var heroTl = gsap.timeline({ scrollTrigger: {
+      trigger: ".masthead", start: "top top", end: "+=80%", pin: true, pinSpacing: true, scrub: true } });
+    heroTl
+      .to("h1.title", { yPercent: -22, scale: 0.9, opacity: 0.12, ease: "none" }, 0)
+      .to(".dial",    { rotation: 45, yPercent: 18, opacity: 0.12, ease: "none" }, 0)
+      .to(".meta",    { opacity: 0, y: -12, ease: "none" }, 0);
   }
 
   // 3) Reading panels: reveal on scroll (fade + rise + clip-path birth)
