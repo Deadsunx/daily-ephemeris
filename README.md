@@ -35,23 +35,23 @@ python daily_update.py
 Only the Python standard library is used — nothing to install.
 
 <!-- LATEST:START -->
-### 📅 Latest snapshot — 2026-08-03
+### 📅 Latest snapshot — 2026-08-04
 
-> *"It all depends on what you choose to believe."* — **Spencer Johnson**
+> *"Love never keeps a man from pursuing his destiny."* — **Paulo Coelho**
 
 **Crypto (USD)**
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $63,855 | +0.92% |
-| Ethereum | $1,868.11 | +0.03% |
-| Solana | $73.67 | +0.48% |
+| Bitcoin | $63,798 | +1.67% |
+| Ethereum | $1,865.0 | +0.44% |
+| Solana | $73.81 | +1.37% |
 
-**🔭 NASA:** [Vaporizing Meteor Photobombs the Lacerta Nebula](https://apod.nasa.gov/apod/image/2608/MeteorGecko_Burnett_1080.jpg)
+**🔭 NASA:** [Curious Cometary Knots in the Helix Nebula](https://apod.nasa.gov/apod/image/2608/HelixKnots_JWST_960.jpg)
 
-**🚗 Car news:** [Lamborghini Honors A Legendary Supercar With Some Fancy Paint](https://www.motor1.com/news/803585/lamborghini-revuelto-miura-homage-package/)
+**🚗 Car news:** [Hyundai Had Another Record Sales Month Thanks To Hybrids](https://www.motor1.com/news/803621/hyundai-july-2026-record-sales-results/)
 
-**📜 On this day, 8:** Roman Empire general Tiberius defeats the Dalmatae on the river Bosna. — [0s](https://en.wikipedia.org/wiki/0s)
+**📜 On this day, -70:** The trial against Gaius Verres for corruption is opened, with Marcus Tullius Cicero as prosecutor and renowned orator Quintus Hortensius as defending lawyer. — [Gaius Verres](https://en.wikipedia.org/wiki/Gaius_Verres)
 
 **🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 7 repos · 0 followers
 
