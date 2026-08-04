@@ -43,13 +43,13 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $63,798 | +1.67% |
-| Ethereum | $1,865.0 | +0.44% |
-| Solana | $73.81 | +1.37% |
+| Bitcoin | $64,069 | +0.35% |
+| Ethereum | $1,874.9 | +0.36% |
+| Solana | $74.03 | +0.49% |
 
 **🔭 NASA:** [Curious Cometary Knots in the Helix Nebula](https://apod.nasa.gov/apod/image/2608/HelixKnots_JWST_960.jpg)
 
-**🚗 Car news:** [Hyundai Had Another Record Sales Month Thanks To Hybrids](https://www.motor1.com/news/803621/hyundai-july-2026-record-sales-results/)
+**🚗 Car news:** [Watch A Honda Prelude Tackle The Infamous Moose Test](https://www.motor1.com/news/803752/honda-prelude-passes-moose-test/)
 
 **📜 On this day, -70:** The trial against Gaius Verres for corruption is opened, with Marcus Tullius Cicero as prosecutor and renowned orator Quintus Hortensius as defending lawyer. — [Gaius Verres](https://en.wikipedia.org/wiki/Gaius_Verres)
 

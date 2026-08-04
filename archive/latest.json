@@ -1,11 +1,11 @@
 {
   "date": "2026-08-04",
-  "fetched_at": "2026-08-04T06:21:37.209100+00:00",
+  "fetched_at": "2026-08-04T17:46:52.203880+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 63798,
-      "usd_24h_change": 1.67,
-      "usd_market_cap": 1279986549812.3977,
+      "usd": 64069,
+      "usd_24h_change": 0.35,
+      "usd_market_cap": 1285590634951.319,
       "spark": [
         63586.1,
         64001.24,
@@ -37,13 +37,13 @@
         62802.63,
         63466.47,
         63465.2,
-        63798.36
+        64068.93
       ]
     },
     "ethereum": {
-      "usd": 1865.0,
-      "usd_24h_change": 0.44,
-      "usd_market_cap": 225072780691.64526,
+      "usd": 1874.9,
+      "usd_24h_change": 0.36,
+      "usd_market_cap": 226267395261.69632,
       "spark": [
         1784.26,
         1798.56,
@@ -75,13 +75,13 @@
         1844.61,
         1881.71,
         1858.54,
-        1865.0
+        1874.9
       ]
     },
     "solana": {
-      "usd": 73.81,
-      "usd_24h_change": 1.37,
-      "usd_market_cap": 42884750396.79068,
+      "usd": 74.03,
+      "usd_24h_change": 0.49,
+      "usd_market_cap": 43035046036.703125,
       "spark": [
         81.52,
         81.89,
@@ -113,7 +113,7 @@
         71.89,
         73.49,
         73.49,
-        73.79
+        74.01
       ]
     }
   },
@@ -129,8 +129,8 @@
     "thumbnail_url": null
   },
   "car_news": {
-    "headline": "Hyundai Had Another Record Sales Month Thanks To Hybrids",
-    "url": "https://www.motor1.com/news/803621/hyundai-july-2026-record-sales-results/",
+    "headline": "Watch A Honda Prelude Tackle The Infamous Moose Test",
+    "url": "https://www.motor1.com/news/803752/honda-prelude-passes-moose-test/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {
