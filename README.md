@@ -43,13 +43,13 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $64,144 | +1.05% |
-| Ethereum | $1,872.21 | +1.06% |
-| Solana | $74.12 | +1.3% |
+| Bitcoin | $64,523 | +0.81% |
+| Ethereum | $1,890.66 | +1.08% |
+| Solana | $74.14 | +0.29% |
 
 **🔭 NASA:** [Spokes on Saturn's B Ring](https://apod.nasa.gov/apod/image/2608/saturn_spokes.gif)
 
-**🚗 Car news:** [Toyota’s New V8 Supercar Might Be Seriously Rare](https://www.motor1.com/news/803819/toyota-gr-gt-v8-supercar-targa/)
+**🚗 Car news:** [Car Buyers Don’t Want More Tech. They Just Want Heated Seats](https://www.motor1.com/news/803908/most-wanted-new-car-features/)
 
 **📜 On this day, 25:** Guangwu claims the throne as Emperor of China, restoring the Han dynasty after the collapse of the short-lived Xin dynasty. — [20s](https://en.wikipedia.org/wiki/20s)
 
