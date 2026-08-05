@@ -231,23 +231,38 @@ def write_index() -> None:
     web page's ledger can show at a glance what was captured.
     """
     entries = []
+    summary = []
     for path in sorted(ARCHIVE.glob("*.json")):
-        if path.stem in ("latest", "index"):
+        if path.stem in ("latest", "index", "summary"):
             continue
         try:
             day = json.loads(path.read_text(encoding="utf-8"))
         except Exception:
             continue
+        date = day.get("date", path.stem)
         ok = [
             name
             for name in READINGS
             if isinstance(day.get(name), dict) and "error" not in day[name]
         ]
-        entries.append({"date": day.get("date", path.stem), "captured": ok})
-    (ARCHIVE / "index.json").write_text(
-        json.dumps(entries, indent=2), encoding="utf-8"
-    )
-    print(f"wrote index with {len(entries)} entries")
+        entries.append({"date": date, "captured": ok})
+
+        # Lightweight per-day record for the Almanac / quote wall / search.
+        def clean(section):
+            v = day.get(section)
+            return v if isinstance(v, dict) and "error" not in v else {}
+        q, n, c, o = clean("quote"), clean("nasa"), clean("car_news"), clean("onthisday")
+        summary.append({
+            "date": date,
+            "quote": {"text": q.get("text"), "author": q.get("author")} if q else None,
+            "nasa": {"title": n.get("title"), "media_type": n.get("media_type")} if n else None,
+            "car": c.get("headline") if c else None,
+            "onthisday": {"year": o.get("year"), "title": o.get("title")} if o else None,
+        })
+
+    (ARCHIVE / "index.json").write_text(json.dumps(entries, indent=2), encoding="utf-8")
+    (ARCHIVE / "summary.json").write_text(json.dumps(summary, indent=2), encoding="utf-8")
+    print(f"wrote index + summary with {len(entries)} entries")
 
 
 CSV_HEADER = ["date", "coin", "usd", "usd_24h_change", "usd_market_cap"]

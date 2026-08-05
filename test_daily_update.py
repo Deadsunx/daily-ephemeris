@@ -60,7 +60,10 @@ class TestArchive(unittest.TestCase):
     def test_write_index_tracks_captured(self):
         dd.ARCHIVE.mkdir(parents=True)
         (dd.ARCHIVE / "2026-07-23.json").write_text(
-            json.dumps({"date": "2026-07-23", "crypto": {"usd": 1}, "quote": {"error": "down"}}),
+            json.dumps({
+                "date": "2026-07-23", "crypto": {"usd": 1}, "quote": {"error": "down"},
+                "nasa": {"title": "LMC", "media_type": "image"},
+            }),
             encoding="utf-8",
         )
         dd.write_index()
@@ -69,6 +72,24 @@ class TestArchive(unittest.TestCase):
         self.assertEqual(idx[0]["date"], "2026-07-23")
         self.assertIn("crypto", idx[0]["captured"])       # ok reading counted
         self.assertNotIn("quote", idx[0]["captured"])     # errored reading excluded
+
+    def test_write_index_also_writes_summary(self):
+        dd.ARCHIVE.mkdir(parents=True)
+        (dd.ARCHIVE / "2026-07-23.json").write_text(
+            json.dumps({
+                "date": "2026-07-23",
+                "quote": {"text": "Hi", "author": "Me"},
+                "nasa": {"title": "LMC", "media_type": "image"},
+                "car_news": {"error": "down"},
+            }),
+            encoding="utf-8",
+        )
+        dd.write_index()
+        summ = json.loads((dd.ARCHIVE / "summary.json").read_text(encoding="utf-8"))
+        self.assertEqual(len(summ), 1)
+        self.assertEqual(summ[0]["quote"]["author"], "Me")
+        self.assertEqual(summ[0]["nasa"]["title"], "LMC")
+        self.assertIsNone(summ[0]["car"])                 # errored reading -> None
 
 
 if __name__ == "__main__":

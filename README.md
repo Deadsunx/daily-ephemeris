@@ -35,23 +35,23 @@ python daily_update.py
 Only the Python standard library is used — nothing to install.
 
 <!-- LATEST:START -->
-### 📅 Latest snapshot — 2026-08-03
+### 📅 Latest snapshot — 2026-08-05
 
-> *"It all depends on what you choose to believe."* — **Spencer Johnson**
+> *"It is the nature of the wise to resist pleasures, but the foolish to be a slave to them."* — **Epictetus**
 
 **Crypto (USD)**
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $62,598 | -1.31% |
-| Ethereum | $1,848.93 | -1.38% |
-| Solana | $72.56 | -1.13% |
+| Bitcoin | $64,131 | +0.94% |
+| Ethereum | $1,872.49 | +0.97% |
+| Solana | $74.13 | +1.27% |
 
-**🔭 NASA:** [Vaporizing Meteor Photobombs the Lacerta Nebula](https://apod.nasa.gov/apod/image/2608/MeteorGecko_Burnett_1080.jpg)
+**🔭 NASA:** [Spokes on Saturn's B Ring](https://apod.nasa.gov/apod/image/2608/saturn_spokes.gif)
 
-**🚗 Car news:** [BMW’s Next M3 Touring Gets A Codename And A Possible US Passport](https://www.motor1.com/news/803496/bmw-m3-touring-g88-us-possible/)
+**🚗 Car news:** [Toyota’s New V8 Supercar Might Be Seriously Rare](https://www.motor1.com/news/803819/toyota-gr-gt-v8-supercar-targa/)
 
-**📜 On this day, 8:** Roman Empire general Tiberius defeats the Dalmatae on the river Bosna. — [0s](https://en.wikipedia.org/wiki/0s)
+**📜 On this day, 25:** Guangwu claims the throne as Emperor of China, restoring the Han dynasty after the collapse of the short-lived Xin dynasty. — [20s](https://en.wikipedia.org/wiki/20s)
 
 **🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 7 repos · 0 followers
 
