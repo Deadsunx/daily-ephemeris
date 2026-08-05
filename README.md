@@ -35,23 +35,23 @@ python daily_update.py
 Only the Python standard library is used — nothing to install.
 
 <!-- LATEST:START -->
-### 📅 Latest snapshot — 2026-08-04
+### 📅 Latest snapshot — 2026-08-05
 
-> *"Love never keeps a man from pursuing his destiny."* — **Paulo Coelho**
+> *"It is the nature of the wise to resist pleasures, but the foolish to be a slave to them."* — **Epictetus**
 
 **Crypto (USD)**
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $64,069 | +0.35% |
-| Ethereum | $1,874.9 | +0.36% |
-| Solana | $74.03 | +0.49% |
+| Bitcoin | $64,263 | +0.72% |
+| Ethereum | $1,869.66 | +0.26% |
+| Solana | $74.05 | +0.34% |
 
-**🔭 NASA:** [Curious Cometary Knots in the Helix Nebula](https://apod.nasa.gov/apod/image/2608/HelixKnots_JWST_960.jpg)
+**🔭 NASA:** [Spokes on Saturn's B Ring](https://apod.nasa.gov/apod/image/2608/saturn_spokes.gif)
 
-**🚗 Car news:** [Watch A Honda Prelude Tackle The Infamous Moose Test](https://www.motor1.com/news/803752/honda-prelude-passes-moose-test/)
+**🚗 Car news:** [July Auto Sales Results: Winners And Losers](https://www.motor1.com/news/803767/july-auto-sales-winners-losers/)
 
-**📜 On this day, -70:** The trial against Gaius Verres for corruption is opened, with Marcus Tullius Cicero as prosecutor and renowned orator Quintus Hortensius as defending lawyer. — [Gaius Verres](https://en.wikipedia.org/wiki/Gaius_Verres)
+**📜 On this day, 25:** Guangwu claims the throne as Emperor of China, restoring the Han dynasty after the collapse of the short-lived Xin dynasty. — [20s](https://en.wikipedia.org/wiki/20s)
 
 **🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 7 repos · 0 followers
 
