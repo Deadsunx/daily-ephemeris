@@ -35,24 +35,24 @@ python daily_update.py
 Only the Python standard library is used — nothing to install.
 
 <!-- LATEST:START -->
-### 📅 Latest snapshot — 2026-08-05
+### 📅 Latest snapshot — 2026-08-06
 
-> *"It is the nature of the wise to resist pleasures, but the foolish to be a slave to them."* — **Epictetus**
+> *"Talk sense to a fool and he calls you foolish."* — **Euripides**
 
 **Crypto (USD)**
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $64,523 | +0.81% |
-| Ethereum | $1,890.66 | +1.08% |
-| Solana | $74.14 | +0.29% |
+| Bitcoin | $64,698 | +0.7% |
+| Ethereum | $1,908.71 | +2.15% |
+| Solana | $73.94 | -0.11% |
 
-**🔭 NASA:** [Spokes on Saturn's B Ring](https://apod.nasa.gov/apod/image/2608/saturn_spokes.gif)
+**🔭 NASA:** [New Sharpest Image of the Sun Uncovers Instability](https://apod.nasa.gov/apod/image/2608/SunFlowers_NSO_960.jpg)
 
-**🚗 Car news:** [Car Buyers Don’t Want More Tech. They Just Want Heated Seats](https://www.motor1.com/news/803908/most-wanted-new-car-features/)
+**🚗 Car news:** [Seven Dream Ferraris Are Headed To Auction, From the 288 GTO To The Luce](https://www.motor1.com/news/803757/rare-ferrari-auction-monterey-288-gto-luce/)
 
-**📜 On this day, 25:** Guangwu claims the throne as Emperor of China, restoring the Han dynasty after the collapse of the short-lived Xin dynasty. — [20s](https://en.wikipedia.org/wiki/20s)
+**📜 On this day, 258:** Pope Sixtus II is arrested while celebrating mass and then beheaded with several of his deacons. — [Pope Sixtus II](https://en.wikipedia.org/wiki/Pope_Sixtus_II)
 
-**🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 7 repos · 0 followers
+**🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 7 repos · 1 followers
 
 <!-- LATEST:END -->
