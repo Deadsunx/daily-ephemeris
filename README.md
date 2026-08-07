@@ -35,23 +35,23 @@ python daily_update.py
 Only the Python standard library is used — nothing to install.
 
 <!-- LATEST:START -->
-### 📅 Latest snapshot — 2026-08-06
+### 📅 Latest snapshot — 2026-08-07
 
-> *"Talk sense to a fool and he calls you foolish."* — **Euripides**
+> *"Ability is a poor man's wealth."* — **John Wooden**
 
 **Crypto (USD)**
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $64,698 | +0.7% |
-| Ethereum | $1,908.71 | +2.15% |
-| Solana | $73.94 | -0.11% |
+| Bitcoin | $64,129 | -1.14% |
+| Ethereum | $1,894.68 | -0.87% |
+| Solana | $72.53 | -2.13% |
 
-**🔭 NASA:** [New Sharpest Image of the Sun Uncovers Instability](https://apod.nasa.gov/apod/image/2608/SunFlowers_NSO_960.jpg)
+**🔭 NASA:** [Rubin's COSMOS field](https://apod.nasa.gov/apod/image/2608/noirlab2618b_1024.jpg)
 
-**🚗 Car news:** [Seven Dream Ferraris Are Headed To Auction, From the 288 GTO To The Luce](https://www.motor1.com/news/803757/rare-ferrari-auction-monterey-288-gto-luce/)
+**🚗 Car news:** [Porsche's Latest One-Off Is A Fair Dinkum Aussie Tribute](https://www.motor1.com/news/804092/porsche-one-off-aussie-tribute/)
 
-**📜 On this day, 258:** Pope Sixtus II is arrested while celebrating mass and then beheaded with several of his deacons. — [Pope Sixtus II](https://en.wikipedia.org/wiki/Pope_Sixtus_II)
+**📜 On this day, 461:** Roman Emperor Majorian is beheaded near the river Iria in north-west Italy following his arrest and deposition by the magister militum Ricimer. — [Majorian](https://en.wikipedia.org/wiki/Majorian)
 
 **🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 7 repos · 1 followers
 

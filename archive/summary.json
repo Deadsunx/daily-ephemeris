@@ -235,5 +235,21 @@
       "year": 258,
       "title": "Pope Sixtus II"
     }
+  },
+  {
+    "date": "2026-08-07",
+    "quote": {
+      "text": "Ability is a poor man's wealth.",
+      "author": "John Wooden"
+    },
+    "nasa": {
+      "title": "Rubin's COSMOS field",
+      "media_type": "image"
+    },
+    "car": "Porsche's Latest One-Off Is A Fair Dinkum Aussie Tribute",
+    "onthisday": {
+      "year": 461,
+      "title": "Majorian"
+    }
   }
 ]
