@@ -1,11 +1,11 @@
 {
   "date": "2026-08-07",
-  "fetched_at": "2026-08-07T05:29:09.248670+00:00",
+  "fetched_at": "2026-08-07T16:52:18.882633+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 64129,
-      "usd_24h_change": -1.14,
-      "usd_market_cap": 1286864264236.032,
+      "usd": 64878,
+      "usd_24h_change": 0.34,
+      "usd_market_cap": 1301908971796.0256,
       "spark": [
         62247.13,
         63192.88,
@@ -37,13 +37,13 @@
         64039.41,
         64574.31,
         64262.75,
-        64126.11
+        64872.96
       ]
     },
     "ethereum": {
-      "usd": 1894.68,
-      "usd_24h_change": -0.87,
-      "usd_market_cap": 228677219052.0163,
+      "usd": 1913.58,
+      "usd_24h_change": 0.02,
+      "usd_market_cap": 230935444082.34534,
       "spark": [
         1742.25,
         1744.7,
@@ -75,13 +75,13 @@
         1868.13,
         1906.36,
         1902.16,
-        1894.71
+        1913.51
       ]
     },
     "solana": {
-      "usd": 72.53,
-      "usd_24h_change": -2.13,
-      "usd_market_cap": 42223696133.55137,
+      "usd": 73.71,
+      "usd_24h_change": 0.46,
+      "usd_market_cap": 42901032689.2707,
       "spark": [
         77.79,
         77.99,
@@ -113,7 +113,7 @@
         73.69,
         74.01,
         72.63,
-        72.53
+        73.73
       ]
     }
   },
@@ -129,8 +129,8 @@
     "thumbnail_url": null
   },
   "car_news": {
-    "headline": "Porsche's Latest One-Off Is A Fair Dinkum Aussie Tribute",
-    "url": "https://www.motor1.com/news/804092/porsche-one-off-aussie-tribute/",
+    "headline": "Dodge Gives The 16-Year-Old Durango Special Colors And A  Two-Tone Concept",
+    "url": "https://www.motor1.com/news/804124/dodge-durango-smokescreen-concept/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {
@@ -143,7 +143,7 @@
     "login": "Deadsunx",
     "name": "Oumar Tirera",
     "public_repos": 7,
-    "followers": 1,
+    "followers": 2,
     "following": 6,
     "created_at": "2022-05-12T17:33:47Z",
     "html_url": "https://github.com/Deadsunx",

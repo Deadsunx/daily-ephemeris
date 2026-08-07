@@ -43,16 +43,16 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $64,129 | -1.14% |
-| Ethereum | $1,894.68 | -0.87% |
-| Solana | $72.53 | -2.13% |
+| Bitcoin | $64,878 | +0.34% |
+| Ethereum | $1,913.58 | +0.02% |
+| Solana | $73.71 | +0.46% |
 
 **🔭 NASA:** [Rubin's COSMOS field](https://apod.nasa.gov/apod/image/2608/noirlab2618b_1024.jpg)
 
-**🚗 Car news:** [Porsche's Latest One-Off Is A Fair Dinkum Aussie Tribute](https://www.motor1.com/news/804092/porsche-one-off-aussie-tribute/)
+**🚗 Car news:** [Dodge Gives The 16-Year-Old Durango Special Colors And A  Two-Tone Concept](https://www.motor1.com/news/804124/dodge-durango-smokescreen-concept/)
 
 **📜 On this day, 461:** Roman Emperor Majorian is beheaded near the river Iria in north-west Italy following his arrest and deposition by the magister militum Ricimer. — [Majorian](https://en.wikipedia.org/wiki/Majorian)
 
-**🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 7 repos · 1 followers
+**🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 7 repos · 2 followers
 
 <!-- LATEST:END -->
