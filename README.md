@@ -35,23 +35,23 @@ python daily_update.py
 Only the Python standard library is used — nothing to install.
 
 <!-- LATEST:START -->
-### 📅 Latest snapshot — 2026-08-07
+### 📅 Latest snapshot — 2026-08-08
 
-> *"Ability is a poor man's wealth."* — **John Wooden**
+> *"The greatest discovery of all time is that a person can change their future by merely changing their attitude."* — **Oprah Winfrey**
 
 **Crypto (USD)**
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $64,878 | +0.34% |
-| Ethereum | $1,913.58 | +0.02% |
-| Solana | $73.71 | +0.46% |
+| Bitcoin | $65,003 | +1.27% |
+| Ethereum | $1,917.12 | +1.12% |
+| Solana | $74.63 | +2.7% |
 
-**🔭 NASA:** [Rubin's COSMOS field](https://apod.nasa.gov/apod/image/2608/noirlab2618b_1024.jpg)
+**🔭 NASA:** [A Messier Moment for Tempel 2](https://apod.nasa.gov/apod/image/2608/10P_Tempel2_Globular_M30_20260729_DEBartlett600c.jpg)
 
-**🚗 Car news:** [Dodge Gives The 16-Year-Old Durango Special Colors And A  Two-Tone Concept](https://www.motor1.com/news/804124/dodge-durango-smokescreen-concept/)
+**🚗 Car news:** [Volkswagen Could Finally Build A Pickup Truck For America: Report](https://www.motor1.com/news/804220/volkswagen-considering-pickup-truck-us/)
 
-**📜 On this day, 461:** Roman Emperor Majorian is beheaded near the river Iria in north-west Italy following his arrest and deposition by the magister militum Ricimer. — [Majorian](https://en.wikipedia.org/wiki/Majorian)
+**📜 On this day, -685:** Spring and Autumn period: Battle of Qianshi: Upon the death of the previous Duke of Qi, Gongsun Wuzhi, Duke Zhuang of Lu sends an army into the Duchy of Qi to install the exiled Qi prince Gongzi Jiu as the new Duke of Qi – but is defeated at Qianshi by Jiu's brother and rival claimant, the newly inaugurated Duke Huan of Qi. — [Spring and Autumn period](https://en.wikipedia.org/wiki/Spring_and_Autumn_period)
 
 **🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 7 repos · 2 followers
 

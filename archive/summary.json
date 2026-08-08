@@ -251,5 +251,21 @@
       "year": 461,
       "title": "Majorian"
     }
+  },
+  {
+    "date": "2026-08-08",
+    "quote": {
+      "text": "The greatest discovery of all time is that a person can change their future by merely changing their attitude.",
+      "author": "Oprah Winfrey"
+    },
+    "nasa": {
+      "title": "A Messier Moment for Tempel 2",
+      "media_type": "image"
+    },
+    "car": "Volkswagen Could Finally Build A Pickup Truck For America: Report",
+    "onthisday": {
+      "year": -685,
+      "title": "Spring and Autumn period"
+    }
   }
 ]
