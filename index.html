@@ -27,7 +27,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com" />
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;1,9..144,400;1,9..144,500&family=Spectral:ital,wght@0,400;0,500;1,400&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet" />
-<script>document.documentElement.classList.add('cine');</script>
+<script>document.documentElement.classList.add('cine');try{if('scrollRestoration' in history)history.scrollRestoration='manual';}catch(e){}</script>
 <style>
   :root {
     --ink: #090E24;
@@ -1097,6 +1097,8 @@
   })();
 
   async function boot() {
+    window.scrollTo(0, 0);
+    addEventListener("load", () => window.scrollTo(0, 0));
     drawTicks();
     $("prev-day").addEventListener("click", () => step(-1));
     $("next-day").addEventListener("click", () => step(1));
