@@ -267,5 +267,21 @@
       "year": -685,
       "title": "Spring and Autumn period"
     }
+  },
+  {
+    "date": "2026-08-09",
+    "quote": {
+      "text": "Magic is believing in yourself, if you can do that, you can make anything happen.",
+      "author": "Johann Wolfgang von Goethe"
+    },
+    "nasa": {
+      "title": "Contemplating the Sun",
+      "media_type": "image"
+    },
+    "car": "Volkswagen Could Finally Build A Pickup Truck For America: Report",
+    "onthisday": {
+      "year": -48,
+      "title": "Caesar's civil war"
+    }
   }
 ]

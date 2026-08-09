@@ -35,23 +35,23 @@ python daily_update.py
 Only the Python standard library is used — nothing to install.
 
 <!-- LATEST:START -->
-### 📅 Latest snapshot — 2026-08-08
+### 📅 Latest snapshot — 2026-08-09
 
-> *"The greatest discovery of all time is that a person can change their future by merely changing their attitude."* — **Oprah Winfrey**
+> *"Magic is believing in yourself, if you can do that, you can make anything happen."* — **Johann Wolfgang von Goethe**
 
 **Crypto (USD)**
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $65,033 | +0.24% |
-| Ethereum | $1,921.32 | +0.39% |
-| Solana | $76.25 | +3.29% |
+| Bitcoin | $64,741 | -0.36% |
+| Ethereum | $1,911.55 | -0.22% |
+| Solana | $75.91 | +1.76% |
 
-**🔭 NASA:** [A Messier Moment for Tempel 2](https://apod.nasa.gov/apod/image/2608/10P_Tempel2_Globular_M30_20260729_DEBartlett600c.jpg)
+**🔭 NASA:** [Contemplating the Sun](https://apod.nasa.gov/apod/image/2608/sunsilhouettes_gilbert_960.jpg)
 
 **🚗 Car news:** [Volkswagen Could Finally Build A Pickup Truck For America: Report](https://www.motor1.com/news/804220/volkswagen-considering-pickup-truck-us/)
 
-**📜 On this day, -685:** Spring and Autumn period: Battle of Qianshi: Upon the death of the previous Duke of Qi, Gongsun Wuzhi, Duke Zhuang of Lu sends an army into the Duchy of Qi to install the exiled Qi prince Gongzi Jiu as the new Duke of Qi – but is defeated at Qianshi by Jiu's brother and rival claimant, the newly inaugurated Duke Huan of Qi. — [Spring and Autumn period](https://en.wikipedia.org/wiki/Spring_and_Autumn_period)
+**📜 On this day, -48:** Caesar's Civil War: Battle of Pharsalus: Julius Caesar decisively defeats Pompey at Pharsalus and Pompey flees to Egypt. — [Caesar's civil war](https://en.wikipedia.org/wiki/Caesar's_civil_war)
 
 **🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 8 repos · 2 followers
 
