@@ -35,23 +35,23 @@ python daily_update.py
 Only the Python standard library is used — nothing to install.
 
 <!-- LATEST:START -->
-### 📅 Latest snapshot — 2026-08-09
+### 📅 Latest snapshot — 2026-08-10
 
-> *"Magic is believing in yourself, if you can do that, you can make anything happen."* — **Johann Wolfgang von Goethe**
+> *"Correct what you can. Learn from what you can't."* — **Toni Morrison**
 
 **Crypto (USD)**
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $65,144 | +0.2% |
-| Ethereum | $1,920.97 | +0.0% |
-| Solana | $77.05 | +1.07% |
+| Bitcoin | $64,973 | +0.35% |
+| Ethereum | $1,915.67 | +0.14% |
+| Solana | $76.57 | +0.84% |
 
-**🔭 NASA:** [Contemplating the Sun](https://apod.nasa.gov/apod/image/2608/sunsilhouettes_gilbert_960.jpg)
+**🔭 NASA:** [Three Galaxy Pairs](https://apod.nasa.gov/apod/image/2608/Three3GalaxyPairs_Sampaio_960.jpg)
 
 **🚗 Car news:** [Volkswagen Could Finally Build A Pickup Truck For America: Report](https://www.motor1.com/news/804220/volkswagen-considering-pickup-truck-us/)
 
-**📜 On this day, -48:** Caesar's Civil War: Battle of Pharsalus: Julius Caesar decisively defeats Pompey at Pharsalus and Pompey flees to Egypt. — [Caesar's civil war](https://en.wikipedia.org/wiki/Caesar's_civil_war)
+**📜 On this day, 654:** Pope Eugene I elected to succeed Martinus I. — [Pope Eugene I](https://en.wikipedia.org/wiki/Pope_Eugene_I)
 
 **🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 9 repos · 2 followers
 
