@@ -1,11 +1,11 @@
 {
   "date": "2026-08-10",
-  "fetched_at": "2026-08-10T05:18:46.730843+00:00",
+  "fetched_at": "2026-08-10T16:52:23.276408+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 64973,
-      "usd_24h_change": 0.35,
-      "usd_market_cap": 1303865733742.1658,
+      "usd": 63871,
+      "usd_24h_change": -2.03,
+      "usd_market_cap": 1282037131935.5706,
       "spark": [
         63791.35,
         63746.66,
@@ -37,13 +37,13 @@
         64872.6,
         64916.01,
         64856.1,
-        64973.51
+        63870.95
       ]
     },
     "ethereum": {
-      "usd": 1915.67,
-      "usd_24h_change": 0.14,
-      "usd_market_cap": 231151926573.6269,
+      "usd": 1870.52,
+      "usd_24h_change": -2.74,
+      "usd_market_cap": 225804069042.1056,
       "spark": [
         1787.95,
         1805.49,
@@ -75,13 +75,13 @@
         1912.16,
         1915.38,
         1908.94,
-        1915.65
+        1870.52
       ]
     },
     "solana": {
-      "usd": 76.57,
-      "usd_24h_change": 0.84,
-      "usd_market_cap": 44574492781.47742,
+      "usd": 75.62,
+      "usd_24h_change": -2.04,
+      "usd_market_cap": 44031944942.58149,
       "spark": [
         76.72,
         76.87,
@@ -113,7 +113,7 @@
         73.59,
         75.97,
         76.21,
-        76.57
+        75.63
       ]
     }
   },
@@ -129,8 +129,8 @@
     "thumbnail_url": null
   },
   "car_news": {
-    "headline": "Volkswagen Could Finally Build A Pickup Truck For America: Report",
-    "url": "https://www.motor1.com/news/804220/volkswagen-considering-pickup-truck-us/",
+    "headline": "Maserati Could Bring Back The V8, Finally",
+    "url": "https://www.motor1.com/news/804394/maserati-bringing-back-v8/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {

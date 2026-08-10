@@ -43,13 +43,13 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $64,973 | +0.35% |
-| Ethereum | $1,915.67 | +0.14% |
-| Solana | $76.57 | +0.84% |
+| Bitcoin | $63,871 | -2.03% |
+| Ethereum | $1,870.52 | -2.74% |
+| Solana | $75.62 | -2.04% |
 
 **🔭 NASA:** [Three Galaxy Pairs](https://apod.nasa.gov/apod/image/2608/Three3GalaxyPairs_Sampaio_960.jpg)
 
-**🚗 Car news:** [Volkswagen Could Finally Build A Pickup Truck For America: Report](https://www.motor1.com/news/804220/volkswagen-considering-pickup-truck-us/)
+**🚗 Car news:** [Maserati Could Bring Back The V8, Finally](https://www.motor1.com/news/804394/maserati-bringing-back-v8/)
 
 **📜 On this day, 654:** Pope Eugene I elected to succeed Martinus I. — [Pope Eugene I](https://en.wikipedia.org/wiki/Pope_Eugene_I)
 
