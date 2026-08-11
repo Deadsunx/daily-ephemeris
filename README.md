@@ -43,16 +43,16 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $63,981 | -1.49% |
-| Ethereum | $1,874.71 | -2.06% |
-| Solana | $76.05 | -0.55% |
+| Bitcoin | $63,466 | -0.56% |
+| Ethereum | $1,863.05 | -0.32% |
+| Solana | $74.86 | -0.97% |
 
 **🔭 NASA:** [Six Moons of Saturn](https://apod.nasa.gov/apod/image/2608/2026-08-05-0609_7-SaturnSystem_c.jpg)
 
-**🚗 Car news:** [Revealed: This Lamborghini Diablo Restomod Has No Roof, A V12, And A Manual](https://www.motor1.com/news/804409/eccentrica-v12-roadster-debut/)
+**🚗 Car news:** [Dodge's CEO Says The Best Is Yet To Come: 'We're Going To Go Faster'](https://www.motor1.com/news/804511/dodge-ceo-charger-super-bee-interview/)
 
 **📜 On this day, -3114:** The Mesoamerican Long Count calendar, used by several pre-Columbian Mesoamerican civilizations, notably the Maya, begins. — [32nd century BC](https://en.wikipedia.org/wiki/32nd_century_BC)
 
-**🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 9 repos · 2 followers
+**🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 9 repos · 4 followers
 
 <!-- LATEST:END -->

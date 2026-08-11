@@ -1,11 +1,11 @@
 {
   "date": "2026-08-11",
-  "fetched_at": "2026-08-11T04:59:51.392138+00:00",
+  "fetched_at": "2026-08-11T16:55:29.741183+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 63981,
-      "usd_24h_change": -1.49,
-      "usd_market_cap": 1284018066749.8489,
+      "usd": 63466,
+      "usd_24h_change": -0.56,
+      "usd_market_cap": 1273682765922.6008,
       "spark": [
         63746.66,
         62278.96,
@@ -37,13 +37,13 @@
         64916.01,
         64860.52,
         63915.71,
-        63981.04
+        63465.83
       ]
     },
     "ethereum": {
-      "usd": 1874.71,
-      "usd_24h_change": -2.06,
-      "usd_market_cap": 226246284099.95468,
+      "usd": 1863.05,
+      "usd_24h_change": -0.32,
+      "usd_market_cap": 224836598993.1781,
       "spark": [
         1805.49,
         1774.09,
@@ -75,13 +75,13 @@
         1915.38,
         1909.65,
         1871.4,
-        1874.71
+        1863.09
       ]
     },
     "solana": {
-      "usd": 76.05,
-      "usd_24h_change": -0.55,
-      "usd_market_cap": 44296086632.16321,
+      "usd": 74.86,
+      "usd_24h_change": -0.97,
+      "usd_market_cap": 43605641563.94278,
       "spark": [
         76.87,
         74.93,
@@ -113,7 +113,7 @@
         75.97,
         76.27,
         75.92,
-        76.05
+        74.86
       ]
     }
   },
@@ -129,8 +129,8 @@
     "thumbnail_url": null
   },
   "car_news": {
-    "headline": "Revealed: This Lamborghini Diablo Restomod Has No Roof, A V12, And A Manual",
-    "url": "https://www.motor1.com/news/804409/eccentrica-v12-roadster-debut/",
+    "headline": "Dodge's CEO Says The Best Is Yet To Come: 'We're Going To Go Faster'",
+    "url": "https://www.motor1.com/news/804511/dodge-ceo-charger-super-bee-interview/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {
@@ -143,7 +143,7 @@
     "login": "Deadsunx",
     "name": "Oumar Tirera",
     "public_repos": 9,
-    "followers": 2,
+    "followers": 4,
     "following": 7,
     "created_at": "2022-05-12T17:33:47Z",
     "html_url": "https://github.com/Deadsunx",
