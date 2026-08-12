@@ -1,11 +1,11 @@
 {
   "date": "2026-08-12",
-  "fetched_at": "2026-08-12T05:25:58.035645+00:00",
+  "fetched_at": "2026-08-12T16:54:52.560820+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 63758,
-      "usd_24h_change": -0.24,
-      "usd_market_cap": 1279563620481.1367,
+      "usd": 63448,
+      "usd_24h_change": -0.02,
+      "usd_market_cap": 1273422355998.514,
       "spark": [
         62278.96,
         64983.52,
@@ -37,13 +37,13 @@
         64860.52,
         63878.88,
         63537.56,
-        63758.24
+        63442.77
       ]
     },
     "ethereum": {
-      "usd": 1888.26,
-      "usd_24h_change": 0.88,
-      "usd_market_cap": 227878536218.19662,
+      "usd": 1889.69,
+      "usd_24h_change": 1.42,
+      "usd_market_cap": 228043063545.42566,
       "spark": [
         1774.09,
         1890.31,
@@ -75,13 +75,13 @@
         1909.65,
         1870.32,
         1880.49,
-        1888.26
+        1889.33
       ]
     },
     "solana": {
-      "usd": 76.23,
-      "usd_24h_change": 0.59,
-      "usd_market_cap": 44404452103.802956,
+      "usd": 75.6,
+      "usd_24h_change": 1.0,
+      "usd_market_cap": 44038013353.54655,
       "spark": [
         74.93,
         77.81,
@@ -113,7 +113,7 @@
         76.27,
         75.88,
         76.22,
-        76.23
+        75.6
       ]
     }
   },
@@ -129,8 +129,8 @@
     "thumbnail_url": null
   },
   "car_news": {
-    "headline": "The Chevy Express Finally Gets Something From This Century: A Color Touchscreen",
-    "url": "https://www.motor1.com/news/804551/2027-chevy-express-touchscreen/",
+    "headline": "McLaren Teases Its First Manual Supercar In Decades",
+    "url": "https://www.motor1.com/news/804671/mclaren-teases-manual-supercar/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {
@@ -144,7 +144,7 @@
     "name": "Oumar Tirera",
     "public_repos": 9,
     "followers": 4,
-    "following": 7,
+    "following": 9,
     "created_at": "2022-05-12T17:33:47Z",
     "html_url": "https://github.com/Deadsunx",
     "avatar_url": "https://avatars.githubusercontent.com/u/105452066?v=4"

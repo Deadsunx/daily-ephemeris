@@ -43,13 +43,13 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $63,758 | -0.24% |
-| Ethereum | $1,888.26 | +0.88% |
-| Solana | $76.23 | +0.59% |
+| Bitcoin | $63,448 | -0.02% |
+| Ethereum | $1,889.69 | +1.42% |
+| Solana | $75.6 | +1.0% |
 
 **🔭 NASA:** [Perseids Over a little Planet](https://apod.nasa.gov/apod/image/2608/A_Planet_of_Meteors_1024.jpg)
 
-**🚗 Car news:** [The Chevy Express Finally Gets Something From This Century: A Color Touchscreen](https://www.motor1.com/news/804551/2027-chevy-express-touchscreen/)
+**🚗 Car news:** [McLaren Teases Its First Manual Supercar In Decades](https://www.motor1.com/news/804671/mclaren-teases-manual-supercar/)
 
 **📜 On this day, 1099:** First Crusade: Battle of Ascalon: Crusaders under the command of Godfrey of Bouillon defeat Fatimid forces led by Al-Afdal Shahanshah. This is considered the last engagement of the First Crusade. — [First Crusade](https://en.wikipedia.org/wiki/First_Crusade)
 
