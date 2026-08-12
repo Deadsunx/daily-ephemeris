@@ -315,5 +315,21 @@
       "year": -3114,
       "title": "32nd century BC"
     }
+  },
+  {
+    "date": "2026-08-12",
+    "quote": {
+      "text": "Sadness is but a wall between two gardens.",
+      "author": "Kahlil Gibran"
+    },
+    "nasa": {
+      "title": "Perseids Over a little Planet",
+      "media_type": "image"
+    },
+    "car": "The Chevy Express Finally Gets Something From This Century: A Color Touchscreen",
+    "onthisday": {
+      "year": 1099,
+      "title": "First Crusade"
+    }
   }
 ]

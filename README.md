@@ -35,23 +35,23 @@ python daily_update.py
 Only the Python standard library is used — nothing to install.
 
 <!-- LATEST:START -->
-### 📅 Latest snapshot — 2026-08-11
+### 📅 Latest snapshot — 2026-08-12
 
-> *"Still your waters."* — **Josh Waitzkin**
+> *"Sadness is but a wall between two gardens."* — **Kahlil Gibran**
 
 **Crypto (USD)**
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $63,466 | -0.56% |
-| Ethereum | $1,863.05 | -0.32% |
-| Solana | $74.86 | -0.97% |
+| Bitcoin | $63,758 | -0.24% |
+| Ethereum | $1,888.26 | +0.88% |
+| Solana | $76.23 | +0.59% |
 
-**🔭 NASA:** [Six Moons of Saturn](https://apod.nasa.gov/apod/image/2608/2026-08-05-0609_7-SaturnSystem_c.jpg)
+**🔭 NASA:** [Perseids Over a little Planet](https://apod.nasa.gov/apod/image/2608/A_Planet_of_Meteors_1024.jpg)
 
-**🚗 Car news:** [Dodge's CEO Says The Best Is Yet To Come: 'We're Going To Go Faster'](https://www.motor1.com/news/804511/dodge-ceo-charger-super-bee-interview/)
+**🚗 Car news:** [The Chevy Express Finally Gets Something From This Century: A Color Touchscreen](https://www.motor1.com/news/804551/2027-chevy-express-touchscreen/)
 
-**📜 On this day, -3114:** The Mesoamerican Long Count calendar, used by several pre-Columbian Mesoamerican civilizations, notably the Maya, begins. — [32nd century BC](https://en.wikipedia.org/wiki/32nd_century_BC)
+**📜 On this day, 1099:** First Crusade: Battle of Ascalon: Crusaders under the command of Godfrey of Bouillon defeat Fatimid forces led by Al-Afdal Shahanshah. This is considered the last engagement of the First Crusade. — [First Crusade](https://en.wikipedia.org/wiki/First_Crusade)
 
 **🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 9 repos · 4 followers
 
