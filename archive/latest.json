@@ -1,11 +1,11 @@
 {
   "date": "2026-08-13",
-  "fetched_at": "2026-08-13T05:29:00.980058+00:00",
+  "fetched_at": "2026-08-13T16:54:17.666559+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 63869,
-      "usd_24h_change": 0.14,
-      "usd_market_cap": 1282261091432.3845,
+      "usd": 63149,
+      "usd_24h_change": -0.47,
+      "usd_market_cap": 1267277290272.5078,
       "spark": [
         64983.52,
         64717.17,
@@ -37,13 +37,13 @@
         63878.88,
         63527.05,
         63408.63,
-        63860.39
+        63109.81
       ]
     },
     "ethereum": {
-      "usd": 1896.45,
-      "usd_24h_change": 0.43,
-      "usd_market_cap": 228866609094.0976,
+      "usd": 1874.45,
+      "usd_24h_change": -0.8,
+      "usd_market_cap": 226150917131.49326,
       "spark": [
         1890.31,
         1916.76,
@@ -75,13 +75,13 @@
         1870.32,
         1879.73,
         1877.74,
-        1896.09
+        1873.94
       ]
     },
     "solana": {
-      "usd": 76.24,
-      "usd_24h_change": 0.01,
-      "usd_market_cap": 44438586938.08278,
+      "usd": 75.55,
+      "usd_24h_change": -0.06,
+      "usd_market_cap": 44013150414.09822,
       "spark": [
         77.81,
         77.24,
@@ -113,7 +113,7 @@
         75.88,
         76.19,
         75.56,
-        76.24
+        75.54
       ]
     }
   },
@@ -129,8 +129,8 @@
     "thumbnail_url": null
   },
   "car_news": {
-    "headline": "Used Cars Under $20,000 Are Disappearing. And The Numbers Are Brutal",
-    "url": "https://www.motor1.com/news/804730/used-cars-under-20000-are-disappearing/",
+    "headline": "Ferrari Files 'LC67' Trademark. Is Another Special Model Coming?",
+    "url": "https://www.motor1.com/news/804820/ferrari-lc67-trademark-filing-adds/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {
@@ -144,7 +144,7 @@
     "name": "Oumar Tirera",
     "public_repos": 9,
     "followers": 4,
-    "following": 9,
+    "following": 10,
     "created_at": "2022-05-12T17:33:47Z",
     "html_url": "https://github.com/Deadsunx",
     "avatar_url": "https://avatars.githubusercontent.com/u/105452066?v=4"

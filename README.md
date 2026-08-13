@@ -43,13 +43,13 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $63,869 | +0.14% |
-| Ethereum | $1,896.45 | +0.43% |
-| Solana | $76.24 | +0.01% |
+| Bitcoin | $63,149 | -0.47% |
+| Ethereum | $1,874.45 | -0.8% |
+| Solana | $75.55 | -0.06% |
 
 **🔭 NASA:** [Total Solar Eclipse Over Spain](https://apod.nasa.gov/apod/image/2608/total_solar_eclipse_900.jpg)
 
-**🚗 Car news:** [Used Cars Under $20,000 Are Disappearing. And The Numbers Are Brutal](https://www.motor1.com/news/804730/used-cars-under-20000-are-disappearing/)
+**🚗 Car news:** [Ferrari Files 'LC67' Trademark. Is Another Special Model Coming?](https://www.motor1.com/news/804820/ferrari-lc67-trademark-filing-adds/)
 
 **📜 On this day, -29:** Octavian holds the first of three consecutive triumphs in Rome to celebrate the victory over the Dalmatian tribes. — [Augustus](https://en.wikipedia.org/wiki/Augustus)
 
