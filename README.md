@@ -35,23 +35,23 @@ python daily_update.py
 Only the Python standard library is used — nothing to install.
 
 <!-- LATEST:START -->
-### 📅 Latest snapshot — 2026-08-12
+### 📅 Latest snapshot — 2026-08-13
 
-> *"Sadness is but a wall between two gardens."* — **Kahlil Gibran**
+> *"Keep your face to the sunshine and you cannot see the shadows."* — **Helen Keller**
 
 **Crypto (USD)**
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $63,448 | -0.02% |
-| Ethereum | $1,889.69 | +1.42% |
-| Solana | $75.6 | +1.0% |
+| Bitcoin | $63,869 | +0.14% |
+| Ethereum | $1,896.45 | +0.43% |
+| Solana | $76.24 | +0.01% |
 
-**🔭 NASA:** [Perseids Over a little Planet](https://apod.nasa.gov/apod/image/2608/A_Planet_of_Meteors_1024.jpg)
+**🔭 NASA:** [Total Solar Eclipse Over Spain](https://apod.nasa.gov/apod/image/2608/total_solar_eclipse_900.jpg)
 
-**🚗 Car news:** [McLaren Teases Its First Manual Supercar In Decades](https://www.motor1.com/news/804671/mclaren-teases-manual-supercar/)
+**🚗 Car news:** [Used Cars Under $20,000 Are Disappearing. And The Numbers Are Brutal](https://www.motor1.com/news/804730/used-cars-under-20000-are-disappearing/)
 
-**📜 On this day, 1099:** First Crusade: Battle of Ascalon: Crusaders under the command of Godfrey of Bouillon defeat Fatimid forces led by Al-Afdal Shahanshah. This is considered the last engagement of the First Crusade. — [First Crusade](https://en.wikipedia.org/wiki/First_Crusade)
+**📜 On this day, -29:** Octavian holds the first of three consecutive triumphs in Rome to celebrate the victory over the Dalmatian tribes. — [Augustus](https://en.wikipedia.org/wiki/Augustus)
 
 **🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 9 repos · 4 followers
 

@@ -331,5 +331,21 @@
       "year": 1099,
       "title": "First Crusade"
     }
+  },
+  {
+    "date": "2026-08-13",
+    "quote": {
+      "text": "Keep your face to the sunshine and you cannot see the shadows.",
+      "author": "Helen Keller"
+    },
+    "nasa": {
+      "title": "Total Solar Eclipse Over Spain",
+      "media_type": "image"
+    },
+    "car": "Used Cars Under $20,000 Are Disappearing. And The Numbers Are Brutal",
+    "onthisday": {
+      "year": -29,
+      "title": "Augustus"
+    }
   }
 ]
