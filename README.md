@@ -43,13 +43,13 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $63,285 | -0.95% |
-| Ethereum | $1,880.62 | -0.85% |
-| Solana | $75.81 | -0.6% |
+| Bitcoin | $63,137 | +0.33% |
+| Ethereum | $1,883.98 | +0.83% |
+| Solana | $75.5 | +0.29% |
 
 **🔭 NASA:** [Total Solar Eclipse from Greenland](https://apod.nasa.gov/apod/image/2608/TSE2026DR_Madhaven1024.jpeg)
 
-**🚗 Car news:** [Mercedes Won't Stop Building V8s, But A New C63 May Not Happen](https://www.motor1.com/news/804864/mercedes-benz-v8-engine-producion-decaade-c63/)
+**🚗 Car news:** [This Street-Legal Gunther Werks Race Car Starts At Over $1.0 Million](https://www.motor1.com/news/804870/gunther-werks-gxr-evo-debut/)
 
 **📜 On this day, -74:** A group of officials, led by the Western Han minister Huo Guang, present articles of impeachment against the new emperor, Liu He, to the imperial regent, Empress Dowager Shangguan. — [Han dynasty](https://en.wikipedia.org/wiki/Han_dynasty)
 

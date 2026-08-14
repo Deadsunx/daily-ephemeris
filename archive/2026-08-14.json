@@ -1,11 +1,11 @@
 {
   "date": "2026-08-14",
-  "fetched_at": "2026-08-14T05:26:38.868017+00:00",
+  "fetched_at": "2026-08-14T16:48:53.425767+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 63285,
-      "usd_24h_change": -0.95,
-      "usd_market_cap": 1270127030192.9807,
+      "usd": 63137,
+      "usd_24h_change": 0.33,
+      "usd_market_cap": 1267212485249.9119,
       "spark": [
         64717.17,
         63792.29,
@@ -37,13 +37,13 @@
         63537.56,
         63408.63,
         63429.18,
-        63250.48
+        63127.23
       ]
     },
     "ethereum": {
-      "usd": 1880.62,
-      "usd_24h_change": -0.85,
-      "usd_market_cap": 226957432962.167,
+      "usd": 1883.98,
+      "usd_24h_change": 0.83,
+      "usd_market_cap": 227332286027.8653,
       "spark": [
         1916.76,
         1863.01,
@@ -75,13 +75,13 @@
         1880.49,
         1877.74,
         1884.39,
-        1880.28
+        1883.79
       ]
     },
     "solana": {
-      "usd": 75.81,
-      "usd_24h_change": -0.6,
-      "usd_market_cap": 44166605947.20099,
+      "usd": 75.5,
+      "usd_24h_change": 0.29,
+      "usd_market_cap": 43980587907.643875,
       "spark": [
         77.24,
         75.27,
@@ -113,7 +113,7 @@
         76.22,
         75.56,
         76.2,
-        75.79
+        75.49
       ]
     }
   },
@@ -129,8 +129,8 @@
     "thumbnail_url": null
   },
   "car_news": {
-    "headline": "Mercedes Won't Stop Building V8s, But A New C63 May Not Happen",
-    "url": "https://www.motor1.com/news/804864/mercedes-benz-v8-engine-producion-decaade-c63/",
+    "headline": "This Street-Legal Gunther Werks Race Car Starts At Over $1.0 Million",
+    "url": "https://www.motor1.com/news/804870/gunther-werks-gxr-evo-debut/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {
