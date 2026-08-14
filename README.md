@@ -35,23 +35,23 @@ python daily_update.py
 Only the Python standard library is used — nothing to install.
 
 <!-- LATEST:START -->
-### 📅 Latest snapshot — 2026-08-13
+### 📅 Latest snapshot — 2026-08-14
 
-> *"Keep your face to the sunshine and you cannot see the shadows."* — **Helen Keller**
+> *"Extraordinary results happen only when you give the best you have to become the best you can be at your most important work."* — **Gary Keller**
 
 **Crypto (USD)**
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $63,149 | -0.47% |
-| Ethereum | $1,874.45 | -0.8% |
-| Solana | $75.55 | -0.06% |
+| Bitcoin | $63,285 | -0.95% |
+| Ethereum | $1,880.62 | -0.85% |
+| Solana | $75.81 | -0.6% |
 
-**🔭 NASA:** [Total Solar Eclipse Over Spain](https://apod.nasa.gov/apod/image/2608/total_solar_eclipse_900.jpg)
+**🔭 NASA:** [Total Solar Eclipse from Greenland](https://apod.nasa.gov/apod/image/2608/TSE2026DR_Madhaven1024.jpeg)
 
-**🚗 Car news:** [Ferrari Files 'LC67' Trademark. Is Another Special Model Coming?](https://www.motor1.com/news/804820/ferrari-lc67-trademark-filing-adds/)
+**🚗 Car news:** [Mercedes Won't Stop Building V8s, But A New C63 May Not Happen](https://www.motor1.com/news/804864/mercedes-benz-v8-engine-producion-decaade-c63/)
 
-**📜 On this day, -29:** Octavian holds the first of three consecutive triumphs in Rome to celebrate the victory over the Dalmatian tribes. — [Augustus](https://en.wikipedia.org/wiki/Augustus)
+**📜 On this day, -74:** A group of officials, led by the Western Han minister Huo Guang, present articles of impeachment against the new emperor, Liu He, to the imperial regent, Empress Dowager Shangguan. — [Han dynasty](https://en.wikipedia.org/wiki/Han_dynasty)
 
 **🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 9 repos · 4 followers
 
