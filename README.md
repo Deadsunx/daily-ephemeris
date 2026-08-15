@@ -43,13 +43,13 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $63,066 | -0.47% |
-| Ethereum | $1,881.95 | -0.15% |
-| Solana | $75.42 | -0.64% |
+| Bitcoin | $63,022 | +0.04% |
+| Ethereum | $1,882.72 | +0.18% |
+| Solana | $75.38 | -0.22% |
 
 **🔭 NASA:** [Bright Perseids from Sweden](https://apod.nasa.gov/apod/image/2608/PerseidsAPOD_P-MHeden.jpg)
 
-**🚗 Car news:** [Want A One-Off Cayenne Or Panamera? Porsche Will Make It Happen](https://www.motor1.com/news/805052/porsche-will-build-one-off-cayenne-panamera/)
+**🚗 Car news:** [Gordon Murray S1 Is The Modern McLaren F1 We've Been Waiting For](https://www.motor1.com/news/805053/gordon-murray-s1-v12-manual/)
 
 **📜 On this day, 636:** Arab–Byzantine wars: The Battle of Yarmouk between the Byzantine Empire and the Rashidun Caliphate begins. — [Arab–Byzantine wars](https://en.wikipedia.org/wiki/Arab%E2%80%93Byzantine_wars)
 
