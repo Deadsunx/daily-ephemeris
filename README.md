@@ -35,23 +35,23 @@ python daily_update.py
 Only the Python standard library is used — nothing to install.
 
 <!-- LATEST:START -->
-### 📅 Latest snapshot — 2026-08-14
+### 📅 Latest snapshot — 2026-08-15
 
-> *"Extraordinary results happen only when you give the best you have to become the best you can be at your most important work."* — **Gary Keller**
+> *"Man suffers only because he takes seriously what the gods made for fun."* — **Alan Watts**
 
 **Crypto (USD)**
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $63,137 | +0.33% |
-| Ethereum | $1,883.98 | +0.83% |
-| Solana | $75.5 | +0.29% |
+| Bitcoin | $63,066 | -0.47% |
+| Ethereum | $1,881.95 | -0.15% |
+| Solana | $75.42 | -0.64% |
 
-**🔭 NASA:** [Total Solar Eclipse from Greenland](https://apod.nasa.gov/apod/image/2608/TSE2026DR_Madhaven1024.jpeg)
+**🔭 NASA:** [Bright Perseids from Sweden](https://apod.nasa.gov/apod/image/2608/PerseidsAPOD_P-MHeden.jpg)
 
-**🚗 Car news:** [This Street-Legal Gunther Werks Race Car Starts At Over $1.0 Million](https://www.motor1.com/news/804870/gunther-werks-gxr-evo-debut/)
+**🚗 Car news:** [Want A One-Off Cayenne Or Panamera? Porsche Will Make It Happen](https://www.motor1.com/news/805052/porsche-will-build-one-off-cayenne-panamera/)
 
-**📜 On this day, -74:** A group of officials, led by the Western Han minister Huo Guang, present articles of impeachment against the new emperor, Liu He, to the imperial regent, Empress Dowager Shangguan. — [Han dynasty](https://en.wikipedia.org/wiki/Han_dynasty)
+**📜 On this day, 636:** Arab–Byzantine wars: The Battle of Yarmouk between the Byzantine Empire and the Rashidun Caliphate begins. — [Arab–Byzantine wars](https://en.wikipedia.org/wiki/Arab%E2%80%93Byzantine_wars)
 
 **🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 9 repos · 4 followers
 
