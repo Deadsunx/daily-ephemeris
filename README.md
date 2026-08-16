@@ -35,23 +35,23 @@ python daily_update.py
 Only the Python standard library is used — nothing to install.
 
 <!-- LATEST:START -->
-### 📅 Latest snapshot — 2026-08-15
+### 📅 Latest snapshot — 2026-08-16
 
-> *"Man suffers only because he takes seriously what the gods made for fun."* — **Alan Watts**
+> *"Motivation is what gets you started. Habit is what keeps you going."* — **Jim Rohn**
 
 **Crypto (USD)**
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $63,022 | +0.04% |
-| Ethereum | $1,882.72 | +0.18% |
-| Solana | $75.38 | -0.22% |
+| Bitcoin | $63,100 | +0.05% |
+| Ethereum | $1,882.22 | -0.01% |
+| Solana | $75.52 | +0.02% |
 
-**🔭 NASA:** [Bright Perseids from Sweden](https://apod.nasa.gov/apod/image/2608/PerseidsAPOD_P-MHeden.jpg)
+**🔭 NASA:** [Milky Way over Yellowstone](https://apod.nasa.gov/apod/image/2608/mwyellowstone_lane_960.jpg)
 
 **🚗 Car news:** [Gordon Murray S1 Is The Modern McLaren F1 We've Been Waiting For](https://www.motor1.com/news/805053/gordon-murray-s1-v12-manual/)
 
-**📜 On this day, 636:** Arab–Byzantine wars: The Battle of Yarmouk between the Byzantine Empire and the Rashidun Caliphate begins. — [Arab–Byzantine wars](https://en.wikipedia.org/wiki/Arab%E2%80%93Byzantine_wars)
+**📜 On this day, -1:** Wang Mang consolidates his power in China and is declared marshal of state. Emperor Ai of Han, who died the previous day, had no heirs. — [Wang Mang](https://en.wikipedia.org/wiki/Wang_Mang)
 
 **🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 9 repos · 4 followers
 
