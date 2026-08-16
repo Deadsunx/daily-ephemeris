@@ -43,9 +43,9 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $63,100 | +0.05% |
-| Ethereum | $1,882.22 | -0.01% |
-| Solana | $75.52 | +0.02% |
+| Bitcoin | $63,231 | +0.33% |
+| Ethereum | $1,884.87 | +0.12% |
+| Solana | $75.53 | +0.2% |
 
 **🔭 NASA:** [Milky Way over Yellowstone](https://apod.nasa.gov/apod/image/2608/mwyellowstone_lane_960.jpg)
 
