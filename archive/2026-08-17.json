@@ -1,11 +1,11 @@
 {
   "date": "2026-08-17",
-  "fetched_at": "2026-08-17T04:33:45.581794+00:00",
+  "fetched_at": "2026-08-17T16:24:35.663649+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 63428,
-      "usd_24h_change": 0.56,
-      "usd_market_cap": 1273021204380.6738,
+      "usd": 64062,
+      "usd_24h_change": 1.3,
+      "usd_market_cap": 1285823478635.703,
       "spark": [
         64795.7,
         64670.4,
@@ -37,13 +37,13 @@
         62996.4,
         63017.07,
         62843.7,
-        63427.68
+        64062.09
       ]
     },
     "ethereum": {
-      "usd": 1900.29,
-      "usd_24h_change": 1.0,
-      "usd_market_cap": 229318123820.1653,
+      "usd": 1908.36,
+      "usd_24h_change": 1.2,
+      "usd_market_cap": 230304733300.85785,
       "spark": [
         1862.32,
         1870.82,
@@ -75,13 +75,13 @@
         1880.56,
         1880.99,
         1874.4,
-        1900.29
+        1908.36
       ]
     },
     "solana": {
-      "usd": 75.48,
-      "usd_24h_change": -0.01,
-      "usd_market_cap": 43993428183.678474,
+      "usd": 75.96,
+      "usd_24h_change": 0.61,
+      "usd_market_cap": 44283077593.92008,
       "spark": [
         75.48,
         76.31,
@@ -113,7 +113,7 @@
         75.34,
         75.28,
         74.55,
-        75.48
+        75.97
       ]
     }
   },
@@ -129,8 +129,8 @@
     "thumbnail_url": null
   },
   "car_news": {
-    "headline": "Gordon Murray S1 Is The Modern McLaren F1 We've Been Waiting For",
-    "url": "https://www.motor1.com/news/805053/gordon-murray-s1-v12-manual/",
+    "headline": "Mini\u2019s Next Cooper Might Switch To Rear-Wheel Drive\u2014R50 Cues Return",
+    "url": "https://www.motor1.com/news/805179/next-mini-cooper-r50-inspired/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {
@@ -142,7 +142,7 @@
   "github": {
     "login": "Deadsunx",
     "name": "Oumar Tirera",
-    "public_repos": 9,
+    "public_repos": 10,
     "followers": 6,
     "following": 12,
     "created_at": "2022-05-12T17:33:47Z",

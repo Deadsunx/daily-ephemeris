@@ -43,16 +43,16 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $63,428 | +0.56% |
-| Ethereum | $1,900.29 | +1.0% |
-| Solana | $75.48 | -0.01% |
+| Bitcoin | $64,062 | +1.3% |
+| Ethereum | $1,908.36 | +1.2% |
+| Solana | $75.96 | +0.61% |
 
 **🔭 NASA:** [A Golden Corona Eclipse](https://apod.nasa.gov/apod/image/2608/GoldCorona_Santos_960.jpg)
 
-**🚗 Car news:** [Gordon Murray S1 Is The Modern McLaren F1 We've Been Waiting For](https://www.motor1.com/news/805053/gordon-murray-s1-v12-manual/)
+**🚗 Car news:** [Mini’s Next Cooper Might Switch To Rear-Wheel Drive—R50 Cues Return](https://www.motor1.com/news/805179/next-mini-cooper-r50-inspired/)
 
 **📜 On this day, 986:** Byzantine–Bulgarian wars: Battle of the Gates of Trajan: The Bulgarians under the Comitopuli Samuel and Aron defeat the Byzantine forces at the Gate of Trajan, with Byzantine Emperor Basil II barely escaping. — [Byzantine–Bulgarian wars](https://en.wikipedia.org/wiki/Byzantine%E2%80%93Bulgarian_wars)
 
-**🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 9 repos · 6 followers
+**🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 10 repos · 6 followers
 
 <!-- LATEST:END -->
