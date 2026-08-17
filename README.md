@@ -35,24 +35,24 @@ python daily_update.py
 Only the Python standard library is used — nothing to install.
 
 <!-- LATEST:START -->
-### 📅 Latest snapshot — 2026-08-16
+### 📅 Latest snapshot — 2026-08-17
 
-> *"Motivation is what gets you started. Habit is what keeps you going."* — **Jim Rohn**
+> *"Your happiness is what truly matters most. Do what you have to do in order to be happy."* — **Brian Tracy**
 
 **Crypto (USD)**
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $63,231 | +0.33% |
-| Ethereum | $1,884.87 | +0.12% |
-| Solana | $75.53 | +0.2% |
+| Bitcoin | $63,428 | +0.56% |
+| Ethereum | $1,900.29 | +1.0% |
+| Solana | $75.48 | -0.01% |
 
-**🔭 NASA:** [Milky Way over Yellowstone](https://apod.nasa.gov/apod/image/2608/mwyellowstone_lane_960.jpg)
+**🔭 NASA:** [A Golden Corona Eclipse](https://apod.nasa.gov/apod/image/2608/GoldCorona_Santos_960.jpg)
 
 **🚗 Car news:** [Gordon Murray S1 Is The Modern McLaren F1 We've Been Waiting For](https://www.motor1.com/news/805053/gordon-murray-s1-v12-manual/)
 
-**📜 On this day, -1:** Wang Mang consolidates his power in China and is declared marshal of state. Emperor Ai of Han, who died the previous day, had no heirs. — [Wang Mang](https://en.wikipedia.org/wiki/Wang_Mang)
+**📜 On this day, 986:** Byzantine–Bulgarian wars: Battle of the Gates of Trajan: The Bulgarians under the Comitopuli Samuel and Aron defeat the Byzantine forces at the Gate of Trajan, with Byzantine Emperor Basil II barely escaping. — [Byzantine–Bulgarian wars](https://en.wikipedia.org/wiki/Byzantine%E2%80%93Bulgarian_wars)
 
-**🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 9 repos · 4 followers
+**🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 9 repos · 6 followers
 
 <!-- LATEST:END -->

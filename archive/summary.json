@@ -395,5 +395,21 @@
       "year": -1,
       "title": "Wang Mang"
     }
+  },
+  {
+    "date": "2026-08-17",
+    "quote": {
+      "text": "Your happiness is what truly matters most. Do what you have to do in order to be happy.",
+      "author": "Brian Tracy"
+    },
+    "nasa": {
+      "title": "A Golden Corona Eclipse",
+      "media_type": "image"
+    },
+    "car": "Gordon Murray S1 Is The Modern McLaren F1 We've Been Waiting For",
+    "onthisday": {
+      "year": 986,
+      "title": "Byzantine\u2013Bulgarian wars"
+    }
   }
 ]
