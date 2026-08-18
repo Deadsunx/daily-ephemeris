@@ -35,23 +35,23 @@ python daily_update.py
 Only the Python standard library is used — nothing to install.
 
 <!-- LATEST:START -->
-### 📅 Latest snapshot — 2026-08-17
+### 📅 Latest snapshot — 2026-08-18
 
-> *"Your happiness is what truly matters most. Do what you have to do in order to be happy."* — **Brian Tracy**
+> *"No one can compete with you on being you. Most of life is a search for who and what needs you the most."* — **Naval Ravikant**
 
 **Crypto (USD)**
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $64,062 | +1.3% |
-| Ethereum | $1,908.36 | +1.2% |
-| Solana | $75.96 | +0.61% |
+| Bitcoin | $64,075 | +0.99% |
+| Ethereum | $1,892.47 | -0.49% |
+| Solana | $75.57 | +0.11% |
 
-**🔭 NASA:** [A Golden Corona Eclipse](https://apod.nasa.gov/apod/image/2608/GoldCorona_Santos_960.jpg)
+**🔭 NASA:** [Perseids from Perseus](https://apod.nasa.gov/apod/image/2608/Perseids_karuk_960.jpg)
 
-**🚗 Car news:** [Mini’s Next Cooper Might Switch To Rear-Wheel Drive—R50 Cues Return](https://www.motor1.com/news/805179/next-mini-cooper-r50-inspired/)
+**🚗 Car news:** [Ford's Hypercar Finally Hits The Track, And It Sounds Amazing](https://www.motor1.com/news/805210/ford-hypercar-track-testing/)
 
-**📜 On this day, 986:** Byzantine–Bulgarian wars: Battle of the Gates of Trajan: The Bulgarians under the Comitopuli Samuel and Aron defeat the Byzantine forces at the Gate of Trajan, with Byzantine Emperor Basil II barely escaping. — [Byzantine–Bulgarian wars](https://en.wikipedia.org/wiki/Byzantine%E2%80%93Bulgarian_wars)
+**📜 On this day, 684:** Battle of Marj Rahit: Umayyad partisans defeat the supporters of Ibn al-Zubayr and cement Umayyad control of Syria. — [Battle of Marj Rahit (684)](https://en.wikipedia.org/wiki/Battle_of_Marj_Rahit_(684))
 
 **🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 10 repos · 6 followers
 
