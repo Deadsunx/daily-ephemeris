@@ -43,13 +43,13 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $64,075 | +0.99% |
-| Ethereum | $1,892.47 | -0.49% |
-| Solana | $75.57 | +0.11% |
+| Bitcoin | $64,691 | +1.01% |
+| Ethereum | $1,914.14 | +0.38% |
+| Solana | $76.89 | +1.26% |
 
 **🔭 NASA:** [Perseids from Perseus](https://apod.nasa.gov/apod/image/2608/Perseids_karuk_960.jpg)
 
-**🚗 Car news:** [Ford's Hypercar Finally Hits The Track, And It Sounds Amazing](https://www.motor1.com/news/805210/ford-hypercar-track-testing/)
+**🚗 Car news:** [McLaren's Manual Supercar Isn't A Preview Of The Future](https://www.motor1.com/news/805359/mclaren-manual-supercar-wont-influence-future-cars/)
 
 **📜 On this day, 684:** Battle of Marj Rahit: Umayyad partisans defeat the supporters of Ibn al-Zubayr and cement Umayyad control of Syria. — [Battle of Marj Rahit (684)](https://en.wikipedia.org/wiki/Battle_of_Marj_Rahit_(684))
 

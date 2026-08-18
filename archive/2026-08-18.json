@@ -1,11 +1,11 @@
 {
   "date": "2026-08-18",
-  "fetched_at": "2026-08-18T04:28:24.026738+00:00",
+  "fetched_at": "2026-08-18T16:28:25.521896+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 64075,
-      "usd_24h_change": 0.99,
-      "usd_market_cap": 1286084384104.2136,
+      "usd": 64691,
+      "usd_24h_change": 1.01,
+      "usd_market_cap": 1298437115712.8635,
       "spark": [
         64670.4,
         65184.92,
@@ -37,13 +37,13 @@
         63017.07,
         62852.86,
         64491.35,
-        64076.72
+        64688.37
       ]
     },
     "ethereum": {
-      "usd": 1892.47,
-      "usd_24h_change": -0.49,
-      "usd_market_cap": 228387008640.28958,
+      "usd": 1914.14,
+      "usd_24h_change": 0.38,
+      "usd_market_cap": 231002107978.81305,
       "spark": [
         1870.82,
         1901.77,
@@ -75,13 +75,13 @@
         1880.99,
         1874.41,
         1912.27,
-        1892.57
+        1914.14
       ]
     },
     "solana": {
-      "usd": 75.57,
-      "usd_24h_change": 0.11,
-      "usd_market_cap": 44050455688.32564,
+      "usd": 76.89,
+      "usd_24h_change": 1.26,
+      "usd_market_cap": 44818074197.27514,
       "spark": [
         76.31,
         77.75,
@@ -113,7 +113,7 @@
         75.28,
         74.55,
         75.97,
-        75.58
+        76.89
       ]
     }
   },
@@ -129,8 +129,8 @@
     "thumbnail_url": null
   },
   "car_news": {
-    "headline": "Ford's Hypercar Finally Hits The Track, And It Sounds Amazing",
-    "url": "https://www.motor1.com/news/805210/ford-hypercar-track-testing/",
+    "headline": "McLaren's Manual Supercar Isn't A Preview Of The Future",
+    "url": "https://www.motor1.com/news/805359/mclaren-manual-supercar-wont-influence-future-cars/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {
