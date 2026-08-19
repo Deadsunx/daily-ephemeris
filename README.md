@@ -35,23 +35,23 @@ python daily_update.py
 Only the Python standard library is used — nothing to install.
 
 <!-- LATEST:START -->
-### 📅 Latest snapshot — 2026-08-18
+### 📅 Latest snapshot — 2026-08-19
 
-> *"No one can compete with you on being you. Most of life is a search for who and what needs you the most."* — **Naval Ravikant**
+> *"Why change? Everyone has his own style. When you have found it, you should stick to it."* — **Audrey Hepburn**
 
 **Crypto (USD)**
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $64,691 | +1.01% |
-| Ethereum | $1,914.14 | +0.38% |
-| Solana | $76.89 | +1.26% |
+| Bitcoin | $64,324 | +0.37% |
+| Ethereum | $1,911.51 | +1.0% |
+| Solana | $77.06 | +1.91% |
 
-**🔭 NASA:** [Perseids from Perseus](https://apod.nasa.gov/apod/image/2608/Perseids_karuk_960.jpg)
+**🔭 NASA:** [The Case of the Mysterious Maybe Meteor](https://apod.nasa.gov/apod/image/2608/perseids_eclipse_mystery.mp4)
 
-**🚗 Car news:** [McLaren's Manual Supercar Isn't A Preview Of The Future](https://www.motor1.com/news/805359/mclaren-manual-supercar-wont-influence-future-cars/)
+**🚗 Car news:** [The Toyota GR GT Will Be Hard To Get In America. And That's Exactly The Point (Update)](https://www.motor1.com/news/805308/toyota-gr-gt-us-allocation/)
 
-**📜 On this day, 684:** Battle of Marj Rahit: Umayyad partisans defeat the supporters of Ibn al-Zubayr and cement Umayyad control of Syria. — [Battle of Marj Rahit (684)](https://en.wikipedia.org/wiki/Battle_of_Marj_Rahit_(684))
+**📜 On this day, -295:** The first temple to Venus, the Roman goddess of love, beauty and fertility, is dedicated by Quintus Fabius Maximus Gurges during the Third Samnite War. — [Venus (mythology)](https://en.wikipedia.org/wiki/Venus_(mythology))
 
 **🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 10 repos · 6 followers
 
