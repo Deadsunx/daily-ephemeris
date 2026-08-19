@@ -1,11 +1,11 @@
 {
   "date": "2026-08-19",
-  "fetched_at": "2026-08-19T04:29:46.397418+00:00",
+  "fetched_at": "2026-08-19T16:28:28.538564+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 64324,
-      "usd_24h_change": 0.37,
-      "usd_market_cap": 1291110116270.5034,
+      "usd": 68757,
+      "usd_24h_change": 6.32,
+      "usd_market_cap": 1380438236985.7188,
       "spark": [
         65184.92,
         66520.98,
@@ -37,13 +37,13 @@
         62852.86,
         64455.38,
         64686.26,
-        64320.83
+        68775.97
       ]
     },
     "ethereum": {
-      "usd": 1911.51,
-      "usd_24h_change": 1.0,
-      "usd_market_cap": 230684241744.61,
+      "usd": 2097.57,
+      "usd_24h_change": 9.65,
+      "usd_market_cap": 253203910581.021,
       "spark": [
         1901.77,
         1928.66,
@@ -75,13 +75,13 @@
         1874.41,
         1911.38,
         1916.4,
-        1911.4
+        2098.11
       ]
     },
     "solana": {
-      "usd": 77.06,
-      "usd_24h_change": 1.91,
-      "usd_market_cap": 44920937892.16713,
+      "usd": 81.91,
+      "usd_24h_change": 6.61,
+      "usd_market_cap": 46812513084.433105,
       "spark": [
         77.75,
         78.09,
@@ -113,7 +113,7 @@
         74.55,
         75.93,
         77.0,
-        77.06
+        81.96
       ]
     }
   },
@@ -129,8 +129,8 @@
     "thumbnail_url": ""
   },
   "car_news": {
-    "headline": "The Toyota GR GT Will Be Hard To Get In America. And That's Exactly The Point (Update)",
-    "url": "https://www.motor1.com/news/805308/toyota-gr-gt-us-allocation/",
+    "headline": "Lamborghini's Hybrid Future Is Taking Shape, And One Country Could Have A Bigger Role",
+    "url": "https://www.motor1.com/news/805470/lamborghini-hybrid-strategy-puts-canada/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {

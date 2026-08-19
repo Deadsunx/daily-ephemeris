@@ -43,13 +43,13 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $64,324 | +0.37% |
-| Ethereum | $1,911.51 | +1.0% |
-| Solana | $77.06 | +1.91% |
+| Bitcoin | $68,757 | +6.32% |
+| Ethereum | $2,097.57 | +9.65% |
+| Solana | $81.91 | +6.61% |
 
 **🔭 NASA:** [The Case of the Mysterious Maybe Meteor](https://apod.nasa.gov/apod/image/2608/perseids_eclipse_mystery.mp4)
 
-**🚗 Car news:** [The Toyota GR GT Will Be Hard To Get In America. And That's Exactly The Point (Update)](https://www.motor1.com/news/805308/toyota-gr-gt-us-allocation/)
+**🚗 Car news:** [Lamborghini's Hybrid Future Is Taking Shape, And One Country Could Have A Bigger Role](https://www.motor1.com/news/805470/lamborghini-hybrid-strategy-puts-canada/)
 
 **📜 On this day, -295:** The first temple to Venus, the Roman goddess of love, beauty and fertility, is dedicated by Quintus Fabius Maximus Gurges during the Third Samnite War. — [Venus (mythology)](https://en.wikipedia.org/wiki/Venus_(mythology))
 
