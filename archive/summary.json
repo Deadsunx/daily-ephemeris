@@ -443,5 +443,21 @@
       "year": -295,
       "title": "Venus (mythology)"
     }
+  },
+  {
+    "date": "2026-08-20",
+    "quote": {
+      "text": "No matter how tall the mountain is, it cannot block the sun.",
+      "author": "Chinese Proverb"
+    },
+    "nasa": {
+      "title": "The Elephant's Trunk in Cepheus",
+      "media_type": "image"
+    },
+    "car": "2027 Genesis GV90 Debuts As A Flagship SUV With Coach Doors",
+    "onthisday": {
+      "year": 14,
+      "title": "10s"
+    }
   }
 ]

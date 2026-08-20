@@ -35,23 +35,23 @@ python daily_update.py
 Only the Python standard library is used — nothing to install.
 
 <!-- LATEST:START -->
-### 📅 Latest snapshot — 2026-08-19
+### 📅 Latest snapshot — 2026-08-20
 
-> *"Why change? Everyone has his own style. When you have found it, you should stick to it."* — **Audrey Hepburn**
+> *"No matter how tall the mountain is, it cannot block the sun."* — **Chinese Proverb**
 
 **Crypto (USD)**
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $68,757 | +6.32% |
-| Ethereum | $2,097.57 | +9.65% |
-| Solana | $81.91 | +6.61% |
+| Bitcoin | $69,315 | +7.77% |
+| Ethereum | $2,253.69 | +17.93% |
+| Solana | $84.56 | +9.77% |
 
-**🔭 NASA:** [The Case of the Mysterious Maybe Meteor](https://apod.nasa.gov/apod/image/2608/perseids_eclipse_mystery.mp4)
+**🔭 NASA:** [The Elephant's Trunk in Cepheus](https://apod.nasa.gov/apod/image/2608/IMG_5201_sgarbossa1024.jpeg)
 
-**🚗 Car news:** [Lamborghini's Hybrid Future Is Taking Shape, And One Country Could Have A Bigger Role](https://www.motor1.com/news/805470/lamborghini-hybrid-strategy-puts-canada/)
+**🚗 Car news:** [2027 Genesis GV90 Debuts As A Flagship SUV With Coach Doors](https://www.motor1.com/news/805518/2027-genesis-gv90-horsepower-price-details/)
 
-**📜 On this day, -295:** The first temple to Venus, the Roman goddess of love, beauty and fertility, is dedicated by Quintus Fabius Maximus Gurges during the Third Samnite War. — [Venus (mythology)](https://en.wikipedia.org/wiki/Venus_(mythology))
+**📜 On this day, 14:** Agrippa Postumus, maternal grandson of the late Roman emperor Augustus, is executed by his guards while in exile. — [10s](https://en.wikipedia.org/wiki/10s)
 
 **🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 10 repos · 6 followers
 
