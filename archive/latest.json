@@ -1,11 +1,11 @@
 {
   "date": "2026-08-20",
-  "fetched_at": "2026-08-20T04:29:44.334797+00:00",
+  "fetched_at": "2026-08-20T16:31:58.776478+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 69315,
-      "usd_24h_change": 7.77,
-      "usd_market_cap": 1391255140588.7056,
+      "usd": 72368,
+      "usd_24h_change": 5.18,
+      "usd_market_cap": 1452545427347.5923,
       "spark": [
         66520.98,
         66077.06,
@@ -37,13 +37,13 @@
         64455.38,
         64664.43,
         69291.01,
-        69316.35
+        72343.86
       ]
     },
     "ethereum": {
-      "usd": 2253.69,
-      "usd_24h_change": 17.93,
-      "usd_market_cap": 271978870365.5754,
+      "usd": 2324.98,
+      "usd_24h_change": 10.79,
+      "usd_market_cap": 280274189999.6966,
       "spark": [
         1928.66,
         1933.41,
@@ -75,13 +75,13 @@
         1911.38,
         1914.81,
         2251.73,
-        2253.69
+        2324.98
       ]
     },
     "solana": {
-      "usd": 84.56,
-      "usd_24h_change": 9.77,
-      "usd_market_cap": 49300877260.77264,
+      "usd": 87.06,
+      "usd_24h_change": 6.3,
+      "usd_market_cap": 50722746824.4574,
       "spark": [
         78.09,
         77.94,
@@ -113,7 +113,7 @@
         75.93,
         77.0,
         85.33,
-        84.56
+        87.02
       ]
     }
   },
@@ -129,8 +129,8 @@
     "thumbnail_url": null
   },
   "car_news": {
-    "headline": "2027 Genesis GV90 Debuts As A Flagship SUV With Coach Doors",
-    "url": "https://www.motor1.com/news/805518/2027-genesis-gv90-horsepower-price-details/",
+    "headline": "California Approved New Efficiency Rules For Replacement Tires. Here's What It Means",
+    "url": "https://www.motor1.com/news/805502/california-replacement-tire-rules-passed/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {
@@ -143,7 +143,7 @@
     "login": "Deadsunx",
     "name": "Oumar Tirera",
     "public_repos": 10,
-    "followers": 6,
+    "followers": 7,
     "following": 12,
     "created_at": "2022-05-12T17:33:47Z",
     "html_url": "https://github.com/Deadsunx",
