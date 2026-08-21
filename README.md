@@ -35,23 +35,23 @@ python daily_update.py
 Only the Python standard library is used — nothing to install.
 
 <!-- LATEST:START -->
-### 📅 Latest snapshot — 2026-08-20
+### 📅 Latest snapshot — 2026-08-21
 
-> *"No matter how tall the mountain is, it cannot block the sun."* — **Chinese Proverb**
+> *"Listen to the secret sound, the real sound, which is inside you."* — **Kabir**
 
 **Crypto (USD)**
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $72,368 | +5.18% |
-| Ethereum | $2,324.98 | +10.79% |
-| Solana | $87.06 | +6.3% |
+| Bitcoin | $74,815 | +7.93% |
+| Ethereum | $2,345.5 | +4.07% |
+| Solana | $89.01 | +5.33% |
 
-**🔭 NASA:** [The Elephant's Trunk in Cepheus](https://apod.nasa.gov/apod/image/2608/IMG_5201_sgarbossa1024.jpeg)
+**🔭 NASA:** [Time-Lapse of the Star S301 Orbiting the Black Hole in the Center of the Galaxy](https://apod.nasa.gov/apod/image/2608/eso2612b.mp4)
 
-**🚗 Car news:** [California Approved New Efficiency Rules For Replacement Tires. Here's What It Means](https://www.motor1.com/news/805502/california-replacement-tire-rules-passed/)
+**🚗 Car news:** [Mazda Won't Let The Rotary Die. This Patent Could Make It More Efficient](https://www.motor1.com/news/805617/mazda-rotary-engine-egr-patent/)
 
-**📜 On this day, 14:** Agrippa Postumus, maternal grandson of the late Roman emperor Augustus, is executed by his guards while in exile. — [10s](https://en.wikipedia.org/wiki/10s)
+**📜 On this day, 959:** Eraclus becomes the 25th bishop of Liège. — [Eraclus](https://en.wikipedia.org/wiki/Eraclus)
 
 **🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 10 repos · 7 followers
 

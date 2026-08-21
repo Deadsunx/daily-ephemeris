@@ -459,5 +459,21 @@
       "year": 14,
       "title": "10s"
     }
+  },
+  {
+    "date": "2026-08-21",
+    "quote": {
+      "text": "Listen to the secret sound, the real sound, which is inside you.",
+      "author": "Kabir"
+    },
+    "nasa": {
+      "title": "Time-Lapse of the Star S301 Orbiting the Black Hole in the Center of the Galaxy",
+      "media_type": "video"
+    },
+    "car": "Mazda Won't Let The Rotary Die. This Patent Could Make It More Efficient",
+    "onthisday": {
+      "year": 959,
+      "title": "Eraclus"
+    }
   }
 ]
