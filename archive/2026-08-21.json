@@ -1,11 +1,11 @@
 {
   "date": "2026-08-21",
-  "fetched_at": "2026-08-21T04:30:32.606623+00:00",
+  "fetched_at": "2026-08-21T16:30:44.501723+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 74815,
-      "usd_24h_change": 7.93,
-      "usd_market_cap": 1501451067316.7068,
+      "usd": 77262,
+      "usd_24h_change": 6.8,
+      "usd_market_cap": 1550052893590.2288,
       "spark": [
         66077.06,
         65033.02,
@@ -37,13 +37,13 @@
         64664.43,
         69418.44,
         73020.95,
-        74811.72
+        77250.7
       ]
     },
     "ethereum": {
-      "usd": 2345.5,
-      "usd_24h_change": 4.07,
-      "usd_market_cap": 283081994418.14374,
+      "usd": 2399.44,
+      "usd_24h_change": 3.28,
+      "usd_market_cap": 289478604666.4094,
       "spark": [
         1933.41,
         1876.95,
@@ -75,13 +75,13 @@
         1914.81,
         2253.56,
         2326.53,
-        2345.25
+        2399.44
       ]
     },
     "solana": {
-      "usd": 89.01,
-      "usd_24h_change": 5.33,
-      "usd_market_cap": 51912217757.31808,
+      "usd": 91.39,
+      "usd_24h_change": 5.02,
+      "usd_market_cap": 53269502048.191124,
       "spark": [
         77.94,
         75.76,
@@ -113,7 +113,7 @@
         77.0,
         85.47,
         87.65,
-        88.93
+        91.39
       ]
     }
   },
@@ -129,9 +129,9 @@
     "thumbnail_url": ""
   },
   "car_news": {
-    "headline": "Mazda Won't Let The Rotary Die. This Patent Could Make It More Efficient",
-    "url": "https://www.motor1.com/news/805617/mazda-rotary-engine-egr-patent/",
-    "source": "https://www.motor1.com/rss/news/all/"
+    "headline": "Brabus Built Its Own Million-Dollar GT, and It Won\u2019t Be the Last",
+    "url": "https://www.autoblog.com/news/brabus-built-its-own-million-dollar-gt-and-it-wont-be-the-last",
+    "source": "https://www.autoblog.com/rss.xml"
   },
   "onthisday": {
     "year": 959,
@@ -143,7 +143,7 @@
     "login": "Deadsunx",
     "name": "Oumar Tirera",
     "public_repos": 10,
-    "followers": 7,
+    "followers": 8,
     "following": 12,
     "created_at": "2022-05-12T17:33:47Z",
     "html_url": "https://github.com/Deadsunx",
