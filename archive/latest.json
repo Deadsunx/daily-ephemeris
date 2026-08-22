@@ -1,11 +1,11 @@
 {
   "date": "2026-08-22",
-  "fetched_at": "2026-08-22T04:25:11.479378+00:00",
+  "fetched_at": "2026-08-22T16:20:27.875409+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 78424,
-      "usd_24h_change": 4.75,
-      "usd_market_cap": 1572658840328.8313,
+      "usd": 77116,
+      "usd_24h_change": 0.08,
+      "usd_market_cap": 1547829085496.3254,
       "spark": [
         65033.02,
         64099.0,
@@ -37,13 +37,13 @@
         69418.44,
         73097.55,
         78317.78,
-        78455.15
+        77113.69
       ]
     },
     "ethereum": {
-      "usd": 2512.01,
-      "usd_24h_change": 7.0,
-      "usd_market_cap": 302970217469.8021,
+      "usd": 2417.07,
+      "usd_24h_change": 0.98,
+      "usd_market_cap": 291695830802.90015,
       "spark": [
         1876.95,
         1861.26,
@@ -75,13 +75,13 @@
         2253.56,
         2326.71,
         2514.97,
-        2512.01
+        2416.84
       ]
     },
     "solana": {
-      "usd": 97.13,
-      "usd_24h_change": 8.88,
-      "usd_market_cap": 56561007663.78645,
+      "usd": 93.67,
+      "usd_24h_change": 2.74,
+      "usd_market_cap": 54627599892.36431,
       "spark": [
         75.76,
         73.93,
@@ -113,7 +113,7 @@
         85.47,
         87.64,
         93.69,
-        97.13
+        93.67
       ]
     }
   },
@@ -129,8 +129,8 @@
     "thumbnail_url": null
   },
   "car_news": {
-    "headline": "Is Ford Considering A Cheap Rally Car? Sure Sounds Like It",
-    "url": "https://www.motor1.com/news/805740/affordable-ford-rally-car-jim-farley-rumor/",
+    "headline": "The Genesis G70 Is Losing Its Best Engine",
+    "url": "https://www.motor1.com/news/805746/genesis-g70-v6-engine-discontinued/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {

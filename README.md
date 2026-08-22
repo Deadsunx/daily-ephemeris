@@ -43,13 +43,13 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $78,424 | +4.75% |
-| Ethereum | $2,512.01 | +7.0% |
-| Solana | $97.13 | +8.88% |
+| Bitcoin | $77,116 | +0.08% |
+| Ethereum | $2,417.07 | +0.98% |
+| Solana | $93.67 | +2.74% |
 
 **🔭 NASA:** [Mostly Perseids](https://apod.nasa.gov/apod/image/2608/allsky_CEMeNt_Aug12-13final_pretty_8bit1024.jpg)
 
-**🚗 Car news:** [Is Ford Considering A Cheap Rally Car? Sure Sounds Like It](https://www.motor1.com/news/805740/affordable-ford-rally-car-jim-farley-rumor/)
+**🚗 Car news:** [The Genesis G70 Is Losing Its Best Engine](https://www.motor1.com/news/805746/genesis-g70-v6-engine-discontinued/)
 
 **📜 On this day, 392:** Arbogast has Eugenius elected Western Roman Emperor. — [Arbogast (magister militum)](https://en.wikipedia.org/wiki/Arbogast_(magister_militum))
 
