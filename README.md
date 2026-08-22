@@ -35,23 +35,23 @@ python daily_update.py
 Only the Python standard library is used — nothing to install.
 
 <!-- LATEST:START -->
-### 📅 Latest snapshot — 2026-08-21
+### 📅 Latest snapshot — 2026-08-22
 
-> *"Listen to the secret sound, the real sound, which is inside you."* — **Kabir**
+> *"Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more."* — **Nikola Tesla**
 
 **Crypto (USD)**
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $77,262 | +6.8% |
-| Ethereum | $2,399.44 | +3.28% |
-| Solana | $91.39 | +5.02% |
+| Bitcoin | $78,424 | +4.75% |
+| Ethereum | $2,512.01 | +7.0% |
+| Solana | $97.13 | +8.88% |
 
-**🔭 NASA:** [Time-Lapse of the Star S301 Orbiting the Black Hole in the Center of the Galaxy](https://apod.nasa.gov/apod/image/2608/eso2612b.mp4)
+**🔭 NASA:** [Mostly Perseids](https://apod.nasa.gov/apod/image/2608/allsky_CEMeNt_Aug12-13final_pretty_8bit1024.jpg)
 
-**🚗 Car news:** [Brabus Built Its Own Million-Dollar GT, and It Won’t Be the Last](https://www.autoblog.com/news/brabus-built-its-own-million-dollar-gt-and-it-wont-be-the-last)
+**🚗 Car news:** [Is Ford Considering A Cheap Rally Car? Sure Sounds Like It](https://www.motor1.com/news/805740/affordable-ford-rally-car-jim-farley-rumor/)
 
-**📜 On this day, 959:** Eraclus becomes the 25th bishop of Liège. — [Eraclus](https://en.wikipedia.org/wiki/Eraclus)
+**📜 On this day, 392:** Arbogast has Eugenius elected Western Roman Emperor. — [Arbogast (magister militum)](https://en.wikipedia.org/wiki/Arbogast_(magister_militum))
 
 **🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 10 repos · 8 followers
 

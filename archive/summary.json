@@ -475,5 +475,21 @@
       "year": 959,
       "title": "Eraclus"
     }
+  },
+  {
+    "date": "2026-08-22",
+    "quote": {
+      "text": "Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more.",
+      "author": "Nikola Tesla"
+    },
+    "nasa": {
+      "title": "Mostly Perseids",
+      "media_type": "image"
+    },
+    "car": "Is Ford Considering A Cheap Rally Car? Sure Sounds Like It",
+    "onthisday": {
+      "year": 392,
+      "title": "Arbogast (magister militum)"
+    }
   }
 ]
