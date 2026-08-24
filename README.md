@@ -43,13 +43,13 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $77,164 | +0.43% |
-| Ethereum | $2,442.06 | +1.61% |
-| Solana | $94.15 | +1.09% |
+| Bitcoin | $79,687 | +2.99% |
+| Ethereum | $2,497.98 | +1.98% |
+| Solana | $97.15 | +1.66% |
 
 **🔭 NASA:** [Comet 220P in Outburst](https://apod.nasa.gov/apod/image/2608/Comet220P_SA_960.jpg)
 
-**🚗 Car news:** [The Genesis G70 Is Losing Its Best Engine](https://www.motor1.com/news/805746/genesis-g70-v6-engine-discontinued/)
+**🚗 Car news:** [Lamborghini Isn't Worried About China... Yet](https://www.motor1.com/news/805908/lamborghini-ceo-china-not-threat/)
 
 **📜 On this day, 367:** Gratian, son of Roman Emperor Valentinian I, is named co-Augustus at the age of eight by his father. — [Gratian](https://en.wikipedia.org/wiki/Gratian)
 
