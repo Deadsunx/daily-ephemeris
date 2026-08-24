@@ -35,23 +35,23 @@ python daily_update.py
 Only the Python standard library is used — nothing to install.
 
 <!-- LATEST:START -->
-### 📅 Latest snapshot — 2026-08-23
+### 📅 Latest snapshot — 2026-08-24
 
-> *"The biggest adventure you can ever take is to live the life of your dreams."* — **Oprah Winfrey**
+> *"The quicker you let go of old cheese, the sooner you find new cheese."* — **Spencer Johnson**
 
 **Crypto (USD)**
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $77,260 | +0.15% |
-| Ethereum | $2,444.25 | +1.06% |
-| Solana | $95.28 | +1.55% |
+| Bitcoin | $77,164 | +0.43% |
+| Ethereum | $2,442.06 | +1.61% |
+| Solana | $94.15 | +1.09% |
 
-**🔭 NASA:** [Cassini Approaches Saturn](https://player.vimeo.com/video/11386048#t=0m58s?color=8BA0FF&portrait=0)
+**🔭 NASA:** [Comet 220P in Outburst](https://apod.nasa.gov/apod/image/2608/Comet220P_SA_960.jpg)
 
 **🚗 Car news:** [The Genesis G70 Is Losing Its Best Engine](https://www.motor1.com/news/805746/genesis-g70-v6-engine-discontinued/)
 
-**📜 On this day, 79:** Mount Vesuvius begins stirring, on the feast day of Vulcan, the Roman god of fire. — [AD 79](https://en.wikipedia.org/wiki/AD_79)
+**📜 On this day, 367:** Gratian, son of Roman Emperor Valentinian I, is named co-Augustus at the age of eight by his father. — [Gratian](https://en.wikipedia.org/wiki/Gratian)
 
 **🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 10 repos · 9 followers
 

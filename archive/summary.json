@@ -507,5 +507,21 @@
       "year": 79,
       "title": "AD 79"
     }
+  },
+  {
+    "date": "2026-08-24",
+    "quote": {
+      "text": "The quicker you let go of old cheese, the sooner you find new cheese.",
+      "author": "Spencer Johnson"
+    },
+    "nasa": {
+      "title": "Comet 220P in Outburst",
+      "media_type": "image"
+    },
+    "car": "The Genesis G70 Is Losing Its Best Engine",
+    "onthisday": {
+      "year": 367,
+      "title": "Gratian"
+    }
   }
 ]
