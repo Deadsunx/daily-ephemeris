@@ -43,13 +43,13 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $80,255 | +3.94% |
-| Ethereum | $2,494.64 | +2.02% |
-| Solana | $101.49 | +7.64% |
+| Bitcoin | $79,298 | -0.44% |
+| Ethereum | $2,475.03 | -0.86% |
+| Solana | $98.3 | +1.21% |
 
 **🔭 NASA:** [Earth's Shadow Visualized with Lunar Eclipses](https://apod.nasa.gov/apod/image/2608/EarthShadow_Martin_960.jpg)
 
-**🚗 Car news:** [Another State Is Raising Speed Limits To 75 Miles Per Hour](https://www.motor1.com/news/805928/missouri-speed-limits-75-mph/)
+**🚗 Car news:** [Ferrari Wants To Turn Taillights Into Active Aero](https://www.motor1.com/news/806047/ferrari-patent-aerodynamic-taillights/)
 
 **📜 On this day, 383:** Roman Emperor Gratian is murdered at a banquet after having surrendered to the forces of rival emperor Magnus Maximus. — [AD 383](https://en.wikipedia.org/wiki/AD_383)
 
