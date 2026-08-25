@@ -35,23 +35,23 @@ python daily_update.py
 Only the Python standard library is used — nothing to install.
 
 <!-- LATEST:START -->
-### 📅 Latest snapshot — 2026-08-24
+### 📅 Latest snapshot — 2026-08-25
 
-> *"The quicker you let go of old cheese, the sooner you find new cheese."* — **Spencer Johnson**
+> *"Mistakes are painful when they happen, but years later a collection of mistakes is what is called experience."* — **Denis Waitley**
 
 **Crypto (USD)**
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $79,687 | +2.99% |
-| Ethereum | $2,497.98 | +1.98% |
-| Solana | $97.15 | +1.66% |
+| Bitcoin | $80,255 | +3.94% |
+| Ethereum | $2,494.64 | +2.02% |
+| Solana | $101.49 | +7.64% |
 
-**🔭 NASA:** [Comet 220P in Outburst](https://apod.nasa.gov/apod/image/2608/Comet220P_SA_960.jpg)
+**🔭 NASA:** [Earth's Shadow Visualized with Lunar Eclipses](https://apod.nasa.gov/apod/image/2608/EarthShadow_Martin_960.jpg)
 
-**🚗 Car news:** [Lamborghini Isn't Worried About China... Yet](https://www.motor1.com/news/805908/lamborghini-ceo-china-not-threat/)
+**🚗 Car news:** [Another State Is Raising Speed Limits To 75 Miles Per Hour](https://www.motor1.com/news/805928/missouri-speed-limits-75-mph/)
 
-**📜 On this day, 367:** Gratian, son of Roman Emperor Valentinian I, is named co-Augustus at the age of eight by his father. — [Gratian](https://en.wikipedia.org/wiki/Gratian)
+**📜 On this day, 383:** Roman Emperor Gratian is murdered at a banquet after having surrendered to the forces of rival emperor Magnus Maximus. — [AD 383](https://en.wikipedia.org/wiki/AD_383)
 
 **🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 10 repos · 9 followers
 

@@ -523,5 +523,21 @@
       "year": 367,
       "title": "Gratian"
     }
+  },
+  {
+    "date": "2026-08-25",
+    "quote": {
+      "text": "Mistakes are painful when they happen, but years later a collection of mistakes is what is called experience.",
+      "author": "Denis Waitley"
+    },
+    "nasa": {
+      "title": "Earth's Shadow Visualized with Lunar Eclipses",
+      "media_type": "image"
+    },
+    "car": "Another State Is Raising Speed Limits To 75 Miles Per Hour",
+    "onthisday": {
+      "year": 383,
+      "title": "AD 383"
+    }
   }
 ]
