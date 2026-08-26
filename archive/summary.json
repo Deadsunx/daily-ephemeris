@@ -539,5 +539,21 @@
       "year": 383,
       "title": "AD 383"
     }
+  },
+  {
+    "date": "2026-08-26",
+    "quote": {
+      "text": "A thing constructed can only be loved after it is constructed; but a thing created is loved before it exists.",
+      "author": "Charles Dickens"
+    },
+    "nasa": {
+      "title": "JWST Images The Lion's Head Nebula",
+      "media_type": "image"
+    },
+    "car": "Ferrari Wants To Turn Taillights Into Active Aero",
+    "onthisday": {
+      "year": 683,
+      "title": "Battle of al-Harra"
+    }
   }
 ]

@@ -35,23 +35,23 @@ python daily_update.py
 Only the Python standard library is used — nothing to install.
 
 <!-- LATEST:START -->
-### 📅 Latest snapshot — 2026-08-25
+### 📅 Latest snapshot — 2026-08-26
 
-> *"Mistakes are painful when they happen, but years later a collection of mistakes is what is called experience."* — **Denis Waitley**
+> *"A thing constructed can only be loved after it is constructed; but a thing created is loved before it exists."* — **Charles Dickens**
 
 **Crypto (USD)**
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $79,298 | -0.44% |
-| Ethereum | $2,475.03 | -0.86% |
-| Solana | $98.3 | +1.21% |
+| Bitcoin | $79,013 | -1.44% |
+| Ethereum | $2,466.22 | -0.99% |
+| Solana | $97.09 | -4.01% |
 
-**🔭 NASA:** [Earth's Shadow Visualized with Lunar Eclipses](https://apod.nasa.gov/apod/image/2608/EarthShadow_Martin_960.jpg)
+**🔭 NASA:** [JWST Images The Lion's Head Nebula](https://apod.nasa.gov/apod/image/2608/lions_head_nebula.jpg)
 
 **🚗 Car news:** [Ferrari Wants To Turn Taillights Into Active Aero](https://www.motor1.com/news/806047/ferrari-patent-aerodynamic-taillights/)
 
-**📜 On this day, 383:** Roman Emperor Gratian is murdered at a banquet after having surrendered to the forces of rival emperor Magnus Maximus. — [AD 383](https://en.wikipedia.org/wiki/AD_383)
+**📜 On this day, 683:** The Battle of al-Harrah concludes, with Yazid I's army killing 11,000 people of the city of Medina. — [Battle of al-Harra](https://en.wikipedia.org/wiki/Battle_of_al-Harra)
 
 **🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 10 repos · 9 followers
 
