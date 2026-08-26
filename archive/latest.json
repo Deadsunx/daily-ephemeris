@@ -1,11 +1,11 @@
 {
   "date": "2026-08-26",
-  "fetched_at": "2026-08-26T04:32:30.177389+00:00",
+  "fetched_at": "2026-08-26T16:46:01.888495+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 79013,
-      "usd_24h_change": -1.44,
-      "usd_market_cap": 1585905230001.382,
+      "usd": 77899,
+      "usd_24h_change": -1.74,
+      "usd_market_cap": 1563864335898.8794,
       "spark": [
         63673.71,
         63957.04,
@@ -37,13 +37,13 @@
         77677.99,
         78940.29,
         78511.23,
-        79013.3
+        77882.1
       ]
     },
     "ethereum": {
-      "usd": 2466.22,
-      "usd_24h_change": -0.99,
-      "usd_market_cap": 297591769443.2897,
+      "usd": 2439.79,
+      "usd_24h_change": -1.49,
+      "usd_market_cap": 294393436936.3157,
       "spark": [
         1890.57,
         1923.0,
@@ -75,13 +75,13 @@
         2460.93,
         2480.6,
         2442.01,
-        2466.61
+        2440.15
       ]
     },
     "solana": {
-      "usd": 97.09,
-      "usd_24h_change": -4.01,
-      "usd_market_cap": 56625503829.81633,
+      "usd": 95.55,
+      "usd_24h_change": -2.98,
+      "usd_market_cap": 55733761681.78364,
       "spark": [
         74.2,
         73.9,
@@ -113,7 +113,7 @@
         95.32,
         98.74,
         96.58,
-        97.09
+        95.55
       ]
     }
   },
@@ -129,8 +129,8 @@
     "thumbnail_url": null
   },
   "car_news": {
-    "headline": "Ferrari Wants To Turn Taillights Into Active Aero",
-    "url": "https://www.motor1.com/news/806047/ferrari-patent-aerodynamic-taillights/",
+    "headline": "The Lincoln Corsair Returns For 2027 As A China-Built Hybrid",
+    "url": "https://www.motor1.com/news/806182/2027-lincoln-corsair-hybrid-horsepower-trims-engine/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {

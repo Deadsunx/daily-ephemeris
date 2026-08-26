@@ -43,13 +43,13 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $79,013 | -1.44% |
-| Ethereum | $2,466.22 | -0.99% |
-| Solana | $97.09 | -4.01% |
+| Bitcoin | $77,899 | -1.74% |
+| Ethereum | $2,439.79 | -1.49% |
+| Solana | $95.55 | -2.98% |
 
 **🔭 NASA:** [JWST Images The Lion's Head Nebula](https://apod.nasa.gov/apod/image/2608/lions_head_nebula.jpg)
 
-**🚗 Car news:** [Ferrari Wants To Turn Taillights Into Active Aero](https://www.motor1.com/news/806047/ferrari-patent-aerodynamic-taillights/)
+**🚗 Car news:** [The Lincoln Corsair Returns For 2027 As A China-Built Hybrid](https://www.motor1.com/news/806182/2027-lincoln-corsair-hybrid-horsepower-trims-engine/)
 
 **📜 On this day, 683:** The Battle of al-Harrah concludes, with Yazid I's army killing 11,000 people of the city of Medina. — [Battle of al-Harra](https://en.wikipedia.org/wiki/Battle_of_al-Harra)
 
