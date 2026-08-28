@@ -1,11 +1,11 @@
 {
   "date": "2026-08-28",
-  "fetched_at": "2026-08-28T00:44:34.006794+00:00",
+  "fetched_at": "2026-08-28T15:49:15.579923+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 80429,
-      "usd_24h_change": 1.97,
-      "usd_market_cap": 1614377087649.983,
+      "usd": 78874,
+      "usd_24h_change": -1.84,
+      "usd_market_cap": 1582470341358.682,
       "spark": [
         63916.6,
         64743.34,
@@ -37,13 +37,13 @@
         78511.23,
         79018.03,
         80268.37,
-        80429.34
+        78874.46
       ]
     },
     "ethereum": {
-      "usd": 2516.69,
-      "usd_24h_change": 0.8,
-      "usd_market_cap": 303639207797.7989,
+      "usd": 2493.61,
+      "usd_24h_change": -1.13,
+      "usd_market_cap": 300760761709.27576,
       "spark": [
         1908.74,
         1917.57,
@@ -75,13 +75,13 @@
         2442.01,
         2506.34,
         2511.46,
-        2516.69
+        2493.38
       ]
     },
     "solana": {
-      "usd": 109.58,
-      "usd_24h_change": 8.42,
-      "usd_market_cap": 64002673163.323906,
+      "usd": 106.09,
+      "usd_24h_change": -0.83,
+      "usd_market_cap": 61888217444.26179,
       "spark": [
         73.61,
         74.46,
@@ -113,7 +113,7 @@
         96.58,
         102.05,
         109.18,
-        109.59
+        106.09
       ]
     }
   },
@@ -122,11 +122,15 @@
     "author": "Paulo Coelho"
   },
   "nasa": {
-    "error": "HTTP Error 500: Internal Server Error"
+    "title": "The Sky Turns Above Paranal",
+    "explanation": "At the latitude of ESO's Paranal Observatory in Chile, about 25 degrees south, Earth's rotation moves the planet's surface eastward at over 1,500 kilometers per hour. And while that's faster than the speed of sound at sea level, the motion is imperceptible. Still, that motion can be revealed in the apparent rotation of the night sky by photographing star trails. This star trail image was composed from a digital stack of 300 consecutive 25-second exposures made with a camera fixed to a tripod to trace the star trail arcs. The graceful arcs are concentric and centered at the south celestial pole, the southern hemisphere extension of Earth's axis of rotation into space. One of the observatory's operating 1.8 meter auxiliary telescopes, AT 3, appears beneath the south celestial pole, faintly illuminated in the foreground of this well-planned scene from a rotating planet.  APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod",
+    "url": "https://apod.nasa.gov/apod/image/2608/TheSkyTurnsAboveParanal_1024.jpg",
+    "media_type": "image",
+    "thumbnail_url": null
   },
   "car_news": {
-    "headline": "GTA 6 Is Finally Getting Real Racing (Update)",
-    "url": "https://www.motor1.com/news/806207/grand-theft-auto-6-race-track-leaked/",
+    "headline": "This Is The Mustang We Wish Ford Would Build",
+    "url": "https://www.motor1.com/news/806411/ford-mustang-future-rendering-by-luca-serafini/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {

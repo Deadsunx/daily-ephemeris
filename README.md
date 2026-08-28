@@ -43,11 +43,13 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $80,429 | +1.97% |
-| Ethereum | $2,516.69 | +0.8% |
-| Solana | $109.58 | +8.42% |
+| Bitcoin | $78,874 | -1.84% |
+| Ethereum | $2,493.61 | -1.13% |
+| Solana | $106.09 | -0.83% |
 
-**🚗 Car news:** [GTA 6 Is Finally Getting Real Racing (Update)](https://www.motor1.com/news/806207/grand-theft-auto-6-race-track-leaked/)
+**🔭 NASA:** [The Sky Turns Above Paranal](https://apod.nasa.gov/apod/image/2608/TheSkyTurnsAboveParanal_1024.jpg)
+
+**🚗 Car news:** [This Is The Mustang We Wish Ford Would Build](https://www.motor1.com/news/806411/ford-mustang-future-rendering-by-luca-serafini/)
 
 **📜 On this day, 475:** The Roman general Orestes forces western Roman Emperor Julius Nepos to flee his capital city, Ravenna. — [Roman Empire](https://en.wikipedia.org/wiki/Roman_Empire)
 
