@@ -1,11 +1,11 @@
 {
   "date": "2026-08-29",
-  "fetched_at": "2026-08-29T10:37:37.227373+00:00",
+  "fetched_at": "2026-08-29T19:11:34.489072+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 77675,
-      "usd_24h_change": -2.07,
-      "usd_market_cap": 1559448987003.318,
+      "usd": 78243,
+      "usd_24h_change": 0.75,
+      "usd_market_cap": 1570870014356.1868,
       "spark": [
         64743.34,
         62820.09,
@@ -37,13 +37,13 @@
         79018.03,
         80268.37,
         77820.76,
-        77670.0
+        78242.63
       ]
     },
     "ethereum": {
-      "usd": 2436.14,
-      "usd_24h_change": -2.28,
-      "usd_market_cap": 293980900671.12646,
+      "usd": 2453.89,
+      "usd_24h_change": 0.78,
+      "usd_market_cap": 296137932941.37726,
       "spark": [
         1917.57,
         1860.59,
@@ -75,13 +75,13 @@
         2506.34,
         2511.46,
         2442.41,
-        2436.04
+        2453.88
       ]
     },
     "solana": {
-      "usd": 103.4,
-      "usd_24h_change": -2.26,
-      "usd_market_cap": 60404421856.36735,
+      "usd": 105.29,
+      "usd_24h_change": 1.85,
+      "usd_market_cap": 61520141949.140755,
       "spark": [
         74.46,
         72.79,
@@ -113,7 +113,7 @@
         102.05,
         109.18,
         104.11,
-        103.39
+        105.28
       ]
     }
   },
@@ -129,8 +129,8 @@
     "thumbnail_url": null
   },
   "car_news": {
-    "headline": "Acura Said It Wouldn't Build A Sports Car. Now The Door Is Open",
-    "url": "https://www.motor1.com/news/806427/acura-nexera-production-version-possible/",
+    "headline": "Maserati's Origin Story Gets The Hollywood Treatment With New Movie: Watch The Trailer",
+    "url": "https://www.motor1.com/news/806439/new-maserati-movie-pacino-hopkins/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {

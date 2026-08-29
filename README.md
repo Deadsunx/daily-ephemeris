@@ -43,13 +43,13 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $77,675 | -2.07% |
-| Ethereum | $2,436.14 | -2.28% |
-| Solana | $103.4 | -2.26% |
+| Bitcoin | $78,243 | +0.75% |
+| Ethereum | $2,453.89 | +0.78% |
+| Solana | $105.29 | +1.85% |
 
 **🔭 NASA:** [Eclipse Pair](https://apod.nasa.gov/apod/image/2608/2026-08_12and28-EclipsePair1024.jpg)
 
-**🚗 Car news:** [Acura Said It Wouldn't Build A Sports Car. Now The Door Is Open](https://www.motor1.com/news/806427/acura-nexera-production-version-possible/)
+**🚗 Car news:** [Maserati's Origin Story Gets The Hollywood Treatment With New Movie: Watch The Trailer](https://www.motor1.com/news/806439/new-maserati-movie-pacino-hopkins/)
 
 **📜 On this day, 708:** Copper coins are minted in Japan for the first time (Traditional Japanese date: August 10, 708). — [Wadōkaichin](https://en.wikipedia.org/wiki/Wad%C5%8Dkaichin)
 
