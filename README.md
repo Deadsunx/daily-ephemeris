@@ -43,11 +43,11 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $77,911 | -3.12% |
-| Ethereum | $2,445.31 | -2.69% |
-| Solana | $104.44 | -4.76% |
+| Bitcoin | $77,675 | -2.07% |
+| Ethereum | $2,436.14 | -2.28% |
+| Solana | $103.4 | -2.26% |
 
-**🔭 NASA:** [The Sky Turns Above Paranal](https://apod.nasa.gov/apod/image/2608/TheSkyTurnsAboveParanal_1024.jpg)
+**🔭 NASA:** [Eclipse Pair](https://apod.nasa.gov/apod/image/2608/2026-08_12and28-EclipsePair1024.jpg)
 
 **🚗 Car news:** [Acura Said It Wouldn't Build A Sports Car. Now The Door Is Open](https://www.motor1.com/news/806427/acura-nexera-production-version-possible/)
 
