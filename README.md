@@ -35,23 +35,23 @@ python daily_update.py
 Only the Python standard library is used — nothing to install.
 
 <!-- LATEST:START -->
-### 📅 Latest snapshot — 2026-08-28
+### 📅 Latest snapshot — 2026-08-29
 
-> *"Whatever you decide to do, make sure it makes you happy."* — **Paulo Coelho**
+> *"Don't put off living to next week, next month, next year or next decade. The only time you're ever living is in this moment."* — **Celestine Chua**
 
 **Crypto (USD)**
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $78,874 | -1.84% |
-| Ethereum | $2,493.61 | -1.13% |
-| Solana | $106.09 | -0.83% |
+| Bitcoin | $77,911 | -3.12% |
+| Ethereum | $2,445.31 | -2.69% |
+| Solana | $104.44 | -4.76% |
 
 **🔭 NASA:** [The Sky Turns Above Paranal](https://apod.nasa.gov/apod/image/2608/TheSkyTurnsAboveParanal_1024.jpg)
 
-**🚗 Car news:** [This Is The Mustang We Wish Ford Would Build](https://www.motor1.com/news/806411/ford-mustang-future-rendering-by-luca-serafini/)
+**🚗 Car news:** [Acura Said It Wouldn't Build A Sports Car. Now The Door Is Open](https://www.motor1.com/news/806427/acura-nexera-production-version-possible/)
 
-**📜 On this day, 475:** The Roman general Orestes forces western Roman Emperor Julius Nepos to flee his capital city, Ravenna. — [Roman Empire](https://en.wikipedia.org/wiki/Roman_Empire)
+**📜 On this day, 708:** Copper coins are minted in Japan for the first time (Traditional Japanese date: August 10, 708). — [Wadōkaichin](https://en.wikipedia.org/wiki/Wad%C5%8Dkaichin)
 
 **🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 10 repos · 9 followers
 

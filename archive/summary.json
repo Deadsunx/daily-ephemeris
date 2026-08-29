@@ -587,5 +587,21 @@
       "year": 475,
       "title": "Roman Empire"
     }
+  },
+  {
+    "date": "2026-08-29",
+    "quote": {
+      "text": "Don't put off living to next week, next month, next year or next decade. The only time you're ever living is in this moment.",
+      "author": "Celestine Chua"
+    },
+    "nasa": {
+      "title": "The Sky Turns Above Paranal",
+      "media_type": "image"
+    },
+    "car": "Acura Said It Wouldn't Build A Sports Car. Now The Door Is Open",
+    "onthisday": {
+      "year": 708,
+      "title": "Wad\u014dkaichin"
+    }
   }
 ]
