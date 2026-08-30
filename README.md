@@ -35,23 +35,23 @@ python daily_update.py
 Only the Python standard library is used — nothing to install.
 
 <!-- LATEST:START -->
-### 📅 Latest snapshot — 2026-08-29
+### 📅 Latest snapshot — 2026-08-30
 
-> *"Don't put off living to next week, next month, next year or next decade. The only time you're ever living is in this moment."* — **Celestine Chua**
+> *"Keep your eyes on the goal, and just keep taking the next step towards completing it."* — **John Carmack**
 
 **Crypto (USD)**
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $78,243 | +0.75% |
-| Ethereum | $2,453.89 | +0.78% |
-| Solana | $105.29 | +1.85% |
+| Bitcoin | $77,998 | +0.42% |
+| Ethereum | $2,453.91 | +0.74% |
+| Solana | $104.64 | +1.18% |
 
-**🔭 NASA:** [Eclipse Pair](https://apod.nasa.gov/apod/image/2608/2026-08_12and28-EclipsePair1024.jpg)
+**🔭 NASA:** [M74: A Grand Design Spiral](https://apod.nasa.gov/apod/image/2608/m74_hst_960.jpg)
 
 **🚗 Car news:** [Maserati's Origin Story Gets The Hollywood Treatment With New Movie: Watch The Trailer](https://www.motor1.com/news/806439/new-maserati-movie-pacino-hopkins/)
 
-**📜 On this day, 708:** Copper coins are minted in Japan for the first time (Traditional Japanese date: August 10, 708). — [Wadōkaichin](https://en.wikipedia.org/wiki/Wad%C5%8Dkaichin)
+**📜 On this day, 70:** Titus ends the siege of Jerusalem after destroying Herod's Temple. — [AD 70](https://en.wikipedia.org/wiki/AD_70)
 
 **🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 10 repos · 9 followers
 
