@@ -43,9 +43,9 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $77,998 | +0.42% |
-| Ethereum | $2,453.91 | +0.74% |
-| Solana | $104.64 | +1.18% |
+| Bitcoin | $79,022 | +1.11% |
+| Ethereum | $2,510.19 | +2.35% |
+| Solana | $106.68 | +1.45% |
 
 **🔭 NASA:** [M74: A Grand Design Spiral](https://apod.nasa.gov/apod/image/2608/m74_hst_960.jpg)
 
