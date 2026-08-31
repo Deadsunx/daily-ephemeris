@@ -43,15 +43,15 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $78,395 | +0.49% |
-| Ethereum | $2,446.82 | -0.27% |
-| Solana | $102.9 | -1.61% |
+| Bitcoin | $78,835 | +0.4% |
+| Ethereum | $2,472.54 | -0.11% |
+| Solana | $103.41 | -0.63% |
 
 **🔭 NASA:** [Launch of the Roman Space Telescope](https://apod.nasa.gov/apod/image/2608/RomanLaunch_NASA.mp4)
 
-**🚗 Car news:** [Study Shows Passenger Screens Aren’t As Popular As Automakers Think](https://www.motor1.com/news/806553/study-shows-passenger-screens-unpopular/)
+**🚗 Car news:** [Ford Bronco Sport And Maverick Get Price Cuts For 2027, But Lose Some Features](https://www.motor1.com/news/806649/2027-ford-bronco-sport-maverick-pricing/)
 
-**📜 On this day, 38:** The Roman governor of Egypt, Aulus Avilius Flaccus, forces the Jewish citi — [30s](https://en.wikipedia.org/wiki/30s)
+**📜 On this day, 1056:** After a sudden gastric illness, Byzantine Empress Theodora dies childless, thus ending the Macedonian dynasty. — [List of Roman and Byzantine empresses](https://en.wikipedia.org/wiki/List_of_Roman_and_Byzantine_empresses)
 
 **🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 10 repos · 9 followers
 
