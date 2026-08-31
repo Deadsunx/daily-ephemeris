@@ -35,23 +35,23 @@ python daily_update.py
 Only the Python standard library is used — nothing to install.
 
 <!-- LATEST:START -->
-### 📅 Latest snapshot — 2026-08-30
+### 📅 Latest snapshot — 2026-08-31
 
-> *"Keep your eyes on the goal, and just keep taking the next step towards completing it."* — **John Carmack**
+> *"To a mind that is still, the entire universe surrenders."* — **Zhuangzi**
 
 **Crypto (USD)**
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $79,022 | +1.11% |
-| Ethereum | $2,510.19 | +2.35% |
-| Solana | $106.68 | +1.45% |
+| Bitcoin | $78,395 | +0.49% |
+| Ethereum | $2,446.82 | -0.27% |
+| Solana | $102.9 | -1.61% |
 
-**🔭 NASA:** [M74: A Grand Design Spiral](https://apod.nasa.gov/apod/image/2608/m74_hst_960.jpg)
+**🔭 NASA:** [Launch of the Roman Space Telescope](https://apod.nasa.gov/apod/image/2608/RomanLaunch_NASA.mp4)
 
-**🚗 Car news:** [Maserati's Origin Story Gets The Hollywood Treatment With New Movie: Watch The Trailer](https://www.motor1.com/news/806439/new-maserati-movie-pacino-hopkins/)
+**🚗 Car news:** [Study Shows Passenger Screens Aren’t As Popular As Automakers Think](https://www.motor1.com/news/806553/study-shows-passenger-screens-unpopular/)
 
-**📜 On this day, 70:** Titus ends the siege of Jerusalem after destroying Herod's Temple. — [AD 70](https://en.wikipedia.org/wiki/AD_70)
+**📜 On this day, 38:** The Roman governor of Egypt, Aulus Avilius Flaccus, forces the Jewish citi — [30s](https://en.wikipedia.org/wiki/30s)
 
 **🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 10 repos · 9 followers
 

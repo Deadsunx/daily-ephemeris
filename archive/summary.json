@@ -619,5 +619,21 @@
       "year": 70,
       "title": "AD 70"
     }
+  },
+  {
+    "date": "2026-08-31",
+    "quote": {
+      "text": "To a mind that is still, the entire universe surrenders.",
+      "author": "Zhuangzi"
+    },
+    "nasa": {
+      "title": "Launch of the Roman Space Telescope",
+      "media_type": "video"
+    },
+    "car": "Study Shows Passenger Screens Aren\u2019t As Popular As Automakers Think",
+    "onthisday": {
+      "year": 38,
+      "title": "30s"
+    }
   }
 ]
