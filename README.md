@@ -43,13 +43,13 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $77,888 | -0.7% |
-| Ethereum | $2,447.91 | +0.11% |
-| Solana | $102.09 | -1.06% |
+| Bitcoin | $77,159 | -2.56% |
+| Ethereum | $2,414.05 | -2.93% |
+| Solana | $99.64 | -4.69% |
 
 **🔭 NASA:** [A Plane Lunar Eclipse](https://apod.nasa.gov/apod/image/2608/PlaneEclipse_Ferreira_1059.jpg)
 
-**🚗 Car news:** [Porsche 911 Slantnose: How This One-Off Could Shape Future 911s](https://www.motor1.com/news/806682/porsche-911-slantnose-flachbau-rs/)
+**🚗 Car news:** [Ford Recalls Nearly 150,000 Mustangs For Wiring Issue](https://www.motor1.com/news/806784/ford-mustang-engine-wiring-harness-recall/)
 
 **📜 On this day, -396:** The Temple of Juno Regina (Aventine) is dedicated in Rome by Marcus Furius Camillus. — [Temple of Juno Regina (Aventine)](https://en.wikipedia.org/wiki/Temple_of_Juno_Regina_(Aventine))
 

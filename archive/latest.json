@@ -1,11 +1,11 @@
 {
   "date": "2026-09-01",
-  "fetched_at": "2026-09-01T09:03:23.615480+00:00",
+  "fetched_at": "2026-09-01T19:11:52.681291+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 77888,
-      "usd_24h_change": -0.7,
-      "usd_market_cap": 1563833405378.0762,
+      "usd": 77159,
+      "usd_24h_change": -2.56,
+      "usd_market_cap": 1549453409158.2224,
       "spark": [
         63504.42,
         63465.2,
@@ -37,13 +37,13 @@
         78225.14,
         77658.23,
         78552.78,
-        77876.7
+        77170.59
       ]
     },
     "ethereum": {
-      "usd": 2447.91,
-      "usd_24h_change": 0.11,
-      "usd_market_cap": 295416353587.27185,
+      "usd": 2414.05,
+      "usd_24h_change": -2.93,
+      "usd_market_cap": 291405283417.0747,
       "spark": [
         1882.93,
         1858.54,
@@ -75,13 +75,13 @@
         2457.09,
         2416.24,
         2466.57,
-        2447.42
+        2413.71
       ]
     },
     "solana": {
-      "usd": 102.09,
-      "usd_24h_change": -1.06,
-      "usd_market_cap": 59744759212.11283,
+      "usd": 99.64,
+      "usd_24h_change": -4.69,
+      "usd_market_cap": 58311543363.77437,
       "spark": [
         73.55,
         73.49,
@@ -113,7 +113,7 @@
         105.59,
         101.68,
         103.01,
-        102.04
+        99.66
       ]
     }
   },
@@ -129,8 +129,8 @@
     "thumbnail_url": null
   },
   "car_news": {
-    "headline": "Porsche 911 Slantnose: How This One-Off Could Shape Future 911s",
-    "url": "https://www.motor1.com/news/806682/porsche-911-slantnose-flachbau-rs/",
+    "headline": "Ford Recalls Nearly 150,000 Mustangs For Wiring Issue",
+    "url": "https://www.motor1.com/news/806784/ford-mustang-engine-wiring-harness-recall/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {
