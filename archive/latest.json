@@ -1,11 +1,11 @@
 {
   "date": "2026-09-02",
-  "fetched_at": "2026-09-02T08:17:01.336547+00:00",
+  "fetched_at": "2026-09-02T19:12:52.924452+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 77414,
-      "usd_24h_change": -1.13,
-      "usd_market_cap": 1553994952407.7263,
+      "usd": 77335,
+      "usd_24h_change": 0.23,
+      "usd_market_cap": 1552818720829.4832,
       "spark": [
         63465.2,
         64062.17,
@@ -37,13 +37,13 @@
         77658.23,
         78552.78,
         77416.44,
-        77407.81
+        77336.8
       ]
     },
     "ethereum": {
-      "usd": 2417.39,
-      "usd_24h_change": -1.88,
-      "usd_market_cap": 291730159295.30066,
+      "usd": 2394.94,
+      "usd_24h_change": -0.8,
+      "usd_market_cap": 292210820268.0073,
       "spark": [
         1858.54,
         1868.62,
@@ -75,13 +75,13 @@
         2416.24,
         2466.57,
         2417.68,
-        2417.39
+        2394.55
       ]
     },
     "solana": {
-      "usd": 99.87,
-      "usd_24h_change": -2.77,
-      "usd_market_cap": 58441848762.93817,
+      "usd": 99.53,
+      "usd_24h_change": -0.2,
+      "usd_market_cap": 58254056501.078476,
       "spark": [
         73.49,
         73.71,
@@ -113,7 +113,7 @@
         101.68,
         103.01,
         99.97,
-        99.85
+        99.53
       ]
     }
   },
@@ -129,8 +129,8 @@
     "thumbnail_url": null
   },
   "car_news": {
-    "headline": "Nissan Rushes Rogue Hybrid To US, But You Probably Won't Find One",
-    "url": "https://www.motor1.com/news/806836/2027-nissan-rogue-power-hybrid/",
+    "headline": "The Subaru WRX Is Making A Huge Sales Comeback",
+    "url": "https://www.motor1.com/news/806907/subaru-wrx-sales-august-2026/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {
@@ -142,7 +142,7 @@
   "github": {
     "login": "Deadsunx",
     "name": "Oumar Tirera",
-    "public_repos": 10,
+    "public_repos": 11,
     "followers": 9,
     "following": 13,
     "created_at": "2022-05-12T17:33:47Z",

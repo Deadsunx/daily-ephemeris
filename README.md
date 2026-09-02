@@ -43,16 +43,16 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $77,414 | -1.13% |
-| Ethereum | $2,417.39 | -1.88% |
-| Solana | $99.87 | -2.77% |
+| Bitcoin | $77,335 | +0.23% |
+| Ethereum | $2,394.94 | -0.8% |
+| Solana | $99.53 | -0.2% |
 
 **🔭 NASA:** [Solar Eclipses and Culture](https://apod.nasa.gov/apod/image/2609/colors_of_eclipse_1024.jpg)
 
-**🚗 Car news:** [Nissan Rushes Rogue Hybrid To US, But You Probably Won't Find One](https://www.motor1.com/news/806836/2027-nissan-rogue-power-hybrid/)
+**🚗 Car news:** [The Subaru WRX Is Making A Huge Sales Comeback](https://www.motor1.com/news/806907/subaru-wrx-sales-august-2026/)
 
 **📜 On this day, -44:** Pharaoh Cleopatra VII of Egypt declares her son co-ruler as Ptolemy XV Caesarion. — [Pharaoh](https://en.wikipedia.org/wiki/Pharaoh)
 
-**🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 10 repos · 9 followers
+**🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 11 repos · 9 followers
 
 <!-- LATEST:END -->
