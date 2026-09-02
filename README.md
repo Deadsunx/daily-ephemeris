@@ -35,23 +35,23 @@ python daily_update.py
 Only the Python standard library is used — nothing to install.
 
 <!-- LATEST:START -->
-### 📅 Latest snapshot — 2026-09-01
+### 📅 Latest snapshot — 2026-09-02
 
-> *"Stop wasting time defending your problems and work on addressing them instead."* — **Celestine Chua**
+> *"Force has no place where there is need of skill."* — **Herodotus**
 
 **Crypto (USD)**
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $77,159 | -2.56% |
-| Ethereum | $2,414.05 | -2.93% |
-| Solana | $99.64 | -4.69% |
+| Bitcoin | $77,414 | -1.13% |
+| Ethereum | $2,417.39 | -1.88% |
+| Solana | $99.87 | -2.77% |
 
-**🔭 NASA:** [A Plane Lunar Eclipse](https://apod.nasa.gov/apod/image/2608/PlaneEclipse_Ferreira_1059.jpg)
+**🔭 NASA:** [Solar Eclipses and Culture](https://apod.nasa.gov/apod/image/2609/colors_of_eclipse_1024.jpg)
 
-**🚗 Car news:** [Ford Recalls Nearly 150,000 Mustangs For Wiring Issue](https://www.motor1.com/news/806784/ford-mustang-engine-wiring-harness-recall/)
+**🚗 Car news:** [Nissan Rushes Rogue Hybrid To US, But You Probably Won't Find One](https://www.motor1.com/news/806836/2027-nissan-rogue-power-hybrid/)
 
-**📜 On this day, -396:** The Temple of Juno Regina (Aventine) is dedicated in Rome by Marcus Furius Camillus. — [Temple of Juno Regina (Aventine)](https://en.wikipedia.org/wiki/Temple_of_Juno_Regina_(Aventine))
+**📜 On this day, -44:** Pharaoh Cleopatra VII of Egypt declares her son co-ruler as Ptolemy XV Caesarion. — [Pharaoh](https://en.wikipedia.org/wiki/Pharaoh)
 
 **🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 10 repos · 9 followers
 
