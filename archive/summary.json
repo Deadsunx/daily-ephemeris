@@ -667,5 +667,21 @@
       "year": -44,
       "title": "Pharaoh"
     }
+  },
+  {
+    "date": "2026-09-03",
+    "quote": {
+      "text": "If you don't find the time, if you don't do the work, you don't get the results.",
+      "author": "Arnold Schwarzenegger"
+    },
+    "nasa": {
+      "title": "The Eclipse and the Stork",
+      "media_type": "image"
+    },
+    "car": "Audi Boss: The More Expensive The Car, The More Buyers Want A Gas Engine",
+    "onthisday": {
+      "year": -36,
+      "title": "Battle of Naulochus"
+    }
   }
 ]

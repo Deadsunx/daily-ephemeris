@@ -35,23 +35,23 @@ python daily_update.py
 Only the Python standard library is used — nothing to install.
 
 <!-- LATEST:START -->
-### 📅 Latest snapshot — 2026-09-02
+### 📅 Latest snapshot — 2026-09-03
 
-> *"Force has no place where there is need of skill."* — **Herodotus**
+> *"If you don't find the time, if you don't do the work, you don't get the results."* — **Arnold Schwarzenegger**
 
 **Crypto (USD)**
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $77,335 | +0.23% |
-| Ethereum | $2,394.94 | -0.8% |
-| Solana | $99.53 | -0.2% |
+| Bitcoin | $77,834 | +0.73% |
+| Ethereum | $2,401.18 | -0.53% |
+| Solana | $100.62 | +0.9% |
 
-**🔭 NASA:** [Solar Eclipses and Culture](https://apod.nasa.gov/apod/image/2609/colors_of_eclipse_1024.jpg)
+**🔭 NASA:** [The Eclipse and the Stork](https://apod.nasa.gov/apod/image/2609/eclipse_stork_1080.jpg)
 
-**🚗 Car news:** [The Subaru WRX Is Making A Huge Sales Comeback](https://www.motor1.com/news/806907/subaru-wrx-sales-august-2026/)
+**🚗 Car news:** [Audi Boss: The More Expensive The Car, The More Buyers Want A Gas Engine](https://www.motor1.com/news/806982/audi-ceo-wealthy-buyers-want-engines/)
 
-**📜 On this day, -44:** Pharaoh Cleopatra VII of Egypt declares her son co-ruler as Ptolemy XV Caesarion. — [Pharaoh](https://en.wikipedia.org/wiki/Pharaoh)
+**📜 On this day, -36:** In the Battle of Naulochus, Marcus Vipsanius Agrippa, admiral of Octavian, defeats Sextus Pompey, son of Pompey, thus ending Pompeian resistance to the Second Triumvirate. — [Battle of Naulochus](https://en.wikipedia.org/wiki/Battle_of_Naulochus)
 
 **🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 11 repos · 9 followers
 
