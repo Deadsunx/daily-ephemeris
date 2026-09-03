@@ -43,13 +43,13 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $77,834 | +0.73% |
-| Ethereum | $2,401.18 | -0.53% |
-| Solana | $100.62 | +0.9% |
+| Bitcoin | $81,243 | +5.07% |
+| Ethereum | $2,515.22 | +5.08% |
+| Solana | $105.29 | +5.88% |
 
 **🔭 NASA:** [The Eclipse and the Stork](https://apod.nasa.gov/apod/image/2609/eclipse_stork_1080.jpg)
 
-**🚗 Car news:** [Audi Boss: The More Expensive The Car, The More Buyers Want A Gas Engine](https://www.motor1.com/news/806982/audi-ceo-wealthy-buyers-want-engines/)
+**🚗 Car news:** [Volkswagen's Seat Brand Might Be On The Chopping Block: Report](https://www.motor1.com/news/807055/seat-spanish-brand-discontinued-volkswagen-group/)
 
 **📜 On this day, -36:** In the Battle of Naulochus, Marcus Vipsanius Agrippa, admiral of Octavian, defeats Sextus Pompey, son of Pompey, thus ending Pompeian resistance to the Second Triumvirate. — [Battle of Naulochus](https://en.wikipedia.org/wiki/Battle_of_Naulochus)
 

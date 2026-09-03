@@ -1,11 +1,11 @@
 {
   "date": "2026-09-03",
-  "fetched_at": "2026-09-03T08:26:29.699676+00:00",
+  "fetched_at": "2026-09-03T19:05:12.534764+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 77834,
-      "usd_24h_change": 0.73,
-      "usd_market_cap": 1562563130202.94,
+      "usd": 81243,
+      "usd_24h_change": 5.07,
+      "usd_market_cap": 1631271937831.0427,
       "spark": [
         64062.17,
         64608.71,
@@ -37,13 +37,13 @@
         78552.78,
         77416.44,
         77297.13,
-        77829.88
+        81242.35
       ]
     },
     "ethereum": {
-      "usd": 2401.18,
-      "usd_24h_change": -0.53,
-      "usd_market_cap": 292906927430.1268,
+      "usd": 2515.22,
+      "usd_24h_change": 5.08,
+      "usd_market_cap": 306976150614.0156,
       "spark": [
         1868.62,
         1907.44,
@@ -75,13 +75,13 @@
         2466.57,
         2417.68,
         2390.78,
-        2401.12
+        2515.06
       ]
     },
     "solana": {
-      "usd": 100.62,
-      "usd_24h_change": 0.9,
-      "usd_market_cap": 58884949023.94805,
+      "usd": 105.29,
+      "usd_24h_change": 5.88,
+      "usd_market_cap": 61618758622.18492,
       "spark": [
         73.71,
         73.99,
@@ -113,7 +113,7 @@
         103.01,
         99.97,
         100.39,
-        100.62
+        105.3
       ]
     }
   },
@@ -123,14 +123,14 @@
   },
   "nasa": {
     "title": "The Eclipse and the Stork",
-    "explanation": "How do animals react to a total solar eclipse?   The featured image shows a stork roosting on her nest in Poland at a partial phase of the recent total solar eclipse.   If you are lucky enough to experience a total eclipse somewhere quiet and close to nature, you may be able to notice unusual daytime animal behaviors.     During totality, you may hear nighttime sounds like crickets and frogs and see fireflies.   In the dark, most birds are quiet.   Thinking that it is time to go to bed, ducks and other waterfowl prepare to sleep on one leg, with their heads turned around and their beaks tucked into their back feathers (they don't really sleep with their heads tucked under one wing).   When sunlight returns at the end of totality, songbirds greet the new \"morning\" with their dawn songs.   The crickets and frogs go quiet again.   Animals and people resume their lifes, only briefly disturbed by the chance alignment of our Sun and Moon.     APOD's main NASA site is moving : From apod.nasa.gov to science.nasa.gov/apod",
+    "explanation": "How do animals react to a total solar eclipse?   The featured image shows a stork roosting on her nest in Poland at a partial phase of the recent total solar eclipse.   If you are lucky enough to experience a total eclipse somewhere quiet and close to nature, you may be able to notice unusual daytime animal behaviors.     During totality, you may hear nighttime sounds like crickets and frogs and see fireflies.   In the dark, most birds are quiet.   Thinking that it is time to go to bed, ducks and other waterfowl prepare to sleep on one leg, with their heads turned around and their beaks tucked into their back feathers (they don't really sleep with their heads tucked under one wing).   When sunlight returns at the end of totality, songbirds greet the new \"morning\" with their dawn songs.   The crickets and frogs go quiet again.   Animals and people resume their lives, only briefly disturbed by the chance alignment of our Sun and Moon.     APOD's main NASA site is moving : From apod.nasa.gov to science.nasa.gov/apod",
     "url": "https://apod.nasa.gov/apod/image/2609/eclipse_stork_1080.jpg",
     "media_type": "image",
     "thumbnail_url": null
   },
   "car_news": {
-    "headline": "Audi Boss: The More Expensive The Car, The More Buyers Want A Gas Engine",
-    "url": "https://www.motor1.com/news/806982/audi-ceo-wealthy-buyers-want-engines/",
+    "headline": "Volkswagen's Seat Brand Might Be On The Chopping Block: Report",
+    "url": "https://www.motor1.com/news/807055/seat-spanish-brand-discontinued-volkswagen-group/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {
