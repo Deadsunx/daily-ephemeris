@@ -43,13 +43,13 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $80,835 | +3.78% |
-| Ethereum | $2,514.04 | +4.61% |
-| Solana | $103.84 | +3.05% |
+| Bitcoin | $79,633 | -1.71% |
+| Ethereum | $2,450.97 | -1.99% |
+| Solana | $101.6 | -3.12% |
 
 **🔭 NASA:** [Nā ʻUhane Māhoe Huki Pū i ke Ola](https://apod.nasa.gov/apod/image/2609/noirlab2621a_1024.jpg)
 
-**🚗 Car news:** [Jensen's Reborn Sports Car Debuts With Nearly 1,000 Horsepower And A Manual](https://www.motor1.com/news/807070/jensen-gtx-prototype-debut/)
+**🚗 Car news:** [The Dodge Durango Gets Darker For 2027 With New Paint](https://www.motor1.com/news/807196/2027-dodge-durango-new-paint/)
 
 **📜 On this day, 476:** Romulus Augustulus is deposed when Odoacer proclaims himself "King of Italy", thus ending the Western Roman Empire. — [Romulus Augustulus](https://en.wikipedia.org/wiki/Romulus_Augustulus)
 

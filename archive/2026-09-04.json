@@ -1,11 +1,11 @@
 {
   "date": "2026-09-04",
-  "fetched_at": "2026-09-04T08:22:05.373427+00:00",
+  "fetched_at": "2026-09-04T18:48:23.218031+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 80835,
-      "usd_24h_change": 3.78,
-      "usd_market_cap": 1622935094692.681,
+      "usd": 79633,
+      "usd_24h_change": -1.71,
+      "usd_market_cap": 1599002465911.0237,
       "spark": [
         64608.71,
         64262.75,
@@ -37,13 +37,13 @@
         77416.44,
         77297.13,
         81264.7,
-        80845.89
+        79633.51
       ]
     },
     "ethereum": {
-      "usd": 2514.04,
-      "usd_24h_change": 4.61,
-      "usd_market_cap": 306758167539.15045,
+      "usd": 2450.97,
+      "usd_24h_change": -1.99,
+      "usd_market_cap": 299062760753.7514,
       "spark": [
         1907.44,
         1902.16,
@@ -75,13 +75,13 @@
         2417.68,
         2390.78,
         2507.65,
-        2514.55
+        2450.85
       ]
     },
     "solana": {
-      "usd": 103.84,
-      "usd_24h_change": 3.05,
-      "usd_market_cap": 60776955893.496574,
+      "usd": 101.6,
+      "usd_24h_change": -3.12,
+      "usd_market_cap": 59471994621.52752,
       "spark": [
         73.99,
         72.63,
@@ -113,7 +113,7 @@
         99.97,
         100.39,
         103.96,
-        103.84
+        101.62
       ]
     }
   },
@@ -129,8 +129,8 @@
     "thumbnail_url": null
   },
   "car_news": {
-    "headline": "Jensen's Reborn Sports Car Debuts With Nearly 1,000 Horsepower And A Manual",
-    "url": "https://www.motor1.com/news/807070/jensen-gtx-prototype-debut/",
+    "headline": "The Dodge Durango Gets Darker For 2027 With New Paint",
+    "url": "https://www.motor1.com/news/807196/2027-dodge-durango-new-paint/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {
