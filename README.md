@@ -35,23 +35,23 @@ python daily_update.py
 Only the Python standard library is used — nothing to install.
 
 <!-- LATEST:START -->
-### 📅 Latest snapshot — 2026-09-03
+### 📅 Latest snapshot — 2026-09-04
 
-> *"If you don't find the time, if you don't do the work, you don't get the results."* — **Arnold Schwarzenegger**
+> *"Do good by stealth, and blush to find it fame."* — **Alexander Pope**
 
 **Crypto (USD)**
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $81,243 | +5.07% |
-| Ethereum | $2,515.22 | +5.08% |
-| Solana | $105.29 | +5.88% |
+| Bitcoin | $80,835 | +3.78% |
+| Ethereum | $2,514.04 | +4.61% |
+| Solana | $103.84 | +3.05% |
 
-**🔭 NASA:** [The Eclipse and the Stork](https://apod.nasa.gov/apod/image/2609/eclipse_stork_1080.jpg)
+**🔭 NASA:** [Nā ʻUhane Māhoe Huki Pū i ke Ola](https://apod.nasa.gov/apod/image/2609/noirlab2621a_1024.jpg)
 
-**🚗 Car news:** [Volkswagen's Seat Brand Might Be On The Chopping Block: Report](https://www.motor1.com/news/807055/seat-spanish-brand-discontinued-volkswagen-group/)
+**🚗 Car news:** [Jensen's Reborn Sports Car Debuts With Nearly 1,000 Horsepower And A Manual](https://www.motor1.com/news/807070/jensen-gtx-prototype-debut/)
 
-**📜 On this day, -36:** In the Battle of Naulochus, Marcus Vipsanius Agrippa, admiral of Octavian, defeats Sextus Pompey, son of Pompey, thus ending Pompeian resistance to the Second Triumvirate. — [Battle of Naulochus](https://en.wikipedia.org/wiki/Battle_of_Naulochus)
+**📜 On this day, 476:** Romulus Augustulus is deposed when Odoacer proclaims himself "King of Italy", thus ending the Western Roman Empire. — [Romulus Augustulus](https://en.wikipedia.org/wiki/Romulus_Augustulus)
 
 **🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 11 repos · 9 followers
 
