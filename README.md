@@ -35,23 +35,23 @@ python daily_update.py
 Only the Python standard library is used — nothing to install.
 
 <!-- LATEST:START -->
-### 📅 Latest snapshot — 2026-09-04
+### 📅 Latest snapshot — 2026-09-05
 
-> *"Do good by stealth, and blush to find it fame."* — **Alexander Pope**
+> *"However difficult life may seem, there is always something you can do and succeed at."* — **Stephen Hawking**
 
 **Crypto (USD)**
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $79,633 | -1.71% |
-| Ethereum | $2,450.97 | -1.99% |
-| Solana | $101.6 | -3.12% |
+| Bitcoin | $79,736 | -1.16% |
+| Ethereum | $2,457.78 | -1.86% |
+| Solana | $102.22 | -1.32% |
 
-**🔭 NASA:** [Nā ʻUhane Māhoe Huki Pū i ke Ola](https://apod.nasa.gov/apod/image/2609/noirlab2621a_1024.jpg)
+**🔭 NASA:** [Chasing the Moon's Shadow](https://apod.nasa.gov/apod/image/2609/2026Eclipse_WB57GoPro_Totality_H264_1024.jpg)
 
 **🚗 Car news:** [The Dodge Durango Gets Darker For 2027 With New Paint](https://www.motor1.com/news/807196/2027-dodge-durango-new-paint/)
 
-**📜 On this day, 476:** Romulus Augustulus is deposed when Odoacer proclaims himself "King of Italy", thus ending the Western Roman Empire. — [Romulus Augustulus](https://en.wikipedia.org/wiki/Romulus_Augustulus)
+**📜 On this day, 394:** On the first day of the battle of Frigidus, the Western Roman troops of Arbogast manage to defend their positions against the Eastern Roman troops of emperor Theodosius I. — [Battle of the Frigidus](https://en.wikipedia.org/wiki/Battle_of_the_Frigidus)
 
 **🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 11 repos · 9 followers
 
