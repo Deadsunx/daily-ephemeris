@@ -1,11 +1,11 @@
 {
   "date": "2026-09-05",
-  "fetched_at": "2026-09-05T07:57:50.122771+00:00",
+  "fetched_at": "2026-09-05T17:54:13.203679+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 79736,
-      "usd_24h_change": -1.16,
-      "usd_market_cap": 1601068948265.4102,
+      "usd": 80068,
+      "usd_24h_change": 0.83,
+      "usd_market_cap": 1607747704611.3286,
       "spark": [
         64262.75,
         64879.76,
@@ -37,13 +37,13 @@
         77297.13,
         81264.7,
         79671.26,
-        79735.76
+        80068.09
       ]
     },
     "ethereum": {
-      "usd": 2457.78,
-      "usd_24h_change": -1.86,
-      "usd_market_cap": 299902616701.9627,
+      "usd": 2478.9,
+      "usd_24h_change": 1.43,
+      "usd_market_cap": 302477838136.1308,
       "spark": [
         1902.16,
         1912.99,
@@ -75,13 +75,13 @@
         2390.78,
         2507.65,
         2456.09,
-        2457.8
+        2478.5
       ]
     },
     "solana": {
-      "usd": 102.22,
-      "usd_24h_change": -1.32,
-      "usd_market_cap": 59837140265.507225,
+      "usd": 103.9,
+      "usd_24h_change": 2.73,
+      "usd_market_cap": 60799047989.82011,
       "spark": [
         72.63,
         73.62,
@@ -113,7 +113,7 @@
         100.39,
         103.96,
         101.93,
-        102.22
+        103.9
       ]
     }
   },
@@ -129,8 +129,8 @@
     "thumbnail_url": null
   },
   "car_news": {
-    "headline": "The Dodge Durango Gets Darker For 2027 With New Paint",
-    "url": "https://www.motor1.com/news/807196/2027-dodge-durango-new-paint/",
+    "headline": "Bentley Used To Outsell Rolls-Royce By 3 To 1. Not Anymore",
+    "url": "https://www.motor1.com/news/807183/rolls-royce-vs-bentley-sales-figures/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {
@@ -143,7 +143,7 @@
     "login": "Deadsunx",
     "name": "Oumar Tirera",
     "public_repos": 11,
-    "followers": 9,
+    "followers": 10,
     "following": 13,
     "created_at": "2022-05-12T17:33:47Z",
     "html_url": "https://github.com/Deadsunx",

@@ -43,16 +43,16 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $79,736 | -1.16% |
-| Ethereum | $2,457.78 | -1.86% |
-| Solana | $102.22 | -1.32% |
+| Bitcoin | $80,068 | +0.83% |
+| Ethereum | $2,478.9 | +1.43% |
+| Solana | $103.9 | +2.73% |
 
 **🔭 NASA:** [Chasing the Moon's Shadow](https://apod.nasa.gov/apod/image/2609/2026Eclipse_WB57GoPro_Totality_H264_1024.jpg)
 
-**🚗 Car news:** [The Dodge Durango Gets Darker For 2027 With New Paint](https://www.motor1.com/news/807196/2027-dodge-durango-new-paint/)
+**🚗 Car news:** [Bentley Used To Outsell Rolls-Royce By 3 To 1. Not Anymore](https://www.motor1.com/news/807183/rolls-royce-vs-bentley-sales-figures/)
 
 **📜 On this day, 394:** On the first day of the battle of Frigidus, the Western Roman troops of Arbogast manage to defend their positions against the Eastern Roman troops of emperor Theodosius I. — [Battle of the Frigidus](https://en.wikipedia.org/wiki/Battle_of_the_Frigidus)
 
-**🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 11 repos · 9 followers
+**🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 11 repos · 10 followers
 
 <!-- LATEST:END -->
