@@ -1,11 +1,11 @@
 {
   "date": "2026-09-07",
-  "fetched_at": "2026-09-07T08:48:00.077473+00:00",
+  "fetched_at": "2026-09-07T19:35:21.666364+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 79468,
-      "usd_24h_change": -0.38,
-      "usd_market_cap": 1595767492212.2686,
+      "usd": 79300,
+      "usd_24h_change": -0.65,
+      "usd_market_cap": 1592432736392.1687,
       "spark": [
         64917.24,
         64856.1,
@@ -37,13 +37,13 @@
         79671.26,
         79821.7,
         80329.35,
-        79459.67
+        79300.08
       ]
     },
     "ethereum": {
-      "usd": 2492.25,
-      "usd_24h_change": -0.03,
-      "usd_market_cap": 304124951538.07104,
+      "usd": 2494.34,
+      "usd_24h_change": 0.14,
+      "usd_market_cap": 304384009414.87103,
       "spark": [
         1915.45,
         1908.94,
@@ -75,13 +75,13 @@
         2456.09,
         2480.0,
         2514.01,
-        2491.88
+        2494.34
       ]
     },
     "solana": {
-      "usd": 104.76,
-      "usd_24h_change": -0.41,
-      "usd_market_cap": 61409642489.60808,
+      "usd": 104.24,
+      "usd_24h_change": -1.31,
+      "usd_market_cap": 61110000996.87632,
       "spark": [
         75.96,
         76.21,
@@ -113,7 +113,7 @@
         101.93,
         103.17,
         106.49,
-        104.74
+        104.24
       ]
     }
   },
@@ -129,8 +129,8 @@
     "thumbnail_url": null
   },
   "car_news": {
-    "headline": "Mercedes-AMG CLE Mythos: The 641-HP V8 Super Coupe Is Coming",
-    "url": "https://www.motor1.com/news/807319/mercedes-cle-v8-news/",
+    "headline": "Polestar Has A New Look, And It Won\u2019t Scare Buyers, Designer Says",
+    "url": "https://www.motor1.com/news/807391/polestar-formula-2030-concept-previews/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {

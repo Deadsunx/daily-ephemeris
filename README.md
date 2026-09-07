@@ -43,13 +43,13 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $79,468 | -0.38% |
-| Ethereum | $2,492.25 | -0.03% |
-| Solana | $104.76 | -0.41% |
+| Bitcoin | $79,300 | -0.65% |
+| Ethereum | $2,494.34 | +0.14% |
+| Solana | $104.24 | -1.31% |
 
 **🔭 NASA:** [The Pelican Nebula in Gas, Dust, and Stars](https://apod.nasa.gov/apod/image/2609/Pelican_Killion_960.jpg)
 
-**🚗 Car news:** [Mercedes-AMG CLE Mythos: The 641-HP V8 Super Coupe Is Coming](https://www.motor1.com/news/807319/mercedes-cle-v8-news/)
+**🚗 Car news:** [Polestar Has A New Look, And It Won’t Scare Buyers, Designer Says](https://www.motor1.com/news/807391/polestar-formula-2030-concept-previews/)
 
 **📜 On this day, 878:** Louis the Stammerer is crowned as king of West Francia by Pope John VIII. — [Louis the Stammerer](https://en.wikipedia.org/wiki/Louis_the_Stammerer)
 
