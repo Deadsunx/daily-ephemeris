@@ -731,5 +731,21 @@
       "year": 394,
       "title": "Battle of the Frigidus"
     }
+  },
+  {
+    "date": "2026-09-07",
+    "quote": {
+      "text": "The greatest treasures are those invisible to the eye but found by the heart.",
+      "author": "Judy Garland"
+    },
+    "nasa": {
+      "title": "The Pelican Nebula in Gas, Dust, and Stars",
+      "media_type": "image"
+    },
+    "car": "Mercedes-AMG CLE Mythos: The 641-HP V8 Super Coupe Is Coming",
+    "onthisday": {
+      "year": 878,
+      "title": "Louis the Stammerer"
+    }
   }
 ]
