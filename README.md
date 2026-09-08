@@ -43,13 +43,13 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $78,375 | -1.39% |
-| Ethereum | $2,473.18 | -0.71% |
-| Solana | $102.66 | -1.82% |
+| Bitcoin | $78,461 | -0.88% |
+| Ethereum | $2,486.83 | -0.13% |
+| Solana | $103.39 | -0.52% |
 
 **🔭 NASA:** [Hubble: Decagon Around Saturn's South Pole](https://apod.nasa.gov/apod/image/2609/SaturnDecagon_Hubble_960.jpg)
 
-**🚗 Car news:** [Mercedes' Next Off-Roader Could Literally Float, Patent Shows](https://www.motor1.com/news/807475/mercedes-off-roader-patent-describes/)
+**🚗 Car news:** [GM Prepping Big Powertrain Shakeup For Its HD Trucks: Report](https://www.motor1.com/news/807536/general-motors-heavy-duty-trucks-updated-powertrains/)
 
 **📜 On this day, 14:** The funeral of Augustus takes place. His body is cremated and placed in his mausoleum. — [10s](https://en.wikipedia.org/wiki/10s)
 
