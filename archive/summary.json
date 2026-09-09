@@ -763,5 +763,21 @@
       "year": 14,
       "title": "10s"
     }
+  },
+  {
+    "date": "2026-09-09",
+    "quote": {
+      "text": "We are all like the bright moon, we still have our darker side.",
+      "author": "Kahlil Gibran"
+    },
+    "nasa": {
+      "title": "Witness XZ Andromedae Wink",
+      "media_type": "video"
+    },
+    "car": "Land Rover\u2019s Wolf Series II Debuts Four Military Defender Variants Next Week",
+    "onthisday": {
+      "year": 337,
+      "title": "337"
+    }
   }
 ]
