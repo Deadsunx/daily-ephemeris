@@ -1,11 +1,11 @@
 {
   "date": "2026-09-09",
-  "fetched_at": "2026-09-09T08:30:57.817501+00:00",
+  "fetched_at": "2026-09-09T19:04:15.716255+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 79606,
-      "usd_24h_change": 1.45,
-      "usd_market_cap": 1598620233325.7517,
+      "usd": 78447,
+      "usd_24h_change": -0.05,
+      "usd_market_cap": 1575372749988.857,
       "spark": [
         63915.71,
         63537.56,
@@ -37,13 +37,13 @@
         80329.35,
         79093.46,
         78450.75,
-        79634.78
+        78447.15
       ]
     },
     "ethereum": {
-      "usd": 2517.96,
-      "usd_24h_change": 1.69,
-      "usd_market_cap": 307273860099.2895,
+      "usd": 2481.5,
+      "usd_24h_change": -0.34,
+      "usd_market_cap": 302823845826.22833,
       "spark": [
         1871.4,
         1880.49,
@@ -75,13 +75,13 @@
         2514.01,
         2489.4,
         2485.07,
-        2518.71
+        2481.42
       ]
     },
     "solana": {
-      "usd": 104.84,
-      "usd_24h_change": 1.93,
-      "usd_market_cap": 61482372094.91008,
+      "usd": 103.32,
+      "usd_24h_change": -0.21,
+      "usd_market_cap": 60564623353.283554,
       "spark": [
         75.92,
         76.22,
@@ -113,7 +113,7 @@
         106.49,
         103.77,
         103.36,
-        104.91
+        103.35
       ]
     }
   },
@@ -129,8 +129,8 @@
     "thumbnail_url": ""
   },
   "car_news": {
-    "headline": "Land Rover\u2019s Wolf Series II Debuts Four Military Defender Variants Next Week",
-    "url": "https://www.motor1.com/news/807614/defender-wolf-series-ii-military/",
+    "headline": "Ford Wants You To Sleep In Your Bronco",
+    "url": "https://www.motor1.com/news/807713/ford-bronco-overland-camping-patents/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {

@@ -43,13 +43,13 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $79,606 | +1.45% |
-| Ethereum | $2,517.96 | +1.69% |
-| Solana | $104.84 | +1.93% |
+| Bitcoin | $78,447 | -0.05% |
+| Ethereum | $2,481.5 | -0.34% |
+| Solana | $103.32 | -0.21% |
 
 **🔭 NASA:** [Witness XZ Andromedae Wink](https://apod.nasa.gov/apod/image/2609/xz_and.mp4)
 
-**🚗 Car news:** [Land Rover’s Wolf Series II Debuts Four Military Defender Variants Next Week](https://www.motor1.com/news/807614/defender-wolf-series-ii-military/)
+**🚗 Car news:** [Ford Wants You To Sleep In Your Bronco](https://www.motor1.com/news/807713/ford-bronco-overland-camping-patents/)
 
 **📜 On this day, 337:** Constantine II, Constantius II, and Constans succeed their father Constantine I as co-emperors. The Roman Empire is divided between the three Augusti. — [337](https://en.wikipedia.org/wiki/337)
 
