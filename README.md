@@ -43,13 +43,13 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $78,117 | -1.91% |
-| Ethereum | $2,472.15 | -1.93% |
-| Solana | $101.15 | -3.59% |
+| Bitcoin | $77,221 | -1.56% |
+| Ethereum | $2,464.45 | -0.74% |
+| Solana | $99.68 | -3.46% |
 
 **🔭 NASA:** [LDN 1295: The Giraffe Nebula](https://apod.nasa.gov/apod/image/2609/LDN1295_giraffe_1024.jpg)
 
-**🚗 Car news:** [No Screen, No Problem: Europe's New Budget EV Goes Back To Basics](https://www.motor1.com/news/807764/new-dacia-spring-no-screen/)
+**🚗 Car news:** [These Are The Cars Most Likely To Reach 250,000 Miles](https://www.motor1.com/news/807839/car-brands-likely-reach-250000-miles/)
 
 **📜 On this day, 422:** Election of pope Celestine I following the death of pope Boniface I earlier that month. — [Pope Celestine I](https://en.wikipedia.org/wiki/Pope_Celestine_I)
 

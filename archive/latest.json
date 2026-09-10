@@ -1,11 +1,11 @@
 {
   "date": "2026-09-10",
-  "fetched_at": "2026-09-10T08:33:01.659497+00:00",
+  "fetched_at": "2026-09-10T18:56:24.901273+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 78117,
-      "usd_24h_change": -1.91,
-      "usd_market_cap": 1568628585882.313,
+      "usd": 77221,
+      "usd_24h_change": -1.56,
+      "usd_market_cap": 1550076001169.0479,
       "spark": [
         63537.56,
         63408.63,
@@ -37,13 +37,13 @@
         79093.46,
         78450.75,
         78283.06,
-        78099.8
+        77226.72
       ]
     },
     "ethereum": {
-      "usd": 2472.15,
-      "usd_24h_change": -1.93,
-      "usd_market_cap": 301735691530.0103,
+      "usd": 2464.45,
+      "usd_24h_change": -0.74,
+      "usd_market_cap": 300749410055.91254,
       "spark": [
         1880.49,
         1877.74,
@@ -75,13 +75,13 @@
         2489.4,
         2485.07,
         2467.53,
-        2472.15
+        2464.45
       ]
     },
     "solana": {
-      "usd": 101.15,
-      "usd_24h_change": -3.59,
-      "usd_market_cap": 59329723439.55801,
+      "usd": 99.68,
+      "usd_24h_change": -3.46,
+      "usd_market_cap": 58446289087.27817,
       "spark": [
         76.22,
         75.56,
@@ -113,7 +113,7 @@
         103.77,
         103.36,
         101.57,
-        101.19
+        99.81
       ]
     }
   },
@@ -129,8 +129,8 @@
     "thumbnail_url": null
   },
   "car_news": {
-    "headline": "No Screen, No Problem: Europe's New Budget EV Goes Back To Basics",
-    "url": "https://www.motor1.com/news/807764/new-dacia-spring-no-screen/",
+    "headline": "These Are The Cars Most Likely To Reach 250,000 Miles",
+    "url": "https://www.motor1.com/news/807839/car-brands-likely-reach-250000-miles/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {
