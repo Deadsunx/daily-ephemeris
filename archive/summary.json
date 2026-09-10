@@ -779,5 +779,21 @@
       "year": 337,
       "title": "337"
     }
+  },
+  {
+    "date": "2026-09-10",
+    "quote": {
+      "text": "Simple words, repeated daily, can change your life.",
+      "author": "Maxime Lagace"
+    },
+    "nasa": {
+      "title": "LDN 1295: The Giraffe Nebula",
+      "media_type": "image"
+    },
+    "car": "No Screen, No Problem: Europe's New Budget EV Goes Back To Basics",
+    "onthisday": {
+      "year": 422,
+      "title": "Pope Celestine I"
+    }
   }
 ]
