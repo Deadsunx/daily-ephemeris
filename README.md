@@ -35,23 +35,21 @@ python daily_update.py
 Only the Python standard library is used — nothing to install.
 
 <!-- LATEST:START -->
-### 📅 Latest snapshot — 2026-09-10
+### 📅 Latest snapshot — 2026-09-11
 
-> *"Simple words, repeated daily, can change your life."* — **Maxime Lagace**
+> *"It is secondary whether we choose belief or defiance. What is precious is that we are always able to choose."* — **Ming-Dao Deng**
 
 **Crypto (USD)**
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $77,221 | -1.56% |
-| Ethereum | $2,464.45 | -0.74% |
-| Solana | $99.68 | -3.46% |
+| Bitcoin | $77,345 | -0.98% |
+| Ethereum | $2,472.64 | +0.01% |
+| Solana | $99.84 | -1.38% |
 
-**🔭 NASA:** [LDN 1295: The Giraffe Nebula](https://apod.nasa.gov/apod/image/2609/LDN1295_giraffe_1024.jpg)
+**🚗 Car news:** [BMW Celebrates Nürburgring Centenary With Six Limited-Edition M Cars](https://www.motor1.com/news/807927/bmw-m-cars-celebrate-100-years-nurburgring/)
 
-**🚗 Car news:** [These Are The Cars Most Likely To Reach 250,000 Miles](https://www.motor1.com/news/807839/car-brands-likely-reach-250000-miles/)
-
-**📜 On this day, 422:** Election of pope Celestine I following the death of pope Boniface I earlier that month. — [Pope Celestine I](https://en.wikipedia.org/wiki/Pope_Celestine_I)
+**📜 On this day, 9:** The Battle of the Teutoburg Forest ends: The Roman Empire suffers the greatest defeat of its history and the Rhine is established as the border between the Empire and the so-called barbarians for the next four hundred years. — [0s](https://en.wikipedia.org/wiki/0s)
 
 **🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 11 repos · 9 followers
 
