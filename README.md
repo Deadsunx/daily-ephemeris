@@ -43,11 +43,13 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $77,345 | -0.98% |
-| Ethereum | $2,472.64 | +0.01% |
-| Solana | $99.84 | -1.38% |
+| Bitcoin | $77,001 | -0.24% |
+| Ethereum | $2,532.99 | +2.72% |
+| Solana | $100.94 | +1.1% |
 
-**🚗 Car news:** [BMW Celebrates Nürburgring Centenary With Six Limited-Edition M Cars](https://www.motor1.com/news/807927/bmw-m-cars-celebrate-100-years-nurburgring/)
+**🔭 NASA:** [M83: The Southern Pinwheel](https://apod.nasa.gov/apod/image/2609/M83_Final2_1x1024.jpg)
+
+**🚗 Car news:** [Ford's Most Extreme Mustang Is Even Rarer Than You Think](https://www.motor1.com/news/808007/ford-mustang-gtd-production-numbers/)
 
 **📜 On this day, 9:** The Battle of the Teutoburg Forest ends: The Roman Empire suffers the greatest defeat of its history and the Rhine is established as the border between the Empire and the so-called barbarians for the next four hundred years. — [0s](https://en.wikipedia.org/wiki/0s)
 

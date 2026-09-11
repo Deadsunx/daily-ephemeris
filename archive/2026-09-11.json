@@ -1,11 +1,11 @@
 {
   "date": "2026-09-11",
-  "fetched_at": "2026-09-11T08:27:29.435976+00:00",
+  "fetched_at": "2026-09-11T18:58:21.578646+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 77345,
-      "usd_24h_change": -0.98,
-      "usd_market_cap": 1553175479193.6213,
+      "usd": 77001,
+      "usd_24h_change": -0.24,
+      "usd_market_cap": 1545981667111.7,
       "spark": [
         63408.63,
         63429.18,
@@ -37,13 +37,13 @@
         78450.75,
         78283.06,
         76554.99,
-        77336.88
+        76980.17
       ]
     },
     "ethereum": {
-      "usd": 2472.64,
-      "usd_24h_change": 0.01,
-      "usd_market_cap": 301686862027.6507,
+      "usd": 2532.99,
+      "usd_24h_change": 2.72,
+      "usd_market_cap": 309163933894.6901,
       "spark": [
         1877.74,
         1884.39,
@@ -75,13 +75,13 @@
         2485.07,
         2467.53,
         2437.51,
-        2473.0
+        2533.4
       ]
     },
     "solana": {
-      "usd": 99.84,
-      "usd_24h_change": -1.38,
-      "usd_market_cap": 58553413810.02672,
+      "usd": 100.94,
+      "usd_24h_change": 1.1,
+      "usd_market_cap": 59137089885.41954,
       "spark": [
         75.56,
         76.2,
@@ -113,7 +113,7 @@
         103.36,
         101.57,
         98.63,
-        99.85
+        100.91
       ]
     }
   },
@@ -122,11 +122,15 @@
     "author": "Ming-Dao Deng"
   },
   "nasa": {
-    "error": "HTTP Error 500: Internal Server Error"
+    "title": "M83: The Southern Pinwheel",
+    "explanation": "Beautiful and bright spiral galaxy M83 lies some twelve million light-years away, near the southeastern tip of the very long constellation Hydra. Prominent spiral arms traced by dark dust lanes and blue star clusters lend this galaxy its popular name, the Southern Pinwheel.  Still, reddish star forming regions that dot this cosmic pinwheel's spiral arms have suggested another nickname, the Thousand-Ruby Galaxy. A mere 40,000 light-years across, smaller than the Milky Way, M83 is a member of a group of galaxies that includes active galaxy Centaurus A. In fact, the core of M83 itself is bright at x-ray energies, showing a high concentration of neutron stars and black holes left from an intense burst of star formation. This sharp, groundbased telescopic view also features foreground Milky Way stars and distant background galaxies.  APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod",
+    "url": "https://apod.nasa.gov/apod/image/2609/M83_Final2_1x1024.jpg",
+    "media_type": "image",
+    "thumbnail_url": null
   },
   "car_news": {
-    "headline": "BMW Celebrates N\u00fcrburgring Centenary With Six Limited-Edition M Cars",
-    "url": "https://www.motor1.com/news/807927/bmw-m-cars-celebrate-100-years-nurburgring/",
+    "headline": "Ford's Most Extreme Mustang Is Even Rarer Than You Think",
+    "url": "https://www.motor1.com/news/808007/ford-mustang-gtd-production-numbers/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {

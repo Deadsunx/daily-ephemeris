@@ -802,8 +802,11 @@
       "text": "It is secondary whether we choose belief or defiance. What is precious is that we are always able to choose.",
       "author": "Ming-Dao Deng"
     },
-    "nasa": null,
-    "car": "BMW Celebrates N\u00fcrburgring Centenary With Six Limited-Edition M Cars",
+    "nasa": {
+      "title": "M83: The Southern Pinwheel",
+      "media_type": "image"
+    },
+    "car": "Ford's Most Extreme Mustang Is Even Rarer Than You Think",
     "onthisday": {
       "year": 9,
       "title": "0s"
