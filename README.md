@@ -43,9 +43,9 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $77,313 | +0.21% |
-| Ethereum | $2,526.38 | +2.51% |
-| Solana | $101.7 | +2.2% |
+| Bitcoin | $77,179 | +0.08% |
+| Ethereum | $2,524.77 | -1.01% |
+| Solana | $101.9 | +0.48% |
 
 **🔭 NASA:** [Apollo 11: Catching Some Sun](https://apod.nasa.gov/apod/image/2609/AS11-40-5872HR1024.jpg)
 
