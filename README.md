@@ -35,23 +35,23 @@ python daily_update.py
 Only the Python standard library is used — nothing to install.
 
 <!-- LATEST:START -->
-### 📅 Latest snapshot — 2026-09-11
+### 📅 Latest snapshot — 2026-09-12
 
-> *"It is secondary whether we choose belief or defiance. What is precious is that we are always able to choose."* — **Ming-Dao Deng**
+> *"He who leaves the game wins it."* — **Nicolas Chamfort**
 
 **Crypto (USD)**
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $77,001 | -0.24% |
-| Ethereum | $2,532.99 | +2.72% |
-| Solana | $100.94 | +1.1% |
+| Bitcoin | $77,313 | +0.21% |
+| Ethereum | $2,526.38 | +2.51% |
+| Solana | $101.7 | +2.2% |
 
-**🔭 NASA:** [M83: The Southern Pinwheel](https://apod.nasa.gov/apod/image/2609/M83_Final2_1x1024.jpg)
+**🔭 NASA:** [Apollo 11: Catching Some Sun](https://apod.nasa.gov/apod/image/2609/AS11-40-5872HR1024.jpg)
 
-**🚗 Car news:** [Ford's Most Extreme Mustang Is Even Rarer Than You Think](https://www.motor1.com/news/808007/ford-mustang-gtd-production-numbers/)
+**🚗 Car news:** [Ram's Small Work Van Is Back For 2027 At Under $40,000](https://www.motor1.com/news/808014/2027-ram-promaster-city-price-trims-specs/)
 
-**📜 On this day, 9:** The Battle of the Teutoburg Forest ends: The Roman Empire suffers the greatest defeat of its history and the Rhine is established as the border between the Empire and the so-called barbarians for the next four hundred years. — [0s](https://en.wikipedia.org/wiki/0s)
+**📜 On this day, -490:** Battle of Marathon: The conventionally accepted date for the Battle of Marathon. The Athenians and their Plataean allies defeat the first Persian invasion force of Greece. — [Battle of Marathon](https://en.wikipedia.org/wiki/Battle_of_Marathon)
 
 **🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 11 repos · 9 followers
 

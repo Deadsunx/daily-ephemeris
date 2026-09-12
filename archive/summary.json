@@ -811,5 +811,21 @@
       "year": 9,
       "title": "0s"
     }
+  },
+  {
+    "date": "2026-09-12",
+    "quote": {
+      "text": "He who leaves the game wins it.",
+      "author": "Nicolas Chamfort"
+    },
+    "nasa": {
+      "title": "Apollo 11: Catching Some Sun",
+      "media_type": "image"
+    },
+    "car": "Ram's Small Work Van Is Back For 2027 At Under $40,000",
+    "onthisday": {
+      "year": -490,
+      "title": "Battle of Marathon"
+    }
   }
 ]
