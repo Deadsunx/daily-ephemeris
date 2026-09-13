@@ -35,23 +35,23 @@ python daily_update.py
 Only the Python standard library is used — nothing to install.
 
 <!-- LATEST:START -->
-### 📅 Latest snapshot — 2026-09-12
+### 📅 Latest snapshot — 2026-09-13
 
-> *"He who leaves the game wins it."* — **Nicolas Chamfort**
+> *"Everyday is a second chance."* — **Unknown**
 
 **Crypto (USD)**
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $77,179 | +0.08% |
-| Ethereum | $2,524.77 | -1.01% |
-| Solana | $101.9 | +0.48% |
+| Bitcoin | $76,860 | -0.61% |
+| Ethereum | $2,498.1 | -1.28% |
+| Solana | $100.1 | -1.55% |
 
-**🔭 NASA:** [Apollo 11: Catching Some Sun](https://apod.nasa.gov/apod/image/2609/AS11-40-5872HR1024.jpg)
+**🔭 NASA:** [Comet NEOWISE Rising over the Adriatic Sea](https://apod.nasa.gov/apod/image/2609/NoctilucentNeowise_Girotti.mp4)
 
 **🚗 Car news:** [Ram's Small Work Van Is Back For 2027 At Under $40,000](https://www.motor1.com/news/808014/2027-ram-promaster-city-price-trims-specs/)
 
-**📜 On this day, -490:** Battle of Marathon: The conventionally accepted date for the Battle of Marathon. The Athenians and their Plataean allies defeat the first Persian invasion force of Greece. — [Battle of Marathon](https://en.wikipedia.org/wiki/Battle_of_Marathon)
+**📜 On this day, -585:** Lucius Tarquinius Priscus, king of Rome, celebrates a triumph for his victories over the Sabines, and the surrender of Collatia. — [Lucius Tarquinius Priscus](https://en.wikipedia.org/wiki/Lucius_Tarquinius_Priscus)
 
 **🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 11 repos · 9 followers
 

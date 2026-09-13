@@ -827,5 +827,21 @@
       "year": -490,
       "title": "Battle of Marathon"
     }
+  },
+  {
+    "date": "2026-09-13",
+    "quote": {
+      "text": "Everyday is a second chance.",
+      "author": "Unknown"
+    },
+    "nasa": {
+      "title": "Comet NEOWISE Rising over the Adriatic Sea",
+      "media_type": "video"
+    },
+    "car": "Ram's Small Work Van Is Back For 2027 At Under $40,000",
+    "onthisday": {
+      "year": -585,
+      "title": "Lucius Tarquinius Priscus"
+    }
   }
 ]
