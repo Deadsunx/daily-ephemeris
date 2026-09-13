@@ -43,9 +43,9 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $76,860 | -0.61% |
-| Ethereum | $2,498.1 | -1.28% |
-| Solana | $100.1 | -1.55% |
+| Bitcoin | $77,313 | +0.21% |
+| Ethereum | $2,506.01 | -0.7% |
+| Solana | $101.12 | -0.58% |
 
 **🔭 NASA:** [Comet NEOWISE Rising over the Adriatic Sea](https://apod.nasa.gov/apod/image/2609/NoctilucentNeowise_Girotti.mp4)
 
