@@ -35,23 +35,23 @@ python daily_update.py
 Only the Python standard library is used — nothing to install.
 
 <!-- LATEST:START -->
-### 📅 Latest snapshot — 2026-09-13
+### 📅 Latest snapshot — 2026-09-14
 
-> *"Everyday is a second chance."* — **Unknown**
+> *"If you spend too much time thinking about a thing, you'll never get it done."* — **Bruce Lee**
 
 **Crypto (USD)**
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $77,313 | +0.21% |
-| Ethereum | $2,506.01 | -0.7% |
-| Solana | $101.12 | -0.58% |
+| Bitcoin | $77,615 | +1.26% |
+| Ethereum | $2,511.48 | +1.18% |
+| Solana | $101.31 | +1.65% |
 
-**🔭 NASA:** [Comet NEOWISE Rising over the Adriatic Sea](https://apod.nasa.gov/apod/image/2609/NoctilucentNeowise_Girotti.mp4)
+**🔭 NASA:** [Where Your Elements Came From](https://apod.nasa.gov/apod/image/2609/ElementOrigins2_svs_1080.jpg)
 
-**🚗 Car news:** [Ram's Small Work Van Is Back For 2027 At Under $40,000](https://www.motor1.com/news/808014/2027-ram-promaster-city-price-trims-specs/)
+**🚗 Car news:** [Trump Opens Door To Chinese Car Plants In The US Before Xi Visit](https://www.motor1.com/news/808120/trump-opens-door-chinese-car/)
 
-**📜 On this day, -585:** Lucius Tarquinius Priscus, king of Rome, celebrates a triumph for his victories over the Sabines, and the surrender of Collatia. — [Lucius Tarquinius Priscus](https://en.wikipedia.org/wiki/Lucius_Tarquinius_Priscus)
+**📜 On this day, 81:** Domitian became Emperor of the Roman Empire upon the death of his brother Titus. — [AD 81](https://en.wikipedia.org/wiki/AD_81)
 
 **🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 11 repos · 9 followers
 

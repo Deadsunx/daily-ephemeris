@@ -843,5 +843,21 @@
       "year": -585,
       "title": "Lucius Tarquinius Priscus"
     }
+  },
+  {
+    "date": "2026-09-14",
+    "quote": {
+      "text": "If you spend too much time thinking about a thing, you'll never get it done.",
+      "author": "Bruce Lee"
+    },
+    "nasa": {
+      "title": "Where Your Elements Came From",
+      "media_type": "image"
+    },
+    "car": "Trump Opens Door To Chinese Car Plants In The US Before Xi Visit",
+    "onthisday": {
+      "year": 81,
+      "title": "AD 81"
+    }
   }
 ]
