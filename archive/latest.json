@@ -1,11 +1,11 @@
 {
   "date": "2026-09-14",
-  "fetched_at": "2026-09-14T09:26:37.200278+00:00",
+  "fetched_at": "2026-09-14T20:08:33.478199+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 77615,
-      "usd_24h_change": 1.26,
-      "usd_market_cap": 1558984300786.2048,
+      "usd": 79024,
+      "usd_24h_change": 2.31,
+      "usd_market_cap": 1587200235793.175,
       "spark": [
         63031.05,
         62843.7,
@@ -37,13 +37,13 @@
         77203.53,
         77261.63,
         76819.04,
-        77615.23
+        79030.36
       ]
     },
     "ethereum": {
-      "usd": 2511.48,
-      "usd_24h_change": 1.18,
-      "usd_market_cap": 306534203232.00946,
+      "usd": 2543.55,
+      "usd_24h_change": 1.5,
+      "usd_market_cap": 310409030046.949,
       "spark": [
         1880.96,
         1874.4,
@@ -75,13 +75,13 @@
         2514.85,
         2525.27,
         2476.68,
-        2511.48
+        2543.55
       ]
     },
     "solana": {
-      "usd": 101.31,
-      "usd_24h_change": 1.65,
-      "usd_market_cap": 59479309823.21892,
+      "usd": 103.36,
+      "usd_24h_change": 2.3,
+      "usd_market_cap": 60660215588.6351,
       "spark": [
         75.28,
         74.55,
@@ -113,7 +113,7 @@
         102.39,
         101.75,
         99.33,
-        101.31
+        103.36
       ]
     }
   },
@@ -129,8 +129,8 @@
     "thumbnail_url": null
   },
   "car_news": {
-    "headline": "Trump Opens Door To Chinese Car Plants In The US Before Xi Visit",
-    "url": "https://www.motor1.com/news/808120/trump-opens-door-chinese-car/",
+    "headline": "Corvette Grand Sport Buyers Clearly Have A Favorite Color",
+    "url": "https://www.motor1.com/news/808228/2027-corvette-grand-sport-production/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {

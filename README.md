@@ -43,13 +43,13 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $77,615 | +1.26% |
-| Ethereum | $2,511.48 | +1.18% |
-| Solana | $101.31 | +1.65% |
+| Bitcoin | $79,024 | +2.31% |
+| Ethereum | $2,543.55 | +1.5% |
+| Solana | $103.36 | +2.3% |
 
 **🔭 NASA:** [Where Your Elements Came From](https://apod.nasa.gov/apod/image/2609/ElementOrigins2_svs_1080.jpg)
 
-**🚗 Car news:** [Trump Opens Door To Chinese Car Plants In The US Before Xi Visit](https://www.motor1.com/news/808120/trump-opens-door-chinese-car/)
+**🚗 Car news:** [Corvette Grand Sport Buyers Clearly Have A Favorite Color](https://www.motor1.com/news/808228/2027-corvette-grand-sport-production/)
 
 **📜 On this day, 81:** Domitian became Emperor of the Roman Empire upon the death of his brother Titus. — [AD 81](https://en.wikipedia.org/wiki/AD_81)
 
