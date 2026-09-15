@@ -43,13 +43,13 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $76,888 | -1.07% |
-| Ethereum | $2,473.83 | -1.74% |
-| Solana | $100.57 | -0.92% |
+| Bitcoin | $75,961 | -3.99% |
+| Ethereum | $2,405.66 | -5.48% |
+| Solana | $97.84 | -5.32% |
 
 **🔭 NASA:** [A Daytime Eclipse: Moon Occults Venus](https://apod.nasa.gov/apod/image/2609/MoonVenus_Mariat_960.jpg)
 
-**🚗 Car news:** [BMW's iX5 Hydrogen Targets Sub-5-Second 0–62 Sprint](https://www.motor1.com/news/808298/bmw-ix5-hydrogen-nears-production/)
+**🚗 Car news:** [GM Caves: Apple CarPlay And Android Auto Are Returning To The Lineup](https://www.motor1.com/news/808403/general-motors-apple-carplay-new-ui/)
 
 **📜 On this day, 533:** The Byzantine army under Belisarius enters Carthage following their victory over the Vandals at Ad Decimum. — [Byzantine army](https://en.wikipedia.org/wiki/Byzantine_army)
 

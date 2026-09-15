@@ -1,11 +1,11 @@
 {
   "date": "2026-09-15",
-  "fetched_at": "2026-09-15T09:06:13.328702+00:00",
+  "fetched_at": "2026-09-15T19:30:52.870285+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 76888,
-      "usd_24h_change": -1.07,
-      "usd_market_cap": 1544268980861.1042,
+      "usd": 75961,
+      "usd_24h_change": -3.99,
+      "usd_market_cap": 1526644643572.315,
       "spark": [
         62843.7,
         64491.35,
@@ -37,13 +37,13 @@
         77261.63,
         76819.04,
         78173.35,
-        76888.18
+        75982.94
       ]
     },
     "ethereum": {
-      "usd": 2473.83,
-      "usd_24h_change": -1.74,
-      "usd_market_cap": 301930128419.2345,
+      "usd": 2405.66,
+      "usd_24h_change": -5.48,
+      "usd_market_cap": 293528995069.1457,
       "spark": [
         1874.4,
         1912.27,
@@ -75,13 +75,13 @@
         2525.27,
         2476.68,
         2514.76,
-        2473.82
+        2405.66
       ]
     },
     "solana": {
-      "usd": 100.57,
-      "usd_24h_change": -0.92,
-      "usd_market_cap": 59037284132.80458,
+      "usd": 97.84,
+      "usd_24h_change": -5.32,
+      "usd_market_cap": 57508826661.163216,
       "spark": [
         74.55,
         75.97,
@@ -113,7 +113,7 @@
         101.75,
         99.33,
         102.51,
-        100.57
+        97.97
       ]
     }
   },
@@ -129,8 +129,8 @@
     "thumbnail_url": null
   },
   "car_news": {
-    "headline": "BMW's iX5 Hydrogen Targets Sub-5-Second 0\u201362 Sprint",
-    "url": "https://www.motor1.com/news/808298/bmw-ix5-hydrogen-nears-production/",
+    "headline": "GM Caves: Apple CarPlay And Android Auto Are Returning To The Lineup",
+    "url": "https://www.motor1.com/news/808403/general-motors-apple-carplay-new-ui/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {
