@@ -35,23 +35,23 @@ python daily_update.py
 Only the Python standard library is used — nothing to install.
 
 <!-- LATEST:START -->
-### 📅 Latest snapshot — 2026-09-14
+### 📅 Latest snapshot — 2026-09-15
 
-> *"If you spend too much time thinking about a thing, you'll never get it done."* — **Bruce Lee**
+> *"Knowing yourself is the beginning of all wisdom."* — **Aristotle**
 
 **Crypto (USD)**
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $79,024 | +2.31% |
-| Ethereum | $2,543.55 | +1.5% |
-| Solana | $103.36 | +2.3% |
+| Bitcoin | $76,888 | -1.07% |
+| Ethereum | $2,473.83 | -1.74% |
+| Solana | $100.57 | -0.92% |
 
-**🔭 NASA:** [Where Your Elements Came From](https://apod.nasa.gov/apod/image/2609/ElementOrigins2_svs_1080.jpg)
+**🔭 NASA:** [A Daytime Eclipse: Moon Occults Venus](https://apod.nasa.gov/apod/image/2609/MoonVenus_Mariat_960.jpg)
 
-**🚗 Car news:** [Corvette Grand Sport Buyers Clearly Have A Favorite Color](https://www.motor1.com/news/808228/2027-corvette-grand-sport-production/)
+**🚗 Car news:** [BMW's iX5 Hydrogen Targets Sub-5-Second 0–62 Sprint](https://www.motor1.com/news/808298/bmw-ix5-hydrogen-nears-production/)
 
-**📜 On this day, 81:** Domitian became Emperor of the Roman Empire upon the death of his brother Titus. — [AD 81](https://en.wikipedia.org/wiki/AD_81)
+**📜 On this day, 533:** The Byzantine army under Belisarius enters Carthage following their victory over the Vandals at Ad Decimum. — [Byzantine army](https://en.wikipedia.org/wiki/Byzantine_army)
 
 **🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 11 repos · 9 followers
 
