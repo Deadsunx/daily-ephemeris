@@ -1,11 +1,11 @@
 {
   "date": "2026-09-16",
-  "fetched_at": "2026-09-16T08:58:28.673968+00:00",
+  "fetched_at": "2026-09-16T19:21:58.318433+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 75615,
-      "usd_24h_change": -1.72,
-      "usd_market_cap": 1517900569727.1804,
+      "usd": 75676,
+      "usd_24h_change": -0.52,
+      "usd_market_cap": 1521240325985.1606,
       "spark": [
         64491.35,
         64686.26,
@@ -37,13 +37,13 @@
         76819.04,
         78173.35,
         75590.24,
-        75614.87
+        75697.42
       ]
     },
     "ethereum": {
-      "usd": 2399.17,
-      "usd_24h_change": -3.11,
-      "usd_market_cap": 292594694406.63776,
+      "usd": 2399.6,
+      "usd_24h_change": -0.33,
+      "usd_market_cap": 293233516700.0765,
       "spark": [
         1912.27,
         1916.4,
@@ -75,13 +75,13 @@
         2476.68,
         2514.76,
         2397.5,
-        2399.17
+        2400.93
       ]
     },
     "solana": {
-      "usd": 96.83,
-      "usd_24h_change": -3.75,
-      "usd_market_cap": 56811616642.22009,
+      "usd": 97.76,
+      "usd_24h_change": -0.38,
+      "usd_market_cap": 57475720670.62038,
       "spark": [
         75.97,
         77.0,
@@ -113,7 +113,7 @@
         99.33,
         102.51,
         96.87,
-        96.83
+        97.81
       ]
     }
   },
@@ -129,8 +129,8 @@
     "thumbnail_url": null
   },
   "car_news": {
-    "headline": "Ford Mustang GTD Gives Europe A Second Chance At The Wildest Pony",
-    "url": "https://www.motor1.com/news/808460/ford-mustang-gtd-europe-application/",
+    "headline": "Firestone's Newest Tire Promises More Miles And Better Grip For Your SUV",
+    "url": "https://www.motor1.com/news/808542/firestone-destination-le4-tire-specs-details/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {

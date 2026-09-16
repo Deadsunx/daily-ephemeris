@@ -43,13 +43,13 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $75,615 | -1.72% |
-| Ethereum | $2,399.17 | -3.11% |
-| Solana | $96.83 | -3.75% |
+| Bitcoin | $75,676 | -0.52% |
+| Ethereum | $2,399.6 | -0.33% |
+| Solana | $97.76 | -0.38% |
 
 **🔭 NASA:** [Webb's View of M64](https://apod.nasa.gov/apod/image/2609/M64_Webb_1024.jpg)
 
-**🚗 Car news:** [Ford Mustang GTD Gives Europe A Second Chance At The Wildest Pony](https://www.motor1.com/news/808460/ford-mustang-gtd-europe-application/)
+**🚗 Car news:** [Firestone's Newest Tire Promises More Miles And Better Grip For Your SUV](https://www.motor1.com/news/808542/firestone-destination-le4-tire-specs-details/)
 
 **📜 On this day, 681:** Pope Honorius I is posthumously excommunicated by the Sixth Ecumenical Council. — [Pope Honorius I](https://en.wikipedia.org/wiki/Pope_Honorius_I)
 
