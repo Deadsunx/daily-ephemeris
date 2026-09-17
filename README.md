@@ -43,16 +43,16 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $76,578 | +1.05% |
-| Ethereum | $2,444.54 | +1.72% |
-| Solana | $100.37 | +3.4% |
+| Bitcoin | $76,523 | +1.37% |
+| Ethereum | $2,451.39 | +2.69% |
+| Solana | $100.92 | +3.7% |
 
 **🔭 NASA:** [A Treasure Chest in the Carina Nebula](https://apod.nasa.gov/apod/image/2609/JWST_Treasure_Chest_800.jpg)
 
-**🚗 Car news:** [Porsche Makes First EV Cell Using 100% Recycled Cathode Materials](https://www.motor1.com/news/808609/porsche-cylib-ev-battery-recycling/)
+**🚗 Car news:** [California Finally Eases Smog Rules For Classic Cars Thanks To 'Leno's Law'](https://www.motor1.com/news/808673/california-signs-lenos-law/)
 
 **📜 On this day, 14:** The Roman Senate decides to deify the late emperor Augustus. — [10s](https://en.wikipedia.org/wiki/10s)
 
-**🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 11 repos · 8 followers
+**🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 11 repos · 9 followers
 
 <!-- LATEST:END -->
