@@ -891,5 +891,21 @@
       "year": 681,
       "title": "Pope Honorius I"
     }
+  },
+  {
+    "date": "2026-09-17",
+    "quote": {
+      "text": "When things go wrong, don't go with them.",
+      "author": "Elvis Presley"
+    },
+    "nasa": {
+      "title": "A Treasure Chest in the Carina Nebula",
+      "media_type": "image"
+    },
+    "car": "Porsche Makes First EV Cell Using 100% Recycled Cathode Materials",
+    "onthisday": {
+      "year": 14,
+      "title": "10s"
+    }
   }
 ]
