@@ -43,13 +43,13 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $77,911 | +1.98% |
-| Ethereum | $2,495.27 | +2.32% |
-| Solana | $105.75 | +5.59% |
+| Bitcoin | $80,994 | +5.8% |
+| Ethereum | $2,613.31 | +6.51% |
+| Solana | $112.42 | +11.38% |
 
 **🔭 NASA:** [Messier 33: The Triangulum Galaxy](https://apod.nasa.gov/apod/image/2609/m33m14_rasa3NM1024.jpg)
 
-**🚗 Car news:** [Max Verstappen Cruises Monaco Streets In Tuned ABT Audi RS6 Avant](https://www.motor1.com/news/808726/max-verstappen-abt-audi-rs6/)
+**🚗 Car news:** [Gas Prices Are Up, And So Are EV Sales](https://www.motor1.com/news/808800/new-used-ev-sales-rising/)
 
 **📜 On this day, 96:** Emperor Domitian is assassinated as a result of a plot by his wife Domitia and two Praetorian prefects. Nerva is then proclaimed as his successor. — [AD 96](https://en.wikipedia.org/wiki/AD_96)
 

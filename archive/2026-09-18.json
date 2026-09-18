@@ -1,11 +1,11 @@
 {
   "date": "2026-09-18",
-  "fetched_at": "2026-09-18T08:38:32.814370+00:00",
+  "fetched_at": "2026-09-18T18:51:56.740624+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 77911,
-      "usd_24h_change": 1.98,
-      "usd_market_cap": 1564914506047.729,
+      "usd": 80994,
+      "usd_24h_change": 5.8,
+      "usd_market_cap": 1626453426492.289,
       "spark": [
         69291.01,
         73020.95,
@@ -37,13 +37,13 @@
         75590.24,
         76146.81,
         76371.36,
-        77917.35
+        80976.12
       ]
     },
     "ethereum": {
-      "usd": 2495.27,
-      "usd_24h_change": 2.32,
-      "usd_market_cap": 304570050710.70245,
+      "usd": 2613.31,
+      "usd_24h_change": 6.51,
+      "usd_market_cap": 318799434698.3229,
       "spark": [
         2251.73,
         2326.53,
@@ -75,13 +75,13 @@
         2397.5,
         2415.96,
         2446.14,
-        2495.49
+        2611.85
       ]
     },
     "solana": {
-      "usd": 105.75,
-      "usd_24h_change": 5.59,
-      "usd_market_cap": 62123816712.64814,
+      "usd": 112.42,
+      "usd_24h_change": 11.38,
+      "usd_market_cap": 66026739898.691536,
       "spark": [
         85.33,
         87.65,
@@ -113,7 +113,7 @@
         96.87,
         98.54,
         101.57,
-        105.76
+        112.42
       ]
     }
   },
@@ -129,8 +129,8 @@
     "thumbnail_url": null
   },
   "car_news": {
-    "headline": "Max Verstappen Cruises Monaco Streets In Tuned ABT Audi RS6 Avant",
-    "url": "https://www.motor1.com/news/808726/max-verstappen-abt-audi-rs6/",
+    "headline": "Gas Prices Are Up, And So Are EV Sales",
+    "url": "https://www.motor1.com/news/808800/new-used-ev-sales-rising/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {
