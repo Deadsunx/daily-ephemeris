@@ -35,23 +35,23 @@ python daily_update.py
 Only the Python standard library is used — nothing to install.
 
 <!-- LATEST:START -->
-### 📅 Latest snapshot — 2026-09-17
+### 📅 Latest snapshot — 2026-09-18
 
-> *"When things go wrong, don't go with them."* — **Elvis Presley**
+> *"Till it has loved, no man or woman can become itself."* — **Emily Dickinson**
 
 **Crypto (USD)**
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $76,523 | +1.37% |
-| Ethereum | $2,451.39 | +2.69% |
-| Solana | $100.92 | +3.7% |
+| Bitcoin | $77,911 | +1.98% |
+| Ethereum | $2,495.27 | +2.32% |
+| Solana | $105.75 | +5.59% |
 
-**🔭 NASA:** [A Treasure Chest in the Carina Nebula](https://apod.nasa.gov/apod/image/2609/JWST_Treasure_Chest_800.jpg)
+**🔭 NASA:** [Messier 33: The Triangulum Galaxy](https://apod.nasa.gov/apod/image/2609/m33m14_rasa3NM1024.jpg)
 
-**🚗 Car news:** [California Finally Eases Smog Rules For Classic Cars Thanks To 'Leno's Law'](https://www.motor1.com/news/808673/california-signs-lenos-law/)
+**🚗 Car news:** [Max Verstappen Cruises Monaco Streets In Tuned ABT Audi RS6 Avant](https://www.motor1.com/news/808726/max-verstappen-abt-audi-rs6/)
 
-**📜 On this day, 14:** The Roman Senate decides to deify the late emperor Augustus. — [10s](https://en.wikipedia.org/wiki/10s)
+**📜 On this day, 96:** Emperor Domitian is assassinated as a result of a plot by his wife Domitia and two Praetorian prefects. Nerva is then proclaimed as his successor. — [AD 96](https://en.wikipedia.org/wiki/AD_96)
 
 **🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 11 repos · 9 followers
 
