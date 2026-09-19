@@ -923,5 +923,21 @@
       "year": 96,
       "title": "AD 96"
     }
+  },
+  {
+    "date": "2026-09-19",
+    "quote": {
+      "text": "Make your mind your own business.",
+      "author": "Jack Butcher"
+    },
+    "nasa": {
+      "title": "A Zodiacal Night",
+      "media_type": "image"
+    },
+    "car": "Gas Prices Are Up, And So Are EV Sales",
+    "onthisday": {
+      "year": 96,
+      "title": "AD 96"
+    }
   }
 ]

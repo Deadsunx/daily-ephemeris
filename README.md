@@ -35,23 +35,23 @@ python daily_update.py
 Only the Python standard library is used — nothing to install.
 
 <!-- LATEST:START -->
-### 📅 Latest snapshot — 2026-09-18
+### 📅 Latest snapshot — 2026-09-19
 
-> *"Till it has loved, no man or woman can become itself."* — **Emily Dickinson**
+> *"Make your mind your own business."* — **Jack Butcher**
 
 **Crypto (USD)**
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $80,994 | +5.8% |
-| Ethereum | $2,613.31 | +6.51% |
-| Solana | $112.42 | +11.38% |
+| Bitcoin | $81,311 | +4.27% |
+| Ethereum | $2,647.26 | +5.8% |
+| Solana | $112.22 | +5.75% |
 
-**🔭 NASA:** [Messier 33: The Triangulum Galaxy](https://apod.nasa.gov/apod/image/2609/m33m14_rasa3NM1024.jpg)
+**🔭 NASA:** [A Zodiacal Night](https://apod.nasa.gov/apod/image/2609/2026-09-09ZodiacalLightHSP1024.jpg)
 
 **🚗 Car news:** [Gas Prices Are Up, And So Are EV Sales](https://www.motor1.com/news/808800/new-used-ev-sales-rising/)
 
-**📜 On this day, 96:** Emperor Domitian is assassinated as a result of a plot by his wife Domitia and two Praetorian prefects. Nerva is then proclaimed as his successor. — [AD 96](https://en.wikipedia.org/wiki/AD_96)
+**📜 On this day, 96:** Nerva, suspected of complicity of the death of Domitian, is declared emperor by Senate. The Senate then annuls laws passed by Domitian and orders his statues to be destroyed. — [AD 96](https://en.wikipedia.org/wiki/AD_96)
 
 **🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 11 repos · 9 followers
 
