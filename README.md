@@ -43,13 +43,13 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $81,311 | +4.27% |
-| Ethereum | $2,647.26 | +5.8% |
-| Solana | $112.22 | +5.75% |
+| Bitcoin | $81,444 | +0.7% |
+| Ethereum | $2,641.21 | +1.31% |
+| Solana | $111.06 | -1.33% |
 
 **🔭 NASA:** [A Zodiacal Night](https://apod.nasa.gov/apod/image/2609/2026-09-09ZodiacalLightHSP1024.jpg)
 
-**🚗 Car news:** [Gas Prices Are Up, And So Are EV Sales](https://www.motor1.com/news/808800/new-used-ev-sales-rising/)
+**🚗 Car news:** [Jeremy Clarkson Is Selling Three Of His Most Famous Grand Tour Cars](https://www.motor1.com/news/808816/jeremy-clarkson-selling-grand-tour-cars/)
 
 **📜 On this day, 96:** Nerva, suspected of complicity of the death of Domitian, is declared emperor by Senate. The Senate then annuls laws passed by Domitian and orders his statues to be destroyed. — [AD 96](https://en.wikipedia.org/wiki/AD_96)
 

@@ -1,11 +1,11 @@
 {
   "date": "2026-09-19",
-  "fetched_at": "2026-09-19T08:25:41.136794+00:00",
+  "fetched_at": "2026-09-19T18:24:45.869894+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 81311,
-      "usd_24h_change": 4.27,
-      "usd_market_cap": 1632748291062.8071,
+      "usd": 81444,
+      "usd_24h_change": 0.7,
+      "usd_market_cap": 1635909585352.7837,
       "spark": [
         73020.95,
         78317.78,
@@ -37,13 +37,13 @@
         76146.81,
         76371.36,
         80873.58,
-        81286.73
+        81442.76
       ]
     },
     "ethereum": {
-      "usd": 2647.26,
-      "usd_24h_change": 5.8,
-      "usd_market_cap": 323007059446.95416,
+      "usd": 2641.21,
+      "usd_24h_change": 1.31,
+      "usd_market_cap": 322357481186.2541,
       "spark": [
         2326.53,
         2514.97,
@@ -75,13 +75,13 @@
         2415.96,
         2446.14,
         2611.56,
-        2647.26
+        2640.94
       ]
     },
     "solana": {
-      "usd": 112.22,
-      "usd_24h_change": 5.75,
-      "usd_market_cap": 65883070544.515205,
+      "usd": 111.06,
+      "usd_24h_change": -1.33,
+      "usd_market_cap": 65222785582.23551,
       "spark": [
         87.65,
         93.69,
@@ -113,7 +113,7 @@
         98.54,
         101.57,
         112.7,
-        112.12
+        111.05
       ]
     }
   },
@@ -129,8 +129,8 @@
     "thumbnail_url": null
   },
   "car_news": {
-    "headline": "Gas Prices Are Up, And So Are EV Sales",
-    "url": "https://www.motor1.com/news/808800/new-used-ev-sales-rising/",
+    "headline": "Jeremy Clarkson Is Selling Three Of His Most Famous Grand Tour Cars",
+    "url": "https://www.motor1.com/news/808816/jeremy-clarkson-selling-grand-tour-cars/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {
