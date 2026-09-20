@@ -1,11 +1,11 @@
 {
   "date": "2026-09-20",
-  "fetched_at": "2026-09-20T08:57:18.563147+00:00",
+  "fetched_at": "2026-09-20T18:28:38.904399+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 80214,
-      "usd_24h_change": -1.32,
-      "usd_market_cap": 1610969742449.5676,
+      "usd": 81224,
+      "usd_24h_change": -0.25,
+      "usd_market_cap": 1630958208369.2615,
       "spark": [
         78317.78,
         77081.02,
@@ -37,13 +37,13 @@
         76371.36,
         80873.58,
         81236.41,
-        80213.79
+        81225.53
       ]
     },
     "ethereum": {
-      "usd": 2572.43,
-      "usd_24h_change": -2.79,
-      "usd_market_cap": 313965524576.852,
+      "usd": 2634.74,
+      "usd_24h_change": -0.21,
+      "usd_market_cap": 321501562249.83514,
       "spark": [
         2514.97,
         2423.41,
@@ -75,13 +75,13 @@
         2446.14,
         2611.56,
         2632.01,
-        2572.74
+        2634.74
       ]
     },
     "solana": {
-      "usd": 107.92,
-      "usd_24h_change": -3.88,
-      "usd_market_cap": 63352273228.01937,
+      "usd": 110.25,
+      "usd_24h_change": -0.61,
+      "usd_market_cap": 64727239693.667,
       "spark": [
         93.69,
         93.88,
@@ -113,7 +113,7 @@
         101.57,
         112.7,
         111.02,
-        107.88
+        110.25
       ]
     }
   },
@@ -129,8 +129,8 @@
     "thumbnail_url": null
   },
   "car_news": {
-    "headline": "Jeremy Clarkson Is Selling Three Of His Most Famous Grand Tour Cars",
-    "url": "https://www.motor1.com/news/808816/jeremy-clarkson-selling-grand-tour-cars/",
+    "headline": "Apple's New CEO Is A Car Guy. He Owns One Of The Rarest Porsches Ever Built",
+    "url": "https://www.motor1.com/news/808809/apple-ceo-car-guy-owns-porsche-935/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {

@@ -43,13 +43,13 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $80,214 | -1.32% |
-| Ethereum | $2,572.43 | -2.79% |
-| Solana | $107.92 | -3.88% |
+| Bitcoin | $81,224 | -0.25% |
+| Ethereum | $2,634.74 | -0.21% |
+| Solana | $110.25 | -0.61% |
 
 **🔭 NASA:** [Analemma over the Callanish Stones](https://apod.nasa.gov/apod/image/2609/CallanishAnalemma_Petricca_960.jpg)
 
-**🚗 Car news:** [Jeremy Clarkson Is Selling Three Of His Most Famous Grand Tour Cars](https://www.motor1.com/news/808816/jeremy-clarkson-selling-grand-tour-cars/)
+**🚗 Car news:** [Apple's New CEO Is A Car Guy. He Owns One Of The Rarest Porsches Ever Built](https://www.motor1.com/news/808809/apple-ceo-car-guy-owns-porsche-935/)
 
 **📜 On this day, 1058:** Agnes of Poitou and Andrew I of Hungary meet to negotiate about the border territory of Burgenland. — [Agnes of Poitou](https://en.wikipedia.org/wiki/Agnes_of_Poitou)
 
