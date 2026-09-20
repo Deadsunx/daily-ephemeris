@@ -35,23 +35,23 @@ python daily_update.py
 Only the Python standard library is used — nothing to install.
 
 <!-- LATEST:START -->
-### 📅 Latest snapshot — 2026-09-19
+### 📅 Latest snapshot — 2026-09-20
 
-> *"Make your mind your own business."* — **Jack Butcher**
+> *"A person without a sense of humor is like a wagon without springs, jolted by every pebble in the road."* — **Henry Ward Beecher**
 
 **Crypto (USD)**
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $81,444 | +0.7% |
-| Ethereum | $2,641.21 | +1.31% |
-| Solana | $111.06 | -1.33% |
+| Bitcoin | $80,214 | -1.32% |
+| Ethereum | $2,572.43 | -2.79% |
+| Solana | $107.92 | -3.88% |
 
-**🔭 NASA:** [A Zodiacal Night](https://apod.nasa.gov/apod/image/2609/2026-09-09ZodiacalLightHSP1024.jpg)
+**🔭 NASA:** [Analemma over the Callanish Stones](https://apod.nasa.gov/apod/image/2609/CallanishAnalemma_Petricca_960.jpg)
 
 **🚗 Car news:** [Jeremy Clarkson Is Selling Three Of His Most Famous Grand Tour Cars](https://www.motor1.com/news/808816/jeremy-clarkson-selling-grand-tour-cars/)
 
-**📜 On this day, 96:** Nerva, suspected of complicity of the death of Domitian, is declared emperor by Senate. The Senate then annuls laws passed by Domitian and orders his statues to be destroyed. — [AD 96](https://en.wikipedia.org/wiki/AD_96)
+**📜 On this day, 1058:** Agnes of Poitou and Andrew I of Hungary meet to negotiate about the border territory of Burgenland. — [Agnes of Poitou](https://en.wikipedia.org/wiki/Agnes_of_Poitou)
 
 **🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 11 repos · 9 followers
 

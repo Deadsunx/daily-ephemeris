@@ -939,5 +939,21 @@
       "year": 96,
       "title": "AD 96"
     }
+  },
+  {
+    "date": "2026-09-20",
+    "quote": {
+      "text": "A person without a sense of humor is like a wagon without springs, jolted by every pebble in the road.",
+      "author": "Henry Ward Beecher"
+    },
+    "nasa": {
+      "title": "Analemma over the Callanish Stones",
+      "media_type": "image"
+    },
+    "car": "Jeremy Clarkson Is Selling Three Of His Most Famous Grand Tour Cars",
+    "onthisday": {
+      "year": 1058,
+      "title": "Agnes of Poitou"
+    }
   }
 ]
