@@ -1,11 +1,11 @@
 {
   "date": "2026-09-21",
-  "fetched_at": "2026-09-21T09:28:43.946965+00:00",
+  "fetched_at": "2026-09-21T20:15:24.456063+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 84225,
-      "usd_24h_change": 4.81,
-      "usd_market_cap": 1691653264414.8816,
+      "usd": 86772,
+      "usd_24h_change": 6.95,
+      "usd_market_cap": 1742866813292.4797,
       "spark": [
         77081.02,
         77712.32,
@@ -37,13 +37,13 @@
         80873.58,
         81236.41,
         81169.04,
-        84214.85
+        86771.67
       ]
     },
     "ethereum": {
-      "usd": 2703.64,
-      "usd_24h_change": 4.82,
-      "usd_market_cap": 330078346459.91754,
+      "usd": 2772.29,
+      "usd_24h_change": 5.37,
+      "usd_market_cap": 338344777463.6948,
       "spark": [
         2423.41,
         2462.4,
@@ -75,13 +75,13 @@
         2611.56,
         2632.01,
         2644.73,
-        2703.64
+        2771.78
       ]
     },
     "solana": {
-      "usd": 115.42,
-      "usd_24h_change": 6.53,
-      "usd_market_cap": 67783505299.74383,
+      "usd": 118.52,
+      "usd_24h_change": 7.47,
+      "usd_market_cap": 69607291636.50777,
       "spark": [
         93.88,
         95.41,
@@ -113,7 +113,7 @@
         112.7,
         111.02,
         111.15,
-        115.39
+        118.49
       ]
     }
   },
@@ -129,8 +129,8 @@
     "thumbnail_url": null
   },
   "car_news": {
-    "headline": "Aston Martin Valhalla Spider Reportedly Debuts In November",
-    "url": "https://www.motor1.com/news/808899/aston-martin-valhalla-spider-november/",
+    "headline": "Porsche Is Working On An Automatic That Pretends To Be A Manual",
+    "url": "https://www.motor1.com/news/808978/porsche-simulated-manual-transmission-patent/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {

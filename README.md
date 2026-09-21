@@ -43,13 +43,13 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $84,225 | +4.81% |
-| Ethereum | $2,703.64 | +4.82% |
-| Solana | $115.42 | +6.53% |
+| Bitcoin | $86,772 | +6.95% |
+| Ethereum | $2,772.29 | +5.37% |
+| Solana | $118.52 | +7.47% |
 
 **🔭 NASA:** [Cocoon Nebula Wide Field](https://apod.nasa.gov/apod/image/2609/Cocoon_Czerski_1080.jpg)
 
-**🚗 Car news:** [Aston Martin Valhalla Spider Reportedly Debuts In November](https://www.motor1.com/news/808899/aston-martin-valhalla-spider-november/)
+**🚗 Car news:** [Porsche Is Working On An Automatic That Pretends To Be A Manual](https://www.motor1.com/news/808978/porsche-simulated-manual-transmission-patent/)
 
 **📜 On this day, 454:** Western Roman Emperor Valentinian III murders his general Flavius Aetius on instigation of eunuch Heraclius and senator Petronius Maximus. — [Roman emperor](https://en.wikipedia.org/wiki/Roman_emperor)
 
