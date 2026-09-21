@@ -35,23 +35,23 @@ python daily_update.py
 Only the Python standard library is used — nothing to install.
 
 <!-- LATEST:START -->
-### 📅 Latest snapshot — 2026-09-20
+### 📅 Latest snapshot — 2026-09-21
 
-> *"A person without a sense of humor is like a wagon without springs, jolted by every pebble in the road."* — **Henry Ward Beecher**
+> *"The smallest act of kindness is worth more than the greatest intention."* — **Kahlil Gibran**
 
 **Crypto (USD)**
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $81,224 | -0.25% |
-| Ethereum | $2,634.74 | -0.21% |
-| Solana | $110.25 | -0.61% |
+| Bitcoin | $84,225 | +4.81% |
+| Ethereum | $2,703.64 | +4.82% |
+| Solana | $115.42 | +6.53% |
 
-**🔭 NASA:** [Analemma over the Callanish Stones](https://apod.nasa.gov/apod/image/2609/CallanishAnalemma_Petricca_960.jpg)
+**🔭 NASA:** [Cocoon Nebula Wide Field](https://apod.nasa.gov/apod/image/2609/Cocoon_Czerski_1080.jpg)
 
-**🚗 Car news:** [Apple's New CEO Is A Car Guy. He Owns One Of The Rarest Porsches Ever Built](https://www.motor1.com/news/808809/apple-ceo-car-guy-owns-porsche-935/)
+**🚗 Car news:** [Aston Martin Valhalla Spider Reportedly Debuts In November](https://www.motor1.com/news/808899/aston-martin-valhalla-spider-november/)
 
-**📜 On this day, 1058:** Agnes of Poitou and Andrew I of Hungary meet to negotiate about the border territory of Burgenland. — [Agnes of Poitou](https://en.wikipedia.org/wiki/Agnes_of_Poitou)
+**📜 On this day, 454:** Western Roman Emperor Valentinian III murders his general Flavius Aetius on instigation of eunuch Heraclius and senator Petronius Maximus. — [Roman emperor](https://en.wikipedia.org/wiki/Roman_emperor)
 
 **🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 11 repos · 9 followers
 
