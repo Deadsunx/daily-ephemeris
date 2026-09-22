@@ -1,11 +1,11 @@
 {
   "date": "2026-09-22",
-  "fetched_at": "2026-09-22T08:56:02.379884+00:00",
+  "fetched_at": "2026-09-22T19:33:50.509149+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 86310,
-      "usd_24h_change": 3.02,
-      "usd_market_cap": 1733581537419.044,
+      "usd": 86492,
+      "usd_24h_change": 0.08,
+      "usd_market_cap": 1737554987189.1802,
       "spark": [
         77712.32,
         78973.89,
@@ -37,13 +37,13 @@
         81236.41,
         81169.04,
         86596.74,
-        86283.44
+        86478.88
       ]
     },
     "ethereum": {
-      "usd": 2753.48,
-      "usd_24h_change": 1.95,
-      "usd_market_cap": 335963185049.2585,
+      "usd": 2761.78,
+      "usd_24h_change": -0.19,
+      "usd_market_cap": 337216905567.0263,
       "spark": [
         2462.4,
         2481.88,
@@ -75,13 +75,13 @@
         2632.01,
         2644.73,
         2775.17,
-        2753.59
+        2759.89
       ]
     },
     "solana": {
-      "usd": 117.89,
-      "usd_24h_change": 2.0,
-      "usd_market_cap": 69258897451.0444,
+      "usd": 118.58,
+      "usd_24h_change": 0.46,
+      "usd_market_cap": 69686144272.98245,
       "spark": [
         95.41,
         98.87,
@@ -113,7 +113,7 @@
         111.02,
         111.15,
         118.87,
-        117.78
+        118.54
       ]
     }
   },
@@ -129,8 +129,8 @@
     "thumbnail_url": null
   },
   "car_news": {
-    "headline": "Volvo Already Has A New CEO, Just Two Years After Bringing Back Its Old One",
-    "url": "https://www.motor1.com/news/809069/volvo-names-klaus-zellmer-next/",
+    "headline": "The 2027 Lexus LX Gets New Colors, Red Brakes, and More Standard Tech",
+    "url": "https://www.motor1.com/news/809135/2027-lexus-lx-price-updates/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {

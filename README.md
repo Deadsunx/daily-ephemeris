@@ -43,13 +43,13 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $86,310 | +3.02% |
-| Ethereum | $2,753.48 | +1.95% |
-| Solana | $117.89 | +2.0% |
+| Bitcoin | $86,492 | +0.08% |
+| Ethereum | $2,761.78 | -0.19% |
+| Solana | $118.58 | +0.46% |
 
 **🔭 NASA:** [Chance Triple Alignment: Plane, Space Station, Sun](https://apod.nasa.gov/apod/image/2609/PlaneIssSpots_Horalek_960.jpg)
 
-**🚗 Car news:** [Volvo Already Has A New CEO, Just Two Years After Bringing Back Its Old One](https://www.motor1.com/news/809069/volvo-names-klaus-zellmer-next/)
+**🚗 Car news:** [The 2027 Lexus LX Gets New Colors, Red Brakes, and More Standard Tech](https://www.motor1.com/news/809135/2027-lexus-lx-price-updates/)
 
 **📜 On this day, 904:** The warlord Zhu Quanzhong kills Emperor Zhaozong, the penultimate emperor of the Tang dynasty, after seizing control of the imperial government. — [Zhu Wen](https://en.wikipedia.org/wiki/Zhu_Wen)
 
