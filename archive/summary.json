@@ -971,5 +971,21 @@
       "year": 454,
       "title": "Roman emperor"
     }
+  },
+  {
+    "date": "2026-09-22",
+    "quote": {
+      "text": "Every man's work, whether it be literature or music or pictures or architecture or anything else, is always a portrait of himself.",
+      "author": "Samuel Butler"
+    },
+    "nasa": {
+      "title": "Chance Triple Alignment: Plane, Space Station, Sun",
+      "media_type": "image"
+    },
+    "car": "Volvo Already Has A New CEO, Just Two Years After Bringing Back Its Old One",
+    "onthisday": {
+      "year": 904,
+      "title": "Zhu Wen"
+    }
   }
 ]

@@ -35,23 +35,23 @@ python daily_update.py
 Only the Python standard library is used — nothing to install.
 
 <!-- LATEST:START -->
-### 📅 Latest snapshot — 2026-09-21
+### 📅 Latest snapshot — 2026-09-22
 
-> *"The smallest act of kindness is worth more than the greatest intention."* — **Kahlil Gibran**
+> *"Every man's work, whether it be literature or music or pictures or architecture or anything else, is always a portrait of himself."* — **Samuel Butler**
 
 **Crypto (USD)**
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $86,772 | +6.95% |
-| Ethereum | $2,772.29 | +5.37% |
-| Solana | $118.52 | +7.47% |
+| Bitcoin | $86,310 | +3.02% |
+| Ethereum | $2,753.48 | +1.95% |
+| Solana | $117.89 | +2.0% |
 
-**🔭 NASA:** [Cocoon Nebula Wide Field](https://apod.nasa.gov/apod/image/2609/Cocoon_Czerski_1080.jpg)
+**🔭 NASA:** [Chance Triple Alignment: Plane, Space Station, Sun](https://apod.nasa.gov/apod/image/2609/PlaneIssSpots_Horalek_960.jpg)
 
-**🚗 Car news:** [Porsche Is Working On An Automatic That Pretends To Be A Manual](https://www.motor1.com/news/808978/porsche-simulated-manual-transmission-patent/)
+**🚗 Car news:** [Volvo Already Has A New CEO, Just Two Years After Bringing Back Its Old One](https://www.motor1.com/news/809069/volvo-names-klaus-zellmer-next/)
 
-**📜 On this day, 454:** Western Roman Emperor Valentinian III murders his general Flavius Aetius on instigation of eunuch Heraclius and senator Petronius Maximus. — [Roman emperor](https://en.wikipedia.org/wiki/Roman_emperor)
+**📜 On this day, 904:** The warlord Zhu Quanzhong kills Emperor Zhaozong, the penultimate emperor of the Tang dynasty, after seizing control of the imperial government. — [Zhu Wen](https://en.wikipedia.org/wiki/Zhu_Wen)
 
 **🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 11 repos · 9 followers
 
