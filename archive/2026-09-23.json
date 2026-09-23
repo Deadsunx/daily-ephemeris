@@ -1,11 +1,11 @@
 {
   "date": "2026-09-23",
-  "fetched_at": "2026-09-23T08:58:32.279137+00:00",
+  "fetched_at": "2026-09-23T19:26:14.512949+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 85771,
-      "usd_24h_change": -0.5,
-      "usd_market_cap": 1722492939253.3857,
+      "usd": 84368,
+      "usd_24h_change": -2.45,
+      "usd_market_cap": 1693915484362.3828,
       "spark": [
         78973.89,
         78511.23,
@@ -37,13 +37,13 @@
         81169.04,
         86596.74,
         86183.29,
-        85804.16
+        84383.59
       ]
     },
     "ethereum": {
-      "usd": 2730.73,
-      "usd_24h_change": -0.71,
-      "usd_market_cap": 333281791813.1329,
+      "usd": 2671.02,
+      "usd_24h_change": -3.17,
+      "usd_market_cap": 325898738879.39465,
       "spark": [
         2481.88,
         2442.01,
@@ -75,13 +75,13 @@
         2644.73,
         2775.17,
         2752.63,
-        2731.82
+        2671.02
       ]
     },
     "solana": {
-      "usd": 117.23,
-      "usd_24h_change": -0.33,
-      "usd_market_cap": 68882045358.40114,
+      "usd": 114.37,
+      "usd_24h_change": -3.38,
+      "usd_market_cap": 67129985579.47899,
       "spark": [
         98.87,
         96.58,
@@ -113,7 +113,7 @@
         111.15,
         118.87,
         118.51,
-        117.3
+        114.43
       ]
     }
   },
@@ -129,8 +129,8 @@
     "thumbnail_url": null
   },
   "car_news": {
-    "headline": "BMW Boss Questions Some Chinese Car Prices In Europe: 'Make No Business Sense'",
-    "url": "https://www.motor1.com/news/809201/bmw-boss-questions-chinese-car-prices-europe/",
+    "headline": "Bentley Says No To Front Passenger Screens: 'Technology Has To Add Value'",
+    "url": "https://www.motor1.com/news/809010/bentley-passenger-screens-explained/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {

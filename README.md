@@ -43,13 +43,13 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $85,771 | -0.5% |
-| Ethereum | $2,730.73 | -0.71% |
-| Solana | $117.23 | -0.33% |
+| Bitcoin | $84,368 | -2.45% |
+| Ethereum | $2,671.02 | -3.17% |
+| Solana | $114.37 | -3.38% |
 
 **🔭 NASA:** [A New Lunar Crater: McGetchin](https://apod.nasa.gov/apod/image/2609/mcgetchin_after.jpg)
 
-**🚗 Car news:** [BMW Boss Questions Some Chinese Car Prices In Europe: 'Make No Business Sense'](https://www.motor1.com/news/809201/bmw-boss-questions-chinese-car-prices-europe/)
+**🚗 Car news:** [Bentley Says No To Front Passenger Screens: 'Technology Has To Add Value'](https://www.motor1.com/news/809010/bentley-passenger-screens-explained/)
 
 **📜 On this day, 38:** Drusilla, Caligula's sister who died in June, with whom the emperor is said to have an incestuous relationship, is deified. — [30s](https://en.wikipedia.org/wiki/30s)
 
