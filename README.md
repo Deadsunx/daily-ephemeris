@@ -35,23 +35,23 @@ python daily_update.py
 Only the Python standard library is used — nothing to install.
 
 <!-- LATEST:START -->
-### 📅 Latest snapshot — 2026-09-22
+### 📅 Latest snapshot — 2026-09-23
 
-> *"Every man's work, whether it be literature or music or pictures or architecture or anything else, is always a portrait of himself."* — **Samuel Butler**
+> *"When we strive to become better than we are, everything around us becomes better, too."* — **Paulo Coelho**
 
 **Crypto (USD)**
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $86,492 | +0.08% |
-| Ethereum | $2,761.78 | -0.19% |
-| Solana | $118.58 | +0.46% |
+| Bitcoin | $85,771 | -0.5% |
+| Ethereum | $2,730.73 | -0.71% |
+| Solana | $117.23 | -0.33% |
 
-**🔭 NASA:** [Chance Triple Alignment: Plane, Space Station, Sun](https://apod.nasa.gov/apod/image/2609/PlaneIssSpots_Horalek_960.jpg)
+**🔭 NASA:** [A New Lunar Crater: McGetchin](https://apod.nasa.gov/apod/image/2609/mcgetchin_after.jpg)
 
-**🚗 Car news:** [The 2027 Lexus LX Gets New Colors, Red Brakes, and More Standard Tech](https://www.motor1.com/news/809135/2027-lexus-lx-price-updates/)
+**🚗 Car news:** [BMW Boss Questions Some Chinese Car Prices In Europe: 'Make No Business Sense'](https://www.motor1.com/news/809201/bmw-boss-questions-chinese-car-prices-europe/)
 
-**📜 On this day, 904:** The warlord Zhu Quanzhong kills Emperor Zhaozong, the penultimate emperor of the Tang dynasty, after seizing control of the imperial government. — [Zhu Wen](https://en.wikipedia.org/wiki/Zhu_Wen)
+**📜 On this day, 38:** Drusilla, Caligula's sister who died in June, with whom the emperor is said to have an incestuous relationship, is deified. — [30s](https://en.wikipedia.org/wiki/30s)
 
 **🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 11 repos · 9 followers
 
