@@ -1,11 +1,11 @@
 {
   "date": "2026-09-24",
-  "fetched_at": "2026-09-24T08:54:18.688961+00:00",
+  "fetched_at": "2026-09-24T19:47:28.694024+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 83419,
-      "usd_24h_change": -2.75,
-      "usd_market_cap": 1675773708886.3374,
+      "usd": 84418,
+      "usd_24h_change": -0.06,
+      "usd_market_cap": 1695851636976.1758,
       "spark": [
         78511.23,
         79018.03,
@@ -37,13 +37,13 @@
         86596.74,
         86183.29,
         84382.4,
-        83435.2
+        84442.59
       ]
     },
     "ethereum": {
-      "usd": 2661.07,
-      "usd_24h_change": -2.58,
-      "usd_market_cap": 324853630172.42694,
+      "usd": 2694.19,
+      "usd_24h_change": 0.65,
+      "usd_market_cap": 328924731989.18835,
       "spark": [
         2442.01,
         2506.34,
@@ -75,13 +75,13 @@
         2775.17,
         2752.63,
         2684.34,
-        2662.13
+        2695.64
       ]
     },
     "solana": {
-      "usd": 113.68,
-      "usd_24h_change": -3.0,
-      "usd_market_cap": 66797418084.70429,
+      "usd": 117.33,
+      "usd_24h_change": 2.41,
+      "usd_market_cap": 68940463664.80356,
       "spark": [
         96.58,
         102.05,
@@ -113,7 +113,7 @@
         118.87,
         118.51,
         114.99,
-        113.73
+        117.4
       ]
     }
   },
@@ -129,8 +129,8 @@
     "thumbnail_url": null
   },
   "car_news": {
-    "headline": "Ford Patent Reveals A Front Tailgate Trunk With A Fold Down TV",
-    "url": "https://www.motor1.com/news/809383/ford-fathom-patent-details-front/",
+    "headline": "GM\u2019s New Mongoose 8.3-Liter Duramax Diesel Makes 555 HP, 1,230 LB-FT",
+    "url": "https://www.motor1.com/news/809471/gms-new-mongoose-duramax-diesel/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {
