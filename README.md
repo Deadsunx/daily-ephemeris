@@ -43,13 +43,13 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $84,611 | +1.33% |
-| Ethereum | $2,694.01 | +1.23% |
-| Solana | $117.52 | +3.39% |
+| Bitcoin | $84,029 | -0.48% |
+| Ethereum | $2,694.72 | -0.08% |
+| Solana | $121.91 | +3.85% |
 
 **🔭 NASA:** [Globular Cluster Omega Centauri](https://apod.nasa.gov/apod/image/2609/NGC5139CadenasParra1024.jpg)
 
-**🚗 Car news:** [Bugatti Is Selling A 60-Story Miami Tower, Butler Service?](https://www.motor1.com/news/809553/bugatti-residences-miami-luxury-tower/)
+**🚗 Car news:** [Listen To The 960-HP Jensen Interceptor Unleash Its Supercharged V8](https://www.motor1.com/news/809644/jensen-interceptor-gtx-engine-sound/)
 
 **📜 On this day, 275:** For the last time, the Roman Senate chooses an emperor; they elect 75-year-old Marcus Claudius Tacitus. — [Tacitus (emperor)](https://en.wikipedia.org/wiki/Tacitus_(emperor))
 

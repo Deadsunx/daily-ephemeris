@@ -1,11 +1,11 @@
 {
   "date": "2026-09-25",
-  "fetched_at": "2026-09-25T09:14:55.168975+00:00",
+  "fetched_at": "2026-09-25T19:49:06.583245+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 84611,
-      "usd_24h_change": 1.33,
-      "usd_market_cap": 1699765533755.6897,
+      "usd": 84029,
+      "usd_24h_change": -0.48,
+      "usd_market_cap": 1687254462147.0527,
       "spark": [
         79018.03,
         80268.37,
@@ -37,13 +37,13 @@
         86183.29,
         84382.4,
         84377.97,
-        84610.22
+        84032.82
       ]
     },
     "ethereum": {
-      "usd": 2694.01,
-      "usd_24h_change": 1.23,
-      "usd_market_cap": 328948050363.37885,
+      "usd": 2694.72,
+      "usd_24h_change": -0.08,
+      "usd_market_cap": 328729405684.6802,
       "spark": [
         2506.34,
         2511.46,
@@ -75,13 +75,13 @@
         2752.63,
         2684.34,
         2687.13,
-        2693.87
+        2694.97
       ]
     },
     "solana": {
-      "usd": 117.52,
-      "usd_24h_change": 3.39,
-      "usd_market_cap": 69080382677.96176,
+      "usd": 121.91,
+      "usd_24h_change": 3.85,
+      "usd_market_cap": 71518144037.02466,
       "spark": [
         102.05,
         109.18,
@@ -113,7 +113,7 @@
         118.51,
         114.99,
         117.01,
-        117.52
+        121.93
       ]
     }
   },
@@ -129,8 +129,8 @@
     "thumbnail_url": null
   },
   "car_news": {
-    "headline": "Bugatti Is Selling A 60-Story Miami Tower, Butler Service?",
-    "url": "https://www.motor1.com/news/809553/bugatti-residences-miami-luxury-tower/",
+    "headline": "Listen To The 960-HP Jensen Interceptor Unleash Its Supercharged V8",
+    "url": "https://www.motor1.com/news/809644/jensen-interceptor-gtx-engine-sound/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {
