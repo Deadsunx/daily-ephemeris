@@ -1019,5 +1019,21 @@
       "year": 787,
       "title": "AD 787"
     }
+  },
+  {
+    "date": "2026-09-25",
+    "quote": {
+      "text": "Give so much away people insist on paying you.",
+      "author": "Jack Butcher"
+    },
+    "nasa": {
+      "title": "Globular Cluster Omega Centauri",
+      "media_type": "image"
+    },
+    "car": "Bugatti Is Selling A 60-Story Miami Tower, Butler Service?",
+    "onthisday": {
+      "year": 275,
+      "title": "Tacitus (emperor)"
+    }
   }
 ]
