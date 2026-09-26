@@ -1035,5 +1035,21 @@
       "year": 275,
       "title": "Tacitus (emperor)"
     }
+  },
+  {
+    "date": "2026-09-26",
+    "quote": {
+      "text": "If you get up one more time than you fall, you will make it through.",
+      "author": "Chinese Proverb"
+    },
+    "nasa": {
+      "title": "Mirrored Meteor and Milky Way",
+      "media_type": "image"
+    },
+    "car": "Listen To The 960-HP Jensen Interceptor Unleash Its Supercharged V8",
+    "onthisday": {
+      "year": -46,
+      "title": "Julius Caesar"
+    }
   }
 ]
