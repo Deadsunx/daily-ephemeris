@@ -43,9 +43,9 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $84,729 | +0.87% |
-| Ethereum | $2,712.07 | +1.16% |
-| Solana | $124.18 | +3.52% |
+| Bitcoin | $84,671 | +0.78% |
+| Ethereum | $2,691.57 | +0.31% |
+| Solana | $122.95 | +1.5% |
 
 **🔭 NASA:** [Andromeda before Photoshop](https://apod.nasa.gov/apod/image/2609/M31Before_Scherer_960.jpg)
 
