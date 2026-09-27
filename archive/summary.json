@@ -1051,5 +1051,21 @@
       "year": -46,
       "title": "Julius Caesar"
     }
+  },
+  {
+    "date": "2026-09-27",
+    "quote": {
+      "text": "Don't let your learning lead to knowledge. Let your learning lead to action.",
+      "author": "Jim Rohn"
+    },
+    "nasa": {
+      "title": "Andromeda before Photoshop",
+      "media_type": "image"
+    },
+    "car": "Listen To The 960-HP Jensen Interceptor Unleash Its Supercharged V8",
+    "onthisday": {
+      "year": 1066,
+      "title": "William the Conqueror"
+    }
   }
 ]

@@ -35,23 +35,23 @@ python daily_update.py
 Only the Python standard library is used — nothing to install.
 
 <!-- LATEST:START -->
-### 📅 Latest snapshot — 2026-09-26
+### 📅 Latest snapshot — 2026-09-27
 
-> *"If you get up one more time than you fall, you will make it through."* — **Chinese Proverb**
+> *"Don't let your learning lead to knowledge. Let your learning lead to action."* — **Jim Rohn**
 
 **Crypto (USD)**
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $83,985 | +0.04% |
-| Ethereum | $2,684.63 | -0.3% |
-| Solana | $121.02 | -0.74% |
+| Bitcoin | $84,729 | +0.87% |
+| Ethereum | $2,712.07 | +1.16% |
+| Solana | $124.18 | +3.52% |
 
-**🔭 NASA:** [Mirrored Meteor and Milky Way](https://apod.nasa.gov/apod/image/2609/MilkyWayMeteorLSTJeffDai1024.jpg)
+**🔭 NASA:** [Andromeda before Photoshop](https://apod.nasa.gov/apod/image/2609/M31Before_Scherer_960.jpg)
 
 **🚗 Car news:** [Listen To The 960-HP Jensen Interceptor Unleash Its Supercharged V8](https://www.motor1.com/news/809644/jensen-interceptor-gtx-engine-sound/)
 
-**📜 On this day, -46:** Julius Caesar dedicates a temple to Venus Genetrix, fulfilling a vow he made at the Battle of Pharsalus. — [Julius Caesar](https://en.wikipedia.org/wiki/Julius_Caesar)
+**📜 On this day, 1066:** William the Conqueror and his army set sail from the mouth of the Somme river, beginning the Norman conquest of England. — [William the Conqueror](https://en.wikipedia.org/wiki/William_the_Conqueror)
 
 **🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 11 repos · 9 followers
 
