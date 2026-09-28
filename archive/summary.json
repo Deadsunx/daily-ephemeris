@@ -1067,5 +1067,21 @@
       "year": 1066,
       "title": "William the Conqueror"
     }
+  },
+  {
+    "date": "2026-09-28",
+    "quote": {
+      "text": "One mistake does not have to rule a person's entire life.",
+      "author": "Joyce Meyer"
+    },
+    "nasa": {
+      "title": "Cosmic Latte: The Average Color of the Universe",
+      "media_type": "image"
+    },
+    "car": "The Volkswagen ID.4 Is Getting A Facelift And A New Name: ID. Tiguan",
+    "onthisday": {
+      "year": -48,
+      "title": "Pompey"
+    }
   }
 ]
