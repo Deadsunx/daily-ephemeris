@@ -1,11 +1,11 @@
 {
   "date": "2026-09-28",
-  "fetched_at": "2026-09-28T10:21:53.632379+00:00",
+  "fetched_at": "2026-09-28T21:35:21.379745+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 82726,
-      "usd_24h_change": -2.63,
-      "usd_market_cap": 1662013355122.2065,
+      "usd": 83412,
+      "usd_24h_change": -1.39,
+      "usd_market_cap": 1675666868458.7158,
       "spark": [
         78225.14,
         77658.23,
@@ -37,13 +37,13 @@
         84075.72,
         84416.71,
         84448.75,
-        82726.41
+        83406.01
       ]
     },
     "ethereum": {
-      "usd": 2646.8,
-      "usd_24h_change": -2.46,
-      "usd_market_cap": 323307370193.88245,
+      "usd": 2678.21,
+      "usd_24h_change": -0.31,
+      "usd_market_cap": 327050063483.89624,
       "spark": [
         2457.09,
         2416.24,
@@ -75,13 +75,13 @@
         2690.89,
         2695.6,
         2687.54,
-        2646.8
+        2678.82
       ]
     },
     "solana": {
-      "usd": 117.97,
-      "usd_24h_change": -5.05,
-      "usd_market_cap": 69392781565.40428,
+      "usd": 118.24,
+      "usd_24h_change": -3.74,
+      "usd_market_cap": 69498724273.56248,
       "spark": [
         105.59,
         101.68,
@@ -113,7 +113,7 @@
         122.08,
         121.38,
         121.96,
-        117.94
+        118.24
       ]
     }
   },
@@ -129,8 +129,8 @@
     "thumbnail_url": null
   },
   "car_news": {
-    "headline": "The Volkswagen ID.4 Is Getting A Facelift And A New Name: ID. Tiguan",
-    "url": "https://www.motor1.com/news/809752/2027-vw-id-tiguan-name/",
+    "headline": "Rezvani Made A Ferrari 'Manual' Kit For $25,000. There's No Clutch",
+    "url": "https://www.motor1.com/news/801058/ferrari-manual-quick-shift-rezvani/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {

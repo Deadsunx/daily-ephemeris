@@ -43,13 +43,13 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $82,726 | -2.63% |
-| Ethereum | $2,646.8 | -2.46% |
-| Solana | $117.97 | -5.05% |
+| Bitcoin | $83,412 | -1.39% |
+| Ethereum | $2,678.21 | -0.31% |
+| Solana | $118.24 | -3.74% |
 
 **🔭 NASA:** [Cosmic Latte: The Average Color of the Universe](https://apod.nasa.gov/apod/image/2609/CosmicLatte_jhu_960_annotated.jpg)
 
-**🚗 Car news:** [The Volkswagen ID.4 Is Getting A Facelift And A New Name: ID. Tiguan](https://www.motor1.com/news/809752/2027-vw-id-tiguan-name/)
+**🚗 Car news:** [Rezvani Made A Ferrari 'Manual' Kit For $25,000. There's No Clutch](https://www.motor1.com/news/801058/ferrari-manual-quick-shift-rezvani/)
 
 **📜 On this day, -48:** Pompey disembarks at Pelusium upon arriving in Egypt, whereupon he is assassinated by order of King Ptolemy XIII. — [Pompey](https://en.wikipedia.org/wiki/Pompey)
 
