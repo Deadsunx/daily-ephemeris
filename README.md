@@ -41,7 +41,7 @@ Only the Python standard library is used — nothing to install.
 
 **🔭 NASA:** [Sh2-188: The Shrimp Nebula](https://apod.nasa.gov/apod/image/2609/Shrimp_Pawel_960.jpg)
 
-**🚗 Car news:** [Mazda Sees An Opportunity In Launching Even More Chinese-Built Cars](https://www.motor1.com/news/809999/mazda-more-chinese-evs-considered/)
+**🚗 Car news:** [BMW Tuner AC Schnitzer Gets A Second Chance After Nearly Shutting Down](https://www.motor1.com/news/810080/bmw-tuner-ac-schnitzer-new-owner/)
 
 **📜 On this day, -61:** Pompey the Great celebrates his third triumph for victories over the pirates and the end of the Mithridatic Wars on his 45th birthday. — [Pompey](https://en.wikipedia.org/wiki/Pompey)
 

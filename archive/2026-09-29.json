@@ -1,6 +1,6 @@
 {
   "date": "2026-09-29",
-  "fetched_at": "2026-09-29T10:17:26.281048+00:00",
+  "fetched_at": "2026-09-29T20:26:24.828788+00:00",
   "crypto": {
     "error": "HTTP Error 403: Forbidden"
   },
@@ -16,8 +16,8 @@
     "thumbnail_url": null
   },
   "car_news": {
-    "headline": "Mazda Sees An Opportunity In Launching Even More Chinese-Built Cars",
-    "url": "https://www.motor1.com/news/809999/mazda-more-chinese-evs-considered/",
+    "headline": "BMW Tuner AC Schnitzer Gets A Second Chance After Nearly Shutting Down",
+    "url": "https://www.motor1.com/news/810080/bmw-tuner-ac-schnitzer-new-owner/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {
