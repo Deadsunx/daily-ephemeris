@@ -35,23 +35,15 @@ python daily_update.py
 Only the Python standard library is used — nothing to install.
 
 <!-- LATEST:START -->
-### 📅 Latest snapshot — 2026-09-28
+### 📅 Latest snapshot — 2026-09-29
 
-> *"One mistake does not have to rule a person's entire life."* — **Joyce Meyer**
+> *"Silence is a source of great strength."* — **Lao Tzu**
 
-**Crypto (USD)**
+**🔭 NASA:** [Sh2-188: The Shrimp Nebula](https://apod.nasa.gov/apod/image/2609/Shrimp_Pawel_960.jpg)
 
-| Coin | Price | 24h |
-| --- | --- | --- |
-| Bitcoin | $83,412 | -1.39% |
-| Ethereum | $2,678.21 | -0.31% |
-| Solana | $118.24 | -3.74% |
+**🚗 Car news:** [Mazda Sees An Opportunity In Launching Even More Chinese-Built Cars](https://www.motor1.com/news/809999/mazda-more-chinese-evs-considered/)
 
-**🔭 NASA:** [Cosmic Latte: The Average Color of the Universe](https://apod.nasa.gov/apod/image/2609/CosmicLatte_jhu_960_annotated.jpg)
-
-**🚗 Car news:** [Rezvani Made A Ferrari 'Manual' Kit For $25,000. There's No Clutch](https://www.motor1.com/news/801058/ferrari-manual-quick-shift-rezvani/)
-
-**📜 On this day, -48:** Pompey disembarks at Pelusium upon arriving in Egypt, whereupon he is assassinated by order of King Ptolemy XIII. — [Pompey](https://en.wikipedia.org/wiki/Pompey)
+**📜 On this day, -61:** Pompey the Great celebrates his third triumph for victories over the pirates and the end of the Mithridatic Wars on his 45th birthday. — [Pompey](https://en.wikipedia.org/wiki/Pompey)
 
 **🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 11 repos · 9 followers
 

@@ -1083,5 +1083,21 @@
       "year": -48,
       "title": "Pompey"
     }
+  },
+  {
+    "date": "2026-09-29",
+    "quote": {
+      "text": "Silence is a source of great strength.",
+      "author": "Lao Tzu"
+    },
+    "nasa": {
+      "title": "Sh2-188: The Shrimp Nebula",
+      "media_type": "image"
+    },
+    "car": "Mazda Sees An Opportunity In Launching Even More Chinese-Built Cars",
+    "onthisday": {
+      "year": -61,
+      "title": "Pompey"
+    }
   }
 ]
