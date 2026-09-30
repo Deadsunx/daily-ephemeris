@@ -1099,5 +1099,18 @@
       "year": -61,
       "title": "Pompey"
     }
+  },
+  {
+    "date": "2026-09-30",
+    "quote": {
+      "text": "If you've made a mistake, it's better just to laugh at it.",
+      "author": "Zen Proverb"
+    },
+    "nasa": null,
+    "car": "New Range Rover Sport Electric Is The Torquiest One Ever",
+    "onthisday": {
+      "year": 489,
+      "title": "Ostrogoths"
+    }
   }
 ]
