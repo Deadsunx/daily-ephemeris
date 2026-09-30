@@ -43,14 +43,14 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $83,707 | -0.62% |
-| Ethereum | $2,689.16 | -1.09% |
-| Solana | $119.31 | -0.47% |
+| Bitcoin | $83,702 | +0.13% |
+| Ethereum | $2,679.15 | -0.44% |
+| Solana | $118.05 | -0.82% |
 
-**🚗 Car news:** [New Range Rover Sport Electric Is The Torquiest One Ever](https://www.motor1.com/news/810207/2027-range-rover-sport-electric-revealed/)
+**🚗 Car news:** [BMW Is Trimming Its Lineup To Make Way For A Bigger SUV](https://www.motor1.com/news/810355/bmw-cutting-models-building-bigger-suv/)
 
 **📜 On this day, 489:** The Ostrogoths under Theoderic the Great defeat the forces of Odoacer for the second time. — [Ostrogoths](https://en.wikipedia.org/wiki/Ostrogoths)
 
-**🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 11 repos · 9 followers
+**🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 11 repos · 10 followers
 
 <!-- LATEST:END -->

@@ -1,11 +1,11 @@
 {
   "date": "2026-09-30",
-  "fetched_at": "2026-09-30T10:09:47.460892+00:00",
+  "fetched_at": "2026-09-30T20:32:07.636030+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 83707,
-      "usd_24h_change": -0.62,
-      "usd_market_cap": 1681882237056.4294,
+      "usd": 83702,
+      "usd_24h_change": 0.13,
+      "usd_market_cap": 1681657726092.903,
       "spark": [
         78552.78,
         77416.44,
@@ -37,13 +37,13 @@
         84448.75,
         83479.25,
         83640.1,
-        83707.33
+        83681.0
       ]
     },
     "ethereum": {
-      "usd": 2689.16,
-      "usd_24h_change": -1.09,
-      "usd_market_cap": 328339440944.0303,
+      "usd": 2679.15,
+      "usd_24h_change": -0.44,
+      "usd_market_cap": 327104823484.94055,
       "spark": [
         2466.57,
         2417.68,
@@ -75,13 +75,13 @@
         2687.54,
         2687.92,
         2677.38,
-        2689.16
+        2678.81
       ]
     },
     "solana": {
-      "usd": 119.31,
-      "usd_24h_change": -0.47,
-      "usd_market_cap": 70163817756.23257,
+      "usd": 118.05,
+      "usd_24h_change": -0.82,
+      "usd_market_cap": 69413593142.52893,
       "spark": [
         103.01,
         99.97,
@@ -113,7 +113,7 @@
         121.96,
         118.82,
         119.09,
-        119.31
+        117.98
       ]
     }
   },
@@ -122,11 +122,11 @@
     "author": "Zen Proverb"
   },
   "nasa": {
-    "error": "The read operation timed out"
+    "error": "HTTP Error 500: Internal Server Error"
   },
   "car_news": {
-    "headline": "New Range Rover Sport Electric Is The Torquiest One Ever",
-    "url": "https://www.motor1.com/news/810207/2027-range-rover-sport-electric-revealed/",
+    "headline": "BMW Is Trimming Its Lineup To Make Way For A Bigger SUV",
+    "url": "https://www.motor1.com/news/810355/bmw-cutting-models-building-bigger-suv/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {
@@ -139,7 +139,7 @@
     "login": "Deadsunx",
     "name": "Oumar Tirera",
     "public_repos": 11,
-    "followers": 9,
+    "followers": 10,
     "following": 12,
     "created_at": "2022-05-12T17:33:47Z",
     "html_url": "https://github.com/Deadsunx",
