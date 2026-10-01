@@ -1,11 +1,11 @@
 {
   "date": "2026-10-01",
-  "fetched_at": "2026-10-01T10:37:24.672388+00:00",
+  "fetched_at": "2026-10-01T20:47:36.459885+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 83726,
-      "usd_24h_change": -0.13,
-      "usd_market_cap": 1682290931507.7703,
+      "usd": 84551,
+      "usd_24h_change": 1.08,
+      "usd_market_cap": 1699468765887.286,
       "spark": [
         77416.44,
         77297.13,
@@ -37,13 +37,13 @@
         83479.25,
         83640.1,
         83576.13,
-        83730.51
+        84547.06
       ]
     },
     "ethereum": {
-      "usd": 2690.83,
-      "usd_24h_change": -0.17,
-      "usd_market_cap": 328537367858.2066,
+      "usd": 2695.73,
+      "usd_24h_change": 0.6,
+      "usd_market_cap": 329136930117.0068,
       "spark": [
         2417.68,
         2390.78,
@@ -75,13 +75,13 @@
         2687.92,
         2677.38,
         2684.71,
-        2691.21
+        2695.73
       ]
     },
     "solana": {
-      "usd": 117.61,
-      "usd_24h_change": -1.82,
-      "usd_market_cap": 69165185790.6281,
+      "usd": 117.92,
+      "usd_24h_change": -0.13,
+      "usd_market_cap": 69344154557.24948,
       "spark": [
         99.97,
         100.39,
@@ -113,7 +113,7 @@
         118.82,
         119.09,
         118.04,
-        117.64
+        117.92
       ]
     }
   },
@@ -122,15 +122,11 @@
     "author": "Lolly Daskal"
   },
   "nasa": {
-    "title": "NASA Science",
-    "explanation": "Have you ever seen the full moon rise? This colorful image was photographed last weekend in Sicily, just outside the town of Nicosia, in Italy. It is a composite photograph that shows the Moon rising as the sky turns darker. Lower clouds are reflecting the colors of antitwilight, while ash and gas from Mount Etna are seen higher in the background. The pink band lower in the sky is called the Belt of Venus. During a full moon, the Moon and the Sun are in opposition in the sky: the moon rises as the sun sets. The lunar phase cycle lasts approximately 29.5 days (but the Moon takes approximately 27 days to orbit the Earth). In some cultures of the Northern Hemisphere, the September full moon is called the Harvest Moon. Does your culture have a special name for it? (A full moon by any other name would shine as bright.)APOD's email for image submissions has changed. Please see: APOD SubmissionsAPOD's main NASA site has moved : From apod.nasa.gov to science.nasa.gov/apodTomorrow's picture: sharpless\t\t\t\t\t\t",
-    "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
-    "media_type": "image",
-    "thumbnail_url": null
+    "error": "HTTP Error 500: Internal Server Error"
   },
   "car_news": {
-    "headline": "Want A Tesla Model Y? You'll Have To Wait",
-    "url": "https://www.motor1.com/news/810433/tesla-model-y-wait-times/",
+    "headline": "Watch Hyundai Debut The New Tucson In The US: Livestream",
+    "url": "https://www.motor1.com/news/810508/2027-hyundai-tucson-livestream-debut/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {

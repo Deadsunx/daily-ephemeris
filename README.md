@@ -43,13 +43,11 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $83,726 | -0.13% |
-| Ethereum | $2,690.83 | -0.17% |
-| Solana | $117.61 | -1.82% |
+| Bitcoin | $84,551 | +1.08% |
+| Ethereum | $2,695.73 | +0.6% |
+| Solana | $117.92 | -0.13% |
 
-**🔭 NASA:** [NASA Science](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)
-
-**🚗 Car news:** [Want A Tesla Model Y? You'll Have To Wait](https://www.motor1.com/news/810433/tesla-model-y-wait-times/)
+**🚗 Car news:** [Watch Hyundai Debut The New Tucson In The US: Livestream](https://www.motor1.com/news/810508/2027-hyundai-tucson-livestream-debut/)
 
 **📜 On this day, -331:** Alexander the Great defeats Darius III of Persia in the Battle of Gaugamela. — [Alexander the Great](https://en.wikipedia.org/wiki/Alexander_the_Great)
 
