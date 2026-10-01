@@ -1112,5 +1112,21 @@
       "year": 489,
       "title": "Ostrogoths"
     }
+  },
+  {
+    "date": "2026-10-01",
+    "quote": {
+      "text": "When you stop questioning, you stop learning.",
+      "author": "Lolly Daskal"
+    },
+    "nasa": {
+      "title": "NASA Science",
+      "media_type": "image"
+    },
+    "car": "Want A Tesla Model Y? You'll Have To Wait",
+    "onthisday": {
+      "year": -331,
+      "title": "Alexander the Great"
+    }
   }
 ]
