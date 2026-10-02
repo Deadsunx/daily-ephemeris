@@ -1,11 +1,11 @@
 {
   "date": "2026-10-02",
-  "fetched_at": "2026-10-02T10:12:40.111787+00:00",
+  "fetched_at": "2026-10-02T20:21:10.594220+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 86356,
-      "usd_24h_change": 3.26,
-      "usd_market_cap": 1735147402509.311,
+      "usd": 84370,
+      "usd_24h_change": -0.48,
+      "usd_market_cap": 1694896558458.32,
       "spark": [
         77297.13,
         81264.7,
@@ -37,13 +37,13 @@
         83640.1,
         83576.13,
         84841.67,
-        86356.05
+        84369.8
       ]
     },
     "ethereum": {
-      "usd": 2746.55,
-      "usd_24h_change": 2.29,
-      "usd_market_cap": 335350492032.1721,
+      "usd": 2667.88,
+      "usd_24h_change": -1.3,
+      "usd_market_cap": 325660665358.5993,
       "spark": [
         2390.78,
         2507.65,
@@ -75,13 +75,13 @@
         2677.38,
         2684.71,
         2705.3,
-        2746.5
+        2667.16
       ]
     },
     "solana": {
-      "usd": 121.67,
-      "usd_24h_change": 3.62,
-      "usd_market_cap": 71553373643.44933,
+      "usd": 118.03,
+      "usd_24h_change": -0.28,
+      "usd_market_cap": 69383223069.04736,
       "spark": [
         100.39,
         103.96,
@@ -113,7 +113,7 @@
         119.09,
         118.04,
         118.38,
-        121.67
+        118.02
       ]
     }
   },
@@ -125,8 +125,8 @@
     "error": "HTTP Error 500: Internal Server Error"
   },
   "car_news": {
-    "headline": "Chattanooga Just Restarted Atlas Production. Volkswagen Is Betting Its US Future On One Plant",
-    "url": "https://www.motor1.com/news/810561/2027-volkswagen-atlas-production-chattanooga/",
+    "headline": "BMW Celebrates One Million M Cars By Teasing The Next M3",
+    "url": "https://www.motor1.com/news/810652/bmw-m-1-million-milestone/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {
