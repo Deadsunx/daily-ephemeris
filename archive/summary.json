@@ -1125,5 +1125,18 @@
       "year": -331,
       "title": "Alexander the Great"
     }
+  },
+  {
+    "date": "2026-10-02",
+    "quote": {
+      "text": "I learned that courage was not the absence of fear, but the triumph over it. The brave man is not he who does not feel afraid, but he who conquers that fear.",
+      "author": "Nelson Mandela"
+    },
+    "nasa": null,
+    "car": "Chattanooga Just Restarted Atlas Production. Volkswagen Is Betting Its US Future On One Plant",
+    "onthisday": {
+      "year": -48,
+      "title": "Julius Caesar"
+    }
   }
 ]

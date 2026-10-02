@@ -35,21 +35,21 @@ python daily_update.py
 Only the Python standard library is used — nothing to install.
 
 <!-- LATEST:START -->
-### 📅 Latest snapshot — 2026-10-01
+### 📅 Latest snapshot — 2026-10-02
 
-> *"When you stop questioning, you stop learning."* — **Lolly Daskal**
+> *"I learned that courage was not the absence of fear, but the triumph over it. The brave man is not he who does not feel afraid, but he who conquers that fear."* — **Nelson Mandela**
 
 **Crypto (USD)**
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $84,551 | +1.08% |
-| Ethereum | $2,695.73 | +0.6% |
-| Solana | $117.92 | -0.13% |
+| Bitcoin | $86,356 | +3.26% |
+| Ethereum | $2,746.55 | +2.29% |
+| Solana | $121.67 | +3.62% |
 
-**🚗 Car news:** [Watch Hyundai Debut The New Tucson In The US: Livestream](https://www.motor1.com/news/810508/2027-hyundai-tucson-livestream-debut/)
+**🚗 Car news:** [Chattanooga Just Restarted Atlas Production. Volkswagen Is Betting Its US Future On One Plant](https://www.motor1.com/news/810561/2027-volkswagen-atlas-production-chattanooga/)
 
-**📜 On this day, -331:** Alexander the Great defeats Darius III of Persia in the Battle of Gaugamela. — [Alexander the Great](https://en.wikipedia.org/wiki/Alexander_the_Great)
+**📜 On this day, -48:** Julius Caesar arrives in Ptolemaic Egypt in his pursuit of Pompey and learns of the latter's death. — [Julius Caesar](https://en.wikipedia.org/wiki/Julius_Caesar)
 
 **🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 11 repos · 10 followers
 
