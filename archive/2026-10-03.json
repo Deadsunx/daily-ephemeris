@@ -1,11 +1,11 @@
 {
   "date": "2026-10-03",
-  "fetched_at": "2026-10-03T09:34:17.607305+00:00",
+  "fetched_at": "2026-10-03T18:59:55.900505+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 84581,
-      "usd_24h_change": -2.03,
-      "usd_market_cap": 1699442094437.3093,
+      "usd": 84931,
+      "usd_24h_change": 0.79,
+      "usd_market_cap": 1706519012644.8113,
       "spark": [
         81264.7,
         79671.26,
@@ -37,13 +37,13 @@
         83576.13,
         84841.67,
         84506.47,
-        84581.44
+        84934.7
       ]
     },
     "ethereum": {
-      "usd": 2684.58,
-      "usd_24h_change": -2.21,
-      "usd_market_cap": 327788585774.58795,
+      "usd": 2683.89,
+      "usd_24h_change": 0.7,
+      "usd_market_cap": 327734489454.75073,
       "spark": [
         2507.65,
         2456.09,
@@ -75,13 +75,13 @@
         2684.71,
         2705.3,
         2667.95,
-        2684.59
+        2684.29
       ]
     },
     "solana": {
-      "usd": 119.2,
-      "usd_24h_change": -2.25,
-      "usd_market_cap": 70101355164.65591,
+      "usd": 119.88,
+      "usd_24h_change": 1.51,
+      "usd_market_cap": 70508328390.02013,
       "spark": [
         103.96,
         101.93,
@@ -113,7 +113,7 @@
         118.04,
         118.38,
         118.59,
-        119.2
+        119.92
       ]
     }
   },
@@ -125,8 +125,8 @@
     "error": "HTTP Error 500: Internal Server Error"
   },
   "car_news": {
-    "headline": "BMW Celebrates One Million M Cars By Teasing The Next M3",
-    "url": "https://www.motor1.com/news/810652/bmw-m-1-million-milestone/",
+    "headline": "Stellantis CEO Sees A 'Huge Opportunity' For Cheap Cars",
+    "url": "https://www.motor1.com/news/810664/stellantis-ceo-cheap-cars-opportunity/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {
