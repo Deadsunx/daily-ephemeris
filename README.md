@@ -35,21 +35,21 @@ python daily_update.py
 Only the Python standard library is used — nothing to install.
 
 <!-- LATEST:START -->
-### 📅 Latest snapshot — 2026-10-03
+### 📅 Latest snapshot — 2026-10-04
 
-> *"We are born from a quiet sleep, and we die to a calm awakening"* — **Zhuangzi**
+> *"Would you rather learn to deal with the truth now than be forced to do so later on?"* — **Celestine Chua**
 
 **Crypto (USD)**
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $84,931 | +0.79% |
-| Ethereum | $2,683.89 | +0.7% |
-| Solana | $119.88 | +1.51% |
+| Bitcoin | $85,307 | +0.88% |
+| Ethereum | $2,704.35 | +0.89% |
+| Solana | $121.44 | +1.74% |
 
 **🚗 Car news:** [Stellantis CEO Sees A 'Huge Opportunity' For Cheap Cars](https://www.motor1.com/news/810664/stellantis-ceo-cheap-cars-opportunity/)
 
-**📜 On this day, -2457:** Gaecheonjeol, Hwanung (환웅) purportedly descended from heaven. South Korea's National Foundation Day. — [National Foundation Day (Korea)](https://en.wikipedia.org/wiki/National_Foundation_Day_(Korea))
+**📜 On this day, 23:** Rebels sack the Chinese capital Chang'an during a peasant rebellion. — [20s](https://en.wikipedia.org/wiki/20s)
 
 **🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 11 repos · 11 followers
 
