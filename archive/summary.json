@@ -1158,7 +1158,10 @@
       "text": "Would you rather learn to deal with the truth now than be forced to do so later on?",
       "author": "Celestine Chua"
     },
-    "nasa": null,
+    "nasa": {
+      "title": "NASA Science",
+      "media_type": "image"
+    },
     "car": "Stellantis CEO Sees A 'Huge Opportunity' For Cheap Cars",
     "onthisday": {
       "year": 23,

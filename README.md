@@ -43,14 +43,16 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $85,307 | +0.88% |
-| Ethereum | $2,704.35 | +0.89% |
-| Solana | $121.44 | +1.74% |
+| Bitcoin | $85,361 | +0.59% |
+| Ethereum | $2,700.95 | +0.65% |
+| Solana | $121.55 | +1.51% |
+
+**🔭 NASA:** [NASA Science](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)
 
 **🚗 Car news:** [Stellantis CEO Sees A 'Huge Opportunity' For Cheap Cars](https://www.motor1.com/news/810664/stellantis-ceo-cheap-cars-opportunity/)
 
 **📜 On this day, 23:** Rebels sack the Chinese capital Chang'an during a peasant rebellion. — [20s](https://en.wikipedia.org/wiki/20s)
 
-**🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 11 repos · 11 followers
+**🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 11 repos · 10 followers
 
 <!-- LATEST:END -->

@@ -1,11 +1,11 @@
 {
   "date": "2026-10-04",
-  "fetched_at": "2026-10-04T10:20:20.101088+00:00",
+  "fetched_at": "2026-10-04T19:10:46.981925+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 85307,
-      "usd_24h_change": 0.88,
-      "usd_market_cap": 1713583708640.6724,
+      "usd": 85361,
+      "usd_24h_change": 0.59,
+      "usd_market_cap": 1715153665458.1238,
       "spark": [
         79671.26,
         79821.7,
@@ -37,13 +37,13 @@
         84841.67,
         84506.47,
         84742.79,
-        85307.42
+        85359.76
       ]
     },
     "ethereum": {
-      "usd": 2704.35,
-      "usd_24h_change": 0.89,
-      "usd_market_cap": 330212994289.7508,
+      "usd": 2700.95,
+      "usd_24h_change": 0.65,
+      "usd_market_cap": 329822026024.99066,
       "spark": [
         2456.09,
         2480.0,
@@ -75,13 +75,13 @@
         2705.3,
         2667.95,
         2686.89,
-        2704.35
+        2700.72
       ]
     },
     "solana": {
-      "usd": 121.44,
-      "usd_24h_change": 1.74,
-      "usd_market_cap": 71402040426.62662,
+      "usd": 121.55,
+      "usd_24h_change": 1.51,
+      "usd_market_cap": 71505493463.1053,
       "spark": [
         101.93,
         103.17,
@@ -113,7 +113,7 @@
         118.38,
         118.59,
         119.6,
-        121.39
+        121.56
       ]
     }
   },
@@ -122,7 +122,11 @@
     "author": "Celestine Chua"
   },
   "nasa": {
-    "error": "HTTP Error 500: Internal Server Error"
+    "title": "NASA Science",
+    "explanation": "Yes, but can your rainbow do this? After the remnants of Hurricane Florence passed over the Jersey Shore, New Jersey, USA in 2018, the Sun came out in one direction but something quite unusual appeared in the opposite direction: a hall of rainbows. Over the course of the next half hour, to the delight of the photographer and his daughter, vibrant supernumerary rainbows faded in and out, with at least five captured in this featured single shot. Supernumerary rainbows only form when falling water droplets are all nearly the same size and typically less than a millimeter across. Then, sunlight will not only reflect from inside the raindrops, but interfere, a wave phenomenon similar to ripples on a pond when a stone is thrown in. In fact, supernumerary rainbows can only be explained with waves, and their noted existence in the early 1800s was considered early evidence of light's wave nature.Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)Tomorrow's picture: open space\t\t\t\t\t\t",
+    "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
+    "media_type": "image",
+    "thumbnail_url": null
   },
   "car_news": {
     "headline": "Stellantis CEO Sees A 'Huge Opportunity' For Cheap Cars",
@@ -139,7 +143,7 @@
     "login": "Deadsunx",
     "name": "Oumar Tirera",
     "public_repos": 11,
-    "followers": 11,
+    "followers": 10,
     "following": 12,
     "created_at": "2022-05-12T17:33:47Z",
     "html_url": "https://github.com/Deadsunx",
