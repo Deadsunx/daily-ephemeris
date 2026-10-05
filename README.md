@@ -43,11 +43,11 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $86,063 | +0.96% |
-| Ethereum | $2,714.89 | +0.53% |
-| Solana | $120.6 | -0.53% |
+| Bitcoin | $85,953 | -0.72% |
+| Ethereum | $2,718.41 | -0.07% |
+| Solana | $121.48 | -0.45% |
 
-**🚗 Car news:** [Famous Designer’s Ruf 1970 Porsche 914/6 Sells For Six Figures](https://www.motor1.com/news/810774/luc-donckerwolke-ruf-porsche-914/)
+**🚗 Car news:** [Chevy's Clever Silverado Tailgate Will Be Harder To Get In 2027](https://www.motor1.com/news/810832/chevy-limiting-multiflex-tailgate-options-2027/)
 
 **📜 On this day, 610:** Heraclius arrives at Constantinople, kills Byzantine Emperor Phocas, and becomes emperor. — [Heraclius](https://en.wikipedia.org/wiki/Heraclius)
 

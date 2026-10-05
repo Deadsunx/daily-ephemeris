@@ -1,11 +1,11 @@
 {
   "date": "2026-10-05",
-  "fetched_at": "2026-10-05T11:03:23.975845+00:00",
+  "fetched_at": "2026-10-05T22:19:02.169449+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 86063,
-      "usd_24h_change": 0.96,
-      "usd_market_cap": 1729509117693.166,
+      "usd": 85953,
+      "usd_24h_change": -0.72,
+      "usd_market_cap": 1727100407897.6597,
       "spark": [
         79821.7,
         80329.35,
@@ -37,13 +37,13 @@
         84506.47,
         84742.79,
         86489.73,
-        86066.15
+        85951.43
       ]
     },
     "ethereum": {
-      "usd": 2714.89,
-      "usd_24h_change": 0.53,
-      "usd_market_cap": 331508230383.11365,
+      "usd": 2718.41,
+      "usd_24h_change": -0.07,
+      "usd_market_cap": 331939660687.819,
       "spark": [
         2480.0,
         2514.01,
@@ -75,13 +75,13 @@
         2667.95,
         2686.89,
         2725.91,
-        2714.77
+        2718.45
       ]
     },
     "solana": {
-      "usd": 120.6,
-      "usd_24h_change": -0.53,
-      "usd_market_cap": 70947786256.87946,
+      "usd": 121.48,
+      "usd_24h_change": -0.45,
+      "usd_market_cap": 71470442269.7551,
       "spark": [
         103.17,
         106.49,
@@ -113,7 +113,7 @@
         118.59,
         119.6,
         121.52,
-        120.61
+        121.48
       ]
     }
   },
@@ -125,8 +125,8 @@
     "error": "HTTP Error 500: Internal Server Error"
   },
   "car_news": {
-    "headline": "Famous Designer\u2019s Ruf 1970 Porsche 914/6 Sells For Six Figures",
-    "url": "https://www.motor1.com/news/810774/luc-donckerwolke-ruf-porsche-914/",
+    "headline": "Chevy's Clever Silverado Tailgate Will Be Harder To Get In 2027",
+    "url": "https://www.motor1.com/news/810832/chevy-limiting-multiflex-tailgate-options-2027/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {
