@@ -35,24 +35,22 @@ python daily_update.py
 Only the Python standard library is used — nothing to install.
 
 <!-- LATEST:START -->
-### 📅 Latest snapshot — 2026-10-04
+### 📅 Latest snapshot — 2026-10-05
 
-> *"Would you rather learn to deal with the truth now than be forced to do so later on?"* — **Celestine Chua**
+> *"Engage in those actions and thoughts that nurture the good qualities you want to have."* — **Paramahansa Yogananda**
 
 **Crypto (USD)**
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $85,361 | +0.59% |
-| Ethereum | $2,700.95 | +0.65% |
-| Solana | $121.55 | +1.51% |
+| Bitcoin | $86,063 | +0.96% |
+| Ethereum | $2,714.89 | +0.53% |
+| Solana | $120.6 | -0.53% |
 
-**🔭 NASA:** [NASA Science](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)
+**🚗 Car news:** [Famous Designer’s Ruf 1970 Porsche 914/6 Sells For Six Figures](https://www.motor1.com/news/810774/luc-donckerwolke-ruf-porsche-914/)
 
-**🚗 Car news:** [Stellantis CEO Sees A 'Huge Opportunity' For Cheap Cars](https://www.motor1.com/news/810664/stellantis-ceo-cheap-cars-opportunity/)
+**📜 On this day, 610:** Heraclius arrives at Constantinople, kills Byzantine Emperor Phocas, and becomes emperor. — [Heraclius](https://en.wikipedia.org/wiki/Heraclius)
 
-**📜 On this day, 23:** Rebels sack the Chinese capital Chang'an during a peasant rebellion. — [20s](https://en.wikipedia.org/wiki/20s)
-
-**🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 11 repos · 10 followers
+**🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 11 repos · 11 followers
 
 <!-- LATEST:END -->
