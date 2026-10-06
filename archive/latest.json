@@ -1,11 +1,11 @@
 {
   "date": "2026-10-06",
-  "fetched_at": "2026-10-06T10:56:57.431181+00:00",
+  "fetched_at": "2026-10-06T20:47:03.775662+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 86178,
-      "usd_24h_change": 0.04,
-      "usd_market_cap": 1731647996259.5334,
+      "usd": 85625,
+      "usd_24h_change": -0.2,
+      "usd_market_cap": 1720568178746.8203,
       "spark": [
         80329.35,
         79093.46,
@@ -37,13 +37,13 @@
         84742.79,
         86489.73,
         85770.87,
-        86180.26
+        85623.34
       ]
     },
     "ethereum": {
-      "usd": 2713.92,
-      "usd_24h_change": -0.14,
-      "usd_market_cap": 331427473906.5263,
+      "usd": 2696.97,
+      "usd_24h_change": -0.62,
+      "usd_market_cap": 329357791976.55756,
       "spark": [
         2514.01,
         2489.4,
@@ -75,13 +75,13 @@
         2686.89,
         2725.91,
         2710.42,
-        2714.16
+        2697.79
       ]
     },
     "solana": {
-      "usd": 120.34,
-      "usd_24h_change": -0.36,
-      "usd_market_cap": 70814249738.0831,
+      "usd": 120.98,
+      "usd_24h_change": 0.39,
+      "usd_market_cap": 71166327334.70236,
       "spark": [
         106.49,
         103.77,
@@ -113,7 +113,7 @@
         119.6,
         121.52,
         120.76,
-        120.34
+        121.01
       ]
     }
   },
@@ -122,11 +122,15 @@
     "author": "George Bernard Shaw"
   },
   "nasa": {
-    "error": "HTTP Error 500: Internal Server Error"
+    "title": "NASA Science",
+    "explanation": "Have you ever seen a complete auroral oval? You can't see one from the ground because it makes too large a circle around one of Earth's magnetic poles. But spacecraft high above the Earth can see them. The featured video from ESA and CAS's robotic SMILE spacecraft shows not only a full auroral oval, but using ultraviolet light, one that occurred during the day. The time-lapse covers about an hour in late July and shows visually how variable and turbulent auroras really are. The points of light on the sides are distant stars that appear to move only because SMILE's camera view shifts as the spacecraft orbits the Earth. A goal of SMILE is to better understand how the Sun's wind interacts with the Earth's magnetosphere -- and so better understand how to protect astronauts, spacecraft, and ground-based electrical grids from solar storms.Tomorrow's picture: a spokey image\t\t\t\t\t\t",
+    "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
+    "media_type": "image",
+    "thumbnail_url": null
   },
   "car_news": {
-    "headline": "Roush Offers 2027 Super Duty Package For $21,399, No Power Upgrade",
-    "url": "https://www.motor1.com/news/810911/2027-roush-super-duty-package/",
+    "headline": "Stolen Corvette C7 Grand Sport Recovered After Five Years Underwater",
+    "url": "https://www.motor1.com/news/810929/stolen-c7-corvette-grand-sport/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {
@@ -139,7 +143,7 @@
     "login": "Deadsunx",
     "name": "Oumar Tirera",
     "public_repos": 11,
-    "followers": 11,
+    "followers": 12,
     "following": 12,
     "created_at": "2022-05-12T17:33:47Z",
     "html_url": "https://github.com/Deadsunx",

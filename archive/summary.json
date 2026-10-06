@@ -1187,8 +1187,11 @@
       "text": "A gentleman is one who puts more into the world than he takes out.",
       "author": "George Bernard Shaw"
     },
-    "nasa": null,
-    "car": "Roush Offers 2027 Super Duty Package For $21,399, No Power Upgrade",
+    "nasa": {
+      "title": "NASA Science",
+      "media_type": "image"
+    },
+    "car": "Stolen Corvette C7 Grand Sport Recovered After Five Years Underwater",
     "onthisday": {
       "year": -105,
       "title": "Cimbrian War"
