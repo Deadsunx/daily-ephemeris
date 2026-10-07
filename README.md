@@ -43,11 +43,11 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $83,676 | -2.87% |
-| Ethereum | $2,577.51 | -5.1% |
-| Solana | $117.56 | -2.36% |
+| Bitcoin | $83,367 | -2.61% |
+| Ethereum | $2,573.08 | -4.63% |
+| Solana | $116.14 | -4.0% |
 
-**🚗 Car news:** [Inside The Restoration Of Lewis Hamilton’s 43-mile Ferrari F40](https://www.motor1.com/news/811033/lewis-hamilton-ferrari-f40-restoration/)
+**🚗 Car news:** [This Is Doug DeMuro's Ford GT, And You Can Buy It](https://www.motor1.com/news/811091/doug-demuro-ford-gt-auction/)
 
 **📜 On this day, -3761:** The epoch reference date (start) of the modern Hebrew calendar. — [Hebrew calendar](https://en.wikipedia.org/wiki/Hebrew_calendar)
 

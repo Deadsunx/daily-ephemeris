@@ -1,11 +1,11 @@
 {
   "date": "2026-10-07",
-  "fetched_at": "2026-10-07T10:44:56.675629+00:00",
+  "fetched_at": "2026-10-07T21:00:21.379277+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 83676,
-      "usd_24h_change": -2.87,
-      "usd_market_cap": 1681723247433.118,
+      "usd": 83367,
+      "usd_24h_change": -2.61,
+      "usd_market_cap": 1675248131804.5256,
       "spark": [
         79093.46,
         78450.75,
@@ -37,13 +37,13 @@
         86489.73,
         85770.87,
         85540.09,
-        83651.88
+        83394.78
       ]
     },
     "ethereum": {
-      "usd": 2577.51,
-      "usd_24h_change": -5.1,
-      "usd_market_cap": 314675020599.09424,
+      "usd": 2573.08,
+      "usd_24h_change": -4.63,
+      "usd_market_cap": 314206981840.2398,
       "spark": [
         2489.4,
         2485.07,
@@ -75,13 +75,13 @@
         2725.91,
         2710.42,
         2697.17,
-        2576.91
+        2573.29
       ]
     },
     "solana": {
-      "usd": 117.56,
-      "usd_24h_change": -2.36,
-      "usd_market_cap": 69245323415.85194,
+      "usd": 116.14,
+      "usd_24h_change": -4.0,
+      "usd_market_cap": 68419910725.979836,
       "spark": [
         103.77,
         103.36,
@@ -113,7 +113,7 @@
         121.52,
         120.76,
         120.68,
-        117.54
+        116.15
       ]
     }
   },
@@ -122,11 +122,11 @@
     "author": "Dan Millman"
   },
   "nasa": {
-    "error": "HTTP Error 500: Internal Server Error"
+    "error": "The read operation timed out"
   },
   "car_news": {
-    "headline": "Inside The Restoration Of Lewis Hamilton\u2019s 43-mile Ferrari F40",
-    "url": "https://www.motor1.com/news/811033/lewis-hamilton-ferrari-f40-restoration/",
+    "headline": "This Is Doug DeMuro's Ford GT, And You Can Buy It",
+    "url": "https://www.motor1.com/news/811091/doug-demuro-ford-gt-auction/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {
