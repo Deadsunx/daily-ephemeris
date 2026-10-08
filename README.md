@@ -35,21 +35,21 @@ python daily_update.py
 Only the Python standard library is used — nothing to install.
 
 <!-- LATEST:START -->
-### 📅 Latest snapshot — 2026-10-07
+### 📅 Latest snapshot — 2026-10-08
 
-> *"Be happy now, without reason - or you never will be at all."* — **Dan Millman**
+> *"Success is not how high you have climbed, but how you make a positive difference to the world."* — **Roy T. Bennett**
 
 **Crypto (USD)**
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $83,367 | -2.61% |
-| Ethereum | $2,573.08 | -4.63% |
-| Solana | $116.14 | -4.0% |
+| Bitcoin | $82,587 | -1.32% |
+| Ethereum | $2,546.69 | -1.18% |
+| Solana | $114.18 | -2.9% |
 
-**🚗 Car news:** [This Is Doug DeMuro's Ford GT, And You Can Buy It](https://www.motor1.com/news/811091/doug-demuro-ford-gt-auction/)
+**🚗 Car news:** [Honda Delays Redesigned CR-V To Spring 2027: Report](https://www.motor1.com/news/811170/honda-cr-v-redesign-delayed/)
 
-**📜 On this day, -3761:** The epoch reference date (start) of the modern Hebrew calendar. — [Hebrew calendar](https://en.wikipedia.org/wiki/Hebrew_calendar)
+**📜 On this day, 316:** Constantine I defeats Licinius, who loses his European territories. — [Constantine the Great](https://en.wikipedia.org/wiki/Constantine_the_Great)
 
 **🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 11 repos · 12 followers
 
