@@ -1,11 +1,11 @@
 {
   "date": "2026-10-08",
-  "fetched_at": "2026-10-08T11:04:19.964780+00:00",
+  "fetched_at": "2026-10-08T21:01:14.693487+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 82587,
-      "usd_24h_change": -1.32,
-      "usd_market_cap": 1660442761839.691,
+      "usd": 81758,
+      "usd_24h_change": -1.96,
+      "usd_market_cap": 1642318854179.2786,
       "spark": [
         78450.75,
         78283.06,
@@ -36,13 +36,13 @@
         86489.73,
         85770.87,
         85540.09,
-        82628.85
+        81757.91
       ]
     },
     "ethereum": {
-      "usd": 2546.69,
-      "usd_24h_change": -1.18,
-      "usd_market_cap": 311103336561.7525,
+      "usd": 2474.11,
+      "usd_24h_change": -3.86,
+      "usd_market_cap": 301634062502.85785,
       "spark": [
         2485.07,
         2467.53,
@@ -73,13 +73,13 @@
         2725.91,
         2710.42,
         2697.17,
-        2546.69
+        2474.11
       ]
     },
     "solana": {
-      "usd": 114.18,
-      "usd_24h_change": -2.9,
-      "usd_market_cap": 67302561567.37667,
+      "usd": 109.77,
+      "usd_24h_change": -5.49,
+      "usd_market_cap": 64617547343.859085,
       "spark": [
         103.36,
         101.57,
@@ -110,7 +110,7 @@
         121.52,
         120.76,
         120.68,
-        114.23
+        109.81
       ]
     }
   },
@@ -119,11 +119,15 @@
     "author": "Roy T. Bennett"
   },
   "nasa": {
-    "error": "HTTP Error 500: Internal Server Error"
+    "title": "NASA Science",
+    "explanation": "How was the Saturn system imaged so clearly? Astrophotographer Tom Williams captured such exquisite details due to one night of exceptional atmospheric conditions above the United Kingdom. This means more than a cloudless sky. Pockets of air at different temperatures and densities move around and bend light as it travels through Earth\u2019s atmosphere, distorting astronomy images. This is called \u201cseeing.\u201d Less atmospheric turbulence means clearer images. The astrophotographer reduced the impact of seeing with the lucky imaging technique: thousands of short-exposure images are taken very quickly with a high-speed camera and the clearest images are added up. Which object in this sm\u00f6rg\u00e5sbord interests you? Perhaps Titan or the icy stripes of Enceladus? Maybe the gaps and spokes in Saturn\u2019s rings? Saturn's opposition, when Earth passes in between the planet and the Sun, occurred on October 4th. Due to the planet's proximity and full illumination from the Sun, now is a great time of year to observe it!Tomorrow's picture: bumpy\t\t\t\t\t\t",
+    "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
+    "media_type": "image",
+    "thumbnail_url": null
   },
   "car_news": {
-    "headline": "Honda Delays Redesigned CR-V To Spring 2027: Report",
-    "url": "https://www.motor1.com/news/811170/honda-cr-v-redesign-delayed/",
+    "headline": "The Chevy Silverado HD Is Much Pricier For 2027",
+    "url": "https://www.motor1.com/news/811176/2027-silverado-hd-diesel-price/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {

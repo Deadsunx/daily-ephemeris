@@ -1216,8 +1216,11 @@
       "text": "Success is not how high you have climbed, but how you make a positive difference to the world.",
       "author": "Roy T. Bennett"
     },
-    "nasa": null,
-    "car": "Honda Delays Redesigned CR-V To Spring 2027: Report",
+    "nasa": {
+      "title": "NASA Science",
+      "media_type": "image"
+    },
+    "car": "The Chevy Silverado HD Is Much Pricier For 2027",
     "onthisday": {
       "year": 316,
       "title": "Constantine the Great"

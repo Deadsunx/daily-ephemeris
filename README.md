@@ -43,11 +43,13 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $82,587 | -1.32% |
-| Ethereum | $2,546.69 | -1.18% |
-| Solana | $114.18 | -2.9% |
+| Bitcoin | $81,758 | -1.96% |
+| Ethereum | $2,474.11 | -3.86% |
+| Solana | $109.77 | -5.49% |
 
-**🚗 Car news:** [Honda Delays Redesigned CR-V To Spring 2027: Report](https://www.motor1.com/news/811170/honda-cr-v-redesign-delayed/)
+**🔭 NASA:** [NASA Science](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)
+
+**🚗 Car news:** [The Chevy Silverado HD Is Much Pricier For 2027](https://www.motor1.com/news/811176/2027-silverado-hd-diesel-price/)
 
 **📜 On this day, 316:** Constantine I defeats Licinius, who loses his European territories. — [Constantine the Great](https://en.wikipedia.org/wiki/Constantine_the_Great)
 
