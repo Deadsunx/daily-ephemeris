@@ -1,11 +1,11 @@
 {
   "date": "2026-10-09",
-  "fetched_at": "2026-10-09T11:03:26.125419+00:00",
+  "fetched_at": "2026-10-09T20:32:41.903471+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 82471,
-      "usd_24h_change": -0.14,
-      "usd_market_cap": 1657770410673.027,
+      "usd": 82327,
+      "usd_24h_change": 0.79,
+      "usd_market_cap": 1654330825424.785,
       "spark": [
         78283.06,
         76554.99,
@@ -37,13 +37,13 @@
         85540.09,
         83282.05,
         81685.89,
-        82505.72
+        82326.61
       ]
     },
     "ethereum": {
-      "usd": 2490.18,
-      "usd_24h_change": -2.22,
-      "usd_market_cap": 304197561037.1026,
+      "usd": 2476.84,
+      "usd_24h_change": 0.39,
+      "usd_market_cap": 302442970155.5724,
       "spark": [
         2467.53,
         2437.51,
@@ -75,13 +75,13 @@
         2697.17,
         2573.23,
         2472.73,
-        2490.39
+        2476.84
       ]
     },
     "solana": {
-      "usd": 109.56,
-      "usd_24h_change": -4.04,
-      "usd_market_cap": 64483955838.97739,
+      "usd": 108.82,
+      "usd_24h_change": -0.41,
+      "usd_market_cap": 64062262878.5465,
       "spark": [
         101.57,
         98.63,
@@ -113,7 +113,7 @@
         120.68,
         116.23,
         109.51,
-        109.63
+        108.81
       ]
     }
   },
@@ -125,8 +125,8 @@
     "error": "HTTP Error 500: Internal Server Error"
   },
   "car_news": {
-    "headline": "Brabus Unveils Electric Motorcycle Limited To Just 10 Units",
-    "url": "https://www.motor1.com/news/811327/brabus-urban-e-fragment-edition/",
+    "headline": "Alfa Romeo's New Sports Car Teases A Four-Seat Layout: Video",
+    "url": "https://www.motor1.com/news/811404/alfa-romeo-sports-car-interior-teaser/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {

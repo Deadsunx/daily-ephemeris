@@ -43,11 +43,11 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $82,471 | -0.14% |
-| Ethereum | $2,490.18 | -2.22% |
-| Solana | $109.56 | -4.04% |
+| Bitcoin | $82,327 | +0.79% |
+| Ethereum | $2,476.84 | +0.39% |
+| Solana | $108.82 | -0.41% |
 
-**🚗 Car news:** [Brabus Unveils Electric Motorcycle Limited To Just 10 Units](https://www.motor1.com/news/811327/brabus-urban-e-fragment-edition/)
+**🚗 Car news:** [Alfa Romeo's New Sports Car Teases A Four-Seat Layout: Video](https://www.motor1.com/news/811404/alfa-romeo-sports-car-interior-teaser/)
 
 **📜 On this day, 768:** Carloman I and Charlemagne are crowned kings of the Franks. — [Carloman I](https://en.wikipedia.org/wiki/Carloman_I)
 
