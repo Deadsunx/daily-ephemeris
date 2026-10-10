@@ -43,9 +43,9 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $82,761 | +0.2% |
-| Ethereum | $2,492.8 | -0.18% |
-| Solana | $109.59 | -0.57% |
+| Bitcoin | $83,015 | +0.85% |
+| Ethereum | $2,515.43 | +1.57% |
+| Solana | $110.41 | +1.57% |
 
 **🚗 Car news:** [Alfa Romeo's New Sports Car Teases A Four-Seat Layout: Video](https://www.motor1.com/news/811404/alfa-romeo-sports-car-interior-teaser/)
 
