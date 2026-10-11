@@ -1,13 +1,12 @@
 {
-  "date": "2026-10-10",
-  "fetched_at": "2026-10-10T19:45:13.775227+00:00",
+  "date": "2026-10-11",
+  "fetched_at": "2026-10-11T10:28:40.444642+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 83015,
-      "usd_24h_change": 0.85,
-      "usd_market_cap": 1668282361179.958,
+      "usd": 82934,
+      "usd_24h_change": 0.24,
+      "usd_market_cap": 1666709815840.2786,
       "spark": [
-        76554.99,
         77203.53,
         77261.63,
         76819.04,
@@ -37,15 +36,15 @@
         83282.05,
         81685.89,
         82564.29,
-        83011.83
+        82917.9,
+        82933.17
       ]
     },
     "ethereum": {
-      "usd": 2515.43,
-      "usd_24h_change": 1.57,
-      "usd_market_cap": 307211145419.5019,
+      "usd": 2499.52,
+      "usd_24h_change": 0.3,
+      "usd_market_cap": 305276912821.8496,
       "spark": [
-        2437.51,
         2514.85,
         2525.27,
         2476.68,
@@ -75,15 +74,15 @@
         2573.23,
         2472.73,
         2485.7,
-        2515.1
+        2504.31,
+        2499.39
       ]
     },
     "solana": {
-      "usd": 110.41,
-      "usd_24h_change": 1.57,
-      "usd_market_cap": 65017409286.24868,
+      "usd": 109.48,
+      "usd_24h_change": 0.01,
+      "usd_market_cap": 64482874254.350876,
       "spark": [
-        98.63,
         102.39,
         101.75,
         99.33,
@@ -113,16 +112,21 @@
         116.23,
         109.51,
         109.07,
-        110.41
+        110.0,
+        109.44
       ]
     }
   },
   "quote": {
-    "text": "Ability is a poor man's wealth.",
-    "author": "John Wooden"
+    "text": "You only live once, but if you do it right, once is enough.",
+    "author": "Mae West"
   },
   "nasa": {
-    "error": "HTTP Error 500: Internal Server Error"
+    "title": "NASA Science",
+    "explanation": "Scientists are melting holes in the bottom of the world. In fact, almost 100 holes melted near the South Pole are now being used as an astronomical observatory. Astronomers with the IceCube Neutrino Observatory lowered a long string knotted with basketball-sized light detectors into each vertical lake. The water in each hole soon refreezes. The detectors attached to the strings are sensitive to blue light emitted in the surrounding clear ice. Such light results from fast-moving secondary particles liberated when high-energy neutrinos emitted by powerful processes out in the universe collide with ice molecules. IceCube has now detected many illuminating neutrinos. Pictured in 2010, one of the last of IceCube's detector strings is lowered into the freezing abyss, making IceCube the largest neutrino detector ever created. In recognition of unprecedented discoveries, it was announced earlier this week that a founding leader of the IceCube Collaboration will be awarded the Nobel Prize in Physics.Tomorrow's picture: Moons Planet\t\t\t\t\t\t",
+    "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
+    "media_type": "image",
+    "thumbnail_url": null
   },
   "car_news": {
     "headline": "Alfa Romeo's New Sports Car Teases A Four-Seat Layout: Video",
@@ -130,10 +134,10 @@
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {
-    "year": 19,
-    "text": "The Roman general Germanicus dies near Antioch. He was convinced that the mysterious illness that ended in his death was a result of poisoning by the Syrian governor Gnaeus Calpurnius Piso, whom he had ordered to leave the province.",
-    "title": "10s",
-    "url": "https://en.wikipedia.org/wiki/10s"
+    "year": 944,
+    "text": "Caliph al-Muttaqi is blinded and deposed by the Turkish general Tuzun.",
+    "title": "Al-Muttaqi",
+    "url": "https://en.wikipedia.org/wiki/Al-Muttaqi"
   },
   "github": {
     "login": "Deadsunx",
