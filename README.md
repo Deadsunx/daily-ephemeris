@@ -43,13 +43,11 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $82,934 | +0.24% |
-| Ethereum | $2,499.52 | +0.3% |
-| Solana | $109.48 | +0.01% |
+| Bitcoin | $83,614 | +0.74% |
+| Ethereum | $2,534.18 | +0.88% |
+| Solana | $111.3 | +0.87% |
 
-**🔭 NASA:** [NASA Science](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)
-
-**🚗 Car news:** [Alfa Romeo's New Sports Car Teases A Four-Seat Layout: Video](https://www.motor1.com/news/811404/alfa-romeo-sports-car-interior-teaser/)
+**🚗 Car news:** [Stellantis Brand DS Automobiles Shows Signs Of Life With A New Concept Car](https://www.motor1.com/news/811486/ds-f3ver-concept-reveal/)
 
 **📜 On this day, 944:** Caliph al-Muttaqi is blinded and deposed by the Turkish general Tuzun. — [Al-Muttaqi](https://en.wikipedia.org/wiki/Al-Muttaqi)
 

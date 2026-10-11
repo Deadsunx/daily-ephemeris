@@ -1,11 +1,11 @@
 {
   "date": "2026-10-11",
-  "fetched_at": "2026-10-11T10:28:40.444642+00:00",
+  "fetched_at": "2026-10-11T19:54:39.478586+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 82934,
-      "usd_24h_change": 0.24,
-      "usd_market_cap": 1666709815840.2786,
+      "usd": 83614,
+      "usd_24h_change": 0.74,
+      "usd_market_cap": 1680648788968.326,
       "spark": [
         77203.53,
         77261.63,
@@ -37,13 +37,13 @@
         81685.89,
         82564.29,
         82917.9,
-        82933.17
+        83608.2
       ]
     },
     "ethereum": {
-      "usd": 2499.52,
-      "usd_24h_change": 0.3,
-      "usd_market_cap": 305276912821.8496,
+      "usd": 2534.18,
+      "usd_24h_change": 0.88,
+      "usd_market_cap": 309547737821.7061,
       "spark": [
         2514.85,
         2525.27,
@@ -75,13 +75,13 @@
         2472.73,
         2485.7,
         2504.31,
-        2499.39
+        2533.98
       ]
     },
     "solana": {
-      "usd": 109.48,
-      "usd_24h_change": 0.01,
-      "usd_market_cap": 64482874254.350876,
+      "usd": 111.3,
+      "usd_24h_change": 0.87,
+      "usd_market_cap": 65596420113.63303,
       "spark": [
         102.39,
         101.75,
@@ -113,7 +113,7 @@
         109.51,
         109.07,
         110.0,
-        109.44
+        111.28
       ]
     }
   },
@@ -122,15 +122,11 @@
     "author": "Mae West"
   },
   "nasa": {
-    "title": "NASA Science",
-    "explanation": "Scientists are melting holes in the bottom of the world. In fact, almost 100 holes melted near the South Pole are now being used as an astronomical observatory. Astronomers with the IceCube Neutrino Observatory lowered a long string knotted with basketball-sized light detectors into each vertical lake. The water in each hole soon refreezes. The detectors attached to the strings are sensitive to blue light emitted in the surrounding clear ice. Such light results from fast-moving secondary particles liberated when high-energy neutrinos emitted by powerful processes out in the universe collide with ice molecules. IceCube has now detected many illuminating neutrinos. Pictured in 2010, one of the last of IceCube's detector strings is lowered into the freezing abyss, making IceCube the largest neutrino detector ever created. In recognition of unprecedented discoveries, it was announced earlier this week that a founding leader of the IceCube Collaboration will be awarded the Nobel Prize in Physics.Tomorrow's picture: Moons Planet\t\t\t\t\t\t",
-    "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
-    "media_type": "image",
-    "thumbnail_url": null
+    "error": "HTTP Error 500: Internal Server Error"
   },
   "car_news": {
-    "headline": "Alfa Romeo's New Sports Car Teases A Four-Seat Layout: Video",
-    "url": "https://www.motor1.com/news/811404/alfa-romeo-sports-car-interior-teaser/",
+    "headline": "Stellantis Brand DS Automobiles Shows Signs Of Life With A New Concept Car",
+    "url": "https://www.motor1.com/news/811486/ds-f3ver-concept-reveal/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {
