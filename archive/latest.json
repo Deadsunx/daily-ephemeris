@@ -1,11 +1,11 @@
 {
   "date": "2026-10-12",
-  "fetched_at": "2026-10-12T11:30:51.866630+00:00",
+  "fetched_at": "2026-10-12T22:43:12.391382+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 83349,
-      "usd_24h_change": 0.44,
-      "usd_market_cap": 1674571544789.599,
+      "usd": 82432,
+      "usd_24h_change": -1.38,
+      "usd_market_cap": 1656658956509.3374,
       "spark": [
         77261.63,
         76819.04,
@@ -37,13 +37,13 @@
         82564.29,
         82917.9,
         83690.87,
-        83365.89
+        82456.12
       ]
     },
     "ethereum": {
-      "usd": 2544.89,
-      "usd_24h_change": 1.83,
-      "usd_market_cap": 310802130701.9148,
+      "usd": 2481.69,
+      "usd_24h_change": -1.99,
+      "usd_market_cap": 303082818190.18854,
       "spark": [
         2525.27,
         2476.68,
@@ -75,13 +75,13 @@
         2485.7,
         2504.31,
         2534.63,
-        2546.32
+        2484.21
       ]
     },
     "solana": {
-      "usd": 111.22,
-      "usd_24h_change": 1.7,
-      "usd_market_cap": 65497226898.468796,
+      "usd": 106.68,
+      "usd_24h_change": -3.99,
+      "usd_market_cap": 62825624606.43645,
       "spark": [
         101.75,
         99.33,
@@ -113,7 +113,7 @@
         109.07,
         110.0,
         111.25,
-        111.22
+        106.77
       ]
     }
   },
@@ -125,13 +125,13 @@
     "error": "HTTP Error 500: Internal Server Error"
   },
   "car_news": {
-    "headline": "Avatr T09 Debuts With Six Seats And 1,000-HP Hybrid System",
-    "url": "https://www.motor1.com/news/811595/avatr-t09-hybrid-suv-debuts/",
+    "headline": "Volkswagen Sales Are Down, But There Are Bright Spots",
+    "url": "https://www.motor1.com/news/811673/volkswagen-sales-results-third-quarter-2026/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {
     "year": -539,
-    "text": "The army of Cyrus the Great of Persia conquer Babylon, ending the Babylonian empire. (Julian calendar)",
+    "text": "The army of Cyrus the Great of Persia conquer Babylon, ending the Neo-Babylonian Empire. (Julian calendar)",
     "title": "Cyrus the Great",
     "url": "https://en.wikipedia.org/wiki/Cyrus_the_Great"
   },
