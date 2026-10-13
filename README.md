@@ -43,11 +43,11 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $83,165 | -0.22% |
-| Ethereum | $2,489.15 | -2.38% |
-| Solana | $105.72 | -5.01% |
+| Bitcoin | $83,361 | +0.45% |
+| Ethereum | $2,510.08 | -0.29% |
+| Solana | $107.05 | -1.27% |
 
-**🚗 Car news:** [Porsche's Next Sports Car Will Have Batteries Where There Used To Be A Gas Engine](https://www.motor1.com/news/811750/porsche-electric-718-batteries-instead-engine/)
+**🚗 Car news:** [BMW M Boss: Hybrid Tech Makes Offering Manuals 'Really Difficult'](https://www.motor1.com/news/811763/bmw-m-manual-gearbox-48/)
 
 **📜 On this day, 54:** Roman emperor Claudius dies from poisoning under mysterious circumstances. He is succeeded by his adopted son Nero, rather than by Britannicus, his son with Messalina. — [50s](https://en.wikipedia.org/wiki/50s)
 

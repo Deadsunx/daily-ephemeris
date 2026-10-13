@@ -1,11 +1,11 @@
 {
   "date": "2026-10-13",
-  "fetched_at": "2026-10-13T11:19:19.545879+00:00",
+  "fetched_at": "2026-10-13T20:59:00.203295+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 83165,
-      "usd_24h_change": -0.22,
-      "usd_market_cap": 1670931881730.7168,
+      "usd": 83361,
+      "usd_24h_change": 0.45,
+      "usd_market_cap": 1675178503790.3896,
       "spark": [
         76819.04,
         78173.35,
@@ -37,13 +37,13 @@
         82917.9,
         83690.87,
         81794.85,
-        83109.79
+        83361.23
       ]
     },
     "ethereum": {
-      "usd": 2489.15,
-      "usd_24h_change": -2.38,
-      "usd_market_cap": 304161070386.91174,
+      "usd": 2510.08,
+      "usd_24h_change": -0.29,
+      "usd_market_cap": 306517758417.1011,
       "spark": [
         2476.68,
         2514.76,
@@ -75,13 +75,13 @@
         2504.31,
         2534.63,
         2445.89,
-        2487.6
+        2509.71
       ]
     },
     "solana": {
-      "usd": 105.72,
-      "usd_24h_change": -5.01,
-      "usd_market_cap": 62294698280.936584,
+      "usd": 107.05,
+      "usd_24h_change": -1.27,
+      "usd_market_cap": 63061462025.83751,
       "spark": [
         99.33,
         102.51,
@@ -113,7 +113,7 @@
         110.0,
         111.25,
         105.64,
-        105.68
+        107.03
       ]
     }
   },
@@ -125,8 +125,8 @@
     "error": "HTTP Error 500: Internal Server Error"
   },
   "car_news": {
-    "headline": "Porsche's Next Sports Car Will Have Batteries Where There Used To Be A Gas Engine",
-    "url": "https://www.motor1.com/news/811750/porsche-electric-718-batteries-instead-engine/",
+    "headline": "BMW M Boss: Hybrid Tech Makes Offering Manuals 'Really Difficult'",
+    "url": "https://www.motor1.com/news/811763/bmw-m-manual-gearbox-48/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {
