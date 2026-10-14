@@ -1,11 +1,11 @@
 {
   "date": "2026-10-14",
-  "fetched_at": "2026-10-14T09:10:53.591309+00:00",
+  "fetched_at": "2026-10-14T19:57:56.468295+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 83378,
-      "usd_24h_change": -0.1,
-      "usd_market_cap": 1675858201909.872,
+      "usd": 81718,
+      "usd_24h_change": -1.77,
+      "usd_market_cap": 1642937937346.826,
       "spark": [
         78173.35,
         75590.24,
@@ -37,13 +37,13 @@
         83690.87,
         81794.85,
         83115.1,
-        83389.12
+        81728.36
       ]
     },
     "ethereum": {
-      "usd": 2504.24,
-      "usd_24h_change": -0.35,
-      "usd_market_cap": 305843139648.18195,
+      "usd": 2428.35,
+      "usd_24h_change": -3.07,
+      "usd_market_cap": 296716966632.74695,
       "spark": [
         2514.76,
         2397.5,
@@ -75,13 +75,13 @@
         2534.63,
         2445.89,
         2496.59,
-        2504.71
+        2428.08
       ]
     },
     "solana": {
-      "usd": 106.96,
-      "usd_24h_change": -0.52,
-      "usd_market_cap": 63032649686.611946,
+      "usd": 104.13,
+      "usd_24h_change": -3.12,
+      "usd_market_cap": 61376157479.34069,
       "spark": [
         102.51,
         96.87,
@@ -113,7 +113,7 @@
         111.25,
         105.64,
         106.75,
-        106.99
+        104.15
       ]
     }
   },
@@ -125,8 +125,8 @@
     "error": "HTTP Error 500: Internal Server Error"
   },
   "car_news": {
-    "headline": "F1 Is Returning To Africa With A New Track",
-    "url": "https://www.motor1.com/news/811886/formula-1-rwanda-grand-prix/",
+    "headline": "The Nissan Altima Lives To See 2027. But It Costs More",
+    "url": "https://www.motor1.com/news/811971/2027-nissan-altima-price-engines-trims-specs/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {
