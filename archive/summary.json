@@ -1290,5 +1290,18 @@
       "year": 54,
       "title": "50s"
     }
+  },
+  {
+    "date": "2026-10-14",
+    "quote": {
+      "text": "Genius is one percent inspiration and ninety-nine percent perspiration.",
+      "author": "Thomas Edison"
+    },
+    "nasa": null,
+    "car": "F1 Is Returning To Africa With A New Track",
+    "onthisday": {
+      "year": 996,
+      "title": "Al-Hakim bi-Amr Allah"
+    }
   }
 ]

@@ -1,13 +1,12 @@
 {
-  "date": "2026-10-13",
-  "fetched_at": "2026-10-13T20:59:00.203295+00:00",
+  "date": "2026-10-14",
+  "fetched_at": "2026-10-14T09:10:53.591309+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 83361,
-      "usd_24h_change": 0.45,
-      "usd_market_cap": 1675178503790.3896,
+      "usd": 83378,
+      "usd_24h_change": -0.1,
+      "usd_market_cap": 1675858201909.872,
       "spark": [
-        76819.04,
         78173.35,
         75590.24,
         76146.81,
@@ -37,15 +36,15 @@
         82917.9,
         83690.87,
         81794.85,
-        83361.23
+        83115.1,
+        83389.12
       ]
     },
     "ethereum": {
-      "usd": 2510.08,
-      "usd_24h_change": -0.29,
-      "usd_market_cap": 306517758417.1011,
+      "usd": 2504.24,
+      "usd_24h_change": -0.35,
+      "usd_market_cap": 305843139648.18195,
       "spark": [
-        2476.68,
         2514.76,
         2397.5,
         2415.96,
@@ -75,15 +74,15 @@
         2504.31,
         2534.63,
         2445.89,
-        2509.71
+        2496.59,
+        2504.71
       ]
     },
     "solana": {
-      "usd": 107.05,
-      "usd_24h_change": -1.27,
-      "usd_market_cap": 63061462025.83751,
+      "usd": 106.96,
+      "usd_24h_change": -0.52,
+      "usd_market_cap": 63032649686.611946,
       "spark": [
-        99.33,
         102.51,
         96.87,
         98.54,
@@ -113,27 +112,28 @@
         110.0,
         111.25,
         105.64,
-        107.03
+        106.75,
+        106.99
       ]
     }
   },
   "quote": {
-    "text": "Life can be the scariest and most beautiful thing simultaneously.",
-    "author": "Maxime Lagace"
+    "text": "Genius is one percent inspiration and ninety-nine percent perspiration.",
+    "author": "Thomas Edison"
   },
   "nasa": {
     "error": "HTTP Error 500: Internal Server Error"
   },
   "car_news": {
-    "headline": "BMW M Boss: Hybrid Tech Makes Offering Manuals 'Really Difficult'",
-    "url": "https://www.motor1.com/news/811763/bmw-m-manual-gearbox-48/",
+    "headline": "F1 Is Returning To Africa With A New Track",
+    "url": "https://www.motor1.com/news/811886/formula-1-rwanda-grand-prix/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {
-    "year": 54,
-    "text": "Roman emperor Claudius dies from poisoning under mysterious circumstances. He is succeeded by his adopted son Nero, rather than by Britannicus, his son with Messalina.",
-    "title": "50s",
-    "url": "https://en.wikipedia.org/wiki/50s"
+    "year": 996,
+    "text": "Al-Hakim bi-Amr Allah becomes caliph. He is the first Fatimid ruler to have been born in Egypt and arguably the most controversial member of the dynasty.",
+    "title": "Al-Hakim bi-Amr Allah",
+    "url": "https://en.wikipedia.org/wiki/Al-Hakim_bi-Amr_Allah"
   },
   "github": {
     "login": "Deadsunx",
