@@ -1,13 +1,12 @@
 {
-  "date": "2026-10-14",
-  "fetched_at": "2026-10-14T19:57:56.468295+00:00",
+  "date": "2026-10-15",
+  "fetched_at": "2026-10-15T08:44:02.553196+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 81718,
-      "usd_24h_change": -1.77,
-      "usd_market_cap": 1642937937346.826,
+      "usd": 81174,
+      "usd_24h_change": -2.66,
+      "usd_market_cap": 1631841151764.068,
       "spark": [
-        78173.35,
         75590.24,
         76146.81,
         76371.36,
@@ -37,15 +36,15 @@
         83690.87,
         81794.85,
         83115.1,
-        81728.36
+        81603.65,
+        81157.95
       ]
     },
     "ethereum": {
-      "usd": 2428.35,
-      "usd_24h_change": -3.07,
-      "usd_market_cap": 296716966632.74695,
+      "usd": 2371.51,
+      "usd_24h_change": -5.31,
+      "usd_market_cap": 289724400897.9747,
       "spark": [
-        2514.76,
         2397.5,
         2415.96,
         2446.14,
@@ -75,15 +74,15 @@
         2534.63,
         2445.89,
         2496.59,
-        2428.08
+        2419.69,
+        2371.24
       ]
     },
     "solana": {
-      "usd": 104.13,
-      "usd_24h_change": -3.12,
-      "usd_market_cap": 61376157479.34069,
+      "usd": 102.99,
+      "usd_24h_change": -3.9,
+      "usd_market_cap": 60698030363.20023,
       "spark": [
-        102.51,
         96.87,
         98.54,
         101.57,
@@ -113,27 +112,32 @@
         111.25,
         105.64,
         106.75,
-        104.15
+        104.19,
+        103.0
       ]
     }
   },
   "quote": {
-    "text": "Genius is one percent inspiration and ninety-nine percent perspiration.",
-    "author": "Thomas Edison"
+    "text": "Everything eaten is killed. Every meal is a sacrifice.",
+    "author": "Adi Da Samraj"
   },
   "nasa": {
-    "error": "HTTP Error 500: Internal Server Error"
+    "title": "NASA Science",
+    "explanation": "The city lights outshine the stars in the City That Never Sleeps. Who would have thought that the Milky Way could be visible in this sky? This image was taken with a filter that blocks most visible light, capturing instead only light in the near-infrared region of the electromagnetic spectrum (with lower energy than visible light). The astrophotographer's clever setup blocks most of the light pollution from the city: old incandescent light bulbs and some neon lights are still bright in the near-infrared, but fluorescent and LED light bulbs are not. Of course, stars are also bright in the near-infrared! This image is a reminder that we all live under the same sky, and astronomy allows all of us to learn more about humanity's place in the Cosmos.",
+    "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
+    "media_type": "image",
+    "thumbnail_url": null
   },
   "car_news": {
-    "headline": "The Nissan Altima Lives To See 2027. But It Costs More",
-    "url": "https://www.motor1.com/news/811971/2027-nissan-altima-price-engines-trims-specs/",
+    "headline": "Renault Has About 1,000 Orders For Its $180,000 Electric Hot Hatch",
+    "url": "https://www.motor1.com/news/812030/renault-electric-hot-hatch-orders/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {
-    "year": 996,
-    "text": "Al-Hakim bi-Amr Allah becomes caliph. He is the first Fatimid ruler to have been born in Egypt and arguably the most controversial member of the dynasty.",
-    "title": "Al-Hakim bi-Amr Allah",
-    "url": "https://en.wikipedia.org/wiki/Al-Hakim_bi-Amr_Allah"
+    "year": 961,
+    "text": "Al-Hakam II becomes caliph of Cordoba upon the death of his father Abd al-Rahman III.",
+    "title": "Al-Hakam II",
+    "url": "https://en.wikipedia.org/wiki/Al-Hakam_II"
   },
   "github": {
     "login": "Deadsunx",
