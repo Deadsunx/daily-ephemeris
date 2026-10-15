@@ -1,11 +1,11 @@
 {
   "date": "2026-10-15",
-  "fetched_at": "2026-10-15T08:44:02.553196+00:00",
+  "fetched_at": "2026-10-15T19:41:28.157841+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 81174,
-      "usd_24h_change": -2.66,
-      "usd_market_cap": 1631841151764.068,
+      "usd": 82322,
+      "usd_24h_change": 0.81,
+      "usd_market_cap": 1654131646238.402,
       "spark": [
         75590.24,
         76146.81,
@@ -37,13 +37,13 @@
         81794.85,
         83115.1,
         81603.65,
-        81157.95
+        82325.16
       ]
     },
     "ethereum": {
-      "usd": 2371.51,
-      "usd_24h_change": -5.31,
-      "usd_market_cap": 289724400897.9747,
+      "usd": 2451.55,
+      "usd_24h_change": 1.06,
+      "usd_market_cap": 299303983698.82513,
       "spark": [
         2397.5,
         2415.96,
@@ -75,13 +75,13 @@
         2445.89,
         2496.59,
         2419.69,
-        2371.24
+        2451.93
       ]
     },
     "solana": {
-      "usd": 102.99,
-      "usd_24h_change": -3.9,
-      "usd_market_cap": 60698030363.20023,
+      "usd": 105.79,
+      "usd_24h_change": 1.6,
+      "usd_market_cap": 62314546263.33755,
       "spark": [
         96.87,
         98.54,
@@ -113,7 +113,7 @@
         105.64,
         106.75,
         104.19,
-        103.0
+        105.81
       ]
     }
   },
@@ -122,15 +122,11 @@
     "author": "Adi Da Samraj"
   },
   "nasa": {
-    "title": "NASA Science",
-    "explanation": "The city lights outshine the stars in the City That Never Sleeps. Who would have thought that the Milky Way could be visible in this sky? This image was taken with a filter that blocks most visible light, capturing instead only light in the near-infrared region of the electromagnetic spectrum (with lower energy than visible light). The astrophotographer's clever setup blocks most of the light pollution from the city: old incandescent light bulbs and some neon lights are still bright in the near-infrared, but fluorescent and LED light bulbs are not. Of course, stars are also bright in the near-infrared! This image is a reminder that we all live under the same sky, and astronomy allows all of us to learn more about humanity's place in the Cosmos.",
-    "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
-    "media_type": "image",
-    "thumbnail_url": null
+    "error": "HTTP Error 500: Internal Server Error"
   },
   "car_news": {
-    "headline": "Renault Has About 1,000 Orders For Its $180,000 Electric Hot Hatch",
-    "url": "https://www.motor1.com/news/812030/renault-electric-hot-hatch-orders/",
+    "headline": "The Tesla Roadster Debuts Tonight: Watch The Livestream",
+    "url": "https://www.motor1.com/news/811909/new-tesla-roadster-livestream/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {

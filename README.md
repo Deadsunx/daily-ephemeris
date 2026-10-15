@@ -43,13 +43,11 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $81,174 | -2.66% |
-| Ethereum | $2,371.51 | -5.31% |
-| Solana | $102.99 | -3.9% |
+| Bitcoin | $82,322 | +0.81% |
+| Ethereum | $2,451.55 | +1.06% |
+| Solana | $105.79 | +1.6% |
 
-**🔭 NASA:** [NASA Science](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)
-
-**🚗 Car news:** [Renault Has About 1,000 Orders For Its $180,000 Electric Hot Hatch](https://www.motor1.com/news/812030/renault-electric-hot-hatch-orders/)
+**🚗 Car news:** [The Tesla Roadster Debuts Tonight: Watch The Livestream](https://www.motor1.com/news/811909/new-tesla-roadster-livestream/)
 
 **📜 On this day, 961:** Al-Hakam II becomes caliph of Cordoba upon the death of his father Abd al-Rahman III. — [Al-Hakam II](https://en.wikipedia.org/wiki/Al-Hakam_II)
 
