@@ -43,11 +43,11 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $82,233 | +1.24% |
-| Ethereum | $2,457.76 | +3.55% |
-| Solana | $106.63 | +3.47% |
+| Bitcoin | $81,308 | -1.36% |
+| Ethereum | $2,411.1 | -1.69% |
+| Solana | $103.14 | -2.71% |
 
-**🚗 Car news:** [The New Tesla Roadster Looks Nothing Like The Concept](https://www.motor1.com/news/812197/new-tesla-roadster-design/)
+**🚗 Car news:** [The Best (And Worst) Cities For Owning An EV: Study](https://www.motor1.com/news/812282/best-worst-cities-for-evs-study/)
 
 **📜 On this day, 456:** Ricimer defeats Avitus at Piacenza and becomes master of the Western Roman Empire. — [Ricimer](https://en.wikipedia.org/wiki/Ricimer)
 

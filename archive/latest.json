@@ -1,11 +1,11 @@
 {
   "date": "2026-10-16",
-  "fetched_at": "2026-10-16T08:39:19.683793+00:00",
+  "fetched_at": "2026-10-16T19:17:58.137974+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 82233,
-      "usd_24h_change": 1.24,
-      "usd_market_cap": 1652946615091.047,
+      "usd": 81308,
+      "usd_24h_change": -1.36,
+      "usd_market_cap": 1634198158262.5154,
       "spark": [
         76146.81,
         76371.36,
@@ -37,13 +37,13 @@
         83115.1,
         81603.65,
         82155.54,
-        82228.63
+        81306.64
       ]
     },
     "ethereum": {
-      "usd": 2457.76,
-      "usd_24h_change": 3.55,
-      "usd_market_cap": 300257437862.56,
+      "usd": 2411.1,
+      "usd_24h_change": -1.69,
+      "usd_market_cap": 294490097825.34393,
       "spark": [
         2415.96,
         2446.14,
@@ -75,13 +75,13 @@
         2496.59,
         2419.69,
         2439.96,
-        2457.36
+        2411.45
       ]
     },
     "solana": {
-      "usd": 106.63,
-      "usd_24h_change": 3.47,
-      "usd_market_cap": 62840899423.343315,
+      "usd": 103.14,
+      "usd_24h_change": -2.71,
+      "usd_market_cap": 60781595111.011055,
       "spark": [
         98.54,
         101.57,
@@ -113,7 +113,7 @@
         106.75,
         104.19,
         105.34,
-        106.54
+        103.12
       ]
     }
   },
@@ -125,8 +125,8 @@
     "error": "HTTP Error 500: Internal Server Error"
   },
   "car_news": {
-    "headline": "The New Tesla Roadster Looks Nothing Like The Concept",
-    "url": "https://www.motor1.com/news/812197/new-tesla-roadster-design/",
+    "headline": "The Best (And Worst) Cities For Owning An EV: Study",
+    "url": "https://www.motor1.com/news/812282/best-worst-cities-for-evs-study/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {
