@@ -1,13 +1,12 @@
 {
-  "date": "2026-10-15",
-  "fetched_at": "2026-10-15T19:41:28.157841+00:00",
+  "date": "2026-10-16",
+  "fetched_at": "2026-10-16T08:39:19.683793+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 82322,
-      "usd_24h_change": 0.81,
-      "usd_market_cap": 1654131646238.402,
+      "usd": 82233,
+      "usd_24h_change": 1.24,
+      "usd_market_cap": 1652946615091.047,
       "spark": [
-        75590.24,
         76146.81,
         76371.36,
         80873.58,
@@ -37,15 +36,15 @@
         81794.85,
         83115.1,
         81603.65,
-        82325.16
+        82155.54,
+        82228.63
       ]
     },
     "ethereum": {
-      "usd": 2451.55,
-      "usd_24h_change": 1.06,
-      "usd_market_cap": 299303983698.82513,
+      "usd": 2457.76,
+      "usd_24h_change": 3.55,
+      "usd_market_cap": 300257437862.56,
       "spark": [
-        2397.5,
         2415.96,
         2446.14,
         2611.56,
@@ -75,15 +74,15 @@
         2445.89,
         2496.59,
         2419.69,
-        2451.93
+        2439.96,
+        2457.36
       ]
     },
     "solana": {
-      "usd": 105.79,
-      "usd_24h_change": 1.6,
-      "usd_market_cap": 62314546263.33755,
+      "usd": 106.63,
+      "usd_24h_change": 3.47,
+      "usd_market_cap": 62840899423.343315,
       "spark": [
-        96.87,
         98.54,
         101.57,
         112.7,
@@ -113,27 +112,28 @@
         105.64,
         106.75,
         104.19,
-        105.81
+        105.34,
+        106.54
       ]
     }
   },
   "quote": {
-    "text": "Everything eaten is killed. Every meal is a sacrifice.",
-    "author": "Adi Da Samraj"
+    "text": "As we first succeed, we will find ourselves in new situations, facing new problems.",
+    "author": "Ryan Holiday"
   },
   "nasa": {
     "error": "HTTP Error 500: Internal Server Error"
   },
   "car_news": {
-    "headline": "The Tesla Roadster Debuts Tonight: Watch The Livestream",
-    "url": "https://www.motor1.com/news/811909/new-tesla-roadster-livestream/",
+    "headline": "The New Tesla Roadster Looks Nothing Like The Concept",
+    "url": "https://www.motor1.com/news/812197/new-tesla-roadster-design/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {
-    "year": 961,
-    "text": "Al-Hakam II becomes caliph of Cordoba upon the death of his father Abd al-Rahman III.",
-    "title": "Al-Hakam II",
-    "url": "https://en.wikipedia.org/wiki/Al-Hakam_II"
+    "year": 456,
+    "text": "Ricimer defeats Avitus at Piacenza and becomes master of the Western Roman Empire.",
+    "title": "Ricimer",
+    "url": "https://en.wikipedia.org/wiki/Ricimer"
   },
   "github": {
     "login": "Deadsunx",
