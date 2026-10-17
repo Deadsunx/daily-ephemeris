@@ -1336,8 +1336,11 @@
       "text": "You've got to get up every morning with determination if you're going to go to bed with satisfaction.",
       "author": "George Lorimer"
     },
-    "nasa": null,
-    "car": "The Best (And Worst) Cities For Owning An EV: Study",
+    "nasa": {
+      "title": "NASA Science",
+      "media_type": "image"
+    },
+    "car": "Mercedes-AMG GT SUV Revealed: Up To 1,153 HP And Three Electric Motors",
     "onthisday": {
       "year": 690,
       "title": "Wu Zetian"

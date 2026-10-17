@@ -1,11 +1,11 @@
 {
   "date": "2026-10-17",
-  "fetched_at": "2026-10-17T08:10:27.396159+00:00",
+  "fetched_at": "2026-10-17T18:09:23.506583+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 81633,
-      "usd_24h_change": -0.74,
-      "usd_market_cap": 1640733372679.2288,
+      "usd": 81422,
+      "usd_24h_change": 0.27,
+      "usd_market_cap": 1636294608990.9556,
       "spark": [
         76371.36,
         80873.58,
@@ -37,13 +37,13 @@
         81603.65,
         82155.54,
         81523.66,
-        81621.56
+        81415.69
       ]
     },
     "ethereum": {
-      "usd": 2431.49,
-      "usd_24h_change": -0.99,
-      "usd_market_cap": 296982909602.0141,
+      "usd": 2413.72,
+      "usd_24h_change": 0.14,
+      "usd_market_cap": 294818100094.685,
       "spark": [
         2446.14,
         2611.56,
@@ -75,13 +75,13 @@
         2419.69,
         2439.96,
         2420.56,
-        2431.24
+        2413.52
       ]
     },
     "solana": {
-      "usd": 104.92,
-      "usd_24h_change": -1.33,
-      "usd_market_cap": 61840442878.776794,
+      "usd": 103.55,
+      "usd_24h_change": -0.07,
+      "usd_market_cap": 61030826019.09227,
       "spark": [
         101.57,
         112.7,
@@ -113,7 +113,7 @@
         104.19,
         105.34,
         104.32,
-        104.93
+        103.52
       ]
     }
   },
@@ -122,11 +122,15 @@
     "author": "George Lorimer"
   },
   "nasa": {
-    "error": "HTTP Error 500: Internal Server Error"
+    "title": "NASA Science",
+    "explanation": "Put on your red/blue glasses and float next to the jagged and double-lobed nucleus of Churyumov-Gerasimenko, also known as Comet 67P . The stereo anaglyph was created by combining two images from the Rosetta spacecraft's narrow angle OSIRIS camera taken on July 25, 2015 from a distance of 184 kilometers. Numerous jets are emanating from the small solar system world's active surface near its closest approach to the Sun. The larger lobe is around 4 kilometers in diameter, joined to a smaller, 2.5 kilometer diameter lobe by a narrow neck. Rosetta's mission to the comet ended in September 2016 when the spacecraft was commanded to a controlled impact with the comet's surface . Keep those 3D glasses on though. You can check out a catalog of nearly 1400 stereo anaglyphs created from Rosetta image data on this website.Tomorrow's picture: open space",
+    "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
+    "media_type": "image",
+    "thumbnail_url": null
   },
   "car_news": {
-    "headline": "The Best (And Worst) Cities For Owning An EV: Study",
-    "url": "https://www.motor1.com/news/812282/best-worst-cities-for-evs-study/",
+    "headline": "Mercedes-AMG GT SUV Revealed: Up To 1,153 HP And Three Electric Motors",
+    "url": "https://www.motor1.com/news/812304/2028-mercedes-amg-gt-suv-horsepower-range-charging-specs/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {

@@ -43,11 +43,13 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $81,633 | -0.74% |
-| Ethereum | $2,431.49 | -0.99% |
-| Solana | $104.92 | -1.33% |
+| Bitcoin | $81,422 | +0.27% |
+| Ethereum | $2,413.72 | +0.14% |
+| Solana | $103.55 | -0.07% |
 
-**🚗 Car news:** [The Best (And Worst) Cities For Owning An EV: Study](https://www.motor1.com/news/812282/best-worst-cities-for-evs-study/)
+**🔭 NASA:** [NASA Science](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)
+
+**🚗 Car news:** [Mercedes-AMG GT SUV Revealed: Up To 1,153 HP And Three Electric Motors](https://www.motor1.com/news/812304/2028-mercedes-amg-gt-suv-horsepower-range-charging-specs/)
 
 **📜 On this day, 690:** Empress Wu Zetian establishes the Zhou Dynasty of China. — [Wu Zetian](https://en.wikipedia.org/wiki/Wu_Zetian)
 
