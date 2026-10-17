@@ -1,13 +1,12 @@
 {
-  "date": "2026-10-16",
-  "fetched_at": "2026-10-16T19:17:58.137974+00:00",
+  "date": "2026-10-17",
+  "fetched_at": "2026-10-17T08:10:27.396159+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 81308,
-      "usd_24h_change": -1.36,
-      "usd_market_cap": 1634198158262.5154,
+      "usd": 81633,
+      "usd_24h_change": -0.74,
+      "usd_market_cap": 1640733372679.2288,
       "spark": [
-        76146.81,
         76371.36,
         80873.58,
         81236.41,
@@ -37,15 +36,15 @@
         83115.1,
         81603.65,
         82155.54,
-        81306.64
+        81523.66,
+        81621.56
       ]
     },
     "ethereum": {
-      "usd": 2411.1,
-      "usd_24h_change": -1.69,
-      "usd_market_cap": 294490097825.34393,
+      "usd": 2431.49,
+      "usd_24h_change": -0.99,
+      "usd_market_cap": 296982909602.0141,
       "spark": [
-        2415.96,
         2446.14,
         2611.56,
         2632.01,
@@ -75,15 +74,15 @@
         2496.59,
         2419.69,
         2439.96,
-        2411.45
+        2420.56,
+        2431.24
       ]
     },
     "solana": {
-      "usd": 103.14,
-      "usd_24h_change": -2.71,
-      "usd_market_cap": 60781595111.011055,
+      "usd": 104.92,
+      "usd_24h_change": -1.33,
+      "usd_market_cap": 61840442878.776794,
       "spark": [
-        98.54,
         101.57,
         112.7,
         111.02,
@@ -113,13 +112,14 @@
         106.75,
         104.19,
         105.34,
-        103.12
+        104.32,
+        104.93
       ]
     }
   },
   "quote": {
-    "text": "As we first succeed, we will find ourselves in new situations, facing new problems.",
-    "author": "Ryan Holiday"
+    "text": "You've got to get up every morning with determination if you're going to go to bed with satisfaction.",
+    "author": "George Lorimer"
   },
   "nasa": {
     "error": "HTTP Error 500: Internal Server Error"
@@ -130,10 +130,10 @@
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {
-    "year": 456,
-    "text": "Ricimer defeats Avitus at Piacenza and becomes master of the Western Roman Empire.",
-    "title": "Ricimer",
-    "url": "https://en.wikipedia.org/wiki/Ricimer"
+    "year": 690,
+    "text": "Empress Wu Zetian establishes the Zhou Dynasty of China.",
+    "title": "Wu Zetian",
+    "url": "https://en.wikipedia.org/wiki/Wu_Zetian"
   },
   "github": {
     "login": "Deadsunx",
