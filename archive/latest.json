@@ -1,11 +1,11 @@
 {
   "date": "2026-10-18",
-  "fetched_at": "2026-10-18T08:27:19.158920+00:00",
+  "fetched_at": "2026-10-18T18:27:01.064826+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 81626,
-      "usd_24h_change": 0.01,
-      "usd_market_cap": 1640591539464.8809,
+      "usd": 81053,
+      "usd_24h_change": -0.52,
+      "usd_market_cap": 1629100262344.0354,
       "spark": [
         80873.58,
         81236.41,
@@ -37,13 +37,13 @@
         82155.54,
         81523.66,
         81408.35,
-        81614.76
+        81055.07
       ]
     },
     "ethereum": {
-      "usd": 2408.96,
-      "usd_24h_change": -0.95,
-      "usd_market_cap": 294120809917.4398,
+      "usd": 2363.13,
+      "usd_24h_change": -2.22,
+      "usd_market_cap": 288556433124.47266,
       "spark": [
         2611.56,
         2632.01,
@@ -75,13 +75,13 @@
         2439.96,
         2420.56,
         2400.31,
-        2408.28
+        2362.72
       ]
     },
     "solana": {
-      "usd": 103.2,
-      "usd_24h_change": -1.59,
-      "usd_market_cap": 60829168421.02613,
+      "usd": 102.16,
+      "usd_24h_change": -1.52,
+      "usd_market_cap": 60206892872.54428,
       "spark": [
         112.7,
         111.02,
@@ -113,7 +113,7 @@
         105.34,
         104.32,
         103.36,
-        103.13
+        102.17
       ]
     }
   },
@@ -122,15 +122,11 @@
     "author": "Lolly Daskal"
   },
   "nasa": {
-    "title": "NASA Science",
-    "explanation": "Yes, but have you ever experienced the Eagle Nebula with your ears? The famous nebula M16 is best known for the feast it gives your eyes, highlighting bright young stars forming deep inside dark towering structures. These light-years long columns of cold gas and dust are some 6,500 light-years distant toward the constellation of the Serpent (Serpens). Sculpted and eroded by the energetic ultraviolet light and powerful winds from M16's cluster of massive stars, the cosmic pillars themselves are destined for destruction. But the turbulent environment of star formation within M16, whose spectacular details are captured in this combined Hubble (visible) and Chandra (X-ray) image, is likely similar to the environment that formed our own Sun. In the featured video, listen for stars and dust sounding off as the line of sonification moves left to right, with vertical position determining pitch.Tomorrow's picture: what could it be?\t\t\t\t\t\t",
-    "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
-    "media_type": "image",
-    "thumbnail_url": null
+    "error": "HTTP Error 500: Internal Server Error"
   },
   "car_news": {
-    "headline": "Mercedes-AMG GT SUV Revealed: Up To 1,153 HP And Three Electric Motors",
-    "url": "https://www.motor1.com/news/812304/2028-mercedes-amg-gt-suv-horsepower-range-charging-specs/",
+    "headline": "Dubai Police Adds A 907-HP Lamborghini To Its Fleet",
+    "url": "https://www.motor1.com/news/812299/lamborghini-temerario-dubai-police/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {

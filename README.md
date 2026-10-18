@@ -43,13 +43,11 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $81,626 | +0.01% |
-| Ethereum | $2,408.96 | -0.95% |
-| Solana | $103.2 | -1.59% |
+| Bitcoin | $81,053 | -0.52% |
+| Ethereum | $2,363.13 | -2.22% |
+| Solana | $102.16 | -1.52% |
 
-**🔭 NASA:** [NASA Science](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)
-
-**🚗 Car news:** [Mercedes-AMG GT SUV Revealed: Up To 1,153 HP And Three Electric Motors](https://www.motor1.com/news/812304/2028-mercedes-amg-gt-suv-horsepower-range-charging-specs/)
+**🚗 Car news:** [Dubai Police Adds A 907-HP Lamborghini To Its Fleet](https://www.motor1.com/news/812299/lamborghini-temerario-dubai-police/)
 
 **📜 On this day, 33:** Heartbroken by the deaths of her sons Nero and Drusus, and banished to the island of Pandateria by Tiberius, Agrippina the Elder dies of self-inflicted starvation. — [30s](https://en.wikipedia.org/wiki/30s)
 
