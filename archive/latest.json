@@ -1,13 +1,12 @@
 {
-  "date": "2026-10-17",
-  "fetched_at": "2026-10-17T18:09:23.506583+00:00",
+  "date": "2026-10-18",
+  "fetched_at": "2026-10-18T08:27:19.158920+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 81422,
-      "usd_24h_change": 0.27,
-      "usd_market_cap": 1636294608990.9556,
+      "usd": 81626,
+      "usd_24h_change": 0.01,
+      "usd_market_cap": 1640591539464.8809,
       "spark": [
-        76371.36,
         80873.58,
         81236.41,
         81169.04,
@@ -37,15 +36,15 @@
         81603.65,
         82155.54,
         81523.66,
-        81415.69
+        81408.35,
+        81614.76
       ]
     },
     "ethereum": {
-      "usd": 2413.72,
-      "usd_24h_change": 0.14,
-      "usd_market_cap": 294818100094.685,
+      "usd": 2408.96,
+      "usd_24h_change": -0.95,
+      "usd_market_cap": 294120809917.4398,
       "spark": [
-        2446.14,
         2611.56,
         2632.01,
         2644.73,
@@ -75,15 +74,15 @@
         2419.69,
         2439.96,
         2420.56,
-        2413.52
+        2400.31,
+        2408.28
       ]
     },
     "solana": {
-      "usd": 103.55,
-      "usd_24h_change": -0.07,
-      "usd_market_cap": 61030826019.09227,
+      "usd": 103.2,
+      "usd_24h_change": -1.59,
+      "usd_market_cap": 60829168421.02613,
       "spark": [
-        101.57,
         112.7,
         111.02,
         111.15,
@@ -113,17 +112,18 @@
         104.19,
         105.34,
         104.32,
-        103.52
+        103.36,
+        103.13
       ]
     }
   },
   "quote": {
-    "text": "You've got to get up every morning with determination if you're going to go to bed with satisfaction.",
-    "author": "George Lorimer"
+    "text": "The greater the impact you want to make, the greater your influence needs to be.",
+    "author": "Lolly Daskal"
   },
   "nasa": {
     "title": "NASA Science",
-    "explanation": "Put on your red/blue glasses and float next to the jagged and double-lobed nucleus of Churyumov-Gerasimenko, also known as Comet 67P . The stereo anaglyph was created by combining two images from the Rosetta spacecraft's narrow angle OSIRIS camera taken on July 25, 2015 from a distance of 184 kilometers. Numerous jets are emanating from the small solar system world's active surface near its closest approach to the Sun. The larger lobe is around 4 kilometers in diameter, joined to a smaller, 2.5 kilometer diameter lobe by a narrow neck. Rosetta's mission to the comet ended in September 2016 when the spacecraft was commanded to a controlled impact with the comet's surface . Keep those 3D glasses on though. You can check out a catalog of nearly 1400 stereo anaglyphs created from Rosetta image data on this website.Tomorrow's picture: open space",
+    "explanation": "Yes, but have you ever experienced the Eagle Nebula with your ears? The famous nebula M16 is best known for the feast it gives your eyes, highlighting bright young stars forming deep inside dark towering structures. These light-years long columns of cold gas and dust are some 6,500 light-years distant toward the constellation of the Serpent (Serpens). Sculpted and eroded by the energetic ultraviolet light and powerful winds from M16's cluster of massive stars, the cosmic pillars themselves are destined for destruction. But the turbulent environment of star formation within M16, whose spectacular details are captured in this combined Hubble (visible) and Chandra (X-ray) image, is likely similar to the environment that formed our own Sun. In the featured video, listen for stars and dust sounding off as the line of sonification moves left to right, with vertical position determining pitch.Tomorrow's picture: what could it be?\t\t\t\t\t\t",
     "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
     "media_type": "image",
     "thumbnail_url": null
@@ -134,10 +134,10 @@
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {
-    "year": 690,
-    "text": "Empress Wu Zetian establishes the Zhou Dynasty of China.",
-    "title": "Wu Zetian",
-    "url": "https://en.wikipedia.org/wiki/Wu_Zetian"
+    "year": 33,
+    "text": "Heartbroken by the deaths of her sons Nero and Drusus, and banished to the island of Pandateria by Tiberius, Agrippina the Elder dies of self-inflicted starvation.",
+    "title": "30s",
+    "url": "https://en.wikipedia.org/wiki/30s"
   },
   "github": {
     "login": "Deadsunx",
