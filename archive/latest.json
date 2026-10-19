@@ -1,13 +1,12 @@
 {
-  "date": "2026-10-18",
-  "fetched_at": "2026-10-18T18:27:01.064826+00:00",
+  "date": "2026-10-19",
+  "fetched_at": "2026-10-19T09:28:43.623969+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 81053,
-      "usd_24h_change": -0.52,
-      "usd_market_cap": 1629100262344.0354,
+      "usd": 82882,
+      "usd_24h_change": 1.23,
+      "usd_market_cap": 1665895608568.7473,
       "spark": [
-        80873.58,
         81236.41,
         81169.04,
         86596.74,
@@ -37,15 +36,15 @@
         82155.54,
         81523.66,
         81408.35,
-        81055.07
+        82019.58,
+        82901.52
       ]
     },
     "ethereum": {
-      "usd": 2363.13,
-      "usd_24h_change": -2.22,
-      "usd_market_cap": 288556433124.47266,
+      "usd": 2438.92,
+      "usd_24h_change": 0.97,
+      "usd_market_cap": 297975758784.3915,
       "spark": [
-        2611.56,
         2632.01,
         2644.73,
         2775.17,
@@ -75,15 +74,15 @@
         2439.96,
         2420.56,
         2400.31,
-        2362.72
+        2407.84,
+        2439.31
       ]
     },
     "solana": {
-      "usd": 102.16,
-      "usd_24h_change": -1.52,
-      "usd_market_cap": 60206892872.54428,
+      "usd": 105.79,
+      "usd_24h_change": 2.05,
+      "usd_market_cap": 62356238396.838554,
       "spark": [
-        112.7,
         111.02,
         111.15,
         118.87,
@@ -113,33 +112,34 @@
         105.34,
         104.32,
         103.36,
-        102.17
+        104.0,
+        105.82
       ]
     }
   },
   "quote": {
-    "text": "The greater the impact you want to make, the greater your influence needs to be.",
-    "author": "Lolly Daskal"
+    "text": "The secret of change is to focus all your energy not on fighting the old, but on building the new.",
+    "author": "Colin R. Davis"
   },
   "nasa": {
     "error": "HTTP Error 500: Internal Server Error"
   },
   "car_news": {
-    "headline": "Dubai Police Adds A 907-HP Lamborghini To Its Fleet",
-    "url": "https://www.motor1.com/news/812299/lamborghini-temerario-dubai-police/",
+    "headline": "Fiat's Tiny Topolino EV Is Already Earning Accolades",
+    "url": "https://www.motor1.com/news/812394/time-chose-fiat-topolino/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {
-    "year": 33,
-    "text": "Heartbroken by the deaths of her sons Nero and Drusus, and banished to the island of Pandateria by Tiberius, Agrippina the Elder dies of self-inflicted starvation.",
-    "title": "30s",
-    "url": "https://en.wikipedia.org/wiki/30s"
+    "year": -202,
+    "text": "Second Punic War: At the Battle of Zama, Roman legions under Scipio Africanus defeat Hannibal Barca, leader of the army defending Carthage.[citation needed]",
+    "title": "Second Punic War",
+    "url": "https://en.wikipedia.org/wiki/Second_Punic_War"
   },
   "github": {
     "login": "Deadsunx",
     "name": "Oumar Tirera",
     "public_repos": 11,
-    "followers": 12,
+    "followers": 11,
     "following": 12,
     "created_at": "2022-05-12T17:33:47Z",
     "html_url": "https://github.com/Deadsunx",

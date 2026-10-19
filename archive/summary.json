@@ -1358,5 +1358,18 @@
       "year": 33,
       "title": "30s"
     }
+  },
+  {
+    "date": "2026-10-19",
+    "quote": {
+      "text": "The secret of change is to focus all your energy not on fighting the old, but on building the new.",
+      "author": "Colin R. Davis"
+    },
+    "nasa": null,
+    "car": "Fiat's Tiny Topolino EV Is Already Earning Accolades",
+    "onthisday": {
+      "year": -202,
+      "title": "Second Punic War"
+    }
   }
 ]
