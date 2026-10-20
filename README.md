@@ -43,14 +43,14 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $81,426 | -1.54% |
-| Ethereum | $2,381.59 | -2.04% |
-| Solana | $103.98 | -1.39% |
+| Bitcoin | $82,536 | +0.78% |
+| Ethereum | $2,436.46 | +1.58% |
+| Solana | $105.89 | +1.56% |
 
-**🚗 Car news:** [Animals Are Involved In More Than 350,000 Crashes A Year In The US](https://www.motor1.com/news/812547/aaa-study-deadly-animal-related/)
+**🚗 Car news:** [Photos: Porsche's Mission S Concept Takes Over New York City](https://www.motor1.com/news/812649/porsche-mission-s-photos-new-york/)
 
 **📜 On this day, 1448:** The second battle of Kosovo ends when the larger army of the Ottoman Empire defeats those of the Kingdom of Hungary after the Wallachian troops desert. — [Battle of Kosovo (1448)](https://en.wikipedia.org/wiki/Battle_of_Kosovo_(1448))
 
-**🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 11 repos · 11 followers
+**🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 11 repos · 10 followers
 
 <!-- LATEST:END -->

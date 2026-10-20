@@ -1,11 +1,11 @@
 {
   "date": "2026-10-20",
-  "fetched_at": "2026-10-20T09:02:22.739678+00:00",
+  "fetched_at": "2026-10-20T19:49:11.735311+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 81426,
-      "usd_24h_change": -1.54,
-      "usd_market_cap": 1636776913952.67,
+      "usd": 82536,
+      "usd_24h_change": 0.78,
+      "usd_market_cap": 1658779480287.7388,
       "spark": [
         81169.04,
         86596.74,
@@ -37,13 +37,13 @@
         81408.35,
         82019.58,
         81875.26,
-        81442.87
+        82531.75
       ]
     },
     "ethereum": {
-      "usd": 2381.59,
-      "usd_24h_change": -2.04,
-      "usd_market_cap": 290932190032.77405,
+      "usd": 2436.46,
+      "usd_24h_change": 1.58,
+      "usd_market_cap": 297658983450.75287,
       "spark": [
         2644.73,
         2775.17,
@@ -75,13 +75,13 @@
         2400.31,
         2407.84,
         2405.92,
-        2384.44
+        2437.17
       ]
     },
     "solana": {
-      "usd": 103.98,
-      "usd_24h_change": -1.39,
-      "usd_market_cap": 61286958314.05481,
+      "usd": 105.89,
+      "usd_24h_change": 1.56,
+      "usd_market_cap": 62436965141.9336,
       "spark": [
         111.15,
         118.87,
@@ -113,7 +113,7 @@
         103.36,
         104.0,
         104.98,
-        103.97
+        106.0
       ]
     }
   },
@@ -125,8 +125,8 @@
     "error": "HTTP Error 500: Internal Server Error"
   },
   "car_news": {
-    "headline": "Animals Are Involved In More Than 350,000 Crashes A Year In The US",
-    "url": "https://www.motor1.com/news/812547/aaa-study-deadly-animal-related/",
+    "headline": "Photos: Porsche's Mission S Concept Takes Over New York City",
+    "url": "https://www.motor1.com/news/812649/porsche-mission-s-photos-new-york/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {
@@ -139,7 +139,7 @@
     "login": "Deadsunx",
     "name": "Oumar Tirera",
     "public_repos": 11,
-    "followers": 11,
+    "followers": 10,
     "following": 12,
     "created_at": "2022-05-12T17:33:47Z",
     "html_url": "https://github.com/Deadsunx",
