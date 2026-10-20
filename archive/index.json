@@ -957,5 +957,15 @@
       "car_news",
       "onthisday"
     ]
+  },
+  {
+    "date": "2026-10-20",
+    "captured": [
+      "crypto",
+      "quote",
+      "car_news",
+      "onthisday",
+      "github"
+    ]
   }
 ]

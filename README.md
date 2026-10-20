@@ -35,20 +35,22 @@ python daily_update.py
 Only the Python standard library is used — nothing to install.
 
 <!-- LATEST:START -->
-### 📅 Latest snapshot — 2026-10-19
+### 📅 Latest snapshot — 2026-10-20
 
-> *"The secret of change is to focus all your energy not on fighting the old, but on building the new."* — **Colin R. Davis**
+> *"Success is about doing the right thing, not about doing everything right."* — **Gary Keller**
 
 **Crypto (USD)**
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $81,922 | +1.38% |
-| Ethereum | $2,399.37 | +2.39% |
-| Solana | $104.44 | +3.47% |
+| Bitcoin | $81,426 | -1.54% |
+| Ethereum | $2,381.59 | -2.04% |
+| Solana | $103.98 | -1.39% |
 
-**🚗 Car news:** [Only 50 Of These 870-HP Mustangs Will Ever Be Built](https://www.motor1.com/news/812481/2026-mustang-rtr-spec-5-deliveries/)
+**🚗 Car news:** [Animals Are Involved In More Than 350,000 Crashes A Year In The US](https://www.motor1.com/news/812547/aaa-study-deadly-animal-related/)
 
-**📜 On this day, -202:** Second Punic War: At the Battle of Zama, Roman legions under Scipio Africanus defeat Hannibal Barca, leader of the army defending Carthage.[citation needed] — [Second Punic War](https://en.wikipedia.org/wiki/Second_Punic_War)
+**📜 On this day, 1448:** The second battle of Kosovo ends when the larger army of the Ottoman Empire defeats those of the Kingdom of Hungary after the Wallachian troops desert. — [Battle of Kosovo (1448)](https://en.wikipedia.org/wiki/Battle_of_Kosovo_(1448))
+
+**🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 11 repos · 11 followers
 
 <!-- LATEST:END -->

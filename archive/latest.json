@@ -1,13 +1,12 @@
 {
-  "date": "2026-10-19",
-  "fetched_at": "2026-10-19T20:52:25.300568+00:00",
+  "date": "2026-10-20",
+  "fetched_at": "2026-10-20T09:02:22.739678+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 81922,
-      "usd_24h_change": 1.38,
-      "usd_market_cap": 1646805338418.9702,
+      "usd": 81426,
+      "usd_24h_change": -1.54,
+      "usd_market_cap": 1636776913952.67,
       "spark": [
-        81236.41,
         81169.04,
         86596.74,
         86183.29,
@@ -37,15 +36,15 @@
         81523.66,
         81408.35,
         82019.58,
-        81905.75
+        81875.26,
+        81442.87
       ]
     },
     "ethereum": {
-      "usd": 2399.37,
-      "usd_24h_change": 2.39,
-      "usd_market_cap": 293156443916.6577,
+      "usd": 2381.59,
+      "usd_24h_change": -2.04,
+      "usd_market_cap": 290932190032.77405,
       "spark": [
-        2632.01,
         2644.73,
         2775.17,
         2752.63,
@@ -75,15 +74,15 @@
         2420.56,
         2400.31,
         2407.84,
-        2398.66
+        2405.92,
+        2384.44
       ]
     },
     "solana": {
-      "usd": 104.44,
-      "usd_24h_change": 3.47,
-      "usd_market_cap": 61580242879.429115,
+      "usd": 103.98,
+      "usd_24h_change": -1.39,
+      "usd_market_cap": 61286958314.05481,
       "spark": [
-        111.02,
         111.15,
         118.87,
         118.51,
@@ -113,29 +112,37 @@
         104.32,
         103.36,
         104.0,
-        104.44
+        104.98,
+        103.97
       ]
     }
   },
   "quote": {
-    "text": "The secret of change is to focus all your energy not on fighting the old, but on building the new.",
-    "author": "Colin R. Davis"
+    "text": "Success is about doing the right thing, not about doing everything right.",
+    "author": "Gary Keller"
   },
   "nasa": {
     "error": "HTTP Error 500: Internal Server Error"
   },
   "car_news": {
-    "headline": "Only 50 Of These 870-HP Mustangs Will Ever Be Built",
-    "url": "https://www.motor1.com/news/812481/2026-mustang-rtr-spec-5-deliveries/",
+    "headline": "Animals Are Involved In More Than 350,000 Crashes A Year In The US",
+    "url": "https://www.motor1.com/news/812547/aaa-study-deadly-animal-related/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {
-    "year": -202,
-    "text": "Second Punic War: At the Battle of Zama, Roman legions under Scipio Africanus defeat Hannibal Barca, leader of the army defending Carthage.[citation needed]",
-    "title": "Second Punic War",
-    "url": "https://en.wikipedia.org/wiki/Second_Punic_War"
+    "year": 1448,
+    "text": "The second battle of Kosovo ends when the larger army of the Ottoman Empire defeats those of the Kingdom of Hungary after the Wallachian troops desert.",
+    "title": "Battle of Kosovo (1448)",
+    "url": "https://en.wikipedia.org/wiki/Battle_of_Kosovo_(1448)"
   },
   "github": {
-    "error": "HTTP Error 403: rate limit exceeded"
+    "login": "Deadsunx",
+    "name": "Oumar Tirera",
+    "public_repos": 11,
+    "followers": 11,
+    "following": 12,
+    "created_at": "2022-05-12T17:33:47Z",
+    "html_url": "https://github.com/Deadsunx",
+    "avatar_url": "https://avatars.githubusercontent.com/u/105452066?v=4"
   }
 }
