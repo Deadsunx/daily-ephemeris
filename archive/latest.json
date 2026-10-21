@@ -1,13 +1,12 @@
 {
-  "date": "2026-10-20",
-  "fetched_at": "2026-10-20T19:49:11.735311+00:00",
+  "date": "2026-10-21",
+  "fetched_at": "2026-10-21T09:01:26.724261+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 82536,
-      "usd_24h_change": 0.78,
-      "usd_market_cap": 1658779480287.7388,
+      "usd": 83166,
+      "usd_24h_change": 2.1,
+      "usd_market_cap": 1673350404232.662,
       "spark": [
-        81169.04,
         86596.74,
         86183.29,
         84382.4,
@@ -37,15 +36,15 @@
         81408.35,
         82019.58,
         81875.26,
-        82531.75
+        82943.83,
+        83168.33
       ]
     },
     "ethereum": {
-      "usd": 2436.46,
-      "usd_24h_change": 1.58,
-      "usd_market_cap": 297658983450.75287,
+      "usd": 2451.28,
+      "usd_24h_change": 2.89,
+      "usd_market_cap": 299619063458.2673,
       "spark": [
-        2644.73,
         2775.17,
         2752.63,
         2684.34,
@@ -75,15 +74,15 @@
         2400.31,
         2407.84,
         2405.92,
-        2437.17
+        2446.49,
+        2451.36
       ]
     },
     "solana": {
-      "usd": 105.89,
-      "usd_24h_change": 1.56,
-      "usd_market_cap": 62436965141.9336,
+      "usd": 106.52,
+      "usd_24h_change": 2.42,
+      "usd_market_cap": 62855716097.06695,
       "spark": [
-        111.15,
         118.87,
         118.51,
         114.99,
@@ -113,27 +112,32 @@
         103.36,
         104.0,
         104.98,
-        106.0
+        106.39,
+        106.5
       ]
     }
   },
   "quote": {
-    "text": "Success is about doing the right thing, not about doing everything right.",
-    "author": "Gary Keller"
+    "text": "Each day your life grows a day shorter. Make every move count.",
+    "author": "Ming-Dao Deng"
   },
   "nasa": {
-    "error": "HTTP Error 500: Internal Server Error"
+    "title": "NASA Science",
+    "explanation": "Jinkies, look at all those ghosts! It took 100 hours of observation and a special oxygen filter for today\u2019s image to capture three faint nebulas hidden in the Cassiopeia constellation. IC 59 and IC 63, the original Ghosts of Cassiopeia, haunt the region near multi-star system \u03b3 Cassiopeia. Energetic light from \u03b3 Cassiopeia causes the hydrogen gas in IC 59 and 63 to glow red. Their dust reflects and scatters some blue-ish white starlight. Newly discovered Objects 1, 2, and 3 appear as blue phantoms, revealing the presence of ionized oxygen. But ionized by what? Like at the bow of a speeding boat, \u03b3 Cassiopeia may be piling up material as the system moves through interstellar gas and dust. It follows that Object 3 may be the compressed and heated oxygen of that bow shock. Object 1 could be a planetary nebula if a central white dwarf is identified. The origins of these astronomical apparitions remain a mystery to be solved.Tomorrow's picture: it's not easy being green\t\t\t\t\t\t",
+    "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
+    "media_type": "image",
+    "thumbnail_url": null
   },
   "car_news": {
-    "headline": "Photos: Porsche's Mission S Concept Takes Over New York City",
-    "url": "https://www.motor1.com/news/812649/porsche-mission-s-photos-new-york/",
+    "headline": "Fiat's Weird Multipla Revival Could Actually Reach Production",
+    "url": "https://www.motor1.com/news/812703/fiat-multipla-production-considered/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {
-    "year": 1448,
-    "text": "The second battle of Kosovo ends when the larger army of the Ottoman Empire defeats those of the Kingdom of Hungary after the Wallachian troops desert.",
-    "title": "Battle of Kosovo (1448)",
-    "url": "https://en.wikipedia.org/wiki/Battle_of_Kosovo_(1448)"
+    "year": 310,
+    "text": "Sixty-five days after being exiled by the Emperor Maxentius to Sicily, Pope Eusebius dies.",
+    "title": "Maxentius",
+    "url": "https://en.wikipedia.org/wiki/Maxentius"
   },
   "github": {
     "login": "Deadsunx",

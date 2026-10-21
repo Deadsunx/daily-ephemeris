@@ -35,21 +35,23 @@ python daily_update.py
 Only the Python standard library is used — nothing to install.
 
 <!-- LATEST:START -->
-### 📅 Latest snapshot — 2026-10-20
+### 📅 Latest snapshot — 2026-10-21
 
-> *"Success is about doing the right thing, not about doing everything right."* — **Gary Keller**
+> *"Each day your life grows a day shorter. Make every move count."* — **Ming-Dao Deng**
 
 **Crypto (USD)**
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $82,536 | +0.78% |
-| Ethereum | $2,436.46 | +1.58% |
-| Solana | $105.89 | +1.56% |
+| Bitcoin | $83,166 | +2.1% |
+| Ethereum | $2,451.28 | +2.89% |
+| Solana | $106.52 | +2.42% |
 
-**🚗 Car news:** [Photos: Porsche's Mission S Concept Takes Over New York City](https://www.motor1.com/news/812649/porsche-mission-s-photos-new-york/)
+**🔭 NASA:** [NASA Science](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)
 
-**📜 On this day, 1448:** The second battle of Kosovo ends when the larger army of the Ottoman Empire defeats those of the Kingdom of Hungary after the Wallachian troops desert. — [Battle of Kosovo (1448)](https://en.wikipedia.org/wiki/Battle_of_Kosovo_(1448))
+**🚗 Car news:** [Fiat's Weird Multipla Revival Could Actually Reach Production](https://www.motor1.com/news/812703/fiat-multipla-production-considered/)
+
+**📜 On this day, 310:** Sixty-five days after being exiled by the Emperor Maxentius to Sicily, Pope Eusebius dies. — [Maxentius](https://en.wikipedia.org/wiki/Maxentius)
 
 **🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 11 repos · 10 followers
 
