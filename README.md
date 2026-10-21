@@ -43,13 +43,11 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $83,166 | +2.1% |
-| Ethereum | $2,451.28 | +2.89% |
-| Solana | $106.52 | +2.42% |
+| Bitcoin | $84,484 | +2.32% |
+| Ethereum | $2,493.47 | +2.29% |
+| Solana | $108.15 | +1.92% |
 
-**🔭 NASA:** [NASA Science](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)
-
-**🚗 Car news:** [Fiat's Weird Multipla Revival Could Actually Reach Production](https://www.motor1.com/news/812703/fiat-multipla-production-considered/)
+**🚗 Car news:** [This Custom Gunther Werks Porsche Is An 860-HP Tribute To A Racing Legend](https://www.motor1.com/news/812799/gunter-werks-brundle-edition-porsche-911/)
 
 **📜 On this day, 310:** Sixty-five days after being exiled by the Emperor Maxentius to Sicily, Pope Eusebius dies. — [Maxentius](https://en.wikipedia.org/wiki/Maxentius)
 

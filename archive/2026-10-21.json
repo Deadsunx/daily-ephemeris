@@ -1,11 +1,11 @@
 {
   "date": "2026-10-21",
-  "fetched_at": "2026-10-21T09:01:26.724261+00:00",
+  "fetched_at": "2026-10-21T19:54:51.560407+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 83166,
-      "usd_24h_change": 2.1,
-      "usd_market_cap": 1673350404232.662,
+      "usd": 84484,
+      "usd_24h_change": 2.32,
+      "usd_market_cap": 1698580670851.8186,
       "spark": [
         86596.74,
         86183.29,
@@ -37,13 +37,13 @@
         82019.58,
         81875.26,
         82943.83,
-        83168.33
+        84485.7
       ]
     },
     "ethereum": {
-      "usd": 2451.28,
-      "usd_24h_change": 2.89,
-      "usd_market_cap": 299619063458.2673,
+      "usd": 2493.47,
+      "usd_24h_change": 2.29,
+      "usd_market_cap": 304708236871.65295,
       "spark": [
         2775.17,
         2752.63,
@@ -75,13 +75,13 @@
         2407.84,
         2405.92,
         2446.49,
-        2451.36
+        2493.64
       ]
     },
     "solana": {
-      "usd": 106.52,
-      "usd_24h_change": 2.42,
-      "usd_market_cap": 62855716097.06695,
+      "usd": 108.15,
+      "usd_24h_change": 1.92,
+      "usd_market_cap": 63798614033.73891,
       "spark": [
         118.87,
         118.51,
@@ -113,7 +113,7 @@
         104.0,
         104.98,
         106.39,
-        106.5
+        108.15
       ]
     }
   },
@@ -122,15 +122,11 @@
     "author": "Ming-Dao Deng"
   },
   "nasa": {
-    "title": "NASA Science",
-    "explanation": "Jinkies, look at all those ghosts! It took 100 hours of observation and a special oxygen filter for today\u2019s image to capture three faint nebulas hidden in the Cassiopeia constellation. IC 59 and IC 63, the original Ghosts of Cassiopeia, haunt the region near multi-star system \u03b3 Cassiopeia. Energetic light from \u03b3 Cassiopeia causes the hydrogen gas in IC 59 and 63 to glow red. Their dust reflects and scatters some blue-ish white starlight. Newly discovered Objects 1, 2, and 3 appear as blue phantoms, revealing the presence of ionized oxygen. But ionized by what? Like at the bow of a speeding boat, \u03b3 Cassiopeia may be piling up material as the system moves through interstellar gas and dust. It follows that Object 3 may be the compressed and heated oxygen of that bow shock. Object 1 could be a planetary nebula if a central white dwarf is identified. The origins of these astronomical apparitions remain a mystery to be solved.Tomorrow's picture: it's not easy being green\t\t\t\t\t\t",
-    "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
-    "media_type": "image",
-    "thumbnail_url": null
+    "error": "HTTP Error 500: Internal Server Error"
   },
   "car_news": {
-    "headline": "Fiat's Weird Multipla Revival Could Actually Reach Production",
-    "url": "https://www.motor1.com/news/812703/fiat-multipla-production-considered/",
+    "headline": "This Custom Gunther Werks Porsche Is An 860-HP Tribute To A Racing Legend",
+    "url": "https://www.motor1.com/news/812799/gunter-werks-brundle-edition-porsche-911/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {
