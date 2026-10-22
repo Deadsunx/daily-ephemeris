@@ -1,13 +1,12 @@
 {
-  "date": "2026-10-21",
-  "fetched_at": "2026-10-21T19:54:51.560407+00:00",
+  "date": "2026-10-22",
+  "fetched_at": "2026-10-22T09:03:50.187380+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 84484,
-      "usd_24h_change": 2.32,
-      "usd_market_cap": 1698580670851.8186,
+      "usd": 81742,
+      "usd_24h_change": -1.75,
+      "usd_market_cap": 1643858768802.8706,
       "spark": [
-        86596.74,
         86183.29,
         84382.4,
         84377.97,
@@ -37,15 +36,15 @@
         82019.58,
         81875.26,
         82943.83,
-        84485.7
+        84082.27,
+        81774.87
       ]
     },
     "ethereum": {
-      "usd": 2493.47,
-      "usd_24h_change": 2.29,
-      "usd_market_cap": 304708236871.65295,
+      "usd": 2404.73,
+      "usd_24h_change": -1.95,
+      "usd_market_cap": 293944478163.5427,
       "spark": [
-        2775.17,
         2752.63,
         2684.34,
         2687.13,
@@ -75,15 +74,15 @@
         2407.84,
         2405.92,
         2446.49,
-        2493.64
+        2472.68,
+        2405.1
       ]
     },
     "solana": {
-      "usd": 108.15,
-      "usd_24h_change": 1.92,
-      "usd_market_cap": 63798614033.73891,
+      "usd": 103.66,
+      "usd_24h_change": -2.74,
+      "usd_market_cap": 61144877693.800186,
       "spark": [
-        118.87,
         118.51,
         114.99,
         117.01,
@@ -113,27 +112,32 @@
         104.0,
         104.98,
         106.39,
-        108.15
+        106.94,
+        103.7
       ]
     }
   },
   "quote": {
-    "text": "Each day your life grows a day shorter. Make every move count.",
-    "author": "Ming-Dao Deng"
+    "text": "The secret of getting started is breaking your complex, overwhelming tasks into small manageable tasks, and then starting on the first one.",
+    "author": "Mark Twain"
   },
   "nasa": {
-    "error": "HTTP Error 500: Internal Server Error"
+    "title": "NASA Science",
+    "explanation": "Star light, star bright: is there a green star out tonight? Other than the Sun, all stars are so far from Earth that they appear as points in the sky. They are mostly white, but sometimes noticeably red or blue. This color typically relates to the temperature: blue stars are hotter than red stars. What about other colors? The featured image is an illustration showing WD J1330+6435, a white dwarf star, surrounded by an accretion disk with gas and rocks orbiting the star. White dwarfs are small, faint stars that are left over when a star like the Sun exhausts its nuclear fuel. Astronomers recently found that some white dwarf stars, despite their name, would appear yellow, green, cyan, pink, or purple. In these cases, trace elements that were accreted to these stars interact with the stellar atmosphere and shift its normally white color. But, alas! I wish I may, I wish I might, but they are too faint to see tonight...",
+    "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
+    "media_type": "image",
+    "thumbnail_url": null
   },
   "car_news": {
-    "headline": "This Custom Gunther Werks Porsche Is An 860-HP Tribute To A Racing Legend",
-    "url": "https://www.motor1.com/news/812799/gunter-werks-brundle-edition-porsche-911/",
+    "headline": "Tesla Will Sell Cybercabs By The End Of 2026",
+    "url": "https://www.motor1.com/news/812876/tesla-cybercab-deliveries-limited-ownership/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {
-    "year": 310,
-    "text": "Sixty-five days after being exiled by the Emperor Maxentius to Sicily, Pope Eusebius dies.",
-    "title": "Maxentius",
-    "url": "https://en.wikipedia.org/wiki/Maxentius"
+    "year": -2137,
+    "text": "A solar eclipse occurs over China, one of the earliest recorded in human history, reportedly resulting in the executions of two astronomers who failed to predict it.",
+    "title": "Solar eclipse of October 22, 2137 BC",
+    "url": "https://en.wikipedia.org/wiki/Solar_eclipse_of_October_22%2C_2137_BC"
   },
   "github": {
     "login": "Deadsunx",
