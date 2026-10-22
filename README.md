@@ -43,13 +43,11 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $81,742 | -1.75% |
-| Ethereum | $2,404.73 | -1.95% |
-| Solana | $103.66 | -2.74% |
+| Bitcoin | $81,305 | -3.82% |
+| Ethereum | $2,382.03 | -4.57% |
+| Solana | $103.38 | -4.5% |
 
-**🔭 NASA:** [NASA Science](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)
-
-**🚗 Car news:** [Tesla Will Sell Cybercabs By The End Of 2026](https://www.motor1.com/news/812876/tesla-cybercab-deliveries-limited-ownership/)
+**🚗 Car news:** [Ford Explains Why Naming Cars Is So Hard: 'Everyone Has An Opinion'](https://www.motor1.com/news/812896/ford-puts-every-car-name/)
 
 **📜 On this day, -2137:** A solar eclipse occurs over China, one of the earliest recorded in human history, reportedly resulting in the executions of two astronomers who failed to predict it. — [Solar eclipse of October 22, 2137 BC](https://en.wikipedia.org/wiki/Solar_eclipse_of_October_22%2C_2137_BC)
 

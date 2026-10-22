@@ -1,11 +1,11 @@
 {
   "date": "2026-10-22",
-  "fetched_at": "2026-10-22T09:03:50.187380+00:00",
+  "fetched_at": "2026-10-22T19:43:55.741923+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 81742,
-      "usd_24h_change": -1.75,
-      "usd_market_cap": 1643858768802.8706,
+      "usd": 81305,
+      "usd_24h_change": -3.82,
+      "usd_market_cap": 1634397500625.7893,
       "spark": [
         86183.29,
         84382.4,
@@ -37,13 +37,13 @@
         81875.26,
         82943.83,
         84082.27,
-        81774.87
+        81308.47
       ]
     },
     "ethereum": {
-      "usd": 2404.73,
-      "usd_24h_change": -1.95,
-      "usd_market_cap": 293944478163.5427,
+      "usd": 2382.03,
+      "usd_24h_change": -4.57,
+      "usd_market_cap": 291009545506.5781,
       "spark": [
         2752.63,
         2684.34,
@@ -75,13 +75,13 @@
         2405.92,
         2446.49,
         2472.68,
-        2405.1
+        2381.54
       ]
     },
     "solana": {
-      "usd": 103.66,
-      "usd_24h_change": -2.74,
-      "usd_market_cap": 61144877693.800186,
+      "usd": 103.38,
+      "usd_24h_change": -4.5,
+      "usd_market_cap": 60960089210.595146,
       "spark": [
         118.51,
         114.99,
@@ -113,7 +113,7 @@
         104.98,
         106.39,
         106.94,
-        103.7
+        103.36
       ]
     }
   },
@@ -122,15 +122,11 @@
     "author": "Mark Twain"
   },
   "nasa": {
-    "title": "NASA Science",
-    "explanation": "Star light, star bright: is there a green star out tonight? Other than the Sun, all stars are so far from Earth that they appear as points in the sky. They are mostly white, but sometimes noticeably red or blue. This color typically relates to the temperature: blue stars are hotter than red stars. What about other colors? The featured image is an illustration showing WD J1330+6435, a white dwarf star, surrounded by an accretion disk with gas and rocks orbiting the star. White dwarfs are small, faint stars that are left over when a star like the Sun exhausts its nuclear fuel. Astronomers recently found that some white dwarf stars, despite their name, would appear yellow, green, cyan, pink, or purple. In these cases, trace elements that were accreted to these stars interact with the stellar atmosphere and shift its normally white color. But, alas! I wish I may, I wish I might, but they are too faint to see tonight...",
-    "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
-    "media_type": "image",
-    "thumbnail_url": null
+    "error": "HTTP Error 500: Internal Server Error"
   },
   "car_news": {
-    "headline": "Tesla Will Sell Cybercabs By The End Of 2026",
-    "url": "https://www.motor1.com/news/812876/tesla-cybercab-deliveries-limited-ownership/",
+    "headline": "Ford Explains Why Naming Cars Is So Hard: 'Everyone Has An Opinion'",
+    "url": "https://www.motor1.com/news/812896/ford-puts-every-car-name/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {
