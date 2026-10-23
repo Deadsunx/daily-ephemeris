@@ -1,11 +1,11 @@
 {
   "date": "2026-10-23",
-  "fetched_at": "2026-10-23T08:58:40.662863+00:00",
+  "fetched_at": "2026-10-23T19:46:21.879289+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 81686,
-      "usd_24h_change": -0.2,
-      "usd_market_cap": 1642065389203.5452,
+      "usd": 81232,
+      "usd_24h_change": -0.09,
+      "usd_market_cap": 1633021600997.2134,
       "spark": [
         84382.4,
         84377.97,
@@ -37,13 +37,13 @@
         82943.83,
         84082.27,
         81328.21,
-        81684.22
+        81251.13
       ]
     },
     "ethereum": {
-      "usd": 2404.34,
-      "usd_24h_change": -0.17,
-      "usd_market_cap": 293703028099.8012,
+      "usd": 2394.8,
+      "usd_24h_change": 0.58,
+      "usd_market_cap": 292538412139.73694,
       "spark": [
         2684.34,
         2687.13,
@@ -75,13 +75,13 @@
         2446.49,
         2472.68,
         2386.48,
-        2404.33
+        2394.8
       ]
     },
     "solana": {
-      "usd": 104.6,
-      "usd_24h_change": 0.83,
-      "usd_market_cap": 61678835650.97118,
+      "usd": 103.66,
+      "usd_24h_change": 0.32,
+      "usd_market_cap": 61131710716.885635,
       "spark": [
         114.99,
         117.01,
@@ -113,7 +113,7 @@
         106.39,
         106.94,
         103.54,
-        104.6
+        103.68
       ]
     }
   },
@@ -125,8 +125,8 @@
     "error": "HTTP Error 500: Internal Server Error"
   },
   "car_news": {
-    "headline": "2027 Subaru Outback Base Trim Returns, Lowering Price",
-    "url": "https://www.motor1.com/news/813019/2027-subaru-outback-base-trim/",
+    "headline": "Acura Just Trademarked Four New Names, Hinting At 3 New SUVs",
+    "url": "https://www.motor1.com/news/813068/honda-acura-trademarks-point-future/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {
