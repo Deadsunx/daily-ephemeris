@@ -35,21 +35,21 @@ python daily_update.py
 Only the Python standard library is used — nothing to install.
 
 <!-- LATEST:START -->
-### 📅 Latest snapshot — 2026-10-22
+### 📅 Latest snapshot — 2026-10-23
 
-> *"The secret of getting started is breaking your complex, overwhelming tasks into small manageable tasks, and then starting on the first one."* — **Mark Twain**
+> *"If someone betrays you once, it's their fault; if they betray you twice, it's your fault."* — **Eleanor Roosevelt**
 
 **Crypto (USD)**
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $81,305 | -3.82% |
-| Ethereum | $2,382.03 | -4.57% |
-| Solana | $103.38 | -4.5% |
+| Bitcoin | $81,686 | -0.2% |
+| Ethereum | $2,404.34 | -0.17% |
+| Solana | $104.6 | +0.83% |
 
-**🚗 Car news:** [Ford Explains Why Naming Cars Is So Hard: 'Everyone Has An Opinion'](https://www.motor1.com/news/812896/ford-puts-every-car-name/)
+**🚗 Car news:** [2027 Subaru Outback Base Trim Returns, Lowering Price](https://www.motor1.com/news/813019/2027-subaru-outback-base-trim/)
 
-**📜 On this day, -2137:** A solar eclipse occurs over China, one of the earliest recorded in human history, reportedly resulting in the executions of two astronomers who failed to predict it. — [Solar eclipse of October 22, 2137 BC](https://en.wikipedia.org/wiki/Solar_eclipse_of_October_22%2C_2137_BC)
+**📜 On this day, -4004:** James Ussher's calculated First day of the world based on the Old Testament. Creation, he believed, occurred at what would have been nightfall on the previous day. — [James Ussher](https://en.wikipedia.org/wiki/James_Ussher)
 
 **🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 11 repos · 10 followers
 
