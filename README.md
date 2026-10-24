@@ -43,11 +43,11 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $80,723 | -1.22% |
-| Ethereum | $2,370.85 | -1.5% |
-| Solana | $101.98 | -2.46% |
+| Bitcoin | $80,298 | -1.41% |
+| Ethereum | $2,332.34 | -2.96% |
+| Solana | $101.01 | -3.03% |
 
-**🚗 Car news:** [The Legendary AMG Hammer Might Be Making a Comeback](https://www.motor1.com/news/813099/hwa-amg-hammer-restomod-teaser/)
+**🚗 Car news:** [Ferrari's CEO Praises The Tesla Roadster: 'We Have To Keep Dreaming'](https://www.motor1.com/news/812902/ferrari-ceo-praises-redesigned-tesla/)
 
 **📜 On this day, 69:** In the Second Battle of Bedriacum, troops loyal to Vespasian defeat those of Emperor Vitellius. — [AD 69](https://en.wikipedia.org/wiki/AD_69)
 
