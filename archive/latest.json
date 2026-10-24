@@ -1,13 +1,12 @@
 {
-  "date": "2026-10-23",
-  "fetched_at": "2026-10-23T19:46:21.879289+00:00",
+  "date": "2026-10-24",
+  "fetched_at": "2026-10-24T08:32:10.813241+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 81232,
-      "usd_24h_change": -0.09,
-      "usd_market_cap": 1633021600997.2134,
+      "usd": 80723,
+      "usd_24h_change": -1.22,
+      "usd_market_cap": 1622751857223.4822,
       "spark": [
-        84382.4,
         84377.97,
         84075.72,
         84416.71,
@@ -37,15 +36,15 @@
         82943.83,
         84082.27,
         81328.21,
-        81251.13
+        81102.31,
+        80728.78
       ]
     },
     "ethereum": {
-      "usd": 2394.8,
-      "usd_24h_change": 0.58,
-      "usd_market_cap": 292538412139.73694,
+      "usd": 2370.85,
+      "usd_24h_change": -1.5,
+      "usd_market_cap": 289629776286.40564,
       "spark": [
-        2684.34,
         2687.13,
         2690.89,
         2695.6,
@@ -75,15 +74,15 @@
         2446.49,
         2472.68,
         2386.48,
-        2394.8
+        2384.75,
+        2370.98
       ]
     },
     "solana": {
-      "usd": 103.66,
-      "usd_24h_change": 0.32,
-      "usd_market_cap": 61131710716.885635,
+      "usd": 101.98,
+      "usd_24h_change": -2.46,
+      "usd_market_cap": 60140975708.93261,
       "spark": [
-        114.99,
         117.01,
         122.08,
         121.38,
@@ -113,27 +112,28 @@
         106.39,
         106.94,
         103.54,
-        103.68
+        102.74,
+        102.0
       ]
     }
   },
   "quote": {
-    "text": "If someone betrays you once, it's their fault; if they betray you twice, it's your fault.",
-    "author": "Eleanor Roosevelt"
+    "text": "There are more quarrels smothered by just shutting your mouth, and holding it shut, than by all the wisdom in the world.",
+    "author": "Henry Ward Beecher"
   },
   "nasa": {
     "error": "HTTP Error 500: Internal Server Error"
   },
   "car_news": {
-    "headline": "Acura Just Trademarked Four New Names, Hinting At 3 New SUVs",
-    "url": "https://www.motor1.com/news/813068/honda-acura-trademarks-point-future/",
+    "headline": "The Legendary AMG Hammer Might Be Making a Comeback",
+    "url": "https://www.motor1.com/news/813099/hwa-amg-hammer-restomod-teaser/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {
-    "year": -4004,
-    "text": "James Ussher's calculated First day of the world based on the Old Testament. Creation, he believed, occurred at what would have been nightfall on the previous day.",
-    "title": "James Ussher",
-    "url": "https://en.wikipedia.org/wiki/James_Ussher"
+    "year": 69,
+    "text": "In the Second Battle of Bedriacum, troops loyal to Vespasian defeat those of Emperor Vitellius.",
+    "title": "AD 69",
+    "url": "https://en.wikipedia.org/wiki/AD_69"
   },
   "github": {
     "login": "Deadsunx",
