@@ -1,11 +1,11 @@
 {
   "date": "2026-10-25",
-  "fetched_at": "2026-10-25T08:51:31.438131+00:00",
+  "fetched_at": "2026-10-25T18:43:02.723119+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 80418,
-      "usd_24h_change": -0.21,
-      "usd_market_cap": 1616481970693.922,
+      "usd": 80625,
+      "usd_24h_change": 0.46,
+      "usd_market_cap": 1620415937683.8955,
       "spark": [
         84075.72,
         84416.71,
@@ -37,13 +37,13 @@
         81328.21,
         81102.31,
         80810.57,
-        80389.71
+        80625.64
       ]
     },
     "ethereum": {
-      "usd": 2337.61,
-      "usd_24h_change": -1.21,
-      "usd_market_cap": 285509620259.0404,
+      "usd": 2353.37,
+      "usd_24h_change": 1.01,
+      "usd_market_cap": 287497448159.807,
       "spark": [
         2690.89,
         2695.6,
@@ -75,13 +75,13 @@
         2386.48,
         2384.75,
         2356.57,
-        2335.44
+        2353.26
       ]
     },
     "solana": {
-      "usd": 101.08,
-      "usd_24h_change": -0.72,
-      "usd_market_cap": 59612716372.43993,
+      "usd": 101.88,
+      "usd_24h_change": 0.94,
+      "usd_market_cap": 60077442915.68183,
       "spark": [
         122.08,
         121.38,
@@ -113,7 +113,7 @@
         103.54,
         102.74,
         102.27,
-        100.96
+        101.87
       ]
     }
   },
@@ -125,8 +125,8 @@
     "error": "HTTP Error 500: Internal Server Error"
   },
   "car_news": {
-    "headline": "Audi Is Spending $4 Billion On A New US Factory For Big SUVs",
-    "url": "https://www.motor1.com/news/813154/audi-new-factory-georgia-usa/",
+    "headline": "Every Detail Packed Into The Bentley Torcal First Edition",
+    "url": "https://www.motor1.com/news/812983/bentley-torcal-special-edition-details/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {

@@ -43,11 +43,11 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $80,418 | -0.21% |
-| Ethereum | $2,337.61 | -1.21% |
-| Solana | $101.08 | -0.72% |
+| Bitcoin | $80,625 | +0.46% |
+| Ethereum | $2,353.37 | +1.01% |
+| Solana | $101.88 | +0.94% |
 
-**🚗 Car news:** [Audi Is Spending $4 Billion On A New US Factory For Big SUVs](https://www.motor1.com/news/813154/audi-new-factory-georgia-usa/)
+**🚗 Car news:** [Every Detail Packed Into The Bentley Torcal First Edition](https://www.motor1.com/news/812983/bentley-torcal-special-edition-details/)
 
 **📜 On this day, 473:** Emperor Leo I acclaims his grandson Leo II as Caesar of the East Roman Empire. — [Leo I (emperor)](https://en.wikipedia.org/wiki/Leo_I_(emperor))
 
