@@ -1436,5 +1436,18 @@
       "year": 69,
       "title": "AD 69"
     }
+  },
+  {
+    "date": "2026-10-25",
+    "quote": {
+      "text": "The wiser you get, the less you care to look like a fool.",
+      "author": "Maxime Lagace"
+    },
+    "nasa": null,
+    "car": "Audi Is Spending $4 Billion On A New US Factory For Big SUVs",
+    "onthisday": {
+      "year": 473,
+      "title": "Leo I (emperor)"
+    }
   }
 ]
