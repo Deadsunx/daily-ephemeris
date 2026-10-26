@@ -1,11 +1,11 @@
 {
   "date": "2026-10-26",
-  "fetched_at": "2026-10-26T09:32:44.513835+00:00",
+  "fetched_at": "2026-10-26T20:53:18.362152+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 80429,
-      "usd_24h_change": 0.37,
-      "usd_market_cap": 1617122237820.2444,
+      "usd": 79726,
+      "usd_24h_change": -0.8,
+      "usd_market_cap": 1602820618552.9543,
       "spark": [
         84416.71,
         84448.75,
@@ -37,13 +37,13 @@
         81102.31,
         80810.57,
         80048.85,
-        80417.37
+        79727.25
       ]
     },
     "ethereum": {
-      "usd": 2331.28,
-      "usd_24h_change": 0.3,
-      "usd_market_cap": 284822106774.7862,
+      "usd": 2303.91,
+      "usd_24h_change": -1.68,
+      "usd_market_cap": 281456520445.43085,
       "spark": [
         2695.6,
         2687.54,
@@ -75,13 +75,13 @@
         2384.75,
         2356.57,
         2326.83,
-        2330.99
+        2303.91
       ]
     },
     "solana": {
-      "usd": 101.36,
-      "usd_24h_change": 0.81,
-      "usd_market_cap": 59788952644.131355,
+      "usd": 100.13,
+      "usd_24h_change": -1.28,
+      "usd_market_cap": 59059370221.6972,
       "spark": [
         121.38,
         121.96,
@@ -113,7 +113,7 @@
         102.74,
         102.27,
         101.24,
-        101.36
+        100.13
       ]
     }
   },
@@ -122,15 +122,11 @@
     "author": "Dalai Lama"
   },
   "nasa": {
-    "title": "NASA Science",
-    "explanation": "The Great Nebula in Orion, an immense, nearby starbirth region, is one the most famous of all astronomical nebulas. Here, glowing gas surrounds hot young stars at the edge of an immense interstellar molecular cloud only 1500 light-years away. In the featured deep image in assigned colors highlighted by emission in hydrogen, wisps and sheets of dust and gas are particularly evident. The Great Nebula in Orion can be found with the unaided eye near the easily identifiable belt of three stars in the popular constellation Orion. In addition to housing a bright open cluster of stars known as the Trapezium, the Orion Nebula contains many stellar nurseries. These nurseries contain much hydrogen gas, hot young stars, proplyds, and stellar jets spewing material at high speeds. Also known as M42, the Orion Nebula spans about 40 light years and is located in the same spiral arm of our Galaxy as the Sun.Tomorrow's picture: open space\t\t\t\t\t\t",
-    "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
-    "media_type": "image",
-    "thumbnail_url": null
+    "error": "HTTP Error 500: Internal Server Error"
   },
   "car_news": {
-    "headline": "Acura ADX Gets Wild Custom Makeover Inspired By Vans And BMX Culture",
-    "url": "https://www.motor1.com/news/813208/acura-adx-cz-77-concept/",
+    "headline": "Alpine's Next Four-Seat Sports Car Is Ditching Retro Styling",
+    "url": "https://www.motor1.com/news/813269/alpine-electric-2-2-news/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {

@@ -43,13 +43,11 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $80,429 | +0.37% |
-| Ethereum | $2,331.28 | +0.3% |
-| Solana | $101.36 | +0.81% |
+| Bitcoin | $79,726 | -0.8% |
+| Ethereum | $2,303.91 | -1.68% |
+| Solana | $100.13 | -1.28% |
 
-**🔭 NASA:** [NASA Science](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)
-
-**🚗 Car news:** [Acura ADX Gets Wild Custom Makeover Inspired By Vans And BMX Culture](https://www.motor1.com/news/813208/acura-adx-cz-77-concept/)
+**🚗 Car news:** [Alpine's Next Four-Seat Sports Car Is Ditching Retro Styling](https://www.motor1.com/news/813269/alpine-electric-2-2-news/)
 
 **📜 On this day, 1185:** The Uprising of Asen and Peter begins on the feast day of St. Demetrius of Thessaloniki and ends with the creation of the Second Bulgarian Empire. — [Uprising of Asen and Peter](https://en.wikipedia.org/wiki/Uprising_of_Asen_and_Peter)
 
