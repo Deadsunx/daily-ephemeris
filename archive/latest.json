@@ -1,13 +1,12 @@
 {
-  "date": "2026-10-25",
-  "fetched_at": "2026-10-25T18:43:02.723119+00:00",
+  "date": "2026-10-26",
+  "fetched_at": "2026-10-26T09:32:44.513835+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 80625,
-      "usd_24h_change": 0.46,
-      "usd_market_cap": 1620415937683.8955,
+      "usd": 80429,
+      "usd_24h_change": 0.37,
+      "usd_market_cap": 1617122237820.2444,
       "spark": [
-        84075.72,
         84416.71,
         84448.75,
         83479.25,
@@ -37,15 +36,15 @@
         81328.21,
         81102.31,
         80810.57,
-        80625.64
+        80048.85,
+        80417.37
       ]
     },
     "ethereum": {
-      "usd": 2353.37,
-      "usd_24h_change": 1.01,
-      "usd_market_cap": 287497448159.807,
+      "usd": 2331.28,
+      "usd_24h_change": 0.3,
+      "usd_market_cap": 284822106774.7862,
       "spark": [
-        2690.89,
         2695.6,
         2687.54,
         2687.92,
@@ -75,15 +74,15 @@
         2386.48,
         2384.75,
         2356.57,
-        2353.26
+        2326.83,
+        2330.99
       ]
     },
     "solana": {
-      "usd": 101.88,
-      "usd_24h_change": 0.94,
-      "usd_market_cap": 60077442915.68183,
+      "usd": 101.36,
+      "usd_24h_change": 0.81,
+      "usd_market_cap": 59788952644.131355,
       "spark": [
-        122.08,
         121.38,
         121.96,
         118.82,
@@ -113,27 +112,32 @@
         103.54,
         102.74,
         102.27,
-        101.87
+        101.24,
+        101.36
       ]
     }
   },
   "quote": {
-    "text": "The wiser you get, the less you care to look like a fool.",
-    "author": "Maxime Lagace"
+    "text": "Loving thoughts and actions are clearly beneficial for our physical and mental health.",
+    "author": "Dalai Lama"
   },
   "nasa": {
-    "error": "HTTP Error 500: Internal Server Error"
+    "title": "NASA Science",
+    "explanation": "The Great Nebula in Orion, an immense, nearby starbirth region, is one the most famous of all astronomical nebulas. Here, glowing gas surrounds hot young stars at the edge of an immense interstellar molecular cloud only 1500 light-years away. In the featured deep image in assigned colors highlighted by emission in hydrogen, wisps and sheets of dust and gas are particularly evident. The Great Nebula in Orion can be found with the unaided eye near the easily identifiable belt of three stars in the popular constellation Orion. In addition to housing a bright open cluster of stars known as the Trapezium, the Orion Nebula contains many stellar nurseries. These nurseries contain much hydrogen gas, hot young stars, proplyds, and stellar jets spewing material at high speeds. Also known as M42, the Orion Nebula spans about 40 light years and is located in the same spiral arm of our Galaxy as the Sun.Tomorrow's picture: open space\t\t\t\t\t\t",
+    "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
+    "media_type": "image",
+    "thumbnail_url": null
   },
   "car_news": {
-    "headline": "Every Detail Packed Into The Bentley Torcal First Edition",
-    "url": "https://www.motor1.com/news/812983/bentley-torcal-special-edition-details/",
+    "headline": "Acura ADX Gets Wild Custom Makeover Inspired By Vans And BMX Culture",
+    "url": "https://www.motor1.com/news/813208/acura-adx-cz-77-concept/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {
-    "year": 473,
-    "text": "Emperor Leo I acclaims his grandson Leo II as Caesar of the East Roman Empire.",
-    "title": "Leo I (emperor)",
-    "url": "https://en.wikipedia.org/wiki/Leo_I_(emperor)"
+    "year": 1185,
+    "text": "The Uprising of Asen and Peter begins on the feast day of St. Demetrius of Thessaloniki and ends with the creation of the Second Bulgarian Empire.",
+    "title": "Uprising of Asen and Peter",
+    "url": "https://en.wikipedia.org/wiki/Uprising_of_Asen_and_Peter"
   },
   "github": {
     "login": "Deadsunx",
