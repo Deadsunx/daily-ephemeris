@@ -1,13 +1,12 @@
 {
-  "date": "2026-10-26",
-  "fetched_at": "2026-10-26T20:53:18.362152+00:00",
+  "date": "2026-10-27",
+  "fetched_at": "2026-10-27T09:29:20.235244+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 79726,
-      "usd_24h_change": -0.8,
-      "usd_market_cap": 1602820618552.9543,
+      "usd": 79609,
+      "usd_24h_change": -1.03,
+      "usd_market_cap": 1600465783427.1118,
       "spark": [
-        84416.71,
         84448.75,
         83479.25,
         83640.1,
@@ -37,15 +36,15 @@
         81102.31,
         80810.57,
         80048.85,
-        79727.25
+        80029.43,
+        79607.19
       ]
     },
     "ethereum": {
-      "usd": 2303.91,
-      "usd_24h_change": -1.68,
-      "usd_market_cap": 281456520445.43085,
+      "usd": 2308.37,
+      "usd_24h_change": -0.97,
+      "usd_market_cap": 282035068855.4693,
       "spark": [
-        2695.6,
         2687.54,
         2687.92,
         2677.38,
@@ -75,15 +74,15 @@
         2384.75,
         2356.57,
         2326.83,
-        2303.91
+        2320.67,
+        2308.37
       ]
     },
     "solana": {
-      "usd": 100.13,
-      "usd_24h_change": -1.28,
-      "usd_market_cap": 59059370221.6972,
+      "usd": 99.66,
+      "usd_24h_change": -1.69,
+      "usd_market_cap": 58802864860.56037,
       "spark": [
-        121.38,
         121.96,
         118.82,
         119.09,
@@ -113,27 +112,28 @@
         102.74,
         102.27,
         101.24,
-        100.13
+        100.75,
+        99.66
       ]
     }
   },
   "quote": {
-    "text": "Loving thoughts and actions are clearly beneficial for our physical and mental health.",
-    "author": "Dalai Lama"
+    "text": "Still your waters.",
+    "author": "Josh Waitzkin"
   },
   "nasa": {
-    "error": "HTTP Error 500: Internal Server Error"
+    "error": "The read operation timed out"
   },
   "car_news": {
-    "headline": "Alpine's Next Four-Seat Sports Car Is Ditching Retro Styling",
-    "url": "https://www.motor1.com/news/813269/alpine-electric-2-2-news/",
+    "headline": "Jeep\u2019s Most Popular Gladiator Upgrade Is Finally Available From The Factory",
+    "url": "https://www.motor1.com/news/813358/jeep-gladiator-35-inch-package/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {
-    "year": 1185,
-    "text": "The Uprising of Asen and Peter begins on the feast day of St. Demetrius of Thessaloniki and ends with the creation of the Second Bulgarian Empire.",
-    "title": "Uprising of Asen and Peter",
-    "url": "https://en.wikipedia.org/wiki/Uprising_of_Asen_and_Peter"
+    "year": 312,
+    "text": "Constantine the Great is said to have received his famous Vision of the Cross.",
+    "title": "Constantine the Great",
+    "url": "https://en.wikipedia.org/wiki/Constantine_the_Great"
   },
   "github": {
     "login": "Deadsunx",
