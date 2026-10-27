@@ -43,11 +43,11 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $79,609 | -1.03% |
-| Ethereum | $2,308.37 | -0.97% |
-| Solana | $99.66 | -1.69% |
+| Bitcoin | $80,626 | +1.05% |
+| Ethereum | $2,343.35 | +1.35% |
+| Solana | $101.0 | +0.79% |
 
-**🚗 Car news:** [Jeep’s Most Popular Gladiator Upgrade Is Finally Available From The Factory](https://www.motor1.com/news/813358/jeep-gladiator-35-inch-package/)
+**🚗 Car news:** [Koenigsegg Recalled Every CC850 In America. All Seven Of Them](https://www.motor1.com/news/813444/koenigsegg-cc850-parking-brake-recall/)
 
 **📜 On this day, 312:** Constantine the Great is said to have received his famous Vision of the Cross. — [Constantine the Great](https://en.wikipedia.org/wiki/Constantine_the_Great)
 

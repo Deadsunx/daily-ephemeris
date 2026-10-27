@@ -1,11 +1,11 @@
 {
   "date": "2026-10-27",
-  "fetched_at": "2026-10-27T09:29:20.235244+00:00",
+  "fetched_at": "2026-10-27T20:25:29.704402+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 79609,
-      "usd_24h_change": -1.03,
-      "usd_market_cap": 1600465783427.1118,
+      "usd": 80626,
+      "usd_24h_change": 1.05,
+      "usd_market_cap": 1621098392371.1523,
       "spark": [
         84448.75,
         83479.25,
@@ -37,13 +37,13 @@
         80810.57,
         80048.85,
         80029.43,
-        79607.19
+        80625.84
       ]
     },
     "ethereum": {
-      "usd": 2308.37,
-      "usd_24h_change": -0.97,
-      "usd_market_cap": 282035068855.4693,
+      "usd": 2343.35,
+      "usd_24h_change": 1.35,
+      "usd_market_cap": 286280550692.68994,
       "spark": [
         2687.54,
         2687.92,
@@ -75,13 +75,13 @@
         2356.57,
         2326.83,
         2320.67,
-        2308.37
+        2343.37
       ]
     },
     "solana": {
-      "usd": 99.66,
-      "usd_24h_change": -1.69,
-      "usd_market_cap": 58802864860.56037,
+      "usd": 101.0,
+      "usd_24h_change": 0.79,
+      "usd_market_cap": 59582331205.73879,
       "spark": [
         121.96,
         118.82,
@@ -113,7 +113,7 @@
         102.27,
         101.24,
         100.75,
-        99.66
+        101.01
       ]
     }
   },
@@ -125,8 +125,8 @@
     "error": "The read operation timed out"
   },
   "car_news": {
-    "headline": "Jeep\u2019s Most Popular Gladiator Upgrade Is Finally Available From The Factory",
-    "url": "https://www.motor1.com/news/813358/jeep-gladiator-35-inch-package/",
+    "headline": "Koenigsegg Recalled Every CC850 In America. All Seven Of Them",
+    "url": "https://www.motor1.com/news/813444/koenigsegg-cc850-parking-brake-recall/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {
