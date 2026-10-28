@@ -35,21 +35,21 @@ python daily_update.py
 Only the Python standard library is used — nothing to install.
 
 <!-- LATEST:START -->
-### 📅 Latest snapshot — 2026-10-27
+### 📅 Latest snapshot — 2026-10-28
 
-> *"Still your waters."* — **Josh Waitzkin**
+> *"What we dwell on is who we become."* — **Oprah Winfrey**
 
 **Crypto (USD)**
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $80,626 | +1.05% |
-| Ethereum | $2,343.35 | +1.35% |
-| Solana | $101.0 | +0.79% |
+| Bitcoin | $81,378 | +2.4% |
+| Ethereum | $2,365.6 | +2.91% |
+| Solana | $102.81 | +3.61% |
 
-**🚗 Car news:** [Koenigsegg Recalled Every CC850 In America. All Seven Of Them](https://www.motor1.com/news/813444/koenigsegg-cc850-parking-brake-recall/)
+**🚗 Car news:** [Winter Storm Warning: Up to 18 Inches of Snow Through Thursday](https://www.autoblog.com/news/winter-storm-warning-up-to-18-inches-of-snow-through-thursday)
 
-**📜 On this day, 312:** Constantine the Great is said to have received his famous Vision of the Cross. — [Constantine the Great](https://en.wikipedia.org/wiki/Constantine_the_Great)
+**📜 On this day, 97:** Roman emperor Nerva is forced by the Praetorian Guard to adopt general Marcus Ulpius Trajanus as his heir and successor. — [AD 97](https://en.wikipedia.org/wiki/AD_97)
 
 **🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 11 repos · 10 followers
 

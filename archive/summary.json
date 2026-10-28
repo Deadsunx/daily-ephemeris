@@ -1475,5 +1475,18 @@
       "year": 312,
       "title": "Constantine the Great"
     }
+  },
+  {
+    "date": "2026-10-28",
+    "quote": {
+      "text": "What we dwell on is who we become.",
+      "author": "Oprah Winfrey"
+    },
+    "nasa": null,
+    "car": "Winter Storm Warning: Up to 18 Inches of Snow Through Thursday",
+    "onthisday": {
+      "year": 97,
+      "title": "AD 97"
+    }
   }
 ]

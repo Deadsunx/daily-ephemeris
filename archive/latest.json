@@ -1,13 +1,12 @@
 {
-  "date": "2026-10-27",
-  "fetched_at": "2026-10-27T20:25:29.704402+00:00",
+  "date": "2026-10-28",
+  "fetched_at": "2026-10-28T10:14:15.863604+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 80626,
-      "usd_24h_change": 1.05,
-      "usd_market_cap": 1621098392371.1523,
+      "usd": 81378,
+      "usd_24h_change": 2.4,
+      "usd_market_cap": 1636068045368.733,
       "spark": [
-        84448.75,
         83479.25,
         83640.1,
         83576.13,
@@ -37,15 +36,15 @@
         80810.57,
         80048.85,
         80029.43,
-        80625.84
+        80800.83,
+        81371.5
       ]
     },
     "ethereum": {
-      "usd": 2343.35,
-      "usd_24h_change": 1.35,
-      "usd_market_cap": 286280550692.68994,
+      "usd": 2365.6,
+      "usd_24h_change": 2.91,
+      "usd_market_cap": 289072894460.29816,
       "spark": [
-        2687.54,
         2687.92,
         2677.38,
         2684.71,
@@ -75,15 +74,15 @@
         2356.57,
         2326.83,
         2320.67,
-        2343.37
+        2347.32,
+        2365.47
       ]
     },
     "solana": {
-      "usd": 101.0,
-      "usd_24h_change": 0.79,
-      "usd_market_cap": 59582331205.73879,
+      "usd": 102.81,
+      "usd_24h_change": 3.61,
+      "usd_market_cap": 60656353606.34415,
       "spark": [
-        121.96,
         118.82,
         119.09,
         118.04,
@@ -113,27 +112,28 @@
         102.27,
         101.24,
         100.75,
-        101.01
+        101.2,
+        102.81
       ]
     }
   },
   "quote": {
-    "text": "Still your waters.",
-    "author": "Josh Waitzkin"
+    "text": "What we dwell on is who we become.",
+    "author": "Oprah Winfrey"
   },
   "nasa": {
-    "error": "The read operation timed out"
+    "error": "HTTP Error 500: Internal Server Error"
   },
   "car_news": {
-    "headline": "Koenigsegg Recalled Every CC850 In America. All Seven Of Them",
-    "url": "https://www.motor1.com/news/813444/koenigsegg-cc850-parking-brake-recall/",
-    "source": "https://www.motor1.com/rss/news/all/"
+    "headline": "Winter Storm Warning: Up to 18 Inches of Snow Through Thursday",
+    "url": "https://www.autoblog.com/news/winter-storm-warning-up-to-18-inches-of-snow-through-thursday",
+    "source": "https://www.autoblog.com/rss.xml"
   },
   "onthisday": {
-    "year": 312,
-    "text": "Constantine the Great is said to have received his famous Vision of the Cross.",
-    "title": "Constantine the Great",
-    "url": "https://en.wikipedia.org/wiki/Constantine_the_Great"
+    "year": 97,
+    "text": "Roman emperor Nerva is forced by the Praetorian Guard to adopt general Marcus Ulpius Trajanus as his heir and successor.",
+    "title": "AD 97",
+    "url": "https://en.wikipedia.org/wiki/AD_97"
   },
   "github": {
     "login": "Deadsunx",
