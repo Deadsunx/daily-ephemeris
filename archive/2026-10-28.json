@@ -1,11 +1,11 @@
 {
   "date": "2026-10-28",
-  "fetched_at": "2026-10-28T10:14:15.863604+00:00",
+  "fetched_at": "2026-10-28T20:45:48.407442+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 81378,
-      "usd_24h_change": 2.4,
-      "usd_market_cap": 1636068045368.733,
+      "usd": 81048,
+      "usd_24h_change": 0.6,
+      "usd_market_cap": 1629652326591.969,
       "spark": [
         83479.25,
         83640.1,
@@ -37,13 +37,13 @@
         80048.85,
         80029.43,
         80800.83,
-        81371.5
+        81024.85
       ]
     },
     "ethereum": {
-      "usd": 2365.6,
-      "usd_24h_change": 2.91,
-      "usd_market_cap": 289072894460.29816,
+      "usd": 2350.01,
+      "usd_24h_change": 0.48,
+      "usd_market_cap": 287047538512.75916,
       "spark": [
         2687.92,
         2677.38,
@@ -75,13 +75,13 @@
         2326.83,
         2320.67,
         2347.32,
-        2365.47
+        2349.85
       ]
     },
     "solana": {
-      "usd": 102.81,
-      "usd_24h_change": 3.61,
-      "usd_market_cap": 60656353606.34415,
+      "usd": 102.09,
+      "usd_24h_change": 1.26,
+      "usd_market_cap": 60190194464.55392,
       "spark": [
         118.82,
         119.09,
@@ -113,7 +113,7 @@
         101.24,
         100.75,
         101.2,
-        102.81
+        102.06
       ]
     }
   },
@@ -125,8 +125,8 @@
     "error": "HTTP Error 500: Internal Server Error"
   },
   "car_news": {
-    "headline": "Winter Storm Warning: Up to 18 Inches of Snow Through Thursday",
-    "url": "https://www.autoblog.com/news/winter-storm-warning-up-to-18-inches-of-snow-through-thursday",
+    "headline": "Future Chevy Silverados May Need Fewer Trips to the Dealer",
+    "url": "https://www.autoblog.com/news/future-chevy-silverados-may-need-fewer-trips-to-the-dealer",
     "source": "https://www.autoblog.com/rss.xml"
   },
   "onthisday": {
