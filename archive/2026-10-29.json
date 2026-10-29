@@ -1,11 +1,11 @@
 {
   "date": "2026-10-29",
-  "fetched_at": "2026-10-29T10:37:32.094311+00:00",
+  "fetched_at": "2026-10-29T20:52:20.107474+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 80181,
-      "usd_24h_change": -1.56,
-      "usd_market_cap": 1611224906953.1338,
+      "usd": 78948,
+      "usd_24h_change": -2.59,
+      "usd_market_cap": 1585710684342.5217,
       "spark": [
         83640.1,
         83576.13,
@@ -37,13 +37,13 @@
         80029.43,
         80800.83,
         81274.37,
-        80182.6
+        79102.78
       ]
     },
     "ethereum": {
-      "usd": 2321.17,
-      "usd_24h_change": -1.95,
-      "usd_market_cap": 283602160725.5937,
+      "usd": 2260.72,
+      "usd_24h_change": -3.9,
+      "usd_market_cap": 275707518530.87665,
       "spark": [
         2677.38,
         2684.71,
@@ -75,13 +75,13 @@
         2320.67,
         2347.32,
         2357.47,
-        2321.17
+        2264.08
       ]
     },
     "solana": {
-      "usd": 100.25,
-      "usd_24h_change": -2.74,
-      "usd_market_cap": 59105945613.312775,
+      "usd": 96.46,
+      "usd_24h_change": -5.52,
+      "usd_market_cap": 56774553538.80353,
       "spark": [
         119.09,
         118.04,
@@ -113,7 +113,7 @@
         100.75,
         101.2,
         102.32,
-        100.3
+        96.64
       ]
     }
   },
@@ -122,11 +122,15 @@
     "author": "Brian Tracy"
   },
   "nasa": {
-    "error": "HTTP Error 500: Internal Server Error"
+    "title": "NASA Science",
+    "explanation": "That's no moon. But you could be forgiven for thinking it was a crescent Moon in the sky. It is a lesser known fact that Venus also has phases. (What about other planets?) The featured image shows Venus seen almost directly between the Sun and the Earth. This happens once every year and a half, and it is like the alignment that happens every month during a new Moon. But the new Moon is dark, while Venus' backlit atmosphere refracts and scatters the sunlight, creating a glowing crescent arc that extends beyond 180 degrees: the tips of this arc are called the \"horns\". The crescent can be seen with a small telescope or binoculars during twilight, but those with exceptionally acute eyesight may be able to see it with the unaided eye. Ancient Babylonian astronomers may have been the first to study Venus' brightness changes, which are related to its phases. Many other cultures have similar astronomical records, including the oldest surviving Maya book.",
+    "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
+    "media_type": "image",
+    "thumbnail_url": null
   },
   "car_news": {
-    "headline": "Winter Storm Warning Issued for Up to 15 Inches of Snow Through Friday",
-    "url": "https://www.autoblog.com/news/winter-storm-warning-issued-for-up-to-15-inches-of-snow-through-friday",
+    "headline": "GMC Yukon Owner Says Nearly $10,000 in Repairs Still Didn't Fix SUV",
+    "url": "https://www.autoblog.com/news/gmc-yukon-owner-says-nearly-10000-in-repairs-still-didnt-fix-suv",
     "source": "https://www.autoblog.com/rss.xml"
   },
   "onthisday": {
