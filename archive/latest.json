@@ -1,13 +1,12 @@
 {
-  "date": "2026-10-28",
-  "fetched_at": "2026-10-28T20:45:48.407442+00:00",
+  "date": "2026-10-29",
+  "fetched_at": "2026-10-29T10:37:32.094311+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 81048,
-      "usd_24h_change": 0.6,
-      "usd_market_cap": 1629652326591.969,
+      "usd": 80181,
+      "usd_24h_change": -1.56,
+      "usd_market_cap": 1611224906953.1338,
       "spark": [
-        83479.25,
         83640.1,
         83576.13,
         84841.67,
@@ -37,15 +36,15 @@
         80048.85,
         80029.43,
         80800.83,
-        81024.85
+        81274.37,
+        80182.6
       ]
     },
     "ethereum": {
-      "usd": 2350.01,
-      "usd_24h_change": 0.48,
-      "usd_market_cap": 287047538512.75916,
+      "usd": 2321.17,
+      "usd_24h_change": -1.95,
+      "usd_market_cap": 283602160725.5937,
       "spark": [
-        2687.92,
         2677.38,
         2684.71,
         2705.3,
@@ -75,15 +74,15 @@
         2326.83,
         2320.67,
         2347.32,
-        2349.85
+        2357.47,
+        2321.17
       ]
     },
     "solana": {
-      "usd": 102.09,
-      "usd_24h_change": 1.26,
-      "usd_market_cap": 60190194464.55392,
+      "usd": 100.25,
+      "usd_24h_change": -2.74,
+      "usd_market_cap": 59105945613.312775,
       "spark": [
-        118.82,
         119.09,
         118.04,
         118.38,
@@ -113,33 +112,34 @@
         101.24,
         100.75,
         101.2,
-        102.06
+        102.32,
+        100.3
       ]
     }
   },
   "quote": {
-    "text": "What we dwell on is who we become.",
-    "author": "Oprah Winfrey"
+    "text": "The more reasons you have for achieving your goal, the more determined you will become.",
+    "author": "Brian Tracy"
   },
   "nasa": {
     "error": "HTTP Error 500: Internal Server Error"
   },
   "car_news": {
-    "headline": "Future Chevy Silverados May Need Fewer Trips to the Dealer",
-    "url": "https://www.autoblog.com/news/future-chevy-silverados-may-need-fewer-trips-to-the-dealer",
+    "headline": "Winter Storm Warning Issued for Up to 15 Inches of Snow Through Friday",
+    "url": "https://www.autoblog.com/news/winter-storm-warning-issued-for-up-to-15-inches-of-snow-through-friday",
     "source": "https://www.autoblog.com/rss.xml"
   },
   "onthisday": {
-    "year": 97,
-    "text": "Roman emperor Nerva is forced by the Praetorian Guard to adopt general Marcus Ulpius Trajanus as his heir and successor.",
-    "title": "AD 97",
-    "url": "https://en.wikipedia.org/wiki/AD_97"
+    "year": 312,
+    "text": "Constantine the Great enters Rome after his victory at the Battle of the Milvian Bridge, stages a grand adventus in the city, and is met with popular jubilation. Maxentius' body is fished out of the Tiber and beheaded.",
+    "title": "Constantine the Great",
+    "url": "https://en.wikipedia.org/wiki/Constantine_the_Great"
   },
   "github": {
     "login": "Deadsunx",
     "name": "Oumar Tirera",
     "public_repos": 11,
-    "followers": 10,
+    "followers": 11,
     "following": 12,
     "created_at": "2022-05-12T17:33:47Z",
     "html_url": "https://github.com/Deadsunx",

@@ -35,22 +35,22 @@ python daily_update.py
 Only the Python standard library is used — nothing to install.
 
 <!-- LATEST:START -->
-### 📅 Latest snapshot — 2026-10-28
+### 📅 Latest snapshot — 2026-10-29
 
-> *"What we dwell on is who we become."* — **Oprah Winfrey**
+> *"The more reasons you have for achieving your goal, the more determined you will become."* — **Brian Tracy**
 
 **Crypto (USD)**
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $81,048 | +0.6% |
-| Ethereum | $2,350.01 | +0.48% |
-| Solana | $102.09 | +1.26% |
+| Bitcoin | $80,181 | -1.56% |
+| Ethereum | $2,321.17 | -1.95% |
+| Solana | $100.25 | -2.74% |
 
-**🚗 Car news:** [Future Chevy Silverados May Need Fewer Trips to the Dealer](https://www.autoblog.com/news/future-chevy-silverados-may-need-fewer-trips-to-the-dealer)
+**🚗 Car news:** [Winter Storm Warning Issued for Up to 15 Inches of Snow Through Friday](https://www.autoblog.com/news/winter-storm-warning-issued-for-up-to-15-inches-of-snow-through-friday)
 
-**📜 On this day, 97:** Roman emperor Nerva is forced by the Praetorian Guard to adopt general Marcus Ulpius Trajanus as his heir and successor. — [AD 97](https://en.wikipedia.org/wiki/AD_97)
+**📜 On this day, 312:** Constantine the Great enters Rome after his victory at the Battle of the Milvian Bridge, stages a grand adventus in the city, and is met with popular jubilation. Maxentius' body is fished out of the Tiber and beheaded. — [Constantine the Great](https://en.wikipedia.org/wiki/Constantine_the_Great)
 
-**🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 11 repos · 10 followers
+**🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 11 repos · 11 followers
 
 <!-- LATEST:END -->
