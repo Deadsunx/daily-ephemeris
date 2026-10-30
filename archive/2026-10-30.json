@@ -1,11 +1,11 @@
 {
   "date": "2026-10-30",
-  "fetched_at": "2026-10-30T10:39:35.785083+00:00",
+  "fetched_at": "2026-10-30T20:23:19.882143+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 77563,
-      "usd_24h_change": -3.25,
-      "usd_market_cap": 1559399057136.5713,
+      "usd": 76904,
+      "usd_24h_change": -4.16,
+      "usd_market_cap": 1546308252245.979,
       "spark": [
         83576.13,
         84841.67,
@@ -37,13 +37,13 @@
         80800.83,
         81274.37,
         77838.81,
-        77566.42
+        76885.17
       ]
     },
     "ethereum": {
-      "usd": 2239.86,
-      "usd_24h_change": -3.55,
-      "usd_market_cap": 273632979471.567,
+      "usd": 2239.07,
+      "usd_24h_change": -3.2,
+      "usd_market_cap": 273534424912.52896,
       "spark": [
         2684.71,
         2705.3,
@@ -75,13 +75,13 @@
         2347.32,
         2357.47,
         2249.48,
-        2239.86
+        2237.98
       ]
     },
     "solana": {
-      "usd": 97.02,
-      "usd_24h_change": -3.32,
-      "usd_market_cap": 57256651156.323395,
+      "usd": 94.89,
+      "usd_24h_change": -4.18,
+      "usd_market_cap": 55997679689.11032,
       "spark": [
         118.04,
         118.38,
@@ -113,7 +113,7 @@
         101.2,
         102.32,
         95.47,
-        97.02
+        94.8
       ]
     }
   },
@@ -122,15 +122,11 @@
     "author": "Chinese Proverb"
   },
   "nasa": {
-    "title": "NASA Science",
-    "explanation": "Spooky shapes seem to haunt this dusty expanse, drifting through the night in the royal constellation Cepheus. Of course, the shapes are cosmic dust clouds visible in dimly reflected starlight. Far from your own neighborhood, they lurk above the plane of the Milky Way at the edge of the Cepheus Flare molecular cloud complex some 1,200 light-years away. Over 2 light-years across and brighter than most of the other ghostly apparitions, vdB 141 or Sh2-136 is also known as the Ghost Nebula. It lies at lower right in the starry field of view. Inside the Ghost Nebula are reddish telltale signs of dense cores collapsing in the early stages of star formation. With the eerie hue of interstellar dust reflecting bluish light from hot young stars of NGC 7023, the Iris Nebula stands out against the dark just left of center. In the broad telescopic frame, these fertile interstellar dust fields stretch almost six full moons across the sky.Tomorrow's picture: night on a spooky planet\t\t\t\t\t\t",
-    "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
-    "media_type": "image",
-    "thumbnail_url": null
+    "error": "HTTP Error 500: Internal Server Error"
   },
   "car_news": {
-    "headline": "Winter Weather Advisory Issued for Up to 12 Inches of Snow and 50 MPH Gusts This Weekend",
-    "url": "https://www.autoblog.com/news/winter-weather-advisory-issued-for-up-to-12-inches-of-snow-and-50-mph-gusts-this-weekend",
+    "headline": "BMW Alpina's First New Model Spied as a V8-Powered 7 Series",
+    "url": "https://www.autoblog.com/news/spy-shots-bmw-alpina-7-series-b7-nurburgring",
     "source": "https://www.autoblog.com/rss.xml"
   },
   "onthisday": {

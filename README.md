@@ -43,13 +43,11 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $77,563 | -3.25% |
-| Ethereum | $2,239.86 | -3.55% |
-| Solana | $97.02 | -3.32% |
+| Bitcoin | $76,904 | -4.16% |
+| Ethereum | $2,239.07 | -3.2% |
+| Solana | $94.89 | -4.18% |
 
-**🔭 NASA:** [NASA Science](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)
-
-**🚗 Car news:** [Winter Weather Advisory Issued for Up to 12 Inches of Snow and 50 MPH Gusts This Weekend](https://www.autoblog.com/news/winter-weather-advisory-issued-for-up-to-12-inches-of-snow-and-50-mph-gusts-this-weekend)
+**🚗 Car news:** [BMW Alpina's First New Model Spied as a V8-Powered 7 Series](https://www.autoblog.com/news/spy-shots-bmw-alpina-7-series-b7-nurburgring)
 
 **📜 On this day, 130:** Emperor Hadrian establishes the city of Antinoöpolis on the Nile in honour of his companion Antinous, creating a new Hellenizing foundation in Roman Egypt. — [AD 130](https://en.wikipedia.org/wiki/AD_130)
 
