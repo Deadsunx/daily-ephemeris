@@ -1504,5 +1504,21 @@
       "year": 312,
       "title": "Constantine the Great"
     }
+  },
+  {
+    "date": "2026-10-30",
+    "quote": {
+      "text": "Distant water does not put out a nearby fire.",
+      "author": "Chinese Proverb"
+    },
+    "nasa": {
+      "title": "NASA Science",
+      "media_type": "image"
+    },
+    "car": "Winter Weather Advisory Issued for Up to 12 Inches of Snow and 50 MPH Gusts This Weekend",
+    "onthisday": {
+      "year": 130,
+      "title": "AD 130"
+    }
   }
 ]

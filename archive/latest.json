@@ -1,13 +1,12 @@
 {
-  "date": "2026-10-29",
-  "fetched_at": "2026-10-29T20:52:20.107474+00:00",
+  "date": "2026-10-30",
+  "fetched_at": "2026-10-30T10:39:35.785083+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 78948,
-      "usd_24h_change": -2.59,
-      "usd_market_cap": 1585710684342.5217,
+      "usd": 77563,
+      "usd_24h_change": -3.25,
+      "usd_market_cap": 1559399057136.5713,
       "spark": [
-        83640.1,
         83576.13,
         84841.67,
         84506.47,
@@ -37,15 +36,15 @@
         80029.43,
         80800.83,
         81274.37,
-        79102.78
+        77838.81,
+        77566.42
       ]
     },
     "ethereum": {
-      "usd": 2260.72,
-      "usd_24h_change": -3.9,
-      "usd_market_cap": 275707518530.87665,
+      "usd": 2239.86,
+      "usd_24h_change": -3.55,
+      "usd_market_cap": 273632979471.567,
       "spark": [
-        2677.38,
         2684.71,
         2705.3,
         2667.95,
@@ -75,15 +74,15 @@
         2320.67,
         2347.32,
         2357.47,
-        2264.08
+        2249.48,
+        2239.86
       ]
     },
     "solana": {
-      "usd": 96.46,
-      "usd_24h_change": -5.52,
-      "usd_market_cap": 56774553538.80353,
+      "usd": 97.02,
+      "usd_24h_change": -3.32,
+      "usd_market_cap": 57256651156.323395,
       "spark": [
-        119.09,
         118.04,
         118.38,
         118.59,
@@ -113,31 +112,32 @@
         100.75,
         101.2,
         102.32,
-        96.64
+        95.47,
+        97.02
       ]
     }
   },
   "quote": {
-    "text": "The more reasons you have for achieving your goal, the more determined you will become.",
-    "author": "Brian Tracy"
+    "text": "Distant water does not put out a nearby fire.",
+    "author": "Chinese Proverb"
   },
   "nasa": {
     "title": "NASA Science",
-    "explanation": "That's no moon. But you could be forgiven for thinking it was a crescent Moon in the sky. It is a lesser known fact that Venus also has phases. (What about other planets?) The featured image shows Venus seen almost directly between the Sun and the Earth. This happens once every year and a half, and it is like the alignment that happens every month during a new Moon. But the new Moon is dark, while Venus' backlit atmosphere refracts and scatters the sunlight, creating a glowing crescent arc that extends beyond 180 degrees: the tips of this arc are called the \"horns\". The crescent can be seen with a small telescope or binoculars during twilight, but those with exceptionally acute eyesight may be able to see it with the unaided eye. Ancient Babylonian astronomers may have been the first to study Venus' brightness changes, which are related to its phases. Many other cultures have similar astronomical records, including the oldest surviving Maya book.",
+    "explanation": "Spooky shapes seem to haunt this dusty expanse, drifting through the night in the royal constellation Cepheus. Of course, the shapes are cosmic dust clouds visible in dimly reflected starlight. Far from your own neighborhood, they lurk above the plane of the Milky Way at the edge of the Cepheus Flare molecular cloud complex some 1,200 light-years away. Over 2 light-years across and brighter than most of the other ghostly apparitions, vdB 141 or Sh2-136 is also known as the Ghost Nebula. It lies at lower right in the starry field of view. Inside the Ghost Nebula are reddish telltale signs of dense cores collapsing in the early stages of star formation. With the eerie hue of interstellar dust reflecting bluish light from hot young stars of NGC 7023, the Iris Nebula stands out against the dark just left of center. In the broad telescopic frame, these fertile interstellar dust fields stretch almost six full moons across the sky.Tomorrow's picture: night on a spooky planet\t\t\t\t\t\t",
     "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
     "media_type": "image",
     "thumbnail_url": null
   },
   "car_news": {
-    "headline": "GMC Yukon Owner Says Nearly $10,000 in Repairs Still Didn't Fix SUV",
-    "url": "https://www.autoblog.com/news/gmc-yukon-owner-says-nearly-10000-in-repairs-still-didnt-fix-suv",
+    "headline": "Winter Weather Advisory Issued for Up to 12 Inches of Snow and 50 MPH Gusts This Weekend",
+    "url": "https://www.autoblog.com/news/winter-weather-advisory-issued-for-up-to-12-inches-of-snow-and-50-mph-gusts-this-weekend",
     "source": "https://www.autoblog.com/rss.xml"
   },
   "onthisday": {
-    "year": 312,
-    "text": "Constantine the Great enters Rome after his victory at the Battle of the Milvian Bridge, stages a grand adventus in the city, and is met with popular jubilation. Maxentius' body is fished out of the Tiber and beheaded.",
-    "title": "Constantine the Great",
-    "url": "https://en.wikipedia.org/wiki/Constantine_the_Great"
+    "year": 130,
+    "text": "Emperor Hadrian establishes the city of Antino\u00f6polis on the Nile in honour of his companion Antinous, creating a new Hellenizing foundation in Roman Egypt.",
+    "title": "AD 130",
+    "url": "https://en.wikipedia.org/wiki/AD_130"
   },
   "github": {
     "login": "Deadsunx",

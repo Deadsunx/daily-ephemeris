@@ -35,23 +35,23 @@ python daily_update.py
 Only the Python standard library is used — nothing to install.
 
 <!-- LATEST:START -->
-### 📅 Latest snapshot — 2026-10-29
+### 📅 Latest snapshot — 2026-10-30
 
-> *"The more reasons you have for achieving your goal, the more determined you will become."* — **Brian Tracy**
+> *"Distant water does not put out a nearby fire."* — **Chinese Proverb**
 
 **Crypto (USD)**
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $78,948 | -2.59% |
-| Ethereum | $2,260.72 | -3.9% |
-| Solana | $96.46 | -5.52% |
+| Bitcoin | $77,563 | -3.25% |
+| Ethereum | $2,239.86 | -3.55% |
+| Solana | $97.02 | -3.32% |
 
 **🔭 NASA:** [NASA Science](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)
 
-**🚗 Car news:** [GMC Yukon Owner Says Nearly $10,000 in Repairs Still Didn't Fix SUV](https://www.autoblog.com/news/gmc-yukon-owner-says-nearly-10000-in-repairs-still-didnt-fix-suv)
+**🚗 Car news:** [Winter Weather Advisory Issued for Up to 12 Inches of Snow and 50 MPH Gusts This Weekend](https://www.autoblog.com/news/winter-weather-advisory-issued-for-up-to-12-inches-of-snow-and-50-mph-gusts-this-weekend)
 
-**📜 On this day, 312:** Constantine the Great enters Rome after his victory at the Battle of the Milvian Bridge, stages a grand adventus in the city, and is met with popular jubilation. Maxentius' body is fished out of the Tiber and beheaded. — [Constantine the Great](https://en.wikipedia.org/wiki/Constantine_the_Great)
+**📜 On this day, 130:** Emperor Hadrian establishes the city of Antinoöpolis on the Nile in honour of his companion Antinous, creating a new Hellenizing foundation in Roman Egypt. — [AD 130](https://en.wikipedia.org/wiki/AD_130)
 
 **🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 11 repos · 11 followers
 
