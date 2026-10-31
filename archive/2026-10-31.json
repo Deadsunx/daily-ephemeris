@@ -1,11 +1,11 @@
 {
   "date": "2026-10-31",
-  "fetched_at": "2026-10-31T10:05:27.721045+00:00",
+  "fetched_at": "2026-10-31T19:43:01.795363+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 77358,
-      "usd_24h_change": -0.15,
-      "usd_market_cap": 1555303889629.8948,
+      "usd": 77508,
+      "usd_24h_change": 1.26,
+      "usd_market_cap": 1558150526948.339,
       "spark": [
         84841.67,
         84506.47,
@@ -37,13 +37,13 @@
         81274.37,
         77838.81,
         77223.17,
-        77358.4
+        77508.26
       ]
     },
     "ethereum": {
-      "usd": 2241.53,
-      "usd_24h_change": 0.8,
-      "usd_market_cap": 273864324454.96997,
+      "usd": 2253.12,
+      "usd_24h_change": 1.07,
+      "usd_market_cap": 275279416720.4105,
       "spark": [
         2705.3,
         2667.95,
@@ -75,13 +75,13 @@
         2357.47,
         2249.48,
         2242.5,
-        2242.68
+        2253.17
       ]
     },
     "solana": {
-      "usd": 95.39,
-      "usd_24h_change": -1.05,
-      "usd_market_cap": 56305925601.38593,
+      "usd": 95.85,
+      "usd_24h_change": 1.56,
+      "usd_market_cap": 56561184298.070984,
       "spark": [
         118.38,
         118.59,
@@ -113,7 +113,7 @@
         102.32,
         95.47,
         96.25,
-        95.44
+        95.87
       ]
     }
   },
@@ -125,8 +125,8 @@
     "error": "HTTP Error 500: Internal Server Error"
   },
   "car_news": {
-    "headline": "Winter Weather Advisory: Up to 10 Inches of Snow and 35 MPH Gusts Through Sunday",
-    "url": "https://www.autoblog.com/news/winter-weather-advisory-up-to-10-inches-of-snow-and-35-mph-gusts-through-sunday",
+    "headline": "Two Honda Prelude Builds Show What a Type R Might Have Been",
+    "url": "https://www.autoblog.com/news/two-honda-prelude-builds-show-what-a-type-r-might-have-been",
     "source": "https://www.autoblog.com/rss.xml"
   },
   "onthisday": {

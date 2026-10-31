@@ -43,11 +43,11 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $77,358 | -0.15% |
-| Ethereum | $2,241.53 | +0.8% |
-| Solana | $95.39 | -1.05% |
+| Bitcoin | $77,508 | +1.26% |
+| Ethereum | $2,253.12 | +1.07% |
+| Solana | $95.85 | +1.56% |
 
-**🚗 Car news:** [Winter Weather Advisory: Up to 10 Inches of Snow and 35 MPH Gusts Through Sunday](https://www.autoblog.com/news/winter-weather-advisory-up-to-10-inches-of-snow-and-35-mph-gusts-through-sunday)
+**🚗 Car news:** [Two Honda Prelude Builds Show What a Type R Might Have Been](https://www.autoblog.com/news/two-honda-prelude-builds-show-what-a-type-r-might-have-been)
 
 **📜 On this day, 475:** Romulus Augustulus is proclaimed Western Roman Emperor. — [Romulus Augustulus](https://en.wikipedia.org/wiki/Romulus_Augustulus)
 
