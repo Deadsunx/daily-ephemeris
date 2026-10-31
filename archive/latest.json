@@ -1,13 +1,12 @@
 {
-  "date": "2026-10-30",
-  "fetched_at": "2026-10-30T20:23:19.882143+00:00",
+  "date": "2026-10-31",
+  "fetched_at": "2026-10-31T10:05:27.721045+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 76904,
-      "usd_24h_change": -4.16,
-      "usd_market_cap": 1546308252245.979,
+      "usd": 77358,
+      "usd_24h_change": -0.15,
+      "usd_market_cap": 1555303889629.8948,
       "spark": [
-        83576.13,
         84841.67,
         84506.47,
         84742.79,
@@ -37,15 +36,15 @@
         80800.83,
         81274.37,
         77838.81,
-        76885.17
+        77223.17,
+        77358.4
       ]
     },
     "ethereum": {
-      "usd": 2239.07,
-      "usd_24h_change": -3.2,
-      "usd_market_cap": 273534424912.52896,
+      "usd": 2241.53,
+      "usd_24h_change": 0.8,
+      "usd_market_cap": 273864324454.96997,
       "spark": [
-        2684.71,
         2705.3,
         2667.95,
         2686.89,
@@ -75,15 +74,15 @@
         2347.32,
         2357.47,
         2249.48,
-        2237.98
+        2242.5,
+        2242.68
       ]
     },
     "solana": {
-      "usd": 94.89,
-      "usd_24h_change": -4.18,
-      "usd_market_cap": 55997679689.11032,
+      "usd": 95.39,
+      "usd_24h_change": -1.05,
+      "usd_market_cap": 56305925601.38593,
       "spark": [
-        118.04,
         118.38,
         118.59,
         119.6,
@@ -113,27 +112,28 @@
         101.2,
         102.32,
         95.47,
-        94.8
+        96.25,
+        95.44
       ]
     }
   },
   "quote": {
-    "text": "Distant water does not put out a nearby fire.",
-    "author": "Chinese Proverb"
+    "text": "When you believe in a thing, believe in it all the way, implicitly and unquestionable.",
+    "author": "Walt Disney"
   },
   "nasa": {
     "error": "HTTP Error 500: Internal Server Error"
   },
   "car_news": {
-    "headline": "BMW Alpina's First New Model Spied as a V8-Powered 7 Series",
-    "url": "https://www.autoblog.com/news/spy-shots-bmw-alpina-7-series-b7-nurburgring",
+    "headline": "Winter Weather Advisory: Up to 10 Inches of Snow and 35 MPH Gusts Through Sunday",
+    "url": "https://www.autoblog.com/news/winter-weather-advisory-up-to-10-inches-of-snow-and-35-mph-gusts-through-sunday",
     "source": "https://www.autoblog.com/rss.xml"
   },
   "onthisday": {
-    "year": 130,
-    "text": "Emperor Hadrian establishes the city of Antino\u00f6polis on the Nile in honour of his companion Antinous, creating a new Hellenizing foundation in Roman Egypt.",
-    "title": "AD 130",
-    "url": "https://en.wikipedia.org/wiki/AD_130"
+    "year": 475,
+    "text": "Romulus Augustulus is proclaimed Western Roman Emperor.",
+    "title": "Romulus Augustulus",
+    "url": "https://en.wikipedia.org/wiki/Romulus_Augustulus"
   },
   "github": {
     "login": "Deadsunx",
