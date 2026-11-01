@@ -1,13 +1,12 @@
 {
-  "date": "2026-10-31",
-  "fetched_at": "2026-10-31T19:43:01.795363+00:00",
+  "date": "2026-11-01",
+  "fetched_at": "2026-11-01T10:56:23.954429+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 77508,
-      "usd_24h_change": 1.26,
-      "usd_market_cap": 1558150526948.339,
+      "usd": 77930,
+      "usd_24h_change": 0.78,
+      "usd_market_cap": 1564139267647.888,
       "spark": [
-        84841.67,
         84506.47,
         84742.79,
         86489.73,
@@ -37,15 +36,15 @@
         81274.37,
         77838.81,
         77223.17,
-        77508.26
+        77474.08,
+        77930.13
       ]
     },
     "ethereum": {
-      "usd": 2253.12,
-      "usd_24h_change": 1.07,
-      "usd_market_cap": 275279416720.4105,
+      "usd": 2269.03,
+      "usd_24h_change": 1.14,
+      "usd_market_cap": 276858697674.9773,
       "spark": [
-        2705.3,
         2667.95,
         2686.89,
         2725.91,
@@ -75,15 +74,15 @@
         2357.47,
         2249.48,
         2242.5,
-        2253.17
+        2254.13,
+        2268.94
       ]
     },
     "solana": {
-      "usd": 95.85,
-      "usd_24h_change": 1.56,
-      "usd_market_cap": 56561184298.070984,
+      "usd": 95.34,
+      "usd_24h_change": -0.22,
+      "usd_market_cap": 56285276700.29131,
       "spark": [
-        118.38,
         118.59,
         119.6,
         121.52,
@@ -113,27 +112,28 @@
         102.32,
         95.47,
         96.25,
-        95.87
+        95.42,
+        95.34
       ]
     }
   },
   "quote": {
-    "text": "When you believe in a thing, believe in it all the way, implicitly and unquestionable.",
-    "author": "Walt Disney"
+    "text": "When something comes from within, when it is a part of you, you have no choice but to live it, to express it.",
+    "author": "Kamal Ravikant"
   },
   "nasa": {
     "error": "HTTP Error 500: Internal Server Error"
   },
   "car_news": {
-    "headline": "Two Honda Prelude Builds Show What a Type R Might Have Been",
-    "url": "https://www.autoblog.com/news/two-honda-prelude-builds-show-what-a-type-r-might-have-been",
+    "headline": "What If Your Car's Brakes Fail? Bosch Has a Touchscreen Solution",
+    "url": "https://www.autoblog.com/news/what-if-your-cars-brakes-fail-bosch-has-a-touchscreen-solution",
     "source": "https://www.autoblog.com/rss.xml"
   },
   "onthisday": {
-    "year": 475,
-    "text": "Romulus Augustulus is proclaimed Western Roman Emperor.",
-    "title": "Romulus Augustulus",
-    "url": "https://en.wikipedia.org/wiki/Romulus_Augustulus"
+    "year": 365,
+    "text": "Roman Emperor Valentinian I learns the Alemanni have crossed the Rhine and invaded Gaul.",
+    "title": "AD 365",
+    "url": "https://en.wikipedia.org/wiki/AD_365"
   },
   "github": {
     "login": "Deadsunx",
