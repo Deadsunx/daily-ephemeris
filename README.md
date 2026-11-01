@@ -43,11 +43,11 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $77,930 | +0.78% |
-| Ethereum | $2,269.03 | +1.14% |
-| Solana | $95.34 | -0.22% |
+| Bitcoin | $77,775 | +0.32% |
+| Ethereum | $2,257.4 | +0.16% |
+| Solana | $93.92 | -1.95% |
 
-**🚗 Car news:** [What If Your Car's Brakes Fail? Bosch Has a Touchscreen Solution](https://www.autoblog.com/news/what-if-your-cars-brakes-fail-bosch-has-a-touchscreen-solution)
+**🚗 Car news:** [Just 11% of Gas-Car Owners See an EV as Their Likely Next Buy](https://www.autoblog.com/news/just-11-of-gas-car-owners-see-an-ev-as-their-likely-next-buy)
 
 **📜 On this day, 365:** Roman Emperor Valentinian I learns the Alemanni have crossed the Rhine and invaded Gaul. — [AD 365](https://en.wikipedia.org/wiki/AD_365)
 

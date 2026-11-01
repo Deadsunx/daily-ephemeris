@@ -1,11 +1,11 @@
 {
   "date": "2026-11-01",
-  "fetched_at": "2026-11-01T10:56:23.954429+00:00",
+  "fetched_at": "2026-11-01T20:09:49.992319+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 77930,
-      "usd_24h_change": 0.78,
-      "usd_market_cap": 1564139267647.888,
+      "usd": 77775,
+      "usd_24h_change": 0.32,
+      "usd_market_cap": 1563688628090.6003,
       "spark": [
         84506.47,
         84742.79,
@@ -37,13 +37,13 @@
         77838.81,
         77223.17,
         77474.08,
-        77930.13
+        77776.35
       ]
     },
     "ethereum": {
-      "usd": 2269.03,
-      "usd_24h_change": 1.14,
-      "usd_market_cap": 276858697674.9773,
+      "usd": 2257.4,
+      "usd_24h_change": 0.16,
+      "usd_market_cap": 275809787714.13214,
       "spark": [
         2667.95,
         2686.89,
@@ -75,13 +75,13 @@
         2249.48,
         2242.5,
         2254.13,
-        2268.94
+        2257.26
       ]
     },
     "solana": {
-      "usd": 95.34,
-      "usd_24h_change": -0.22,
-      "usd_market_cap": 56285276700.29131,
+      "usd": 93.92,
+      "usd_24h_change": -1.95,
+      "usd_market_cap": 55429079989.95858,
       "spark": [
         118.59,
         119.6,
@@ -113,7 +113,7 @@
         95.47,
         96.25,
         95.42,
-        95.34
+        93.92
       ]
     }
   },
@@ -125,8 +125,8 @@
     "error": "HTTP Error 500: Internal Server Error"
   },
   "car_news": {
-    "headline": "What If Your Car's Brakes Fail? Bosch Has a Touchscreen Solution",
-    "url": "https://www.autoblog.com/news/what-if-your-cars-brakes-fail-bosch-has-a-touchscreen-solution",
+    "headline": "Just 11% of Gas-Car Owners See an EV as Their Likely Next Buy",
+    "url": "https://www.autoblog.com/news/just-11-of-gas-car-owners-see-an-ev-as-their-likely-next-buy",
     "source": "https://www.autoblog.com/rss.xml"
   },
   "onthisday": {
