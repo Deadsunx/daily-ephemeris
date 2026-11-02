@@ -35,22 +35,22 @@ python daily_update.py
 Only the Python standard library is used — nothing to install.
 
 <!-- LATEST:START -->
-### 📅 Latest snapshot — 2026-11-01
+### 📅 Latest snapshot — 2026-11-02
 
-> *"When something comes from within, when it is a part of you, you have no choice but to live it, to express it."* — **Kamal Ravikant**
+> *"If you want others to be happy, practice compassion. If you want to be happy, practice compassion."* — **Dalai Lama**
 
 **Crypto (USD)**
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $77,775 | +0.32% |
-| Ethereum | $2,257.4 | +0.16% |
-| Solana | $93.92 | -1.95% |
+| Bitcoin | $77,758 | -0.13% |
+| Ethereum | $2,282.73 | +0.62% |
+| Solana | $93.85 | -1.45% |
 
-**🚗 Car news:** [Just 11% of Gas-Car Owners See an EV as Their Likely Next Buy](https://www.autoblog.com/news/just-11-of-gas-car-owners-see-an-ev-as-their-likely-next-buy)
+**🚗 Car news:** [Ferrari Challenge Stradale Is Reportedly Returning After 20-Plus Years](https://www.autoblog.com/news/ferrari-challenge-stradale-is-reportedly-returning-after-20-plus-years)
 
-**📜 On this day, 365:** Roman Emperor Valentinian I learns the Alemanni have crossed the Rhine and invaded Gaul. — [AD 365](https://en.wikipedia.org/wiki/AD_365)
+**📜 On this day, 619:** A qaghan of the Western Turkic Khaganate is assassinated in a Chinese palace by Eastern Turkic rivals after the approval of Tang emperor Gaozu. — [Great Khan](https://en.wikipedia.org/wiki/Great_Khan)
 
-**🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 11 repos · 11 followers
+**🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 11 repos · 10 followers
 
 <!-- LATEST:END -->

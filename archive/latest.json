@@ -1,13 +1,12 @@
 {
-  "date": "2026-11-01",
-  "fetched_at": "2026-11-01T20:09:49.992319+00:00",
+  "date": "2026-11-02",
+  "fetched_at": "2026-11-02T11:54:35.746729+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 77775,
-      "usd_24h_change": 0.32,
-      "usd_market_cap": 1563688628090.6003,
+      "usd": 77758,
+      "usd_24h_change": -0.13,
+      "usd_market_cap": 1563220044217.2026,
       "spark": [
-        84506.47,
         84742.79,
         86489.73,
         85770.87,
@@ -35,17 +34,17 @@
         80800.83,
         81274.37,
         77838.81,
-        77223.17,
-        77474.08,
-        77776.35
+        77275.05,
+        77520.89,
+        78293.84,
+        77741.26
       ]
     },
     "ethereum": {
-      "usd": 2257.4,
-      "usd_24h_change": 0.16,
-      "usd_market_cap": 275809787714.13214,
+      "usd": 2282.73,
+      "usd_24h_change": 0.62,
+      "usd_market_cap": 278900661884.52356,
       "spark": [
-        2667.95,
         2686.89,
         2725.91,
         2710.42,
@@ -75,15 +74,15 @@
         2249.48,
         2242.5,
         2254.13,
-        2257.26
+        2273.92,
+        2282.76
       ]
     },
     "solana": {
-      "usd": 93.92,
-      "usd_24h_change": -1.95,
-      "usd_market_cap": 55429079989.95858,
+      "usd": 93.85,
+      "usd_24h_change": -1.45,
+      "usd_market_cap": 55383650948.93686,
       "spark": [
-        118.59,
         119.6,
         121.52,
         120.76,
@@ -113,33 +112,34 @@
         95.47,
         96.25,
         95.42,
-        93.92
+        94.48,
+        93.86
       ]
     }
   },
   "quote": {
-    "text": "When something comes from within, when it is a part of you, you have no choice but to live it, to express it.",
-    "author": "Kamal Ravikant"
+    "text": "If you want others to be happy, practice compassion. If you want to be happy, practice compassion.",
+    "author": "Dalai Lama"
   },
   "nasa": {
-    "error": "HTTP Error 500: Internal Server Error"
+    "error": "The read operation timed out"
   },
   "car_news": {
-    "headline": "Just 11% of Gas-Car Owners See an EV as Their Likely Next Buy",
-    "url": "https://www.autoblog.com/news/just-11-of-gas-car-owners-see-an-ev-as-their-likely-next-buy",
+    "headline": "Ferrari Challenge Stradale Is Reportedly Returning After 20-Plus Years",
+    "url": "https://www.autoblog.com/news/ferrari-challenge-stradale-is-reportedly-returning-after-20-plus-years",
     "source": "https://www.autoblog.com/rss.xml"
   },
   "onthisday": {
-    "year": 365,
-    "text": "Roman Emperor Valentinian I learns the Alemanni have crossed the Rhine and invaded Gaul.",
-    "title": "AD 365",
-    "url": "https://en.wikipedia.org/wiki/AD_365"
+    "year": 619,
+    "text": "A qaghan of the Western Turkic Khaganate is assassinated in a Chinese palace by Eastern Turkic rivals after the approval of Tang emperor Gaozu.",
+    "title": "Great Khan",
+    "url": "https://en.wikipedia.org/wiki/Great_Khan"
   },
   "github": {
     "login": "Deadsunx",
     "name": "Oumar Tirera",
     "public_repos": 11,
-    "followers": 11,
+    "followers": 10,
     "following": 12,
     "created_at": "2022-05-12T17:33:47Z",
     "html_url": "https://github.com/Deadsunx",
