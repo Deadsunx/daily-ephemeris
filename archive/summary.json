@@ -1550,8 +1550,11 @@
       "text": "If you want others to be happy, practice compassion. If you want to be happy, practice compassion.",
       "author": "Dalai Lama"
     },
-    "nasa": null,
-    "car": "Ferrari Challenge Stradale Is Reportedly Returning After 20-Plus Years",
+    "nasa": {
+      "title": "NASA Science",
+      "media_type": "image"
+    },
+    "car": "Nissan Armada Jungle Patrol Ditches Roof and Luxury for Serious Off-Roading",
     "onthisday": {
       "year": 619,
       "title": "Great Khan"

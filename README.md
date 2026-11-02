@@ -43,11 +43,13 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $77,758 | -0.13% |
-| Ethereum | $2,282.73 | +0.62% |
-| Solana | $93.85 | -1.45% |
+| Bitcoin | $76,725 | -1.71% |
+| Ethereum | $2,251.65 | -0.74% |
+| Solana | $91.89 | -2.38% |
 
-**🚗 Car news:** [Ferrari Challenge Stradale Is Reportedly Returning After 20-Plus Years](https://www.autoblog.com/news/ferrari-challenge-stradale-is-reportedly-returning-after-20-plus-years)
+**🔭 NASA:** [NASA Science](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)
+
+**🚗 Car news:** [Nissan Armada Jungle Patrol Ditches Roof and Luxury for Serious Off-Roading](https://www.autoblog.com/news/nissan-armada-jungle-patrol-ditches-roof-and-luxury-for-serious-off-roading)
 
 **📜 On this day, 619:** A qaghan of the Western Turkic Khaganate is assassinated in a Chinese palace by Eastern Turkic rivals after the approval of Tang emperor Gaozu. — [Great Khan](https://en.wikipedia.org/wiki/Great_Khan)
 

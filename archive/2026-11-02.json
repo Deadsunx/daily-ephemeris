@@ -1,11 +1,11 @@
 {
   "date": "2026-11-02",
-  "fetched_at": "2026-11-02T11:54:35.746729+00:00",
+  "fetched_at": "2026-11-02T23:18:11.658624+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 77758,
-      "usd_24h_change": -0.13,
-      "usd_market_cap": 1563220044217.2026,
+      "usd": 76725,
+      "usd_24h_change": -1.71,
+      "usd_market_cap": 1542459372117.9136,
       "spark": [
         84742.79,
         86489.73,
@@ -37,13 +37,13 @@
         77275.05,
         77520.89,
         78293.84,
-        77741.26
+        76725.67
       ]
     },
     "ethereum": {
-      "usd": 2282.73,
-      "usd_24h_change": 0.62,
-      "usd_market_cap": 278900661884.52356,
+      "usd": 2251.65,
+      "usd_24h_change": -0.74,
+      "usd_market_cap": 275096993397.4178,
       "spark": [
         2686.89,
         2725.91,
@@ -75,13 +75,13 @@
         2242.5,
         2254.13,
         2273.92,
-        2282.76
+        2251.54
       ]
     },
     "solana": {
-      "usd": 93.85,
-      "usd_24h_change": -1.45,
-      "usd_market_cap": 55383650948.93686,
+      "usd": 91.89,
+      "usd_24h_change": -2.38,
+      "usd_market_cap": 54231501770.7104,
       "spark": [
         119.6,
         121.52,
@@ -113,7 +113,7 @@
         96.25,
         95.42,
         94.48,
-        93.86
+        91.87
       ]
     }
   },
@@ -122,11 +122,15 @@
     "author": "Dalai Lama"
   },
   "nasa": {
-    "error": "The read operation timed out"
+    "title": "NASA Science",
+    "explanation": "What\u2019s causing this unusually long cloud on Mars?\u00a0Known as the Arsia Mons Elongated Cloud (AMEC) and first recorded by NASA\u2019s Viking Orbiter 2 in 1977, the strange cloud has been imaged in greater detail more recently by ESA\u2019s robotic Mars Express spacecraft.\u00a0The featured image is from 2018. The cloud forms only during spring and summer seasons and then only during morning hours. Made of water-ice, the most familiar process that causes cloud crystals to form around bits of dust would fail due to the thinness and lack of dust high in the Martian atmosphere. Leading speculation holds that dust is not involved. After the cloud forms near the volcano Arsia Mons, wind blows the cloud downstream \u2014 creating a tail that can extend over 1500 kilometers. Efforts to better understand AMECs will continue, an understanding that may bolster a more complete view of cloud formation on Earth.Tomorrow's picture: eyeing a cat\t\t\t\t\t\t",
+    "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
+    "media_type": "image",
+    "thumbnail_url": null
   },
   "car_news": {
-    "headline": "Ferrari Challenge Stradale Is Reportedly Returning After 20-Plus Years",
-    "url": "https://www.autoblog.com/news/ferrari-challenge-stradale-is-reportedly-returning-after-20-plus-years",
+    "headline": "Nissan Armada Jungle Patrol Ditches Roof and Luxury for Serious Off-Roading",
+    "url": "https://www.autoblog.com/news/nissan-armada-jungle-patrol-ditches-roof-and-luxury-for-serious-off-roading",
     "source": "https://www.autoblog.com/rss.xml"
   },
   "onthisday": {
