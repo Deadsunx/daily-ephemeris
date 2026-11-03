@@ -43,13 +43,11 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $77,090 | -0.89% |
-| Ethereum | $2,266.42 | -0.72% |
-| Solana | $92.44 | -1.49% |
+| Bitcoin | $77,849 | +1.53% |
+| Ethereum | $2,293.96 | +2.06% |
+| Solana | $93.7 | +2.47% |
 
-**🔭 NASA:** [NASA Science](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)
-
-**🚗 Car news:** [Ringbrothers Just Made the Ultimate Pontiac GTO](https://www.autoblog.com/news/ringbrothers-just-made-the-ultimate-pontiac-gto)
+**🚗 Car news:** [Kia's Telluride Is Closing In On The Sportage's U.S. Sales Crown](https://www.autoblog.com/news/kias-telluride-is-closing-in-on-the-sportages-u-s-sales-crown)
 
 **📜 On this day, 361:** Emperor Constantius II dies of a fever at Mopsuestia in Cilicia; on his deathbed he is baptised and declares his cousin Julian rightful successor. — [Constantius II](https://en.wikipedia.org/wiki/Constantius_II)
 
