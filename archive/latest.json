@@ -1,13 +1,12 @@
 {
-  "date": "2026-11-02",
-  "fetched_at": "2026-11-02T23:18:11.658624+00:00",
+  "date": "2026-11-03",
+  "fetched_at": "2026-11-03T11:31:17.723563+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 76725,
-      "usd_24h_change": -1.71,
-      "usd_market_cap": 1542459372117.9136,
+      "usd": 77090,
+      "usd_24h_change": -0.89,
+      "usd_market_cap": 1550183814735.4668,
       "spark": [
-        84742.79,
         86489.73,
         85770.87,
         85540.09,
@@ -37,15 +36,15 @@
         77275.05,
         77520.89,
         78293.84,
-        76725.67
+        76709.41,
+        77094.96
       ]
     },
     "ethereum": {
-      "usd": 2251.65,
-      "usd_24h_change": -0.74,
-      "usd_market_cap": 275096993397.4178,
+      "usd": 2266.42,
+      "usd_24h_change": -0.72,
+      "usd_market_cap": 277004570462.9923,
       "spark": [
-        2686.89,
         2725.91,
         2710.42,
         2697.17,
@@ -75,15 +74,15 @@
         2242.5,
         2254.13,
         2273.92,
-        2251.54
+        2250.22,
+        2266.44
       ]
     },
     "solana": {
-      "usd": 91.89,
-      "usd_24h_change": -2.38,
-      "usd_market_cap": 54231501770.7104,
+      "usd": 92.44,
+      "usd_24h_change": -1.49,
+      "usd_market_cap": 54563691062.96895,
       "spark": [
-        119.6,
         121.52,
         120.76,
         120.68,
@@ -113,31 +112,32 @@
         96.25,
         95.42,
         94.48,
-        91.87
+        91.84,
+        92.44
       ]
     }
   },
   "quote": {
-    "text": "If you want others to be happy, practice compassion. If you want to be happy, practice compassion.",
-    "author": "Dalai Lama"
+    "text": "When the time is gone, you can never get it back.",
+    "author": "Stephen King"
   },
   "nasa": {
     "title": "NASA Science",
-    "explanation": "What\u2019s causing this unusually long cloud on Mars?\u00a0Known as the Arsia Mons Elongated Cloud (AMEC) and first recorded by NASA\u2019s Viking Orbiter 2 in 1977, the strange cloud has been imaged in greater detail more recently by ESA\u2019s robotic Mars Express spacecraft.\u00a0The featured image is from 2018. The cloud forms only during spring and summer seasons and then only during morning hours. Made of water-ice, the most familiar process that causes cloud crystals to form around bits of dust would fail due to the thinness and lack of dust high in the Martian atmosphere. Leading speculation holds that dust is not involved. After the cloud forms near the volcano Arsia Mons, wind blows the cloud downstream \u2014 creating a tail that can extend over 1500 kilometers. Efforts to better understand AMECs will continue, an understanding that may bolster a more complete view of cloud formation on Earth.Tomorrow's picture: eyeing a cat\t\t\t\t\t\t",
+    "explanation": "\u00a0Did this meteor come from that comet? Probably not. Although many\u00a0meteors\u00a0do originate from comets, there are\u00a0thousands\u00a0of\u00a0comets\u00a0that have visited the inner\u00a0Solar System\u00a0recently, and matching meteors to them can be tricky. And to be clear, the\u00a0pictured comet\u00a0is far behind the\u00a0streaking meteor. Comet\u00a0C/2025 R3 (PanSTARRS)\u00a0was captured from\u00a0Hautacam,\u00a0France\u00a0in April when the\u00a0giant space iceberg\u00a0sported impressive\u00a0ion\u00a0(blue) and dust\u00a0tails. Sand-sized rocky debris that enters\u00a0Earth\u2019s atmosphere\u00a0typically appears as\u00a0meteors, while the\u00a0colorful foreground streak\u00a0here may indicate a complicated composition. This month three\u00a0notable meteor showers\u00a0will reach their peaks. Over the next few days, the Southern\u00a0Taurids\u00a0will be reaching their apex, while the Northern\u00a0Taurids\u00a0will top out about a week later. Both originate from\u00a0Comet 2P/Encke. November is most famous for the\u00a0Leonids Meteor Shower, though, which originates from\u00a0Comet 55P/Tempel-Tuttle\u00a0and will\u00a0reach its crescendo\u00a0in about two weeks.Tomorrow's picture:\u00a0open space\t\t\t\t\t\t",
     "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
     "media_type": "image",
     "thumbnail_url": null
   },
   "car_news": {
-    "headline": "Nissan Armada Jungle Patrol Ditches Roof and Luxury for Serious Off-Roading",
-    "url": "https://www.autoblog.com/news/nissan-armada-jungle-patrol-ditches-roof-and-luxury-for-serious-off-roading",
+    "headline": "Ringbrothers Just Made the Ultimate Pontiac GTO",
+    "url": "https://www.autoblog.com/news/ringbrothers-just-made-the-ultimate-pontiac-gto",
     "source": "https://www.autoblog.com/rss.xml"
   },
   "onthisday": {
-    "year": 619,
-    "text": "A qaghan of the Western Turkic Khaganate is assassinated in a Chinese palace by Eastern Turkic rivals after the approval of Tang emperor Gaozu.",
-    "title": "Great Khan",
-    "url": "https://en.wikipedia.org/wiki/Great_Khan"
+    "year": 361,
+    "text": "Emperor Constantius II dies of a fever at Mopsuestia in Cilicia; on his deathbed he is baptised and declares his cousin Julian rightful successor.",
+    "title": "Constantius II",
+    "url": "https://en.wikipedia.org/wiki/Constantius_II"
   },
   "github": {
     "login": "Deadsunx",

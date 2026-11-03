@@ -35,23 +35,23 @@ python daily_update.py
 Only the Python standard library is used — nothing to install.
 
 <!-- LATEST:START -->
-### 📅 Latest snapshot — 2026-11-02
+### 📅 Latest snapshot — 2026-11-03
 
-> *"If you want others to be happy, practice compassion. If you want to be happy, practice compassion."* — **Dalai Lama**
+> *"When the time is gone, you can never get it back."* — **Stephen King**
 
 **Crypto (USD)**
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $76,725 | -1.71% |
-| Ethereum | $2,251.65 | -0.74% |
-| Solana | $91.89 | -2.38% |
+| Bitcoin | $77,090 | -0.89% |
+| Ethereum | $2,266.42 | -0.72% |
+| Solana | $92.44 | -1.49% |
 
 **🔭 NASA:** [NASA Science](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)
 
-**🚗 Car news:** [Nissan Armada Jungle Patrol Ditches Roof and Luxury for Serious Off-Roading](https://www.autoblog.com/news/nissan-armada-jungle-patrol-ditches-roof-and-luxury-for-serious-off-roading)
+**🚗 Car news:** [Ringbrothers Just Made the Ultimate Pontiac GTO](https://www.autoblog.com/news/ringbrothers-just-made-the-ultimate-pontiac-gto)
 
-**📜 On this day, 619:** A qaghan of the Western Turkic Khaganate is assassinated in a Chinese palace by Eastern Turkic rivals after the approval of Tang emperor Gaozu. — [Great Khan](https://en.wikipedia.org/wiki/Great_Khan)
+**📜 On this day, 361:** Emperor Constantius II dies of a fever at Mopsuestia in Cilicia; on his deathbed he is baptised and declares his cousin Julian rightful successor. — [Constantius II](https://en.wikipedia.org/wiki/Constantius_II)
 
 **🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 11 repos · 10 followers
 

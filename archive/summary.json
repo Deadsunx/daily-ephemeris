@@ -1559,5 +1559,21 @@
       "year": 619,
       "title": "Great Khan"
     }
+  },
+  {
+    "date": "2026-11-03",
+    "quote": {
+      "text": "When the time is gone, you can never get it back.",
+      "author": "Stephen King"
+    },
+    "nasa": {
+      "title": "NASA Science",
+      "media_type": "image"
+    },
+    "car": "Ringbrothers Just Made the Ultimate Pontiac GTO",
+    "onthisday": {
+      "year": 361,
+      "title": "Constantius II"
+    }
   }
 ]
