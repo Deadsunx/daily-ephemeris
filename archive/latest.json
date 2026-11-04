@@ -1,13 +1,12 @@
 {
-  "date": "2026-11-03",
-  "fetched_at": "2026-11-03T21:28:46.926661+00:00",
+  "date": "2026-11-04",
+  "fetched_at": "2026-11-04T11:46:36.783468+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 77849,
-      "usd_24h_change": 1.53,
-      "usd_market_cap": 1565179803397.0178,
+      "usd": 78575,
+      "usd_24h_change": 2.04,
+      "usd_market_cap": 1579655047345.6177,
       "spark": [
-        86489.73,
         85770.87,
         85540.09,
         83282.05,
@@ -37,15 +36,15 @@
         77520.89,
         78293.84,
         76709.41,
-        77848.86
+        77384.59,
+        78575.38
       ]
     },
     "ethereum": {
-      "usd": 2293.96,
-      "usd_24h_change": 2.06,
-      "usd_market_cap": 280290492570.3581,
+      "usd": 2332.34,
+      "usd_24h_change": 3.1,
+      "usd_market_cap": 284966973938.0562,
       "spark": [
-        2725.91,
         2710.42,
         2697.17,
         2573.23,
@@ -75,15 +74,15 @@
         2254.13,
         2273.92,
         2250.22,
-        2293.96
+        2273.63,
+        2332.6
       ]
     },
     "solana": {
-      "usd": 93.7,
-      "usd_24h_change": 2.47,
-      "usd_market_cap": 55309044271.2901,
+      "usd": 93.86,
+      "usd_24h_change": 1.6,
+      "usd_market_cap": 55391003923.85232,
       "spark": [
-        121.52,
         120.76,
         120.68,
         116.23,
@@ -113,27 +112,28 @@
         95.42,
         94.48,
         91.84,
-        93.72
+        92.78,
+        93.86
       ]
     }
   },
   "quote": {
-    "text": "When the time is gone, you can never get it back.",
-    "author": "Stephen King"
+    "text": "What the eye doesn't see and the mind doesn't know, doesn't exist.",
+    "author": "D. H. Lawrence"
   },
   "nasa": {
     "error": "HTTP Error 500: Internal Server Error"
   },
   "car_news": {
-    "headline": "Kia's Telluride Is Closing In On The Sportage's U.S. Sales Crown",
-    "url": "https://www.autoblog.com/news/kias-telluride-is-closing-in-on-the-sportages-u-s-sales-crown",
+    "headline": "Kia Leak Reveals Hydrogen Carnival, Next-Gen Sorento and EV7",
+    "url": "https://www.autoblog.com/news/kia-leak-reveals-hydrogen-carnival-next-gen-sorento-and-ev7",
     "source": "https://www.autoblog.com/rss.xml"
   },
   "onthisday": {
-    "year": 361,
-    "text": "Emperor Constantius II dies of a fever at Mopsuestia in Cilicia; on his deathbed he is baptised and declares his cousin Julian rightful successor.",
-    "title": "Constantius II",
-    "url": "https://en.wikipedia.org/wiki/Constantius_II"
+    "year": 512,
+    "text": "Following Byzantine emperor Anastasius' deposition of Chalcedonian patriarchs and attempts to make Monophysite changes to liturgy, riots break out in Constantinople with a mob trying to proclaim Areobindus as emperor.",
+    "title": "List of Byzantine emperors",
+    "url": "https://en.wikipedia.org/wiki/List_of_Byzantine_emperors"
   },
   "github": {
     "login": "Deadsunx",

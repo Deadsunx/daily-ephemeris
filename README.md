@@ -35,21 +35,21 @@ python daily_update.py
 Only the Python standard library is used — nothing to install.
 
 <!-- LATEST:START -->
-### 📅 Latest snapshot — 2026-11-03
+### 📅 Latest snapshot — 2026-11-04
 
-> *"When the time is gone, you can never get it back."* — **Stephen King**
+> *"What the eye doesn't see and the mind doesn't know, doesn't exist."* — **D. H. Lawrence**
 
 **Crypto (USD)**
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $77,849 | +1.53% |
-| Ethereum | $2,293.96 | +2.06% |
-| Solana | $93.7 | +2.47% |
+| Bitcoin | $78,575 | +2.04% |
+| Ethereum | $2,332.34 | +3.1% |
+| Solana | $93.86 | +1.6% |
 
-**🚗 Car news:** [Kia's Telluride Is Closing In On The Sportage's U.S. Sales Crown](https://www.autoblog.com/news/kias-telluride-is-closing-in-on-the-sportages-u-s-sales-crown)
+**🚗 Car news:** [Kia Leak Reveals Hydrogen Carnival, Next-Gen Sorento and EV7](https://www.autoblog.com/news/kia-leak-reveals-hydrogen-carnival-next-gen-sorento-and-ev7)
 
-**📜 On this day, 361:** Emperor Constantius II dies of a fever at Mopsuestia in Cilicia; on his deathbed he is baptised and declares his cousin Julian rightful successor. — [Constantius II](https://en.wikipedia.org/wiki/Constantius_II)
+**📜 On this day, 512:** Following Byzantine emperor Anastasius' deposition of Chalcedonian patriarchs and attempts to make Monophysite changes to liturgy, riots break out in Constantinople with a mob trying to proclaim Areobindus as emperor. — [List of Byzantine emperors](https://en.wikipedia.org/wiki/List_of_Byzantine_emperors)
 
 **🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 11 repos · 10 followers
 
