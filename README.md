@@ -43,11 +43,11 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $78,575 | +2.04% |
-| Ethereum | $2,332.34 | +3.1% |
-| Solana | $93.86 | +1.6% |
+| Bitcoin | $80,151 | +2.95% |
+| Ethereum | $2,419.41 | +5.45% |
+| Solana | $94.57 | +0.96% |
 
-**🚗 Car news:** [Kia Leak Reveals Hydrogen Carnival, Next-Gen Sorento and EV7](https://www.autoblog.com/news/kia-leak-reveals-hydrogen-carnival-next-gen-sorento-and-ev7)
+**🚗 Car news:** [Someone Stuffed A 13-Rotor Engine Into A Miata. And Yes, It Actually Runs](https://www.motor1.com/news/814432/13-rotor-miata-debuts-2026/)
 
 **📜 On this day, 512:** Following Byzantine emperor Anastasius' deposition of Chalcedonian patriarchs and attempts to make Monophysite changes to liturgy, riots break out in Constantinople with a mob trying to proclaim Areobindus as emperor. — [List of Byzantine emperors](https://en.wikipedia.org/wiki/List_of_Byzantine_emperors)
 

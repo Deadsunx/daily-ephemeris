@@ -1,11 +1,11 @@
 {
   "date": "2026-11-04",
-  "fetched_at": "2026-11-04T11:46:36.783468+00:00",
+  "fetched_at": "2026-11-04T21:42:23.747513+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 78575,
-      "usd_24h_change": 2.04,
-      "usd_market_cap": 1579655047345.6177,
+      "usd": 80151,
+      "usd_24h_change": 2.95,
+      "usd_market_cap": 1611462708962.2837,
       "spark": [
         85770.87,
         85540.09,
@@ -37,13 +37,13 @@
         78293.84,
         76709.41,
         77384.59,
-        78575.38
+        80148.72
       ]
     },
     "ethereum": {
-      "usd": 2332.34,
-      "usd_24h_change": 3.1,
-      "usd_market_cap": 284966973938.0562,
+      "usd": 2419.41,
+      "usd_24h_change": 5.45,
+      "usd_market_cap": 295625781020.4436,
       "spark": [
         2710.42,
         2697.17,
@@ -75,13 +75,13 @@
         2273.92,
         2250.22,
         2273.63,
-        2332.6
+        2419.18
       ]
     },
     "solana": {
-      "usd": 93.86,
-      "usd_24h_change": 1.6,
-      "usd_market_cap": 55391003923.85232,
+      "usd": 94.57,
+      "usd_24h_change": 0.96,
+      "usd_market_cap": 55821668536.901596,
       "spark": [
         120.76,
         120.68,
@@ -113,7 +113,7 @@
         94.48,
         91.84,
         92.78,
-        93.86
+        94.58
       ]
     }
   },
@@ -125,9 +125,9 @@
     "error": "HTTP Error 500: Internal Server Error"
   },
   "car_news": {
-    "headline": "Kia Leak Reveals Hydrogen Carnival, Next-Gen Sorento and EV7",
-    "url": "https://www.autoblog.com/news/kia-leak-reveals-hydrogen-carnival-next-gen-sorento-and-ev7",
-    "source": "https://www.autoblog.com/rss.xml"
+    "headline": "Someone Stuffed A 13-Rotor Engine Into A Miata. And Yes, It Actually Runs",
+    "url": "https://www.motor1.com/news/814432/13-rotor-miata-debuts-2026/",
+    "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {
     "year": 512,
