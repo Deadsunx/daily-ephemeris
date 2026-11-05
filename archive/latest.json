@@ -1,13 +1,12 @@
 {
-  "date": "2026-11-04",
-  "fetched_at": "2026-11-04T21:42:23.747513+00:00",
+  "date": "2026-11-05",
+  "fetched_at": "2026-11-05T11:44:46.967205+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 80151,
-      "usd_24h_change": 2.95,
-      "usd_market_cap": 1611462708962.2837,
+      "usd": 80296,
+      "usd_24h_change": 2.2,
+      "usd_market_cap": 1614297844566.1008,
       "spark": [
-        85770.87,
         85540.09,
         83282.05,
         81685.89,
@@ -37,15 +36,15 @@
         78293.84,
         76709.41,
         77384.59,
-        80148.72
+        80442.71,
+        80293.83
       ]
     },
     "ethereum": {
-      "usd": 2419.41,
-      "usd_24h_change": 5.45,
-      "usd_market_cap": 295625781020.4436,
+      "usd": 2417.88,
+      "usd_24h_change": 3.67,
+      "usd_market_cap": 295449409344.2428,
       "spark": [
-        2710.42,
         2697.17,
         2573.23,
         2472.73,
@@ -75,15 +74,15 @@
         2273.92,
         2250.22,
         2273.63,
-        2419.18
+        2423.08,
+        2417.91
       ]
     },
     "solana": {
-      "usd": 94.57,
-      "usd_24h_change": 0.96,
-      "usd_market_cap": 55821668536.901596,
+      "usd": 96.42,
+      "usd_24h_change": 2.75,
+      "usd_market_cap": 56914059205.94241,
       "spark": [
-        120.76,
         120.68,
         116.23,
         109.51,
@@ -113,27 +112,28 @@
         94.48,
         91.84,
         92.78,
-        94.58
+        95.51,
+        96.43
       ]
     }
   },
   "quote": {
-    "text": "What the eye doesn't see and the mind doesn't know, doesn't exist.",
-    "author": "D. H. Lawrence"
+    "text": "Debt is the slavery of the free.",
+    "author": "Publilius Syrus"
   },
   "nasa": {
     "error": "HTTP Error 500: Internal Server Error"
   },
   "car_news": {
-    "headline": "Someone Stuffed A 13-Rotor Engine Into A Miata. And Yes, It Actually Runs",
-    "url": "https://www.motor1.com/news/814432/13-rotor-miata-debuts-2026/",
+    "headline": "BMW Creates One-Off M3 Tribute To A Motorsport Legend",
+    "url": "https://www.motor1.com/news/814517/bmw-m3-tribute-alex-zanardi/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {
-    "year": 512,
-    "text": "Following Byzantine emperor Anastasius' deposition of Chalcedonian patriarchs and attempts to make Monophysite changes to liturgy, riots break out in Constantinople with a mob trying to proclaim Areobindus as emperor.",
-    "title": "List of Byzantine emperors",
-    "url": "https://en.wikipedia.org/wiki/List_of_Byzantine_emperors"
+    "year": 1009,
+    "text": "Berber forces led by Sulayman ibn al-Hakam defeat the Umayyad caliph Muhammad II of C\u00f3rdoba in the Battle of Qantish.",
+    "title": "Berbers",
+    "url": "https://en.wikipedia.org/wiki/Berbers"
   },
   "github": {
     "login": "Deadsunx",

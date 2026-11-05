@@ -35,21 +35,21 @@ python daily_update.py
 Only the Python standard library is used — nothing to install.
 
 <!-- LATEST:START -->
-### 📅 Latest snapshot — 2026-11-04
+### 📅 Latest snapshot — 2026-11-05
 
-> *"What the eye doesn't see and the mind doesn't know, doesn't exist."* — **D. H. Lawrence**
+> *"Debt is the slavery of the free."* — **Publilius Syrus**
 
 **Crypto (USD)**
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $80,151 | +2.95% |
-| Ethereum | $2,419.41 | +5.45% |
-| Solana | $94.57 | +0.96% |
+| Bitcoin | $80,296 | +2.2% |
+| Ethereum | $2,417.88 | +3.67% |
+| Solana | $96.42 | +2.75% |
 
-**🚗 Car news:** [Someone Stuffed A 13-Rotor Engine Into A Miata. And Yes, It Actually Runs](https://www.motor1.com/news/814432/13-rotor-miata-debuts-2026/)
+**🚗 Car news:** [BMW Creates One-Off M3 Tribute To A Motorsport Legend](https://www.motor1.com/news/814517/bmw-m3-tribute-alex-zanardi/)
 
-**📜 On this day, 512:** Following Byzantine emperor Anastasius' deposition of Chalcedonian patriarchs and attempts to make Monophysite changes to liturgy, riots break out in Constantinople with a mob trying to proclaim Areobindus as emperor. — [List of Byzantine emperors](https://en.wikipedia.org/wiki/List_of_Byzantine_emperors)
+**📜 On this day, 1009:** Berber forces led by Sulayman ibn al-Hakam defeat the Umayyad caliph Muhammad II of Córdoba in the Battle of Qantish. — [Berbers](https://en.wikipedia.org/wiki/Berbers)
 
 **🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 11 repos · 10 followers
 
