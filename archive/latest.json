@@ -1,11 +1,11 @@
 {
   "date": "2026-11-05",
-  "fetched_at": "2026-11-05T11:44:46.967205+00:00",
+  "fetched_at": "2026-11-05T21:46:08.207295+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 80296,
-      "usd_24h_change": 2.2,
-      "usd_market_cap": 1614297844566.1008,
+      "usd": 75877,
+      "usd_24h_change": -5.32,
+      "usd_market_cap": 1525723943543.2112,
       "spark": [
         85540.09,
         83282.05,
@@ -37,13 +37,13 @@
         76709.41,
         77384.59,
         80442.71,
-        80293.83
+        75886.14
       ]
     },
     "ethereum": {
-      "usd": 2417.88,
-      "usd_24h_change": 3.67,
-      "usd_market_cap": 295449409344.2428,
+      "usd": 2231.63,
+      "usd_24h_change": -7.67,
+      "usd_market_cap": 272785093923.07745,
       "spark": [
         2697.17,
         2573.23,
@@ -75,13 +75,13 @@
         2250.22,
         2273.63,
         2423.08,
-        2417.91
+        2232.04
       ]
     },
     "solana": {
-      "usd": 96.42,
-      "usd_24h_change": 2.75,
-      "usd_market_cap": 56914059205.94241,
+      "usd": 90.01,
+      "usd_24h_change": -4.86,
+      "usd_market_cap": 53130374712.44118,
       "spark": [
         120.68,
         116.23,
@@ -113,7 +113,7 @@
         91.84,
         92.78,
         95.51,
-        96.43
+        90.03
       ]
     }
   },
@@ -122,11 +122,11 @@
     "author": "Publilius Syrus"
   },
   "nasa": {
-    "error": "HTTP Error 500: Internal Server Error"
+    "error": "The read operation timed out"
   },
   "car_news": {
-    "headline": "BMW Creates One-Off M3 Tribute To A Motorsport Legend",
-    "url": "https://www.motor1.com/news/814517/bmw-m3-tribute-alex-zanardi/",
+    "headline": "Mercedes Was 'Too Early' On Hands-Free Driving. Now It's Taking A Step Back",
+    "url": "https://www.motor1.com/news/814591/mercedes-backs-away-from-level-3-autonomy/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {

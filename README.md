@@ -43,11 +43,11 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $80,296 | +2.2% |
-| Ethereum | $2,417.88 | +3.67% |
-| Solana | $96.42 | +2.75% |
+| Bitcoin | $75,877 | -5.32% |
+| Ethereum | $2,231.63 | -7.67% |
+| Solana | $90.01 | -4.86% |
 
-**🚗 Car news:** [BMW Creates One-Off M3 Tribute To A Motorsport Legend](https://www.motor1.com/news/814517/bmw-m3-tribute-alex-zanardi/)
+**🚗 Car news:** [Mercedes Was 'Too Early' On Hands-Free Driving. Now It's Taking A Step Back](https://www.motor1.com/news/814591/mercedes-backs-away-from-level-3-autonomy/)
 
 **📜 On this day, 1009:** Berber forces led by Sulayman ibn al-Hakam defeat the Umayyad caliph Muhammad II of Córdoba in the Battle of Qantish. — [Berbers](https://en.wikipedia.org/wiki/Berbers)
 
