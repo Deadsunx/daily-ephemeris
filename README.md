@@ -35,21 +35,21 @@ python daily_update.py
 Only the Python standard library is used — nothing to install.
 
 <!-- LATEST:START -->
-### 📅 Latest snapshot — 2026-11-05
+### 📅 Latest snapshot — 2026-11-06
 
-> *"Debt is the slavery of the free."* — **Publilius Syrus**
+> *"Your mind is infinite, it's your doubts that are limiting."* — **Robert Kiyosaki**
 
 **Crypto (USD)**
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $75,877 | -5.32% |
-| Ethereum | $2,231.63 | -7.67% |
-| Solana | $90.01 | -4.86% |
+| Bitcoin | $76,057 | -5.27% |
+| Ethereum | $2,239.61 | -7.37% |
+| Solana | $90.33 | -6.33% |
 
-**🚗 Car news:** [Mercedes Was 'Too Early' On Hands-Free Driving. Now It's Taking A Step Back](https://www.motor1.com/news/814591/mercedes-backs-away-from-level-3-autonomy/)
+**🚗 Car news:** [Chinese EV Hits 312 MPH To Become The World's Fastest Production Car: Onboard Video](https://www.motor1.com/news/814648/byd-yangwang-u9-xtreme-312-mph/)
 
-**📜 On this day, 1009:** Berber forces led by Sulayman ibn al-Hakam defeat the Umayyad caliph Muhammad II of Córdoba in the Battle of Qantish. — [Berbers](https://en.wikipedia.org/wiki/Berbers)
+**📜 On this day, 447:** A powerful earthquake destroys large portions of the Walls of Constantinople, including 57 towers. — [Walls of Constantinople](https://en.wikipedia.org/wiki/Walls_of_Constantinople)
 
 **🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 11 repos · 10 followers
 

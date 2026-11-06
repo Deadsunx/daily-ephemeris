@@ -1,13 +1,12 @@
 {
-  "date": "2026-11-05",
-  "fetched_at": "2026-11-05T21:46:08.207295+00:00",
+  "date": "2026-11-06",
+  "fetched_at": "2026-11-06T11:42:54.879709+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 75877,
-      "usd_24h_change": -5.32,
-      "usd_market_cap": 1525723943543.2112,
+      "usd": 76057,
+      "usd_24h_change": -5.27,
+      "usd_market_cap": 1529284584567.1858,
       "spark": [
-        85540.09,
         83282.05,
         81685.89,
         82564.29,
@@ -37,15 +36,15 @@
         76709.41,
         77384.59,
         80442.71,
-        75886.14
+        76005.51,
+        76061.58
       ]
     },
     "ethereum": {
-      "usd": 2231.63,
-      "usd_24h_change": -7.67,
-      "usd_market_cap": 272785093923.07745,
+      "usd": 2239.61,
+      "usd_24h_change": -7.37,
+      "usd_market_cap": 273692677529.75903,
       "spark": [
-        2697.17,
         2573.23,
         2472.73,
         2485.7,
@@ -75,15 +74,15 @@
         2250.22,
         2273.63,
         2423.08,
-        2232.04
+        2235.77,
+        2240.2
       ]
     },
     "solana": {
-      "usd": 90.01,
-      "usd_24h_change": -4.86,
-      "usd_market_cap": 53130374712.44118,
+      "usd": 90.33,
+      "usd_24h_change": -6.33,
+      "usd_market_cap": 53328477777.85009,
       "spark": [
-        120.68,
         116.23,
         109.51,
         109.07,
@@ -113,27 +112,28 @@
         91.84,
         92.78,
         95.51,
-        90.03
+        89.23,
+        90.37
       ]
     }
   },
   "quote": {
-    "text": "Debt is the slavery of the free.",
-    "author": "Publilius Syrus"
+    "text": "Your mind is infinite, it's your doubts that are limiting.",
+    "author": "Robert Kiyosaki"
   },
   "nasa": {
-    "error": "The read operation timed out"
+    "error": "HTTP Error 500: Internal Server Error"
   },
   "car_news": {
-    "headline": "Mercedes Was 'Too Early' On Hands-Free Driving. Now It's Taking A Step Back",
-    "url": "https://www.motor1.com/news/814591/mercedes-backs-away-from-level-3-autonomy/",
+    "headline": "Chinese EV Hits 312 MPH To Become The World's Fastest Production Car: Onboard Video",
+    "url": "https://www.motor1.com/news/814648/byd-yangwang-u9-xtreme-312-mph/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {
-    "year": 1009,
-    "text": "Berber forces led by Sulayman ibn al-Hakam defeat the Umayyad caliph Muhammad II of C\u00f3rdoba in the Battle of Qantish.",
-    "title": "Berbers",
-    "url": "https://en.wikipedia.org/wiki/Berbers"
+    "year": 447,
+    "text": "A powerful earthquake destroys large portions of the Walls of Constantinople, including 57 towers.",
+    "title": "Walls of Constantinople",
+    "url": "https://en.wikipedia.org/wiki/Walls_of_Constantinople"
   },
   "github": {
     "login": "Deadsunx",
