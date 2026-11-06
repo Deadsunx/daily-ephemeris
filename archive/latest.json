@@ -1,11 +1,11 @@
 {
   "date": "2026-11-06",
-  "fetched_at": "2026-11-06T11:42:54.879709+00:00",
+  "fetched_at": "2026-11-06T21:15:31.058833+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 76057,
-      "usd_24h_change": -5.27,
-      "usd_market_cap": 1529284584567.1858,
+      "usd": 75813,
+      "usd_24h_change": -0.21,
+      "usd_market_cap": 1524390663438.6821,
       "spark": [
         83282.05,
         81685.89,
@@ -37,13 +37,13 @@
         77384.59,
         80442.71,
         76005.51,
-        76061.58
+        75813.85
       ]
     },
     "ethereum": {
-      "usd": 2239.61,
-      "usd_24h_change": -7.37,
-      "usd_market_cap": 273692677529.75903,
+      "usd": 2228.46,
+      "usd_24h_change": -0.44,
+      "usd_market_cap": 272310196816.36948,
       "spark": [
         2573.23,
         2472.73,
@@ -75,13 +75,13 @@
         2273.63,
         2423.08,
         2235.77,
-        2240.2
+        2228.46
       ]
     },
     "solana": {
-      "usd": 90.33,
-      "usd_24h_change": -6.33,
-      "usd_market_cap": 53328477777.85009,
+      "usd": 89.95,
+      "usd_24h_change": 0.38,
+      "usd_market_cap": 53098853758.03506,
       "spark": [
         116.23,
         109.51,
@@ -113,7 +113,7 @@
         92.78,
         95.51,
         89.23,
-        90.37
+        89.94
       ]
     }
   },
@@ -125,8 +125,8 @@
     "error": "HTTP Error 500: Internal Server Error"
   },
   "car_news": {
-    "headline": "Chinese EV Hits 312 MPH To Become The World's Fastest Production Car: Onboard Video",
-    "url": "https://www.motor1.com/news/814648/byd-yangwang-u9-xtreme-312-mph/",
+    "headline": "An F-150 Lightning Owner Resold His Truck And Nearly Got His Money Back: 'A Little Less Than We Paid New'",
+    "url": "https://www.motor1.com/news/814695/ford-f150-lightning-used-sales/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {
@@ -139,7 +139,7 @@
     "login": "Deadsunx",
     "name": "Oumar Tirera",
     "public_repos": 11,
-    "followers": 10,
+    "followers": 9,
     "following": 12,
     "created_at": "2022-05-12T17:33:47Z",
     "html_url": "https://github.com/Deadsunx",

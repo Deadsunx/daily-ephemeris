@@ -43,14 +43,14 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $76,057 | -5.27% |
-| Ethereum | $2,239.61 | -7.37% |
-| Solana | $90.33 | -6.33% |
+| Bitcoin | $75,813 | -0.21% |
+| Ethereum | $2,228.46 | -0.44% |
+| Solana | $89.95 | +0.38% |
 
-**🚗 Car news:** [Chinese EV Hits 312 MPH To Become The World's Fastest Production Car: Onboard Video](https://www.motor1.com/news/814648/byd-yangwang-u9-xtreme-312-mph/)
+**🚗 Car news:** [An F-150 Lightning Owner Resold His Truck And Nearly Got His Money Back: 'A Little Less Than We Paid New'](https://www.motor1.com/news/814695/ford-f150-lightning-used-sales/)
 
 **📜 On this day, 447:** A powerful earthquake destroys large portions of the Walls of Constantinople, including 57 towers. — [Walls of Constantinople](https://en.wikipedia.org/wiki/Walls_of_Constantinople)
 
-**🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 11 repos · 10 followers
+**🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 11 repos · 9 followers
 
 <!-- LATEST:END -->
