@@ -43,11 +43,11 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $75,911 | -0.25% |
-| Ethereum | $2,243.12 | +0.24% |
-| Solana | $89.81 | -0.29% |
+| Bitcoin | $75,707 | -0.04% |
+| Ethereum | $2,231.98 | +0.04% |
+| Solana | $89.53 | -0.44% |
 
-**🚗 Car news:** [An F-150 Lightning Owner Resold His Truck And Nearly Got His Money Back: 'A Little Less Than We Paid New'](https://www.motor1.com/news/814695/ford-f150-lightning-used-sales/)
+**🚗 Car news:** [Lego Has Competition. Hot Wheels Expands Its Brick Shop With New Buildable Sports Cars](https://www.motor1.com/news/814624/hot-wheels-buildable-brick-cars/)
 
 **📜 On this day, 335:** Athanasius, 20th pope of Alexandria, is banished to Trier on the charge that he prevented a grain fleet from sailing to Constantinople. — [Athanasius of Alexandria](https://en.wikipedia.org/wiki/Athanasius_of_Alexandria)
 
