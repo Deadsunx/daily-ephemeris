@@ -1,13 +1,12 @@
 {
-  "date": "2026-11-06",
-  "fetched_at": "2026-11-06T21:15:31.058833+00:00",
+  "date": "2026-11-07",
+  "fetched_at": "2026-11-07T10:49:42.375627+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 75813,
-      "usd_24h_change": -0.21,
-      "usd_market_cap": 1524390663438.6821,
+      "usd": 75911,
+      "usd_24h_change": -0.25,
+      "usd_market_cap": 1526439817523.6306,
       "spark": [
-        83282.05,
         81685.89,
         82564.29,
         82917.9,
@@ -37,15 +36,15 @@
         77384.59,
         80442.71,
         76005.51,
-        75813.85
+        75775.28,
+        75923.72
       ]
     },
     "ethereum": {
-      "usd": 2228.46,
-      "usd_24h_change": -0.44,
-      "usd_market_cap": 272310196816.36948,
+      "usd": 2243.12,
+      "usd_24h_change": 0.24,
+      "usd_market_cap": 274105778748.44232,
       "spark": [
-        2573.23,
         2472.73,
         2485.7,
         2504.31,
@@ -75,15 +74,15 @@
         2273.63,
         2423.08,
         2235.77,
-        2228.46
+        2236.28,
+        2243.3
       ]
     },
     "solana": {
-      "usd": 89.95,
-      "usd_24h_change": 0.38,
-      "usd_market_cap": 53098853758.03506,
+      "usd": 89.81,
+      "usd_24h_change": -0.29,
+      "usd_market_cap": 53079198735.16599,
       "spark": [
-        116.23,
         109.51,
         109.07,
         110.0,
@@ -113,13 +112,14 @@
         92.78,
         95.51,
         89.23,
-        89.94
+        90.06,
+        89.82
       ]
     }
   },
   "quote": {
-    "text": "Your mind is infinite, it's your doubts that are limiting.",
-    "author": "Robert Kiyosaki"
+    "text": "The things I carry are my thoughts. That's it. They are the only weight. My thoughts determine whether I am free and light or burdened.",
+    "author": "Kamal Ravikant"
   },
   "nasa": {
     "error": "HTTP Error 500: Internal Server Error"
@@ -130,10 +130,10 @@
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {
-    "year": 447,
-    "text": "A powerful earthquake destroys large portions of the Walls of Constantinople, including 57 towers.",
-    "title": "Walls of Constantinople",
-    "url": "https://en.wikipedia.org/wiki/Walls_of_Constantinople"
+    "year": 335,
+    "text": "Athanasius, 20th pope of Alexandria, is banished to Trier on the charge that he prevented a grain fleet from sailing to Constantinople.",
+    "title": "Athanasius of Alexandria",
+    "url": "https://en.wikipedia.org/wiki/Athanasius_of_Alexandria"
   },
   "github": {
     "login": "Deadsunx",
