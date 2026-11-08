@@ -1,13 +1,12 @@
 {
-  "date": "2026-11-07",
-  "fetched_at": "2026-11-07T19:52:20.411581+00:00",
+  "date": "2026-11-08",
+  "fetched_at": "2026-11-08T10:57:06.533012+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 75707,
-      "usd_24h_change": -0.04,
-      "usd_market_cap": 1522412566816.677,
+      "usd": 75810,
+      "usd_24h_change": -0.12,
+      "usd_market_cap": 1524640813744.7817,
       "spark": [
-        81685.89,
         82564.29,
         82917.9,
         83690.87,
@@ -37,15 +36,15 @@
         80442.71,
         76005.51,
         75775.28,
-        75707.76
+        75776.38,
+        75810.44
       ]
     },
     "ethereum": {
-      "usd": 2231.98,
-      "usd_24h_change": 0.04,
-      "usd_market_cap": 272741277086.69366,
+      "usd": 2233.57,
+      "usd_24h_change": -0.43,
+      "usd_market_cap": 272948181870.65237,
       "spark": [
-        2472.73,
         2485.7,
         2504.31,
         2534.63,
@@ -75,15 +74,15 @@
         2423.08,
         2235.77,
         2236.28,
-        2231.98
+        2237.05,
+        2233.57
       ]
     },
     "solana": {
-      "usd": 89.53,
-      "usd_24h_change": -0.44,
-      "usd_market_cap": 52910370459.79527,
+      "usd": 89.13,
+      "usd_24h_change": -0.78,
+      "usd_market_cap": 52680190697.66827,
       "spark": [
-        109.51,
         109.07,
         110.0,
         111.25,
@@ -113,27 +112,28 @@
         95.51,
         89.23,
         90.06,
-        89.52
+        89.7,
+        89.13
       ]
     }
   },
   "quote": {
-    "text": "The things I carry are my thoughts. That's it. They are the only weight. My thoughts determine whether I am free and light or burdened.",
-    "author": "Kamal Ravikant"
+    "text": "People spend too much time doing and not enough time thinking about what they should be doing.",
+    "author": "Naval Ravikant"
   },
   "nasa": {
     "error": "HTTP Error 500: Internal Server Error"
   },
   "car_news": {
-    "headline": "Lego Has Competition. Hot Wheels Expands Its Brick Shop With New Buildable Sports Cars",
-    "url": "https://www.motor1.com/news/814624/hot-wheels-buildable-brick-cars/",
+    "headline": "BYD's New Flagship Sedan Wants To Be China's Most Luxurious Car Yet",
+    "url": "https://www.motor1.com/news/814760/byd-yangwang-altior-revealed/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {
-    "year": 335,
-    "text": "Athanasius, 20th pope of Alexandria, is banished to Trier on the charge that he prevented a grain fleet from sailing to Constantinople.",
-    "title": "Athanasius of Alexandria",
-    "url": "https://en.wikipedia.org/wiki/Athanasius_of_Alexandria"
+    "year": 960,
+    "text": "Battle of Andrassos: Byzantines under Leo Phokas the Younger score a crushing victory over the Hamdanid Emir of Aleppo, Sayf al-Dawla.",
+    "title": "Battle of Andrassos",
+    "url": "https://en.wikipedia.org/wiki/Battle_of_Andrassos"
   },
   "github": {
     "login": "Deadsunx",

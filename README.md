@@ -35,21 +35,21 @@ python daily_update.py
 Only the Python standard library is used — nothing to install.
 
 <!-- LATEST:START -->
-### 📅 Latest snapshot — 2026-11-07
+### 📅 Latest snapshot — 2026-11-08
 
-> *"The things I carry are my thoughts. That's it. They are the only weight. My thoughts determine whether I am free and light or burdened."* — **Kamal Ravikant**
+> *"People spend too much time doing and not enough time thinking about what they should be doing."* — **Naval Ravikant**
 
 **Crypto (USD)**
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $75,707 | -0.04% |
-| Ethereum | $2,231.98 | +0.04% |
-| Solana | $89.53 | -0.44% |
+| Bitcoin | $75,810 | -0.12% |
+| Ethereum | $2,233.57 | -0.43% |
+| Solana | $89.13 | -0.78% |
 
-**🚗 Car news:** [Lego Has Competition. Hot Wheels Expands Its Brick Shop With New Buildable Sports Cars](https://www.motor1.com/news/814624/hot-wheels-buildable-brick-cars/)
+**🚗 Car news:** [BYD's New Flagship Sedan Wants To Be China's Most Luxurious Car Yet](https://www.motor1.com/news/814760/byd-yangwang-altior-revealed/)
 
-**📜 On this day, 335:** Athanasius, 20th pope of Alexandria, is banished to Trier on the charge that he prevented a grain fleet from sailing to Constantinople. — [Athanasius of Alexandria](https://en.wikipedia.org/wiki/Athanasius_of_Alexandria)
+**📜 On this day, 960:** Battle of Andrassos: Byzantines under Leo Phokas the Younger score a crushing victory over the Hamdanid Emir of Aleppo, Sayf al-Dawla. — [Battle of Andrassos](https://en.wikipedia.org/wiki/Battle_of_Andrassos)
 
 **🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 11 repos · 9 followers
 
