@@ -43,11 +43,11 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $75,810 | -0.12% |
-| Ethereum | $2,233.57 | -0.43% |
-| Solana | $89.13 | -0.78% |
+| Bitcoin | $75,804 | +0.11% |
+| Ethereum | $2,226.5 | -0.27% |
+| Solana | $89.3 | -0.31% |
 
-**🚗 Car news:** [BYD's New Flagship Sedan Wants To Be China's Most Luxurious Car Yet](https://www.motor1.com/news/814760/byd-yangwang-altior-revealed/)
+**🚗 Car news:** [Maserati Might Revive Two Familiar Names In December: Report](https://www.motor1.com/news/814775/maserati-levante-quattroporte-concepts-rumored-december-debut/)
 
 **📜 On this day, 960:** Battle of Andrassos: Byzantines under Leo Phokas the Younger score a crushing victory over the Hamdanid Emir of Aleppo, Sayf al-Dawla. — [Battle of Andrassos](https://en.wikipedia.org/wiki/Battle_of_Andrassos)
 

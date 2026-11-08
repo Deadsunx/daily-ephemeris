@@ -1,11 +1,11 @@
 {
   "date": "2026-11-08",
-  "fetched_at": "2026-11-08T10:57:06.533012+00:00",
+  "fetched_at": "2026-11-08T20:11:28.413935+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 75810,
-      "usd_24h_change": -0.12,
-      "usd_market_cap": 1524640813744.7817,
+      "usd": 75804,
+      "usd_24h_change": 0.11,
+      "usd_market_cap": 1524462072702.1614,
       "spark": [
         82564.29,
         82917.9,
@@ -37,13 +37,13 @@
         76005.51,
         75775.28,
         75776.38,
-        75810.44
+        75811.46
       ]
     },
     "ethereum": {
-      "usd": 2233.57,
-      "usd_24h_change": -0.43,
-      "usd_market_cap": 272948181870.65237,
+      "usd": 2226.5,
+      "usd_24h_change": -0.27,
+      "usd_market_cap": 272075992644.08905,
       "spark": [
         2485.7,
         2504.31,
@@ -75,13 +75,13 @@
         2235.77,
         2236.28,
         2237.05,
-        2233.57
+        2226.32
       ]
     },
     "solana": {
-      "usd": 89.13,
-      "usd_24h_change": -0.78,
-      "usd_market_cap": 52680190697.66827,
+      "usd": 89.3,
+      "usd_24h_change": -0.31,
+      "usd_market_cap": 52795588379.136856,
       "spark": [
         109.07,
         110.0,
@@ -113,7 +113,7 @@
         89.23,
         90.06,
         89.7,
-        89.13
+        89.33
       ]
     }
   },
@@ -122,11 +122,11 @@
     "author": "Naval Ravikant"
   },
   "nasa": {
-    "error": "HTTP Error 500: Internal Server Error"
+    "error": "The read operation timed out"
   },
   "car_news": {
-    "headline": "BYD's New Flagship Sedan Wants To Be China's Most Luxurious Car Yet",
-    "url": "https://www.motor1.com/news/814760/byd-yangwang-altior-revealed/",
+    "headline": "Maserati Might Revive Two Familiar Names In December: Report",
+    "url": "https://www.motor1.com/news/814775/maserati-levante-quattroporte-concepts-rumored-december-debut/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {
