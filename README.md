@@ -35,21 +35,21 @@ python daily_update.py
 Only the Python standard library is used — nothing to install.
 
 <!-- LATEST:START -->
-### 📅 Latest snapshot — 2026-11-08
+### 📅 Latest snapshot — 2026-11-09
 
-> *"People spend too much time doing and not enough time thinking about what they should be doing."* — **Naval Ravikant**
+> *"It isn't what you have or who you are or where you are or what you are doing that makes you happy or unhappy. It is what you think about it."* — **Dale Carnegie**
 
 **Crypto (USD)**
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $75,804 | +0.11% |
-| Ethereum | $2,226.5 | -0.27% |
-| Solana | $89.3 | -0.31% |
+| Bitcoin | $74,598 | -1.69% |
+| Ethereum | $2,119.98 | -5.24% |
+| Solana | $86.53 | -3.32% |
 
-**🚗 Car news:** [Maserati Might Revive Two Familiar Names In December: Report](https://www.motor1.com/news/814775/maserati-levante-quattroporte-concepts-rumored-december-debut/)
+**🚗 Car news:** [McLaren 750S Disguises Itself As A Mercedes CLK GTR](https://www.motor1.com/news/814837/mclaren-750s-game-over-build/)
 
-**📜 On this day, 960:** Battle of Andrassos: Byzantines under Leo Phokas the Younger score a crushing victory over the Hamdanid Emir of Aleppo, Sayf al-Dawla. — [Battle of Andrassos](https://en.wikipedia.org/wiki/Battle_of_Andrassos)
+**📜 On this day, 694:** At the Seventeenth Council of Toledo, Egica, a king of the Visigoths of Hispania, accuses Jews of aiding Muslims, sentencing all Jews to slavery. — [Seventeenth Council of Toledo](https://en.wikipedia.org/wiki/Seventeenth_Council_of_Toledo)
 
 **🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 11 repos · 9 followers
 
