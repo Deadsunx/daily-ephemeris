@@ -1644,8 +1644,11 @@
       "text": "It isn't what you have or who you are or where you are or what you are doing that makes you happy or unhappy. It is what you think about it.",
       "author": "Dale Carnegie"
     },
-    "nasa": null,
-    "car": "McLaren 750S Disguises Itself As A Mercedes CLK GTR",
+    "nasa": {
+      "title": "NASA Science",
+      "media_type": "image"
+    },
+    "car": "Ford: Mustang Mach-E Batteries Age Better Than Expected",
     "onthisday": {
       "year": 694,
       "title": "Seventeenth Council of Toledo"

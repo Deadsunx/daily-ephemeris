@@ -1,11 +1,11 @@
 {
   "date": "2026-11-09",
-  "fetched_at": "2026-11-09T12:24:29.416938+00:00",
+  "fetched_at": "2026-11-09T23:57:14.370375+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 74598,
-      "usd_24h_change": -1.69,
-      "usd_market_cap": 1500154412278.5376,
+      "usd": 75244,
+      "usd_24h_change": 0.89,
+      "usd_market_cap": 1513014568282.4841,
       "spark": [
         82917.9,
         83690.87,
@@ -37,13 +37,13 @@
         75775.28,
         75776.38,
         74740.42,
-        74598.06
+        75234.39
       ]
     },
     "ethereum": {
-      "usd": 2119.98,
-      "usd_24h_change": -5.24,
-      "usd_market_cap": 259074030624.75342,
+      "usd": 2131.4,
+      "usd_24h_change": 0.51,
+      "usd_market_cap": 260434096585.2269,
       "spark": [
         2504.31,
         2534.63,
@@ -75,13 +75,13 @@
         2236.28,
         2237.05,
         2124.38,
-        2120.33
+        2131.4
       ]
     },
     "solana": {
-      "usd": 86.53,
-      "usd_24h_change": -3.32,
-      "usd_market_cap": 51148727224.78491,
+      "usd": 86.52,
+      "usd_24h_change": 0.27,
+      "usd_market_cap": 51144938219.90009,
       "spark": [
         110.0,
         111.25,
@@ -113,7 +113,7 @@
         90.06,
         89.7,
         86.41,
-        86.54
+        86.52
       ]
     }
   },
@@ -122,11 +122,15 @@
     "author": "Dale Carnegie"
   },
   "nasa": {
-    "error": "HTTP Error 500: Internal Server Error"
+    "title": "NASA Science",
+    "explanation": "Does the blue nebula look like the head of a witch? The nebula is known popularly as the Witch Head Nebula because, it is said, the nebula's shape resembles a Halloween-style caricature of a witch's head. Exactly how, though, can be a topic of imaginative speculation. What is clear is that IC 2118 is about 50 light-years across and made of gas and dust that points to -- because it has been partly eroded by -- the nearby star Rigel. One of the brighter stars in the constellation Orion, Rigel lies just below the center of the featured image. The blue color of the Witch Head Nebula and is caused not only by Rigel's intense blue starlight but also because the dust grains scatter blue light more efficiently than red. The same physical process causes Earth's daytime sky to appear blue, although the scatterers in planet Earth's atmosphere are molecules of nitrogen and oxygen.Tomorrow's picture: suddenly Saturn\t\t\t\t\t\t",
+    "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
+    "media_type": "image",
+    "thumbnail_url": null
   },
   "car_news": {
-    "headline": "McLaren 750S Disguises Itself As A Mercedes CLK GTR",
-    "url": "https://www.motor1.com/news/814837/mclaren-750s-game-over-build/",
+    "headline": "Ford: Mustang Mach-E Batteries Age Better Than Expected",
+    "url": "https://www.motor1.com/news/814913/ford-mustang-mache-battery-health-report/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {

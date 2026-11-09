@@ -43,11 +43,13 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $74,598 | -1.69% |
-| Ethereum | $2,119.98 | -5.24% |
-| Solana | $86.53 | -3.32% |
+| Bitcoin | $75,244 | +0.89% |
+| Ethereum | $2,131.4 | +0.51% |
+| Solana | $86.52 | +0.27% |
 
-**🚗 Car news:** [McLaren 750S Disguises Itself As A Mercedes CLK GTR](https://www.motor1.com/news/814837/mclaren-750s-game-over-build/)
+**🔭 NASA:** [NASA Science](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)
+
+**🚗 Car news:** [Ford: Mustang Mach-E Batteries Age Better Than Expected](https://www.motor1.com/news/814913/ford-mustang-mache-battery-health-report/)
 
 **📜 On this day, 694:** At the Seventeenth Council of Toledo, Egica, a king of the Visigoths of Hispania, accuses Jews of aiding Muslims, sentencing all Jews to slavery. — [Seventeenth Council of Toledo](https://en.wikipedia.org/wiki/Seventeenth_Council_of_Toledo)
 
