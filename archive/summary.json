@@ -1660,8 +1660,11 @@
       "text": "Trust is the glue that holds people together and is the lubricant that keeps an organization moving forward.",
       "author": "Colin Powell"
     },
-    "nasa": null,
-    "car": "Last Mercedes SLR McLaren Stirling Moss Could Sell For More Than $6 Million",
+    "nasa": {
+      "title": "NASA Science",
+      "media_type": "image"
+    },
+    "car": "Average New Car Prices Just Hit Another Record: $51,000",
     "onthisday": {
       "year": 474,
       "title": "Leo II (emperor)"

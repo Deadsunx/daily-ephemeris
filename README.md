@@ -43,11 +43,13 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $74,324 | -0.05% |
-| Ethereum | $2,092.01 | -0.98% |
-| Solana | $84.62 | -1.72% |
+| Bitcoin | $73,856 | -1.28% |
+| Ethereum | $2,057.43 | -3.29% |
+| Solana | $83.33 | -3.43% |
 
-**🚗 Car news:** [Last Mercedes SLR McLaren Stirling Moss Could Sell For More Than $6 Million](https://www.motor1.com/news/815000/2010-mercedes-benz-slr-mclaren/)
+**🔭 NASA:** [NASA Science](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)
+
+**🚗 Car news:** [Average New Car Prices Just Hit Another Record: $51,000](https://www.motor1.com/news/815071/average-new-cars-prices-october-2026-record/)
 
 **📜 On this day, 474:** Emperor Leo II dies after a reign of ten months. He is succeeded by his father Zeno, who becomes sole ruler of the Byzantine Empire. — [Leo II (emperor)](https://en.wikipedia.org/wiki/Leo_II_(emperor))
 
