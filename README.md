@@ -35,23 +35,21 @@ python daily_update.py
 Only the Python standard library is used — nothing to install.
 
 <!-- LATEST:START -->
-### 📅 Latest snapshot — 2026-11-09
+### 📅 Latest snapshot — 2026-11-10
 
-> *"It isn't what you have or who you are or where you are or what you are doing that makes you happy or unhappy. It is what you think about it."* — **Dale Carnegie**
+> *"Trust is the glue that holds people together and is the lubricant that keeps an organization moving forward."* — **Colin Powell**
 
 **Crypto (USD)**
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $75,244 | +0.89% |
-| Ethereum | $2,131.4 | +0.51% |
-| Solana | $86.52 | +0.27% |
+| Bitcoin | $74,324 | -0.05% |
+| Ethereum | $2,092.01 | -0.98% |
+| Solana | $84.62 | -1.72% |
 
-**🔭 NASA:** [NASA Science](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)
+**🚗 Car news:** [Last Mercedes SLR McLaren Stirling Moss Could Sell For More Than $6 Million](https://www.motor1.com/news/815000/2010-mercedes-benz-slr-mclaren/)
 
-**🚗 Car news:** [Ford: Mustang Mach-E Batteries Age Better Than Expected](https://www.motor1.com/news/814913/ford-mustang-mache-battery-health-report/)
-
-**📜 On this day, 694:** At the Seventeenth Council of Toledo, Egica, a king of the Visigoths of Hispania, accuses Jews of aiding Muslims, sentencing all Jews to slavery. — [Seventeenth Council of Toledo](https://en.wikipedia.org/wiki/Seventeenth_Council_of_Toledo)
+**📜 On this day, 474:** Emperor Leo II dies after a reign of ten months. He is succeeded by his father Zeno, who becomes sole ruler of the Byzantine Empire. — [Leo II (emperor)](https://en.wikipedia.org/wiki/Leo_II_(emperor))
 
 **🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 11 repos · 9 followers
 

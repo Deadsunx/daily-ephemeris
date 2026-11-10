@@ -1,13 +1,12 @@
 {
-  "date": "2026-11-09",
-  "fetched_at": "2026-11-09T23:57:14.370375+00:00",
+  "date": "2026-11-10",
+  "fetched_at": "2026-11-10T11:59:05.027852+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 75244,
-      "usd_24h_change": 0.89,
-      "usd_market_cap": 1513014568282.4841,
+      "usd": 74324,
+      "usd_24h_change": -0.05,
+      "usd_market_cap": 1494917168440.7146,
       "spark": [
-        82917.9,
         83690.87,
         81794.85,
         83115.1,
@@ -37,15 +36,15 @@
         75775.28,
         75776.38,
         74740.42,
-        75234.39
+        75266.77,
+        74324.75
       ]
     },
     "ethereum": {
-      "usd": 2131.4,
-      "usd_24h_change": 0.51,
-      "usd_market_cap": 260434096585.2269,
+      "usd": 2092.01,
+      "usd_24h_change": -0.98,
+      "usd_market_cap": 255698485605.02405,
       "spark": [
-        2504.31,
         2534.63,
         2445.89,
         2496.59,
@@ -75,15 +74,15 @@
         2236.28,
         2237.05,
         2124.38,
-        2131.4
+        2132.14,
+        2092.01
       ]
     },
     "solana": {
-      "usd": 86.52,
-      "usd_24h_change": 0.27,
-      "usd_market_cap": 51144938219.90009,
+      "usd": 84.62,
+      "usd_24h_change": -1.72,
+      "usd_market_cap": 50030300994.18785,
       "spark": [
-        110.0,
         111.25,
         105.64,
         106.75,
@@ -113,31 +112,28 @@
         90.06,
         89.7,
         86.41,
-        86.52
+        86.6,
+        84.63
       ]
     }
   },
   "quote": {
-    "text": "It isn't what you have or who you are or where you are or what you are doing that makes you happy or unhappy. It is what you think about it.",
-    "author": "Dale Carnegie"
+    "text": "Trust is the glue that holds people together and is the lubricant that keeps an organization moving forward.",
+    "author": "Colin Powell"
   },
   "nasa": {
-    "title": "NASA Science",
-    "explanation": "Does the blue nebula look like the head of a witch? The nebula is known popularly as the Witch Head Nebula because, it is said, the nebula's shape resembles a Halloween-style caricature of a witch's head. Exactly how, though, can be a topic of imaginative speculation. What is clear is that IC 2118 is about 50 light-years across and made of gas and dust that points to -- because it has been partly eroded by -- the nearby star Rigel. One of the brighter stars in the constellation Orion, Rigel lies just below the center of the featured image. The blue color of the Witch Head Nebula and is caused not only by Rigel's intense blue starlight but also because the dust grains scatter blue light more efficiently than red. The same physical process causes Earth's daytime sky to appear blue, although the scatterers in planet Earth's atmosphere are molecules of nitrogen and oxygen.Tomorrow's picture: suddenly Saturn\t\t\t\t\t\t",
-    "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
-    "media_type": "image",
-    "thumbnail_url": null
+    "error": "HTTP Error 500: Internal Server Error"
   },
   "car_news": {
-    "headline": "Ford: Mustang Mach-E Batteries Age Better Than Expected",
-    "url": "https://www.motor1.com/news/814913/ford-mustang-mache-battery-health-report/",
+    "headline": "Last Mercedes SLR McLaren Stirling Moss Could Sell For More Than $6 Million",
+    "url": "https://www.motor1.com/news/815000/2010-mercedes-benz-slr-mclaren/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {
-    "year": 694,
-    "text": "At the Seventeenth Council of Toledo, Egica, a king of the Visigoths of Hispania, accuses Jews of aiding Muslims, sentencing all Jews to slavery.",
-    "title": "Seventeenth Council of Toledo",
-    "url": "https://en.wikipedia.org/wiki/Seventeenth_Council_of_Toledo"
+    "year": 474,
+    "text": "Emperor Leo II dies after a reign of ten months. He is succeeded by his father Zeno, who becomes sole ruler of the Byzantine Empire.",
+    "title": "Leo II (emperor)",
+    "url": "https://en.wikipedia.org/wiki/Leo_II_(emperor)"
   },
   "github": {
     "login": "Deadsunx",
