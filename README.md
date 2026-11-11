@@ -43,11 +43,11 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $73,971 | -0.27% |
-| Ethereum | $2,055.57 | -1.69% |
-| Solana | $83.82 | -0.77% |
+| Bitcoin | $74,328 | +0.9% |
+| Ethereum | $2,074.99 | +1.15% |
+| Solana | $84.58 | +1.72% |
 
-**🚗 Car news:** [Land Rover Adds Six Atlas Colors To The Defender Lineup](https://www.motor1.com/news/815139/defender-atlas-colors-add-six/)
+**🚗 Car news:** [Jaguar May Already Have A Name For Its Next Car](https://www.motor1.com/news/815187/jaguar-type-02-trademark-eu/)
 
 **📜 On this day, 109:** Roman emperor Trajan celebrates his newly constructed naumachia with a display of ships and mock battles. — [AD 109](https://en.wikipedia.org/wiki/AD_109)
 

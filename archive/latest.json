@@ -1,11 +1,11 @@
 {
   "date": "2026-11-11",
-  "fetched_at": "2026-11-11T11:37:14.606555+00:00",
+  "fetched_at": "2026-11-11T22:28:00.033457+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 73971,
-      "usd_24h_change": -0.27,
-      "usd_market_cap": 1487649654877.449,
+      "usd": 74328,
+      "usd_24h_change": 0.9,
+      "usd_market_cap": 1494786000700.2822,
       "spark": [
         81794.85,
         83115.1,
@@ -37,13 +37,13 @@
         74740.42,
         75266.77,
         73721.18,
-        73973.13
+        74328.01
       ]
     },
     "ethereum": {
-      "usd": 2055.57,
-      "usd_24h_change": -1.69,
-      "usd_market_cap": 238677470734.10352,
+      "usd": 2074.99,
+      "usd_24h_change": 1.15,
+      "usd_market_cap": 253553759264.10263,
       "spark": [
         2445.89,
         2496.59,
@@ -75,13 +75,13 @@
         2124.38,
         2132.14,
         2050.34,
-        2055.87
+        2074.74
       ]
     },
     "solana": {
-      "usd": 83.82,
-      "usd_24h_change": -0.77,
-      "usd_market_cap": 49559478179.68492,
+      "usd": 84.58,
+      "usd_24h_change": 1.72,
+      "usd_market_cap": 50022793152.27549,
       "spark": [
         105.64,
         106.75,
@@ -113,7 +113,7 @@
         86.41,
         86.6,
         83.27,
-        83.79
+        84.57
       ]
     }
   },
@@ -125,8 +125,8 @@
     "error": "HTTP Error 500: Internal Server Error"
   },
   "car_news": {
-    "headline": "Land Rover Adds Six Atlas Colors To The Defender Lineup",
-    "url": "https://www.motor1.com/news/815139/defender-atlas-colors-add-six/",
+    "headline": "Jaguar May Already Have A Name For Its Next Car",
+    "url": "https://www.motor1.com/news/815187/jaguar-type-02-trademark-eu/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {
