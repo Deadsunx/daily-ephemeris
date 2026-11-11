@@ -1,13 +1,12 @@
 {
-  "date": "2026-11-10",
-  "fetched_at": "2026-11-10T21:38:45.677099+00:00",
+  "date": "2026-11-11",
+  "fetched_at": "2026-11-11T11:37:14.606555+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 73856,
-      "usd_24h_change": -1.28,
-      "usd_market_cap": 1485133205417.6763,
+      "usd": 73971,
+      "usd_24h_change": -0.27,
+      "usd_market_cap": 1487649654877.449,
       "spark": [
-        83690.87,
         81794.85,
         83115.1,
         81603.65,
@@ -37,15 +36,15 @@
         75776.38,
         74740.42,
         75266.77,
-        73857.97
+        73721.18,
+        73973.13
       ]
     },
     "ethereum": {
-      "usd": 2057.43,
-      "usd_24h_change": -3.29,
-      "usd_market_cap": 251431798919.378,
+      "usd": 2055.57,
+      "usd_24h_change": -1.69,
+      "usd_market_cap": 238677470734.10352,
       "spark": [
-        2534.63,
         2445.89,
         2496.59,
         2419.69,
@@ -75,15 +74,15 @@
         2237.05,
         2124.38,
         2132.14,
-        2057.43
+        2050.34,
+        2055.87
       ]
     },
     "solana": {
-      "usd": 83.33,
-      "usd_24h_change": -3.43,
-      "usd_market_cap": 49258711526.30518,
+      "usd": 83.82,
+      "usd_24h_change": -0.77,
+      "usd_market_cap": 49559478179.68492,
       "spark": [
-        111.25,
         105.64,
         106.75,
         104.19,
@@ -113,31 +112,28 @@
         89.7,
         86.41,
         86.6,
-        83.33
+        83.27,
+        83.79
       ]
     }
   },
   "quote": {
-    "text": "Trust is the glue that holds people together and is the lubricant that keeps an organization moving forward.",
-    "author": "Colin Powell"
+    "text": "A random act of kindness, no matter how small, can make a tremendous impact on someone else's life.",
+    "author": "Roy T. Bennett"
   },
   "nasa": {
-    "title": "NASA Science",
-    "explanation": "Sometimes Saturn disappears. It doesn't really go away, of course -- it just\u00a0disappears\u00a0from our view when\u00a0Earth's Moon\u00a0moves in front. Such a\u00a0Saturnian eclipse, more formally called an\u00a0occultation, was visible in early 2025 along a small\u00a0swath\u00a0of\u00a0Earth\u00a0-- from\u00a0Greenland\u00a0through central\u00a0Europe\u00a0and into northern\u00a0Africa. The\u00a0featured image\u00a0is a digital fusion of three images, the first of just\u00a0Saturn\u00a0before it disappeared, and then two more of the Moon with\u00a0different exposure\u00a0lengths. The images were taken from\u00a0Sardinia,\u00a0Italy, after sunset. The bright dot near Saturn is not a\u00a0moon of Saturn, but rather the star\u00a085 Aquarii, which is further behind Saturn than Saturn is behind the Moon. The next time the\u00a0Moon\u00a0moves in front of Saturn, as visible from\u00a0some place on Earth, will be in 2031.\u00a0Tomorrow's picture:\u00a0small but mighty\t\t\t\t\t\t",
-    "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
-    "media_type": "image",
-    "thumbnail_url": null
+    "error": "HTTP Error 500: Internal Server Error"
   },
   "car_news": {
-    "headline": "Average New Car Prices Just Hit Another Record: $51,000",
-    "url": "https://www.motor1.com/news/815071/average-new-cars-prices-october-2026-record/",
+    "headline": "Land Rover Adds Six Atlas Colors To The Defender Lineup",
+    "url": "https://www.motor1.com/news/815139/defender-atlas-colors-add-six/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {
-    "year": 474,
-    "text": "Emperor Leo II dies after a reign of ten months. He is succeeded by his father Zeno, who becomes sole ruler of the Byzantine Empire.",
-    "title": "Leo II (emperor)",
-    "url": "https://en.wikipedia.org/wiki/Leo_II_(emperor)"
+    "year": 109,
+    "text": "Roman emperor Trajan celebrates his newly constructed naumachia with a display of ships and mock battles.",
+    "title": "AD 109",
+    "url": "https://en.wikipedia.org/wiki/AD_109"
   },
   "github": {
     "login": "Deadsunx",
