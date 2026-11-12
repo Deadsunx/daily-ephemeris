@@ -43,13 +43,11 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $72,855 | -1.4% |
-| Ethereum | $2,019.72 | -1.69% |
-| Solana | $82.35 | -1.82% |
+| Bitcoin | $71,487 | -3.82% |
+| Ethereum | $2,015.28 | -2.61% |
+| Solana | $81.35 | -3.71% |
 
-**🔭 NASA:** [NASA Science](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)
-
-**🚗 Car news:** [Scout Is Finally Building Real Vehicles At Its $2-Billion Factory](https://www.motor1.com/news/815073/scout-builds-terra-traveler-prototypes-factory/)
+**🚗 Car news:** [Dodge Gets A New CEO While Tim Kuniskis Gets A Promotion](https://www.motor1.com/news/815326/stellantis-dodge-chysler-new-ceos-kuniskis/)
 
 **📜 On this day, 954:** The 13-year-old Lothair III is crowned at the Abbey of Saint-Remi as king of the West Frankish Kingdom. — [Lothair of France](https://en.wikipedia.org/wiki/Lothair_of_France)
 
