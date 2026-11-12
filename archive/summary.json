@@ -1682,5 +1682,21 @@
       "year": 109,
       "title": "AD 109"
     }
+  },
+  {
+    "date": "2026-11-12",
+    "quote": {
+      "text": "In the practice of tolerance, one's enemy is the best teacher.",
+      "author": "Dalai Lama"
+    },
+    "nasa": {
+      "title": "NASA Science",
+      "media_type": "image"
+    },
+    "car": "Scout Is Finally Building Real Vehicles At Its $2-Billion Factory",
+    "onthisday": {
+      "year": 954,
+      "title": "Lothair of France"
+    }
   }
 ]
