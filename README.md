@@ -35,21 +35,23 @@ python daily_update.py
 Only the Python standard library is used — nothing to install.
 
 <!-- LATEST:START -->
-### 📅 Latest snapshot — 2026-11-12
+### 📅 Latest snapshot — 2026-11-13
 
-> *"In the practice of tolerance, one's enemy is the best teacher."* — **Dalai Lama**
+> *"An approximate answer to the right question is worth a great deal more than a precise answer to the wrong question."* — **John Tukey**
 
 **Crypto (USD)**
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $71,487 | -3.82% |
-| Ethereum | $2,015.28 | -2.61% |
-| Solana | $81.35 | -3.71% |
+| Bitcoin | $69,265 | -4.96% |
+| Ethereum | $1,958.69 | -3.33% |
+| Solana | $80.64 | -2.19% |
 
-**🚗 Car news:** [Dodge Gets A New CEO While Tim Kuniskis Gets A Promotion](https://www.motor1.com/news/815326/stellantis-dodge-chysler-new-ceos-kuniskis/)
+**🔭 NASA:** [NASA Science](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)
 
-**📜 On this day, 954:** The 13-year-old Lothair III is crowned at the Abbey of Saint-Remi as king of the West Frankish Kingdom. — [Lothair of France](https://en.wikipedia.org/wiki/Lothair_of_France)
+**🚗 Car news:** [Germany Restricts BYD, Nio And Geely Cars At Military Sites Over Security Concerns](https://www.motor1.com/news/815377/germany-chinese-cars-bundeswehr-bases/)
+
+**📜 On this day, 1002:** English king Æthelred II orders the killing of all Danes in England, known today as the St. Brice's Day massacre. — [Æthelred the Unready](https://en.wikipedia.org/wiki/%C3%86thelred_the_Unready)
 
 **🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 11 repos · 9 followers
 

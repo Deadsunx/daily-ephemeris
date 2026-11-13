@@ -1,13 +1,12 @@
 {
-  "date": "2026-11-12",
-  "fetched_at": "2026-11-12T22:02:01.972330+00:00",
+  "date": "2026-11-13",
+  "fetched_at": "2026-11-13T11:45:58.542983+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 71487,
-      "usd_24h_change": -3.82,
-      "usd_market_cap": 1437695682125.8376,
+      "usd": 69265,
+      "usd_24h_change": -4.96,
+      "usd_market_cap": 1392935475065.2068,
       "spark": [
-        83115.1,
         81603.65,
         82155.54,
         81523.66,
@@ -37,15 +36,15 @@
         75266.77,
         73721.18,
         73974.39,
-        71466.64
+        71371.98,
+        69264.52
       ]
     },
     "ethereum": {
-      "usd": 2015.28,
-      "usd_24h_change": -2.61,
-      "usd_market_cap": 246293168980.86346,
+      "usd": 1958.69,
+      "usd_24h_change": -3.33,
+      "usd_market_cap": 239382348358.94165,
       "spark": [
-        2496.59,
         2419.69,
         2439.96,
         2420.56,
@@ -75,15 +74,15 @@
         2132.14,
         2050.34,
         2055.37,
-        2014.32
+        2017.35,
+        1958.84
       ]
     },
     "solana": {
-      "usd": 81.35,
-      "usd_24h_change": -3.71,
-      "usd_market_cap": 48112400268.48035,
+      "usd": 80.64,
+      "usd_24h_change": -2.19,
+      "usd_market_cap": 47692248691.10186,
       "spark": [
-        106.75,
         104.19,
         105.34,
         104.32,
@@ -113,27 +112,32 @@
         86.6,
         83.27,
         83.24,
-        81.29
+        81.64,
+        80.64
       ]
     }
   },
   "quote": {
-    "text": "In the practice of tolerance, one's enemy is the best teacher.",
-    "author": "Dalai Lama"
+    "text": "An approximate answer to the right question is worth a great deal more than a precise answer to the wrong question.",
+    "author": "John Tukey"
   },
   "nasa": {
-    "error": "HTTP Error 500: Internal Server Error"
+    "title": "NASA Science",
+    "explanation": "The large stellar association cataloged as NGC 206 is nestled within the dusty arms of the neighboring Andromeda galaxy along with the galaxy's pinkish star-forming regions. Also known as M31, the spiral galaxy is a mere 2.5 million light-years away. NGC 206 is found at the center of this sharp and detailed close-up of the southwestern extent of Andromeda's disk. The bright, blue stars of NGC 206 indicate its youth. In fact, its youngest massive stars are less than 10 million years old. Much larger than the open or galactic clusters of young stars in the disk of our Milky Way galaxy, NGC 206 spans about 4,000 light-years. That's comparable in size to the giant stellar nurseries NGC 604 in nearby spiral M33 and the Tarantula Nebula in the Large Magellanic Cloud.Tomorrow's picture: pixels in space\t\t\t\t\t\t",
+    "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
+    "media_type": "image",
+    "thumbnail_url": null
   },
   "car_news": {
-    "headline": "Dodge Gets A New CEO While Tim Kuniskis Gets A Promotion",
-    "url": "https://www.motor1.com/news/815326/stellantis-dodge-chysler-new-ceos-kuniskis/",
+    "headline": "Germany Restricts BYD, Nio And Geely Cars At Military Sites Over Security Concerns",
+    "url": "https://www.motor1.com/news/815377/germany-chinese-cars-bundeswehr-bases/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {
-    "year": 954,
-    "text": "The 13-year-old Lothair III is crowned at the Abbey of Saint-Remi as king of the West Frankish Kingdom.",
-    "title": "Lothair of France",
-    "url": "https://en.wikipedia.org/wiki/Lothair_of_France"
+    "year": 1002,
+    "text": "English king \u00c6thelred II orders the killing of all Danes in England, known today as the St. Brice's Day massacre.",
+    "title": "\u00c6thelred the Unready",
+    "url": "https://en.wikipedia.org/wiki/%C3%86thelred_the_Unready"
   },
   "github": {
     "login": "Deadsunx",

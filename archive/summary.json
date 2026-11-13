@@ -1695,5 +1695,21 @@
       "year": 954,
       "title": "Lothair of France"
     }
+  },
+  {
+    "date": "2026-11-13",
+    "quote": {
+      "text": "An approximate answer to the right question is worth a great deal more than a precise answer to the wrong question.",
+      "author": "John Tukey"
+    },
+    "nasa": {
+      "title": "NASA Science",
+      "media_type": "image"
+    },
+    "car": "Germany Restricts BYD, Nio And Geely Cars At Military Sites Over Security Concerns",
+    "onthisday": {
+      "year": 1002,
+      "title": "\u00c6thelred the Unready"
+    }
   }
 ]
