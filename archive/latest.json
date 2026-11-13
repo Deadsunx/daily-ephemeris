@@ -1,11 +1,11 @@
 {
   "date": "2026-11-13",
-  "fetched_at": "2026-11-13T11:45:58.542983+00:00",
+  "fetched_at": "2026-11-13T21:47:37.945135+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 69265,
-      "usd_24h_change": -4.96,
-      "usd_market_cap": 1392935475065.2068,
+      "usd": 68128,
+      "usd_24h_change": -4.73,
+      "usd_market_cap": 1369165091186.4468,
       "spark": [
         81603.65,
         82155.54,
@@ -37,13 +37,13 @@
         73721.18,
         73974.39,
         71371.98,
-        69264.52
+        68126.53
       ]
     },
     "ethereum": {
-      "usd": 1958.69,
-      "usd_24h_change": -3.33,
-      "usd_market_cap": 239382348358.94165,
+      "usd": 1921.23,
+      "usd_24h_change": -4.79,
+      "usd_market_cap": 234667505165.99295,
       "spark": [
         2419.69,
         2439.96,
@@ -75,13 +75,13 @@
         2050.34,
         2055.37,
         2017.35,
-        1958.84
+        1921.12
       ]
     },
     "solana": {
-      "usd": 80.64,
-      "usd_24h_change": -2.19,
-      "usd_market_cap": 47692248691.10186,
+      "usd": 78.64,
+      "usd_24h_change": -3.42,
+      "usd_market_cap": 46530773313.837585,
       "spark": [
         104.19,
         105.34,
@@ -113,7 +113,7 @@
         83.27,
         83.24,
         81.64,
-        80.64
+        78.67
       ]
     }
   },
@@ -122,15 +122,11 @@
     "author": "John Tukey"
   },
   "nasa": {
-    "title": "NASA Science",
-    "explanation": "The large stellar association cataloged as NGC 206 is nestled within the dusty arms of the neighboring Andromeda galaxy along with the galaxy's pinkish star-forming regions. Also known as M31, the spiral galaxy is a mere 2.5 million light-years away. NGC 206 is found at the center of this sharp and detailed close-up of the southwestern extent of Andromeda's disk. The bright, blue stars of NGC 206 indicate its youth. In fact, its youngest massive stars are less than 10 million years old. Much larger than the open or galactic clusters of young stars in the disk of our Milky Way galaxy, NGC 206 spans about 4,000 light-years. That's comparable in size to the giant stellar nurseries NGC 604 in nearby spiral M33 and the Tarantula Nebula in the Large Magellanic Cloud.Tomorrow's picture: pixels in space\t\t\t\t\t\t",
-    "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
-    "media_type": "image",
-    "thumbnail_url": null
+    "error": "The read operation timed out"
   },
   "car_news": {
-    "headline": "Germany Restricts BYD, Nio And Geely Cars At Military Sites Over Security Concerns",
-    "url": "https://www.motor1.com/news/815377/germany-chinese-cars-bundeswehr-bases/",
+    "headline": "Porsche\u2019s New Supercar Already Spotted At The N\u00fcrburgring",
+    "url": "https://www.motor1.com/news/815463/porsche-mission-s-spied-engine-sounds-nurburgring/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {

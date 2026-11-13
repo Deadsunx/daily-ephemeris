@@ -43,13 +43,11 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $69,265 | -4.96% |
-| Ethereum | $1,958.69 | -3.33% |
-| Solana | $80.64 | -2.19% |
+| Bitcoin | $68,128 | -4.73% |
+| Ethereum | $1,921.23 | -4.79% |
+| Solana | $78.64 | -3.42% |
 
-**🔭 NASA:** [NASA Science](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)
-
-**🚗 Car news:** [Germany Restricts BYD, Nio And Geely Cars At Military Sites Over Security Concerns](https://www.motor1.com/news/815377/germany-chinese-cars-bundeswehr-bases/)
+**🚗 Car news:** [Porsche’s New Supercar Already Spotted At The Nürburgring](https://www.motor1.com/news/815463/porsche-mission-s-spied-engine-sounds-nurburgring/)
 
 **📜 On this day, 1002:** English king Æthelred II orders the killing of all Danes in England, known today as the St. Brice's Day massacre. — [Æthelred the Unready](https://en.wikipedia.org/wiki/%C3%86thelred_the_Unready)
 
