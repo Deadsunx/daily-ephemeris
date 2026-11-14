@@ -1,11 +1,11 @@
 {
   "date": "2026-11-14",
-  "fetched_at": "2026-11-14T11:07:20.854491+00:00",
+  "fetched_at": "2026-11-14T20:25:00.023159+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 67187,
-      "usd_24h_change": -3.04,
-      "usd_market_cap": 1351243140273.0378,
+      "usd": 65534,
+      "usd_24h_change": -5.0,
+      "usd_market_cap": 1317768579484.3982,
       "spark": [
         82155.54,
         81523.66,
@@ -37,13 +37,13 @@
         73974.39,
         71371.98,
         68313.71,
-        67202.17
+        65521.71
       ]
     },
     "ethereum": {
-      "usd": 1905.51,
-      "usd_24h_change": -2.37,
-      "usd_market_cap": 232895765081.30063,
+      "usd": 1825.61,
+      "usd_24h_change": -6.48,
+      "usd_market_cap": 223089120400.47092,
       "spark": [
         2439.96,
         2420.56,
@@ -75,13 +75,13 @@
         2055.37,
         2017.35,
         1932.28,
-        1905.26
+        1825.33
       ]
     },
     "solana": {
-      "usd": 75.62,
-      "usd_24h_change": -6.06,
-      "usd_market_cap": 44726886837.677185,
+      "usd": 71.94,
+      "usd_24h_change": -10.45,
+      "usd_market_cap": 42546759332.509254,
       "spark": [
         105.34,
         104.32,
@@ -113,7 +113,7 @@
         83.24,
         81.64,
         78.26,
-        75.62
+        71.91
       ]
     }
   },
@@ -125,8 +125,8 @@
     "error": "HTTP Error 500: Internal Server Error"
   },
   "car_news": {
-    "headline": "Porsche\u2019s New Supercar Already Spotted At The N\u00fcrburgring",
-    "url": "https://www.motor1.com/news/815463/porsche-mission-s-spied-engine-sounds-nurburgring/",
+    "headline": "This Corvette Owner Bought A Brand-New C8. Then He Lost $37,000 After Just 570 Miles",
+    "url": "https://www.motor1.com/news/815462/corvette-eray-massive-depreciation-auction/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {
