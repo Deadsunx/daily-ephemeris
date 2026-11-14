@@ -35,21 +35,21 @@ python daily_update.py
 Only the Python standard library is used — nothing to install.
 
 <!-- LATEST:START -->
-### 📅 Latest snapshot — 2026-11-13
+### 📅 Latest snapshot — 2026-11-14
 
-> *"An approximate answer to the right question is worth a great deal more than a precise answer to the wrong question."* — **John Tukey**
+> *"There is nothing more frightful than ignorance in action."* — **Johann Wolfgang von Goethe**
 
 **Crypto (USD)**
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $68,128 | -4.73% |
-| Ethereum | $1,921.23 | -4.79% |
-| Solana | $78.64 | -3.42% |
+| Bitcoin | $67,187 | -3.04% |
+| Ethereum | $1,905.51 | -2.37% |
+| Solana | $75.62 | -6.06% |
 
 **🚗 Car news:** [Porsche’s New Supercar Already Spotted At The Nürburgring](https://www.motor1.com/news/815463/porsche-mission-s-spied-engine-sounds-nurburgring/)
 
-**📜 On this day, 1002:** English king Æthelred II orders the killing of all Danes in England, known today as the St. Brice's Day massacre. — [Æthelred the Unready](https://en.wikipedia.org/wiki/%C3%86thelred_the_Unready)
+**📜 On this day, -332:** Alexander the Great is crowned pharaoh of Egypt. — [Alexander the Great](https://en.wikipedia.org/wiki/Alexander_the_Great)
 
 **🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 11 repos · 9 followers
 

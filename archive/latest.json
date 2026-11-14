@@ -1,13 +1,12 @@
 {
-  "date": "2026-11-13",
-  "fetched_at": "2026-11-13T21:47:37.945135+00:00",
+  "date": "2026-11-14",
+  "fetched_at": "2026-11-14T11:07:20.854491+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 68128,
-      "usd_24h_change": -4.73,
-      "usd_market_cap": 1369165091186.4468,
+      "usd": 67187,
+      "usd_24h_change": -3.04,
+      "usd_market_cap": 1351243140273.0378,
       "spark": [
-        81603.65,
         82155.54,
         81523.66,
         81408.35,
@@ -37,15 +36,15 @@
         73721.18,
         73974.39,
         71371.98,
-        68126.53
+        68313.71,
+        67202.17
       ]
     },
     "ethereum": {
-      "usd": 1921.23,
-      "usd_24h_change": -4.79,
-      "usd_market_cap": 234667505165.99295,
+      "usd": 1905.51,
+      "usd_24h_change": -2.37,
+      "usd_market_cap": 232895765081.30063,
       "spark": [
-        2419.69,
         2439.96,
         2420.56,
         2400.31,
@@ -75,15 +74,15 @@
         2050.34,
         2055.37,
         2017.35,
-        1921.12
+        1932.28,
+        1905.26
       ]
     },
     "solana": {
-      "usd": 78.64,
-      "usd_24h_change": -3.42,
-      "usd_market_cap": 46530773313.837585,
+      "usd": 75.62,
+      "usd_24h_change": -6.06,
+      "usd_market_cap": 44726886837.677185,
       "spark": [
-        104.19,
         105.34,
         104.32,
         103.36,
@@ -113,16 +112,17 @@
         83.27,
         83.24,
         81.64,
-        78.67
+        78.26,
+        75.62
       ]
     }
   },
   "quote": {
-    "text": "An approximate answer to the right question is worth a great deal more than a precise answer to the wrong question.",
-    "author": "John Tukey"
+    "text": "There is nothing more frightful than ignorance in action.",
+    "author": "Johann Wolfgang von Goethe"
   },
   "nasa": {
-    "error": "The read operation timed out"
+    "error": "HTTP Error 500: Internal Server Error"
   },
   "car_news": {
     "headline": "Porsche\u2019s New Supercar Already Spotted At The N\u00fcrburgring",
@@ -130,10 +130,10 @@
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {
-    "year": 1002,
-    "text": "English king \u00c6thelred II orders the killing of all Danes in England, known today as the St. Brice's Day massacre.",
-    "title": "\u00c6thelred the Unready",
-    "url": "https://en.wikipedia.org/wiki/%C3%86thelred_the_Unready"
+    "year": -332,
+    "text": "Alexander the Great is crowned pharaoh of Egypt.",
+    "title": "Alexander the Great",
+    "url": "https://en.wikipedia.org/wiki/Alexander_the_Great"
   },
   "github": {
     "login": "Deadsunx",
