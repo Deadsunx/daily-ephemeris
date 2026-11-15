@@ -1,11 +1,11 @@
 {
   "date": "2026-11-15",
-  "fetched_at": "2026-11-15T11:41:23.021247+00:00",
+  "fetched_at": "2026-11-15T20:48:58.117272+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 65481,
-      "usd_24h_change": -2.51,
-      "usd_market_cap": 1317178487371.2139,
+      "usd": 64970,
+      "usd_24h_change": -0.73,
+      "usd_market_cap": 1306663459509.2769,
       "spark": [
         81523.66,
         81408.35,
@@ -37,13 +37,13 @@
         71371.98,
         68313.71,
         64120.24,
-        65480.88
+        64969.83
       ]
     },
     "ethereum": {
-      "usd": 1835.04,
-      "usd_24h_change": -3.74,
-      "usd_market_cap": 224132286358.01807,
+      "usd": 1825.98,
+      "usd_24h_change": 0.18,
+      "usd_market_cap": 223173691659.4771,
       "spark": [
         2420.56,
         2400.31,
@@ -75,13 +75,13 @@
         2017.35,
         1932.28,
         1768.45,
-        1833.61
+        1825.98
       ]
     },
     "solana": {
-      "usd": 72.59,
-      "usd_24h_change": -4.34,
-      "usd_market_cap": 42946577748.674484,
+      "usd": 71.84,
+      "usd_24h_change": 0.33,
+      "usd_market_cap": 42507203573.9137,
       "spark": [
         104.32,
         103.36,
@@ -113,7 +113,7 @@
         81.64,
         78.26,
         70.24,
-        72.59
+        71.86
       ]
     }
   },
@@ -125,8 +125,8 @@
     "error": "HTTP Error 500: Internal Server Error"
   },
   "car_news": {
-    "headline": "This Corvette Owner Bought A Brand-New C8. Then He Lost $37,000 After Just 570 Miles",
-    "url": "https://www.motor1.com/news/815462/corvette-eray-massive-depreciation-auction/",
+    "headline": "Tens Of Thousands Of Dollars Later, This Overengineered Jet Turbine Keeps Dust Out Of Truck Beds",
+    "url": "https://www.motor1.com/news/815386/jet-turbine-keeps-dust-out-truck-beds/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {
@@ -139,7 +139,7 @@
     "login": "Deadsunx",
     "name": "Oumar Tirera",
     "public_repos": 11,
-    "followers": 9,
+    "followers": 8,
     "following": 12,
     "created_at": "2022-05-12T17:33:47Z",
     "html_url": "https://github.com/Deadsunx",
