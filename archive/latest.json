@@ -1,13 +1,12 @@
 {
-  "date": "2026-11-14",
-  "fetched_at": "2026-11-14T20:25:00.023159+00:00",
+  "date": "2026-11-15",
+  "fetched_at": "2026-11-15T11:41:23.021247+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 65534,
-      "usd_24h_change": -5.0,
-      "usd_market_cap": 1317768579484.3982,
+      "usd": 65481,
+      "usd_24h_change": -2.51,
+      "usd_market_cap": 1317178487371.2139,
       "spark": [
-        82155.54,
         81523.66,
         81408.35,
         82019.58,
@@ -37,15 +36,15 @@
         73974.39,
         71371.98,
         68313.71,
-        65521.71
+        64120.24,
+        65480.88
       ]
     },
     "ethereum": {
-      "usd": 1825.61,
-      "usd_24h_change": -6.48,
-      "usd_market_cap": 223089120400.47092,
+      "usd": 1835.04,
+      "usd_24h_change": -3.74,
+      "usd_market_cap": 224132286358.01807,
       "spark": [
-        2439.96,
         2420.56,
         2400.31,
         2407.84,
@@ -75,15 +74,15 @@
         2055.37,
         2017.35,
         1932.28,
-        1825.33
+        1768.45,
+        1833.61
       ]
     },
     "solana": {
-      "usd": 71.94,
-      "usd_24h_change": -10.45,
-      "usd_market_cap": 42546759332.509254,
+      "usd": 72.59,
+      "usd_24h_change": -4.34,
+      "usd_market_cap": 42946577748.674484,
       "spark": [
-        105.34,
         104.32,
         103.36,
         104.0,
@@ -113,13 +112,14 @@
         83.24,
         81.64,
         78.26,
-        71.91
+        70.24,
+        72.59
       ]
     }
   },
   "quote": {
-    "text": "There is nothing more frightful than ignorance in action.",
-    "author": "Johann Wolfgang von Goethe"
+    "text": "The weak can never forgive. Forgiveness is the attribute of the strong.",
+    "author": "Mahatma Gandhi"
   },
   "nasa": {
     "error": "HTTP Error 500: Internal Server Error"
@@ -130,10 +130,10 @@
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {
-    "year": -332,
-    "text": "Alexander the Great is crowned pharaoh of Egypt.",
-    "title": "Alexander the Great",
-    "url": "https://en.wikipedia.org/wiki/Alexander_the_Great"
+    "year": 655,
+    "text": "Battle of the Winwaed: Penda of Mercia is defeated by Oswiu of Northumbria.",
+    "title": "Battle of the Winwaed",
+    "url": "https://en.wikipedia.org/wiki/Battle_of_the_Winwaed"
   },
   "github": {
     "login": "Deadsunx",
