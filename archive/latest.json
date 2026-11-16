@@ -1,13 +1,12 @@
 {
-  "date": "2026-11-15",
-  "fetched_at": "2026-11-15T20:48:58.117272+00:00",
+  "date": "2026-11-16",
+  "fetched_at": "2026-11-16T12:20:08.317282+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 64970,
-      "usd_24h_change": -0.73,
-      "usd_market_cap": 1306663459509.2769,
+      "usd": 63938,
+      "usd_24h_change": -2.15,
+      "usd_market_cap": 1285862915079.5288,
       "spark": [
-        81523.66,
         81408.35,
         82019.58,
         81875.26,
@@ -37,15 +36,15 @@
         71371.98,
         68313.71,
         64120.24,
-        64969.83
+        65305.28,
+        63938.39
       ]
     },
     "ethereum": {
-      "usd": 1825.98,
-      "usd_24h_change": 0.18,
-      "usd_market_cap": 223173691659.4771,
+      "usd": 1791.73,
+      "usd_24h_change": -2.0,
+      "usd_market_cap": 218976039495.56403,
       "spark": [
-        2420.56,
         2400.31,
         2407.84,
         2405.92,
@@ -75,15 +74,15 @@
         2017.35,
         1932.28,
         1768.45,
-        1825.98
+        1834.53,
+        1791.96
       ]
     },
     "solana": {
-      "usd": 71.84,
-      "usd_24h_change": 0.33,
-      "usd_market_cap": 42507203573.9137,
+      "usd": 70.67,
+      "usd_24h_change": -2.55,
+      "usd_market_cap": 41805681147.48284,
       "spark": [
-        104.32,
         103.36,
         104.0,
         104.98,
@@ -113,27 +112,28 @@
         81.64,
         78.26,
         70.24,
-        71.86
+        72.71,
+        70.66
       ]
     }
   },
   "quote": {
-    "text": "The weak can never forgive. Forgiveness is the attribute of the strong.",
-    "author": "Mahatma Gandhi"
+    "text": "I dream my painting and I paint my dream.",
+    "author": "Vincent van Gogh"
   },
   "nasa": {
     "error": "HTTP Error 500: Internal Server Error"
   },
   "car_news": {
-    "headline": "Tens Of Thousands Of Dollars Later, This Overengineered Jet Turbine Keeps Dust Out Of Truck Beds",
-    "url": "https://www.motor1.com/news/815386/jet-turbine-keeps-dust-out-truck-beds/",
+    "headline": "BMW Recalls 720,000 Vehicles For Water Pump Fire Risk. Owners Told To Park Outside",
+    "url": "https://www.motor1.com/news/815578/bmw-recall-26v733000-warning/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {
-    "year": 655,
-    "text": "Battle of the Winwaed: Penda of Mercia is defeated by Oswiu of Northumbria.",
-    "title": "Battle of the Winwaed",
-    "url": "https://en.wikipedia.org/wiki/Battle_of_the_Winwaed"
+    "year": 534,
+    "text": "The second edition of the Code of Justinian is issued by the Byzantine jurist Tribonian and his assistants, consisting of twelve updated and revised books.",
+    "title": "Code of Justinian",
+    "url": "https://en.wikipedia.org/wiki/Code_of_Justinian"
   },
   "github": {
     "login": "Deadsunx",
