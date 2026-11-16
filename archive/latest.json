@@ -1,11 +1,11 @@
 {
   "date": "2026-11-16",
-  "fetched_at": "2026-11-16T12:20:08.317282+00:00",
+  "fetched_at": "2026-11-16T23:58:04.922142+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 63938,
-      "usd_24h_change": -2.15,
-      "usd_market_cap": 1285862915079.5288,
+      "usd": 64871,
+      "usd_24h_change": -0.54,
+      "usd_market_cap": 1304722272187.925,
       "spark": [
         81408.35,
         82019.58,
@@ -37,13 +37,13 @@
         68313.71,
         64120.24,
         65305.28,
-        63938.39
+        64868.68
       ]
     },
     "ethereum": {
-      "usd": 1791.73,
-      "usd_24h_change": -2.0,
-      "usd_market_cap": 218976039495.56403,
+      "usd": 1819.37,
+      "usd_24h_change": -0.72,
+      "usd_market_cap": 222356267433.9515,
       "spark": [
         2400.31,
         2407.84,
@@ -75,13 +75,13 @@
         1932.28,
         1768.45,
         1834.53,
-        1791.96
+        1819.25
       ]
     },
     "solana": {
-      "usd": 70.67,
-      "usd_24h_change": -2.55,
-      "usd_market_cap": 41805681147.48284,
+      "usd": 71.47,
+      "usd_24h_change": -1.61,
+      "usd_market_cap": 42280792554.537186,
       "spark": [
         103.36,
         104.0,
@@ -113,7 +113,7 @@
         78.26,
         70.24,
         72.71,
-        70.66
+        71.47
       ]
     }
   },
@@ -125,8 +125,8 @@
     "error": "HTTP Error 500: Internal Server Error"
   },
   "car_news": {
-    "headline": "BMW Recalls 720,000 Vehicles For Water Pump Fire Risk. Owners Told To Park Outside",
-    "url": "https://www.motor1.com/news/815578/bmw-recall-26v733000-warning/",
+    "headline": "Maserati: Our Cars Don't Need Wild Styling To Stand Out",
+    "url": "https://www.motor1.com/news/815647/maserati-mcpura-design/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {

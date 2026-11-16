@@ -43,11 +43,11 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $63,938 | -2.15% |
-| Ethereum | $1,791.73 | -2.0% |
-| Solana | $70.67 | -2.55% |
+| Bitcoin | $64,871 | -0.54% |
+| Ethereum | $1,819.37 | -0.72% |
+| Solana | $71.47 | -1.61% |
 
-**🚗 Car news:** [BMW Recalls 720,000 Vehicles For Water Pump Fire Risk. Owners Told To Park Outside](https://www.motor1.com/news/815578/bmw-recall-26v733000-warning/)
+**🚗 Car news:** [Maserati: Our Cars Don't Need Wild Styling To Stand Out](https://www.motor1.com/news/815647/maserati-mcpura-design/)
 
 **📜 On this day, 534:** The second edition of the Code of Justinian is issued by the Byzantine jurist Tribonian and his assistants, consisting of twelve updated and revised books. — [Code of Justinian](https://en.wikipedia.org/wiki/Code_of_Justinian)
 
