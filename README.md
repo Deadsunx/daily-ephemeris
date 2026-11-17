@@ -35,21 +35,21 @@ python daily_update.py
 Only the Python standard library is used — nothing to install.
 
 <!-- LATEST:START -->
-### 📅 Latest snapshot — 2026-11-16
+### 📅 Latest snapshot — 2026-11-17
 
-> *"I dream my painting and I paint my dream."* — **Vincent van Gogh**
+> *"If you can't argue both sides, you can't argue."* — **Jack Butcher**
 
 **Crypto (USD)**
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $64,871 | -0.54% |
-| Ethereum | $1,819.37 | -0.72% |
-| Solana | $71.47 | -1.61% |
+| Bitcoin | $64,878 | +1.34% |
+| Ethereum | $1,816.64 | +1.34% |
+| Solana | $73.45 | +4.03% |
 
-**🚗 Car news:** [Maserati: Our Cars Don't Need Wild Styling To Stand Out](https://www.motor1.com/news/815647/maserati-mcpura-design/)
+**🚗 Car news:** [Nissan Turns Discarded Pineapple Leaves Into High-Performance Car Parts](https://www.motor1.com/news/815733/nissan-pineapple-leaf-composite-panel/)
 
-**📜 On this day, 534:** The second edition of the Code of Justinian is issued by the Byzantine jurist Tribonian and his assistants, consisting of twelve updated and revised books. — [Code of Justinian](https://en.wikipedia.org/wiki/Code_of_Justinian)
+**📜 On this day, 887:** Emperor Charles the Fat is deposed by the Frankish magnates in an assembly at Frankfurt, leading his nephew, Arnulf of Carinthia, to declare himself king of the East Frankish Kingdom in late November. — [Charles the Fat](https://en.wikipedia.org/wiki/Charles_the_Fat)
 
 **🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 11 repos · 8 followers
 
