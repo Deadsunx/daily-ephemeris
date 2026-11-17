@@ -43,11 +43,11 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $64,878 | +1.34% |
-| Ethereum | $1,816.64 | +1.34% |
-| Solana | $73.45 | +4.03% |
+| Bitcoin | $65,026 | -0.3% |
+| Ethereum | $1,825.55 | -0.11% |
+| Solana | $75.14 | +4.76% |
 
-**🚗 Car news:** [Nissan Turns Discarded Pineapple Leaves Into High-Performance Car Parts](https://www.motor1.com/news/815733/nissan-pineapple-leaf-composite-panel/)
+**🚗 Car news:** [Ford Will Sell The Dark Horse SC's V8 And DCT, Minus The Mustang](https://www.motor1.com/news/815800/ford-dark-horse-sc-supercharged-v8-dct-crate-engine/)
 
 **📜 On this day, 887:** Emperor Charles the Fat is deposed by the Frankish magnates in an assembly at Frankfurt, leading his nephew, Arnulf of Carinthia, to declare himself king of the East Frankish Kingdom in late November. — [Charles the Fat](https://en.wikipedia.org/wiki/Charles_the_Fat)
 
