@@ -43,11 +43,13 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $64,197 | -1.07% |
-| Ethereum | $1,798.54 | -0.99% |
-| Solana | $74.4 | +1.32% |
+| Bitcoin | $62,375 | -3.73% |
+| Ethereum | $1,760.43 | -2.93% |
+| Solana | $72.61 | -1.76% |
 
-**🚗 Car news:** [Ken Miles’ Shelby Cobra Could Cross The $25 Million Mark](https://www.motor1.com/news/815870/shelby-cobra-25-million-value/)
+**🔭 NASA:** [NASA Science](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)
+
+**🚗 Car news:** [Mercedes Admits It Went Too Far With Screens. But Digital Controls 'Still Feel Right'](https://www.motor1.com/news/815952/mercedes-went-too-far-with-screens/)
 
 **📜 On this day, 326:** The old St. Peter's Basilica is consecrated by Pope Sylvester I. — [Old St. Peter's Basilica](https://en.wikipedia.org/wiki/Old_St._Peter's_Basilica)
 

@@ -1767,8 +1767,11 @@
       "text": "Silence is a source of great strength.",
       "author": "Lao Tzu"
     },
-    "nasa": null,
-    "car": "Ken Miles\u2019 Shelby Cobra Could Cross The $25 Million Mark",
+    "nasa": {
+      "title": "NASA Science",
+      "media_type": "image"
+    },
+    "car": "Mercedes Admits It Went Too Far With Screens. But Digital Controls 'Still Feel Right'",
     "onthisday": {
       "year": 326,
       "title": "Old St. Peter's Basilica"

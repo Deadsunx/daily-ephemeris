@@ -1,11 +1,11 @@
 {
   "date": "2026-11-18",
-  "fetched_at": "2026-11-18T12:31:37.718946+00:00",
+  "fetched_at": "2026-11-18T22:50:01.394659+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 64197,
-      "usd_24h_change": -1.07,
-      "usd_market_cap": 1292006822071.9104,
+      "usd": 62375,
+      "usd_24h_change": -3.73,
+      "usd_market_cap": 1255010012193.4558,
       "spark": [
         81875.26,
         82943.83,
@@ -37,13 +37,13 @@
         65305.28,
         64840.87,
         64889.41,
-        64182.58
+        62343.85
       ]
     },
     "ethereum": {
-      "usd": 1798.54,
-      "usd_24h_change": -0.99,
-      "usd_market_cap": 220042855515.77753,
+      "usd": 1760.43,
+      "usd_24h_change": -2.93,
+      "usd_market_cap": 215178460171.54388,
       "spark": [
         2405.92,
         2446.49,
@@ -75,13 +75,13 @@
         1834.53,
         1819.45,
         1822.96,
-        1798.77
+        1755.85
       ]
     },
     "solana": {
-      "usd": 74.4,
-      "usd_24h_change": 1.32,
-      "usd_market_cap": 44065294514.15821,
+      "usd": 72.61,
+      "usd_24h_change": -1.76,
+      "usd_market_cap": 42968353676.47576,
       "spark": [
         104.98,
         106.39,
@@ -113,7 +113,7 @@
         72.71,
         71.52,
         75.12,
-        74.38
+        72.52
       ]
     }
   },
@@ -122,11 +122,15 @@
     "author": "Lao Tzu"
   },
   "nasa": {
-    "error": "HTTP Error 500: Internal Server Error"
+    "title": "NASA Science",
+    "explanation": "What a flare for the chromatic! Today\u2019s image combines a series of images taken over ten minutes capturing the Sun\u2019s chromosphere, the layer of the Sun\u2019s atmosphere above its surface where the temperature rises. Why would the Sun become hotter farther away from its core? This is potentially due to energy from the swirling magnetic fields extending up through the Sun\u2019s atmosphere. Those same magnetic fields can twist and snap, releasing light and energetic particles as a solar flare. The H-alpha filter used for today\u2019s image captures light from energized hydrogen atoms as they travel off the Sun\u2019s surface during a flare on May 14, 2025. This flare was classified as an M1 based on GOES observations, meaning it was moderately bright in X-rays. M-class flares can cause radio blackouts at Earth\u2019s poles and minor radiation storms that can harm astronauts. They aren\u2019t even the most powerful flares! NASA, NOAA, and other agencies monitor the Sun to predict and identify such storms so we can protect humans on Earth and in space.Tomorrow's picture: a horse of a different color\t\t\t\t\t\t",
+    "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
+    "media_type": "image",
+    "thumbnail_url": null
   },
   "car_news": {
-    "headline": "Ken Miles\u2019 Shelby Cobra Could Cross The $25 Million Mark",
-    "url": "https://www.motor1.com/news/815870/shelby-cobra-25-million-value/",
+    "headline": "Mercedes Admits It Went Too Far With Screens. But Digital Controls 'Still Feel Right'",
+    "url": "https://www.motor1.com/news/815952/mercedes-went-too-far-with-screens/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {
