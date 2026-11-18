@@ -1,13 +1,12 @@
 {
-  "date": "2026-11-17",
-  "fetched_at": "2026-11-17T23:19:37.101156+00:00",
+  "date": "2026-11-18",
+  "fetched_at": "2026-11-18T12:31:37.718946+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 65026,
-      "usd_24h_change": -0.3,
-      "usd_market_cap": 1307685865125.0425,
+      "usd": 64197,
+      "usd_24h_change": -1.07,
+      "usd_market_cap": 1292006822071.9104,
       "spark": [
-        82019.58,
         81875.26,
         82943.83,
         84082.27,
@@ -37,15 +36,15 @@
         64120.24,
         65305.28,
         64840.87,
-        65011.33
+        64889.41,
+        64182.58
       ]
     },
     "ethereum": {
-      "usd": 1825.55,
-      "usd_24h_change": -0.11,
-      "usd_market_cap": 223083924227.07727,
+      "usd": 1798.54,
+      "usd_24h_change": -0.99,
+      "usd_market_cap": 220042855515.77753,
       "spark": [
-        2407.84,
         2405.92,
         2446.49,
         2472.68,
@@ -75,15 +74,15 @@
         1768.45,
         1834.53,
         1819.45,
-        1824.86
+        1822.96,
+        1798.77
       ]
     },
     "solana": {
-      "usd": 75.14,
-      "usd_24h_change": 4.76,
-      "usd_market_cap": 44454804248.47923,
+      "usd": 74.4,
+      "usd_24h_change": 1.32,
+      "usd_market_cap": 44065294514.15821,
       "spark": [
-        104.0,
         104.98,
         106.39,
         106.94,
@@ -113,27 +112,28 @@
         70.24,
         72.71,
         71.52,
-        75.12
+        75.12,
+        74.38
       ]
     }
   },
   "quote": {
-    "text": "If you can't argue both sides, you can't argue.",
-    "author": "Jack Butcher"
+    "text": "Silence is a source of great strength.",
+    "author": "Lao Tzu"
   },
   "nasa": {
     "error": "HTTP Error 500: Internal Server Error"
   },
   "car_news": {
-    "headline": "Ford Will Sell The Dark Horse SC's V8 And DCT, Minus The Mustang",
-    "url": "https://www.motor1.com/news/815800/ford-dark-horse-sc-supercharged-v8-dct-crate-engine/",
+    "headline": "Ken Miles\u2019 Shelby Cobra Could Cross The $25 Million Mark",
+    "url": "https://www.motor1.com/news/815870/shelby-cobra-25-million-value/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {
-    "year": 887,
-    "text": "Emperor Charles the Fat is deposed by the Frankish magnates in an assembly at Frankfurt, leading his nephew, Arnulf of Carinthia, to declare himself king of the East Frankish Kingdom in late November.",
-    "title": "Charles the Fat",
-    "url": "https://en.wikipedia.org/wiki/Charles_the_Fat"
+    "year": 326,
+    "text": "The old St. Peter's Basilica is consecrated by Pope Sylvester I.",
+    "title": "Old St. Peter's Basilica",
+    "url": "https://en.wikipedia.org/wiki/Old_St._Peter's_Basilica"
   },
   "github": {
     "login": "Deadsunx",

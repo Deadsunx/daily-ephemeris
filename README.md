@@ -35,21 +35,21 @@ python daily_update.py
 Only the Python standard library is used — nothing to install.
 
 <!-- LATEST:START -->
-### 📅 Latest snapshot — 2026-11-17
+### 📅 Latest snapshot — 2026-11-18
 
-> *"If you can't argue both sides, you can't argue."* — **Jack Butcher**
+> *"Silence is a source of great strength."* — **Lao Tzu**
 
 **Crypto (USD)**
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $65,026 | -0.3% |
-| Ethereum | $1,825.55 | -0.11% |
-| Solana | $75.14 | +4.76% |
+| Bitcoin | $64,197 | -1.07% |
+| Ethereum | $1,798.54 | -0.99% |
+| Solana | $74.4 | +1.32% |
 
-**🚗 Car news:** [Ford Will Sell The Dark Horse SC's V8 And DCT, Minus The Mustang](https://www.motor1.com/news/815800/ford-dark-horse-sc-supercharged-v8-dct-crate-engine/)
+**🚗 Car news:** [Ken Miles’ Shelby Cobra Could Cross The $25 Million Mark](https://www.motor1.com/news/815870/shelby-cobra-25-million-value/)
 
-**📜 On this day, 887:** Emperor Charles the Fat is deposed by the Frankish magnates in an assembly at Frankfurt, leading his nephew, Arnulf of Carinthia, to declare himself king of the East Frankish Kingdom in late November. — [Charles the Fat](https://en.wikipedia.org/wiki/Charles_the_Fat)
+**📜 On this day, 326:** The old St. Peter's Basilica is consecrated by Pope Sylvester I. — [Old St. Peter's Basilica](https://en.wikipedia.org/wiki/Old_St._Peter's_Basilica)
 
 **🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 11 repos · 8 followers
 
