@@ -43,11 +43,11 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $63,712 | -0.84% |
-| Ethereum | $1,802.44 | +0.03% |
-| Solana | $74.68 | +0.12% |
+| Bitcoin | $62,177 | +0.01% |
+| Ethereum | $1,760.9 | +0.44% |
+| Solana | $73.12 | +0.98% |
 
-**🚗 Car news:** [These Retro-Inspired Porsche 356s Keep The Air-Cooled Spirit Alive](https://www.motor1.com/news/816093/karmenda-air-cooled-kars-pricing/)
+**🚗 Car news:** [New Elantra N When? Hyundai Won't Move Away From Its 'Successful Formula'](https://www.motor1.com/news/816161/hyundai-elantra-n-should-return/)
 
 **📜 On this day, 461:** Libius Severus is declared emperor of the Western Roman Empire. The real power is in the hands of the magister militum Ricimer. — [Libius Severus](https://en.wikipedia.org/wiki/Libius_Severus)
 

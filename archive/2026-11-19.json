@@ -1,11 +1,11 @@
 {
   "date": "2026-11-19",
-  "fetched_at": "2026-11-19T12:22:20.609030+00:00",
+  "fetched_at": "2026-11-19T22:53:41.549529+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 63712,
-      "usd_24h_change": -0.84,
-      "usd_market_cap": 1281483011800.3555,
+      "usd": 62177,
+      "usd_24h_change": 0.01,
+      "usd_market_cap": 1250868644284.8958,
       "spark": [
         82943.83,
         84082.27,
@@ -37,13 +37,13 @@
         64840.87,
         64889.41,
         62996.68,
-        63716.98
+        62163.92
       ]
     },
     "ethereum": {
-      "usd": 1802.44,
-      "usd_24h_change": 0.03,
-      "usd_market_cap": 220345638639.80975,
+      "usd": 1760.9,
+      "usd_24h_change": 0.44,
+      "usd_market_cap": 215344952955.87573,
       "spark": [
         2446.49,
         2472.68,
@@ -75,13 +75,13 @@
         1819.45,
         1822.96,
         1775.1,
-        1802.44
+        1760.48
       ]
     },
     "solana": {
-      "usd": 74.68,
-      "usd_24h_change": 0.12,
-      "usd_market_cap": 44201321523.745674,
+      "usd": 73.12,
+      "usd_24h_change": 0.98,
+      "usd_market_cap": 43271777666.66954,
       "spark": [
         106.39,
         106.94,
@@ -113,7 +113,7 @@
         71.52,
         75.12,
         73.56,
-        74.68
+        73.11
       ]
     }
   },
@@ -125,8 +125,8 @@
     "error": "HTTP Error 500: Internal Server Error"
   },
   "car_news": {
-    "headline": "These Retro-Inspired Porsche 356s Keep The Air-Cooled Spirit Alive",
-    "url": "https://www.motor1.com/news/816093/karmenda-air-cooled-kars-pricing/",
+    "headline": "New Elantra N When? Hyundai Won't Move Away From Its 'Successful Formula'",
+    "url": "https://www.motor1.com/news/816161/hyundai-elantra-n-should-return/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {
