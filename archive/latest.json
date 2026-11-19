@@ -1,13 +1,12 @@
 {
-  "date": "2026-11-18",
-  "fetched_at": "2026-11-18T22:50:01.394659+00:00",
+  "date": "2026-11-19",
+  "fetched_at": "2026-11-19T12:22:20.609030+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 62375,
-      "usd_24h_change": -3.73,
-      "usd_market_cap": 1255010012193.4558,
+      "usd": 63712,
+      "usd_24h_change": -0.84,
+      "usd_market_cap": 1281483011800.3555,
       "spark": [
-        81875.26,
         82943.83,
         84082.27,
         81328.21,
@@ -37,15 +36,15 @@
         65305.28,
         64840.87,
         64889.41,
-        62343.85
+        62996.68,
+        63716.98
       ]
     },
     "ethereum": {
-      "usd": 1760.43,
-      "usd_24h_change": -2.93,
-      "usd_market_cap": 215178460171.54388,
+      "usd": 1802.44,
+      "usd_24h_change": 0.03,
+      "usd_market_cap": 220345638639.80975,
       "spark": [
-        2405.92,
         2446.49,
         2472.68,
         2386.48,
@@ -75,15 +74,15 @@
         1834.53,
         1819.45,
         1822.96,
-        1755.85
+        1775.1,
+        1802.44
       ]
     },
     "solana": {
-      "usd": 72.61,
-      "usd_24h_change": -1.76,
-      "usd_market_cap": 42968353676.47576,
+      "usd": 74.68,
+      "usd_24h_change": 0.12,
+      "usd_market_cap": 44201321523.745674,
       "spark": [
-        104.98,
         106.39,
         106.94,
         103.54,
@@ -113,31 +112,28 @@
         72.71,
         71.52,
         75.12,
-        72.52
+        73.56,
+        74.68
       ]
     }
   },
   "quote": {
-    "text": "Silence is a source of great strength.",
-    "author": "Lao Tzu"
+    "text": "You are never too old to become younger.",
+    "author": "Mae West"
   },
   "nasa": {
-    "title": "NASA Science",
-    "explanation": "What a flare for the chromatic! Today\u2019s image combines a series of images taken over ten minutes capturing the Sun\u2019s chromosphere, the layer of the Sun\u2019s atmosphere above its surface where the temperature rises. Why would the Sun become hotter farther away from its core? This is potentially due to energy from the swirling magnetic fields extending up through the Sun\u2019s atmosphere. Those same magnetic fields can twist and snap, releasing light and energetic particles as a solar flare. The H-alpha filter used for today\u2019s image captures light from energized hydrogen atoms as they travel off the Sun\u2019s surface during a flare on May 14, 2025. This flare was classified as an M1 based on GOES observations, meaning it was moderately bright in X-rays. M-class flares can cause radio blackouts at Earth\u2019s poles and minor radiation storms that can harm astronauts. They aren\u2019t even the most powerful flares! NASA, NOAA, and other agencies monitor the Sun to predict and identify such storms so we can protect humans on Earth and in space.Tomorrow's picture: a horse of a different color\t\t\t\t\t\t",
-    "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
-    "media_type": "image",
-    "thumbnail_url": null
+    "error": "HTTP Error 500: Internal Server Error"
   },
   "car_news": {
-    "headline": "Mercedes Admits It Went Too Far With Screens. But Digital Controls 'Still Feel Right'",
-    "url": "https://www.motor1.com/news/815952/mercedes-went-too-far-with-screens/",
+    "headline": "These Retro-Inspired Porsche 356s Keep The Air-Cooled Spirit Alive",
+    "url": "https://www.motor1.com/news/816093/karmenda-air-cooled-kars-pricing/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {
-    "year": 326,
-    "text": "The old St. Peter's Basilica is consecrated by Pope Sylvester I.",
-    "title": "Old St. Peter's Basilica",
-    "url": "https://en.wikipedia.org/wiki/Old_St._Peter's_Basilica"
+    "year": 461,
+    "text": "Libius Severus is declared emperor of the Western Roman Empire. The real power is in the hands of the magister militum Ricimer.",
+    "title": "Libius Severus",
+    "url": "https://en.wikipedia.org/wiki/Libius_Severus"
   },
   "github": {
     "login": "Deadsunx",
