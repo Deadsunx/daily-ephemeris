@@ -1,11 +1,11 @@
 {
   "date": "2026-11-20",
-  "fetched_at": "2026-11-20T12:23:07.449012+00:00",
+  "fetched_at": "2026-11-20T22:29:02.363638+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 61504,
-      "usd_24h_change": -3.48,
-      "usd_market_cap": 1237113958552.079,
+      "usd": 59004,
+      "usd_24h_change": -4.89,
+      "usd_market_cap": 1186276788848.2039,
       "spark": [
         84082.27,
         81328.21,
@@ -37,13 +37,13 @@
         64889.41,
         62996.68,
         61921.36,
-        61529.42
+        59015.7
       ]
     },
     "ethereum": {
-      "usd": 1736.89,
-      "usd_24h_change": -3.66,
-      "usd_market_cap": 212311325463.8964,
+      "usd": 1619.44,
+      "usd_24h_change": -7.73,
+      "usd_market_cap": 197869195061.98535,
       "spark": [
         2472.68,
         2386.48,
@@ -75,13 +75,13 @@
         1822.96,
         1775.1,
         1755.59,
-        1737.88
+        1619.62
       ]
     },
     "solana": {
-      "usd": 71.13,
-      "usd_24h_change": -4.76,
-      "usd_market_cap": 42097575831.49619,
+      "usd": 69.0,
+      "usd_24h_change": -5.27,
+      "usd_market_cap": 40799842360.648056,
       "spark": [
         106.94,
         103.54,
@@ -113,7 +113,7 @@
         75.12,
         73.56,
         73.07,
-        71.16
+        69.0
       ]
     }
   },
@@ -125,8 +125,8 @@
     "error": "HTTP Error 500: Internal Server Error"
   },
   "car_news": {
-    "headline": "Geely Launches Lynk & Co 07 GT Off A Cliff To Prove Its Safety",
-    "url": "https://www.motor1.com/news/816232/lynk-co-07-gt-safety/",
+    "headline": "Ram CEO: New Dakota Will Do 'Some Serious Fun Things'",
+    "url": "https://www.motor1.com/news/816303/ram-dakota-needs-to-stand-out/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {
