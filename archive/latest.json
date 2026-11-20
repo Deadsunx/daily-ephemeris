@@ -1,13 +1,12 @@
 {
-  "date": "2026-11-19",
-  "fetched_at": "2026-11-19T22:53:41.549529+00:00",
+  "date": "2026-11-20",
+  "fetched_at": "2026-11-20T12:23:07.449012+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 62177,
-      "usd_24h_change": 0.01,
-      "usd_market_cap": 1250868644284.8958,
+      "usd": 61504,
+      "usd_24h_change": -3.48,
+      "usd_market_cap": 1237113958552.079,
       "spark": [
-        82943.83,
         84082.27,
         81328.21,
         81102.31,
@@ -37,15 +36,15 @@
         64840.87,
         64889.41,
         62996.68,
-        62163.92
+        61921.36,
+        61529.42
       ]
     },
     "ethereum": {
-      "usd": 1760.9,
-      "usd_24h_change": 0.44,
-      "usd_market_cap": 215344952955.87573,
+      "usd": 1736.89,
+      "usd_24h_change": -3.66,
+      "usd_market_cap": 212311325463.8964,
       "spark": [
-        2446.49,
         2472.68,
         2386.48,
         2384.75,
@@ -75,15 +74,15 @@
         1819.45,
         1822.96,
         1775.1,
-        1760.48
+        1755.59,
+        1737.88
       ]
     },
     "solana": {
-      "usd": 73.12,
-      "usd_24h_change": 0.98,
-      "usd_market_cap": 43271777666.66954,
+      "usd": 71.13,
+      "usd_24h_change": -4.76,
+      "usd_market_cap": 42097575831.49619,
       "spark": [
-        106.39,
         106.94,
         103.54,
         102.74,
@@ -113,27 +112,28 @@
         71.52,
         75.12,
         73.56,
-        73.11
+        73.07,
+        71.16
       ]
     }
   },
   "quote": {
-    "text": "You are never too old to become younger.",
-    "author": "Mae West"
+    "text": "Never waste a minute of your precious life thinking about people you don't like.",
+    "author": "Celestine Chua"
   },
   "nasa": {
     "error": "HTTP Error 500: Internal Server Error"
   },
   "car_news": {
-    "headline": "New Elantra N When? Hyundai Won't Move Away From Its 'Successful Formula'",
-    "url": "https://www.motor1.com/news/816161/hyundai-elantra-n-should-return/",
+    "headline": "Geely Launches Lynk & Co 07 GT Off A Cliff To Prove Its Safety",
+    "url": "https://www.motor1.com/news/816232/lynk-co-07-gt-safety/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {
-    "year": 461,
-    "text": "Libius Severus is declared emperor of the Western Roman Empire. The real power is in the hands of the magister militum Ricimer.",
-    "title": "Libius Severus",
-    "url": "https://en.wikipedia.org/wiki/Libius_Severus"
+    "year": 284,
+    "text": "Diocletian is chosen as Roman emperor.",
+    "title": "Diocletian",
+    "url": "https://en.wikipedia.org/wiki/Diocletian"
   },
   "github": {
     "login": "Deadsunx",

@@ -35,21 +35,21 @@ python daily_update.py
 Only the Python standard library is used — nothing to install.
 
 <!-- LATEST:START -->
-### 📅 Latest snapshot — 2026-11-19
+### 📅 Latest snapshot — 2026-11-20
 
-> *"You are never too old to become younger."* — **Mae West**
+> *"Never waste a minute of your precious life thinking about people you don't like."* — **Celestine Chua**
 
 **Crypto (USD)**
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $62,177 | +0.01% |
-| Ethereum | $1,760.9 | +0.44% |
-| Solana | $73.12 | +0.98% |
+| Bitcoin | $61,504 | -3.48% |
+| Ethereum | $1,736.89 | -3.66% |
+| Solana | $71.13 | -4.76% |
 
-**🚗 Car news:** [New Elantra N When? Hyundai Won't Move Away From Its 'Successful Formula'](https://www.motor1.com/news/816161/hyundai-elantra-n-should-return/)
+**🚗 Car news:** [Geely Launches Lynk & Co 07 GT Off A Cliff To Prove Its Safety](https://www.motor1.com/news/816232/lynk-co-07-gt-safety/)
 
-**📜 On this day, 461:** Libius Severus is declared emperor of the Western Roman Empire. The real power is in the hands of the magister militum Ricimer. — [Libius Severus](https://en.wikipedia.org/wiki/Libius_Severus)
+**📜 On this day, 284:** Diocletian is chosen as Roman emperor. — [Diocletian](https://en.wikipedia.org/wiki/Diocletian)
 
 **🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 11 repos · 8 followers
 
