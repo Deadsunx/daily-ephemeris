@@ -1,11 +1,11 @@
 {
   "date": "2026-11-21",
-  "fetched_at": "2026-11-21T11:57:02.334179+00:00",
+  "fetched_at": "2026-11-21T21:26:40.195067+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 58077,
-      "usd_24h_change": -5.97,
-      "usd_market_cap": 1167901686700.5244,
+      "usd": 60376,
+      "usd_24h_change": 3.16,
+      "usd_market_cap": 1214706491504.9558,
       "spark": [
         81328.21,
         81102.31,
@@ -37,13 +37,13 @@
         62996.68,
         61921.36,
         58817.93,
-        58070.06
+        60356.19
       ]
     },
     "ethereum": {
-      "usd": 1650.11,
-      "usd_24h_change": -5.57,
-      "usd_market_cap": 201561923729.94495,
+      "usd": 1684.04,
+      "usd_24h_change": 4.84,
+      "usd_market_cap": 205932321904.75455,
       "spark": [
         2386.48,
         2384.75,
@@ -75,13 +75,13 @@
         1775.1,
         1755.59,
         1619.51,
-        1649.01
+        1684.26
       ]
     },
     "solana": {
-      "usd": 68.67,
-      "usd_24h_change": -4.21,
-      "usd_market_cap": 40634406047.32002,
+      "usd": 70.5,
+      "usd_24h_change": 4.01,
+      "usd_market_cap": 41732722704.75299,
       "spark": [
         103.54,
         102.74,
@@ -113,7 +113,7 @@
         73.56,
         73.07,
         68.76,
-        68.67
+        70.48
       ]
     }
   },
@@ -125,8 +125,8 @@
     "error": "HTTP Error 500: Internal Server Error"
   },
   "car_news": {
-    "headline": "BYD's Boxy SUV Banned In The EU After Land Rover Defender Copycat Ruling",
-    "url": "https://www.motor1.com/news/816327/byd-ti7-banned-eu-defender-design-copy/",
+    "headline": "This Chevy Engine's Timing Belt Should Last 150,000 Miles. A Teardown Says Otherwise",
+    "url": "https://www.motor1.com/news/816219/chevy-trailblazer-12-lih-failure/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {
@@ -136,13 +136,6 @@
     "url": "https://en.wikipedia.org/wiki/Judas_Maccabeus"
   },
   "github": {
-    "login": "Deadsunx",
-    "name": "Oumar Tirera",
-    "public_repos": 11,
-    "followers": 8,
-    "following": 12,
-    "created_at": "2022-05-12T17:33:47Z",
-    "html_url": "https://github.com/Deadsunx",
-    "avatar_url": "https://avatars.githubusercontent.com/u/105452066?v=4"
+    "error": "HTTP Error 403: rate limit exceeded"
   }
 }
