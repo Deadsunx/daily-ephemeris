@@ -35,21 +35,21 @@ python daily_update.py
 Only the Python standard library is used — nothing to install.
 
 <!-- LATEST:START -->
-### 📅 Latest snapshot — 2026-11-20
+### 📅 Latest snapshot — 2026-11-21
 
-> *"Never waste a minute of your precious life thinking about people you don't like."* — **Celestine Chua**
+> *"To avoid criticism, do nothing, say nothing, and be nothing."* — **Elbert Hubbard**
 
 **Crypto (USD)**
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $59,004 | -4.89% |
-| Ethereum | $1,619.44 | -7.73% |
-| Solana | $69.0 | -5.27% |
+| Bitcoin | $58,077 | -5.97% |
+| Ethereum | $1,650.11 | -5.57% |
+| Solana | $68.67 | -4.21% |
 
-**🚗 Car news:** [Ram CEO: New Dakota Will Do 'Some Serious Fun Things'](https://www.motor1.com/news/816303/ram-dakota-needs-to-stand-out/)
+**🚗 Car news:** [BYD's Boxy SUV Banned In The EU After Land Rover Defender Copycat Ruling](https://www.motor1.com/news/816327/byd-ti7-banned-eu-defender-design-copy/)
 
-**📜 On this day, 284:** Diocletian is chosen as Roman emperor. — [Diocletian](https://en.wikipedia.org/wiki/Diocletian)
+**📜 On this day, -164:** Judas Maccabeus, son of Mattathias of the Hasmonean family, rededicates the Temple in Jerusalem, an event that is commemorated each year by the festival of Hanukkah. (25 Kislev 3597 in the Hebrew calendar.) — [Judas Maccabeus](https://en.wikipedia.org/wiki/Judas_Maccabeus)
 
 **🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 11 repos · 8 followers
 

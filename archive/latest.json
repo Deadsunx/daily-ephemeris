@@ -1,13 +1,12 @@
 {
-  "date": "2026-11-20",
-  "fetched_at": "2026-11-20T22:29:02.363638+00:00",
+  "date": "2026-11-21",
+  "fetched_at": "2026-11-21T11:57:02.334179+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 59004,
-      "usd_24h_change": -4.89,
-      "usd_market_cap": 1186276788848.2039,
+      "usd": 58077,
+      "usd_24h_change": -5.97,
+      "usd_market_cap": 1167901686700.5244,
       "spark": [
-        84082.27,
         81328.21,
         81102.31,
         80810.57,
@@ -37,15 +36,15 @@
         64889.41,
         62996.68,
         61921.36,
-        59015.7
+        58817.93,
+        58070.06
       ]
     },
     "ethereum": {
-      "usd": 1619.44,
-      "usd_24h_change": -7.73,
-      "usd_market_cap": 197869195061.98535,
+      "usd": 1650.11,
+      "usd_24h_change": -5.57,
+      "usd_market_cap": 201561923729.94495,
       "spark": [
-        2472.68,
         2386.48,
         2384.75,
         2356.57,
@@ -75,15 +74,15 @@
         1822.96,
         1775.1,
         1755.59,
-        1619.62
+        1619.51,
+        1649.01
       ]
     },
     "solana": {
-      "usd": 69.0,
-      "usd_24h_change": -5.27,
-      "usd_market_cap": 40799842360.648056,
+      "usd": 68.67,
+      "usd_24h_change": -4.21,
+      "usd_market_cap": 40634406047.32002,
       "spark": [
-        106.94,
         103.54,
         102.74,
         102.27,
@@ -113,27 +112,28 @@
         75.12,
         73.56,
         73.07,
-        69.0
+        68.76,
+        68.67
       ]
     }
   },
   "quote": {
-    "text": "Never waste a minute of your precious life thinking about people you don't like.",
-    "author": "Celestine Chua"
+    "text": "To avoid criticism, do nothing, say nothing, and be nothing.",
+    "author": "Elbert Hubbard"
   },
   "nasa": {
     "error": "HTTP Error 500: Internal Server Error"
   },
   "car_news": {
-    "headline": "Ram CEO: New Dakota Will Do 'Some Serious Fun Things'",
-    "url": "https://www.motor1.com/news/816303/ram-dakota-needs-to-stand-out/",
+    "headline": "BYD's Boxy SUV Banned In The EU After Land Rover Defender Copycat Ruling",
+    "url": "https://www.motor1.com/news/816327/byd-ti7-banned-eu-defender-design-copy/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {
-    "year": 284,
-    "text": "Diocletian is chosen as Roman emperor.",
-    "title": "Diocletian",
-    "url": "https://en.wikipedia.org/wiki/Diocletian"
+    "year": -164,
+    "text": "Judas Maccabeus, son of Mattathias of the Hasmonean family, rededicates the Temple in Jerusalem, an event that is commemorated each year by the festival of Hanukkah. (25 Kislev 3597 in the Hebrew calendar.)",
+    "title": "Judas Maccabeus",
+    "url": "https://en.wikipedia.org/wiki/Judas_Maccabeus"
   },
   "github": {
     "login": "Deadsunx",
