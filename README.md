@@ -43,11 +43,13 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $61,087 | +5.15% |
-| Ethereum | $1,709.21 | +3.67% |
-| Solana | $70.53 | +2.64% |
+| Bitcoin | $60,913 | +0.99% |
+| Ethereum | $1,723.61 | +2.38% |
+| Solana | $70.29 | -0.18% |
 
-**🚗 Car news:** [Ferrari's New 296 Challenge Stradale Is A 670-HP Race Car You Can Drive Home](https://www.motor1.com/news/816314/ferrari-296-challenge-stradale-first-look-debut/)
+**🔭 NASA:** [NASA Science](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)
+
+**🚗 Car news:** [Arizona Police Caught A BMW M2 Doing 170 MPH. The Driver Had A Terrible Excuse](https://www.motor1.com/news/816310/bmw-m2-driver-caught-hitting-170-mph-arizona/)
 
 **📜 On this day, 498:** After the death of Anastasius II, Symmachus is elected Pope in the Lateran Palace, while Laurentius is elected Pope in Santa Maria Maggiore. — [Pope Anastasius II](https://en.wikipedia.org/wiki/Pope_Anastasius_II)
 
