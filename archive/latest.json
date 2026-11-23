@@ -1,13 +1,12 @@
 {
-  "date": "2026-11-22",
-  "fetched_at": "2026-11-22T21:31:39.331019+00:00",
+  "date": "2026-11-23",
+  "fetched_at": "2026-11-23T13:54:57.729597+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 60913,
-      "usd_24h_change": 0.99,
-      "usd_market_cap": 1225318541652.4783,
+      "usd": 61080,
+      "usd_24h_change": 0.7,
+      "usd_market_cap": 1229608587256.4497,
       "spark": [
-        81102.31,
         80810.57,
         80048.85,
         80029.43,
@@ -37,15 +36,15 @@
         61921.36,
         58817.93,
         60121.3,
-        60913.05
+        61172.02,
+        61089.6
       ]
     },
     "ethereum": {
-      "usd": 1723.61,
-      "usd_24h_change": 2.38,
-      "usd_market_cap": 210783919237.6798,
+      "usd": 1718.47,
+      "usd_24h_change": 1.02,
+      "usd_market_cap": 210199276908.68353,
       "spark": [
-        2384.75,
         2356.57,
         2326.83,
         2320.67,
@@ -75,15 +74,15 @@
         1755.59,
         1619.51,
         1682.85,
-        1723.61
+        1721.62,
+        1718.63
       ]
     },
     "solana": {
-      "usd": 70.29,
-      "usd_24h_change": -0.18,
-      "usd_market_cap": 41624018174.276306,
+      "usd": 72.36,
+      "usd_24h_change": 3.35,
+      "usd_market_cap": 42826100397.36198,
       "spark": [
-        102.74,
         102.27,
         101.24,
         100.75,
@@ -113,31 +112,28 @@
         73.07,
         68.76,
         70.2,
-        70.3
+        70.61,
+        72.33
       ]
     }
   },
   "quote": {
-    "text": "Peace is not the absence of conflict, but the ability to cope with it.",
-    "author": "Unknown"
+    "text": "Have a vision. Be demanding.",
+    "author": "Colin Powell"
   },
   "nasa": {
-    "title": "NASA Science",
-    "explanation": "What creates the colors in Jupiter's clouds? No one is sure. The thick atmosphere of Jupiter is mostly hydrogen and helium, elements which are colorless at the low temperatures of the Jovian cloud tops. Which trace molecules provide the colors remains a topic of research, although small amounts of ammonium hydrosulfide are one leading candidate. What is clear from the featured color-enhanced image -- and many similar images -- is that lighter clouds are typically higher up than darker ones. Pictured, light clouds swirl around reddish regions toward the lower right, while they appear to cover over some darker domains on the upper right. The featured image was taken by the robotic Juno spacecraft in 2018 during its 14th low pass over Jupiter. Juno continues in its looping elliptical orbit, swooping near the huge planet every 33 days and exploring a slightly different sector each time around.Tomorrow's picture: emerging darkness\t\t\t\t\t\t",
-    "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
-    "media_type": "image",
-    "thumbnail_url": null
+    "error": "HTTP Error 500: Internal Server Error"
   },
   "car_news": {
-    "headline": "Arizona Police Caught A BMW M2 Doing 170 MPH. The Driver Had A Terrible Excuse",
-    "url": "https://www.motor1.com/news/816310/bmw-m2-driver-caught-hitting-170-mph-arizona/",
+    "headline": "Subaru's American-Built Ascent Is Heading To Japan",
+    "url": "https://www.motor1.com/news/816461/subaru-ascent-japan-launch/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {
-    "year": 498,
-    "text": "After the death of Anastasius II, Symmachus is elected Pope in the Lateran Palace, while Laurentius is elected Pope in Santa Maria Maggiore.",
-    "title": "Pope Anastasius II",
-    "url": "https://en.wikipedia.org/wiki/Pope_Anastasius_II"
+    "year": -534,
+    "text": "Thespis of Icaria becomes the first recorded actor to portray a character on stage.",
+    "title": "Thespis",
+    "url": "https://en.wikipedia.org/wiki/Thespis"
   },
   "github": {
     "login": "Deadsunx",

@@ -35,23 +35,21 @@ python daily_update.py
 Only the Python standard library is used — nothing to install.
 
 <!-- LATEST:START -->
-### 📅 Latest snapshot — 2026-11-22
+### 📅 Latest snapshot — 2026-11-23
 
-> *"Peace is not the absence of conflict, but the ability to cope with it."* — **Unknown**
+> *"Have a vision. Be demanding."* — **Colin Powell**
 
 **Crypto (USD)**
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $60,913 | +0.99% |
-| Ethereum | $1,723.61 | +2.38% |
-| Solana | $70.29 | -0.18% |
+| Bitcoin | $61,080 | +0.7% |
+| Ethereum | $1,718.47 | +1.02% |
+| Solana | $72.36 | +3.35% |
 
-**🔭 NASA:** [NASA Science](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)
+**🚗 Car news:** [Subaru's American-Built Ascent Is Heading To Japan](https://www.motor1.com/news/816461/subaru-ascent-japan-launch/)
 
-**🚗 Car news:** [Arizona Police Caught A BMW M2 Doing 170 MPH. The Driver Had A Terrible Excuse](https://www.motor1.com/news/816310/bmw-m2-driver-caught-hitting-170-mph-arizona/)
-
-**📜 On this day, 498:** After the death of Anastasius II, Symmachus is elected Pope in the Lateran Palace, while Laurentius is elected Pope in Santa Maria Maggiore. — [Pope Anastasius II](https://en.wikipedia.org/wiki/Pope_Anastasius_II)
+**📜 On this day, -534:** Thespis of Icaria becomes the first recorded actor to portray a character on stage. — [Thespis](https://en.wikipedia.org/wiki/Thespis)
 
 **🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 11 repos · 8 followers
 
