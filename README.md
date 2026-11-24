@@ -43,11 +43,11 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $60,422 | +0.06% |
-| Ethereum | $1,693.53 | -0.22% |
-| Solana | $71.27 | +1.92% |
+| Bitcoin | $60,328 | -5.94% |
+| Ethereum | $1,696.69 | -7.47% |
+| Solana | $70.1 | -9.87% |
 
-**🚗 Car news:** [I Designed My Dream Ferrari 296 Challenge Stradale. It's Ridiculous](https://www.motor1.com/news/816524/ferrari-296-challenge-stradale-configurator/)
+**🚗 Car news:** [Chrysler Recalls 82,843 Ram 1500 Trucks Over Brake Software Bug That Could Disable Safety Features](https://www.motor1.com/news/816607/ram-1500-classic-abs-recall/)
 
 **📜 On this day, 380:** Theodosius I makes his adventus, or formal entry, into Constantinople. — [Theodosius I](https://en.wikipedia.org/wiki/Theodosius_I)
 
