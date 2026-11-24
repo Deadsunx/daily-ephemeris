@@ -1,13 +1,12 @@
 {
-  "date": "2026-11-23",
-  "fetched_at": "2026-11-23T13:54:57.729597+00:00",
+  "date": "2026-11-24",
+  "fetched_at": "2026-11-24T02:44:17.401198+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 61080,
-      "usd_24h_change": 0.7,
-      "usd_market_cap": 1229608587256.4497,
+      "usd": 60422,
+      "usd_24h_change": 0.06,
+      "usd_market_cap": 1215483942505.179,
       "spark": [
-        80810.57,
         80048.85,
         80029.43,
         80800.83,
@@ -37,15 +36,15 @@
         58817.93,
         60121.3,
         61172.02,
-        61089.6
+        61227.55,
+        60396.2
       ]
     },
     "ethereum": {
-      "usd": 1718.47,
-      "usd_24h_change": 1.02,
-      "usd_market_cap": 210199276908.68353,
+      "usd": 1693.53,
+      "usd_24h_change": -0.22,
+      "usd_market_cap": 207025643271.6115,
       "spark": [
-        2356.57,
         2326.83,
         2320.67,
         2347.32,
@@ -75,15 +74,15 @@
         1619.51,
         1682.85,
         1721.62,
-        1718.63
+        1709.32,
+        1692.78
       ]
     },
     "solana": {
-      "usd": 72.36,
-      "usd_24h_change": 3.35,
-      "usd_market_cap": 42826100397.36198,
+      "usd": 71.27,
+      "usd_24h_change": 1.92,
+      "usd_market_cap": 42191136046.434204,
       "spark": [
-        102.27,
         101.24,
         100.75,
         101.2,
@@ -113,34 +112,35 @@
         68.76,
         70.2,
         70.61,
-        72.33
+        71.99,
+        71.23
       ]
     }
   },
   "quote": {
-    "text": "Have a vision. Be demanding.",
-    "author": "Colin Powell"
+    "text": "The size of your success is measured by the strength of your desire; the size of your dream; and how you handle disappointment along the way.",
+    "author": "Robert Kiyosaki"
   },
   "nasa": {
     "error": "HTTP Error 500: Internal Server Error"
   },
   "car_news": {
-    "headline": "Subaru's American-Built Ascent Is Heading To Japan",
-    "url": "https://www.motor1.com/news/816461/subaru-ascent-japan-launch/",
+    "headline": "I Designed My Dream Ferrari 296 Challenge Stradale. It's Ridiculous",
+    "url": "https://www.motor1.com/news/816524/ferrari-296-challenge-stradale-configurator/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {
-    "year": -534,
-    "text": "Thespis of Icaria becomes the first recorded actor to portray a character on stage.",
-    "title": "Thespis",
-    "url": "https://en.wikipedia.org/wiki/Thespis"
+    "year": 380,
+    "text": "Theodosius I makes his adventus, or formal entry, into Constantinople.",
+    "title": "Theodosius I",
+    "url": "https://en.wikipedia.org/wiki/Theodosius_I"
   },
   "github": {
     "login": "Deadsunx",
     "name": "Oumar Tirera",
     "public_repos": 11,
-    "followers": 8,
-    "following": 12,
+    "followers": 7,
+    "following": 11,
     "created_at": "2022-05-12T17:33:47Z",
     "html_url": "https://github.com/Deadsunx",
     "avatar_url": "https://avatars.githubusercontent.com/u/105452066?v=4"

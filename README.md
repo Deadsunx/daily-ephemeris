@@ -35,22 +35,22 @@ python daily_update.py
 Only the Python standard library is used — nothing to install.
 
 <!-- LATEST:START -->
-### 📅 Latest snapshot — 2026-11-23
+### 📅 Latest snapshot — 2026-11-24
 
-> *"Have a vision. Be demanding."* — **Colin Powell**
+> *"The size of your success is measured by the strength of your desire; the size of your dream; and how you handle disappointment along the way."* — **Robert Kiyosaki**
 
 **Crypto (USD)**
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $61,080 | +0.7% |
-| Ethereum | $1,718.47 | +1.02% |
-| Solana | $72.36 | +3.35% |
+| Bitcoin | $60,422 | +0.06% |
+| Ethereum | $1,693.53 | -0.22% |
+| Solana | $71.27 | +1.92% |
 
-**🚗 Car news:** [Subaru's American-Built Ascent Is Heading To Japan](https://www.motor1.com/news/816461/subaru-ascent-japan-launch/)
+**🚗 Car news:** [I Designed My Dream Ferrari 296 Challenge Stradale. It's Ridiculous](https://www.motor1.com/news/816524/ferrari-296-challenge-stradale-configurator/)
 
-**📜 On this day, -534:** Thespis of Icaria becomes the first recorded actor to portray a character on stage. — [Thespis](https://en.wikipedia.org/wiki/Thespis)
+**📜 On this day, 380:** Theodosius I makes his adventus, or formal entry, into Constantinople. — [Theodosius I](https://en.wikipedia.org/wiki/Theodosius_I)
 
-**🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 11 repos · 8 followers
+**🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 11 repos · 7 followers
 
 <!-- LATEST:END -->
