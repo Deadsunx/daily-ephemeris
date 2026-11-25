@@ -35,21 +35,21 @@ python daily_update.py
 Only the Python standard library is used — nothing to install.
 
 <!-- LATEST:START -->
-### 📅 Latest snapshot — 2026-11-24
+### 📅 Latest snapshot — 2026-11-25
 
-> *"The size of your success is measured by the strength of your desire; the size of your dream; and how you handle disappointment along the way."* — **Robert Kiyosaki**
+> *"We have to live life with a sense of urgency so not a minute is wasted."* — **Les Brown**
 
 **Crypto (USD)**
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $60,328 | -5.94% |
-| Ethereum | $1,696.69 | -7.47% |
-| Solana | $70.1 | -9.87% |
+| Bitcoin | $59,417 | -2.94% |
+| Ethereum | $1,668.48 | -2.31% |
+| Solana | $69.51 | -3.38% |
 
-**🚗 Car news:** [Chrysler Recalls 82,843 Ram 1500 Trucks Over Brake Software Bug That Could Disable Safety Features](https://www.motor1.com/news/816607/ram-1500-classic-abs-recall/)
+**🚗 Car news:** [Ineos Will Build Its Rugged Off-Roader In America Starting In 2028](https://www.motor1.com/news/816667/ineos-moving-production-to-us/)
 
-**📜 On this day, 380:** Theodosius I makes his adventus, or formal entry, into Constantinople. — [Theodosius I](https://en.wikipedia.org/wiki/Theodosius_I)
+**📜 On this day, -571:** Servius Tullius, king of Rome, celebrates the first of his three triumphs for his victory over the Etruscans. — [Servius Tullius](https://en.wikipedia.org/wiki/Servius_Tullius)
 
 **🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 11 repos · 7 followers
 

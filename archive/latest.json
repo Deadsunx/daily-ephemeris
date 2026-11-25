@@ -1,13 +1,12 @@
 {
-  "date": "2026-11-24",
-  "fetched_at": "2026-11-24T14:27:19.024500+00:00",
+  "date": "2026-11-25",
+  "fetched_at": "2026-11-25T00:20:10.713861+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 60328,
-      "usd_24h_change": -5.94,
-      "usd_market_cap": 1213977562078.2576,
+      "usd": 59417,
+      "usd_24h_change": -2.94,
+      "usd_market_cap": 1195127530200.4744,
       "spark": [
-        80048.85,
         80029.43,
         80800.83,
         81274.37,
@@ -37,15 +36,15 @@
         60121.3,
         61172.02,
         61227.55,
-        60327.87
+        59758.92,
+        59423.33
       ]
     },
     "ethereum": {
-      "usd": 1696.69,
-      "usd_24h_change": -7.47,
-      "usd_market_cap": 207420045149.22418,
+      "usd": 1668.48,
+      "usd_24h_change": -2.31,
+      "usd_market_cap": 203783462194.15036,
       "spark": [
-        2326.83,
         2320.67,
         2347.32,
         2357.47,
@@ -75,15 +74,15 @@
         1682.85,
         1721.62,
         1709.32,
-        1696.79
+        1677.95,
+        1668.33
       ]
     },
     "solana": {
-      "usd": 70.1,
-      "usd_24h_change": -9.87,
-      "usd_market_cap": 41486974620.25307,
+      "usd": 69.51,
+      "usd_24h_change": -3.38,
+      "usd_market_cap": 41100505543.25456,
       "spark": [
-        101.24,
         100.75,
         101.2,
         102.32,
@@ -113,27 +112,28 @@
         70.2,
         70.61,
         71.99,
-        70.11
+        69.62,
+        69.53
       ]
     }
   },
   "quote": {
-    "text": "The size of your success is measured by the strength of your desire; the size of your dream; and how you handle disappointment along the way.",
-    "author": "Robert Kiyosaki"
+    "text": "We have to live life with a sense of urgency so not a minute is wasted.",
+    "author": "Les Brown"
   },
   "nasa": {
-    "error": "HTTP Error 500: Internal Server Error"
+    "error": "The read operation timed out"
   },
   "car_news": {
-    "headline": "Chrysler Recalls 82,843 Ram 1500 Trucks Over Brake Software Bug That Could Disable Safety Features",
-    "url": "https://www.motor1.com/news/816607/ram-1500-classic-abs-recall/",
+    "headline": "Ineos Will Build Its Rugged Off-Roader In America Starting In 2028",
+    "url": "https://www.motor1.com/news/816667/ineos-moving-production-to-us/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {
-    "year": 380,
-    "text": "Theodosius I makes his adventus, or formal entry, into Constantinople.",
-    "title": "Theodosius I",
-    "url": "https://en.wikipedia.org/wiki/Theodosius_I"
+    "year": -571,
+    "text": "Servius Tullius, king of Rome, celebrates the first of his three triumphs for his victory over the Etruscans.",
+    "title": "Servius Tullius",
+    "url": "https://en.wikipedia.org/wiki/Servius_Tullius"
   },
   "github": {
     "login": "Deadsunx",
