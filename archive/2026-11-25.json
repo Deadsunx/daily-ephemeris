@@ -1,11 +1,11 @@
 {
   "date": "2026-11-25",
-  "fetched_at": "2026-11-25T00:20:10.713861+00:00",
+  "fetched_at": "2026-11-25T13:45:57.203035+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 59417,
-      "usd_24h_change": -2.94,
-      "usd_market_cap": 1195127530200.4744,
+      "usd": 58277,
+      "usd_24h_change": -3.0,
+      "usd_market_cap": 1171753398657.6367,
       "spark": [
         80029.43,
         80800.83,
@@ -37,13 +37,13 @@
         61172.02,
         61227.55,
         59758.92,
-        59423.33
+        58277.33
       ]
     },
     "ethereum": {
-      "usd": 1668.48,
-      "usd_24h_change": -2.31,
-      "usd_market_cap": 203783462194.15036,
+      "usd": 1633.0,
+      "usd_24h_change": -3.57,
+      "usd_market_cap": 199541940402.99323,
       "spark": [
         2320.67,
         2347.32,
@@ -75,13 +75,13 @@
         1721.62,
         1709.32,
         1677.95,
-        1668.33
+        1633.0
       ]
     },
     "solana": {
-      "usd": 69.51,
-      "usd_24h_change": -3.38,
-      "usd_market_cap": 41100505543.25456,
+      "usd": 66.99,
+      "usd_24h_change": -4.26,
+      "usd_market_cap": 39652102460.68184,
       "spark": [
         100.75,
         101.2,
@@ -113,7 +113,7 @@
         70.61,
         71.99,
         69.62,
-        69.53
+        66.99
       ]
     }
   },
@@ -122,11 +122,11 @@
     "author": "Les Brown"
   },
   "nasa": {
-    "error": "The read operation timed out"
+    "error": "HTTP Error 500: Internal Server Error"
   },
   "car_news": {
-    "headline": "Ineos Will Build Its Rugged Off-Roader In America Starting In 2028",
-    "url": "https://www.motor1.com/news/816667/ineos-moving-production-to-us/",
+    "headline": "All-New Hyundai Tucson Is Bigger, Bolder, And More Rugged With XRT Pro",
+    "url": "https://www.motor1.com/news/816754/2027-hyundai-tucson-hybrid-xrt/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {
