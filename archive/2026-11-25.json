@@ -1,11 +1,11 @@
 {
   "date": "2026-11-25",
-  "fetched_at": "2026-11-25T13:45:57.203035+00:00",
+  "fetched_at": "2026-11-25T23:58:31.558999+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 58277,
-      "usd_24h_change": -3.0,
-      "usd_market_cap": 1171753398657.6367,
+      "usd": 60450,
+      "usd_24h_change": 1.15,
+      "usd_market_cap": 1215956816509.6172,
       "spark": [
         80029.43,
         80800.83,
@@ -37,13 +37,13 @@
         61172.02,
         61227.55,
         59758.92,
-        58277.33
+        60434.96
       ]
     },
     "ethereum": {
-      "usd": 1633.0,
-      "usd_24h_change": -3.57,
-      "usd_market_cap": 199541940402.99323,
+      "usd": 1693.28,
+      "usd_24h_change": 0.92,
+      "usd_market_cap": 207005049296.21567,
       "spark": [
         2320.67,
         2347.32,
@@ -75,13 +75,13 @@
         1721.62,
         1709.32,
         1677.95,
-        1633.0
+        1692.9
       ]
     },
     "solana": {
-      "usd": 66.99,
-      "usd_24h_change": -4.26,
-      "usd_market_cap": 39652102460.68184,
+      "usd": 70.41,
+      "usd_24h_change": 1.06,
+      "usd_market_cap": 41686167917.17033,
       "spark": [
         100.75,
         101.2,
@@ -113,7 +113,7 @@
         70.61,
         71.99,
         69.62,
-        66.99
+        70.42
       ]
     }
   },
@@ -122,11 +122,15 @@
     "author": "Les Brown"
   },
   "nasa": {
-    "error": "HTTP Error 500: Internal Server Error"
+    "title": "NASA Science",
+    "explanation": "To view this video please enable JavaScript, and consider upgrading to a web browser that \t\t\t\t\tsupports HTML5 vide",
+    "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
+    "media_type": "image",
+    "thumbnail_url": null
   },
   "car_news": {
-    "headline": "All-New Hyundai Tucson Is Bigger, Bolder, And More Rugged With XRT Pro",
-    "url": "https://www.motor1.com/news/816754/2027-hyundai-tucson-hybrid-xrt/",
+    "headline": "The New Hyundai Elantra Almost Looked Very Different",
+    "url": "https://www.motor1.com/news/816787/hyundai-elantra-liftback-rejected/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {
