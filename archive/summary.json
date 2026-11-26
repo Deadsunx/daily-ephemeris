@@ -1873,5 +1873,21 @@
       "year": -571,
       "title": "Servius Tullius"
     }
+  },
+  {
+    "date": "2026-11-26",
+    "quote": {
+      "text": "Keep your eyes on the stars, but remember to keep your feet on the ground.",
+      "author": "Theodore Roosevelt"
+    },
+    "nasa": {
+      "title": "NASA Science",
+      "media_type": "image"
+    },
+    "car": "2027 Toyota 4Runner Finally Adds Heated Seats, Then Crosses $45,000",
+    "onthisday": {
+      "year": 783,
+      "title": "Kingdom of Asturias"
+    }
   }
 ]

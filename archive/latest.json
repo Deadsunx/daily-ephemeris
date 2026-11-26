@@ -1,13 +1,12 @@
 {
-  "date": "2026-11-25",
-  "fetched_at": "2026-11-25T23:58:31.558999+00:00",
+  "date": "2026-11-26",
+  "fetched_at": "2026-11-26T13:25:34.750919+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 60450,
-      "usd_24h_change": 1.15,
-      "usd_market_cap": 1215956816509.6172,
+      "usd": 60802,
+      "usd_24h_change": 3.46,
+      "usd_market_cap": 1223209344647.0654,
       "spark": [
-        80029.43,
         80800.83,
         81274.37,
         77838.81,
@@ -37,15 +36,15 @@
         61172.02,
         61227.55,
         59758.92,
-        60434.96
+        60374.15,
+        60777.49
       ]
     },
     "ethereum": {
-      "usd": 1693.28,
-      "usd_24h_change": 0.92,
-      "usd_market_cap": 207005049296.21567,
+      "usd": 1705.22,
+      "usd_24h_change": 3.47,
+      "usd_market_cap": 208489688669.7984,
       "spark": [
-        2320.67,
         2347.32,
         2357.47,
         2249.48,
@@ -75,15 +74,15 @@
         1721.62,
         1709.32,
         1677.95,
-        1692.9
+        1690.52,
+        1704.52
       ]
     },
     "solana": {
-      "usd": 70.41,
-      "usd_24h_change": 1.06,
-      "usd_market_cap": 41686167917.17033,
+      "usd": 70.95,
+      "usd_24h_change": 4.66,
+      "usd_market_cap": 42020522064.299385,
       "spark": [
-        100.75,
         101.2,
         102.32,
         95.47,
@@ -113,31 +112,32 @@
         70.61,
         71.99,
         69.62,
-        70.42
+        70.38,
+        70.9
       ]
     }
   },
   "quote": {
-    "text": "We have to live life with a sense of urgency so not a minute is wasted.",
-    "author": "Les Brown"
+    "text": "Keep your eyes on the stars, but remember to keep your feet on the ground.",
+    "author": "Theodore Roosevelt"
   },
   "nasa": {
     "title": "NASA Science",
-    "explanation": "To view this video please enable JavaScript, and consider upgrading to a web browser that \t\t\t\t\tsupports HTML5 vide",
+    "explanation": "Beauty is in the eye of the beholder. And there is much to behold in today's featured image. The Milky Way shines bright in the sky of Brazil, over the white sand dunes and dark lagoons of Len\u00e7\u00f3is Maranhenses National Park. We can see different parts of the Milky Way as it apparently rotates in the sky every night and throughout the year. This composite image was taken later in the night in July from a latitude of approximately 2\u00ba south. It shows some prominent Milky Way features, such as dark dust lanes and colorful nebulas. But does the Galaxy really appear arched like a rainbow in the sky? No, this is an artifact of a picture taken with a wide-angle lens. As the Galaxy was artfully framed by the photographer, it matches the contour of the dark lagoon creating the illusion of a cosmic eye, half in space and half on the ground. Is this eye in the sky looking back at you?Tomorrow's picture: what's next?\t\t\t\t\t\t",
     "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
     "media_type": "image",
     "thumbnail_url": null
   },
   "car_news": {
-    "headline": "The New Hyundai Elantra Almost Looked Very Different",
-    "url": "https://www.motor1.com/news/816787/hyundai-elantra-liftback-rejected/",
+    "headline": "2027 Toyota 4Runner Finally Adds Heated Seats, Then Crosses $45,000",
+    "url": "https://www.motor1.com/news/816890/2027-toyota-4runner-price-updates/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {
-    "year": -571,
-    "text": "Servius Tullius, king of Rome, celebrates the first of his three triumphs for his victory over the Etruscans.",
-    "title": "Servius Tullius",
-    "url": "https://en.wikipedia.org/wiki/Servius_Tullius"
+    "year": 783,
+    "text": "The Asturian queen Adosinda is held at a monastery to prevent her nephew from retaking the throne from Mauregatus.",
+    "title": "Kingdom of Asturias",
+    "url": "https://en.wikipedia.org/wiki/Kingdom_of_Asturias"
   },
   "github": {
     "login": "Deadsunx",

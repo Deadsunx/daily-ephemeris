@@ -35,23 +35,23 @@ python daily_update.py
 Only the Python standard library is used — nothing to install.
 
 <!-- LATEST:START -->
-### 📅 Latest snapshot — 2026-11-25
+### 📅 Latest snapshot — 2026-11-26
 
-> *"We have to live life with a sense of urgency so not a minute is wasted."* — **Les Brown**
+> *"Keep your eyes on the stars, but remember to keep your feet on the ground."* — **Theodore Roosevelt**
 
 **Crypto (USD)**
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $60,450 | +1.15% |
-| Ethereum | $1,693.28 | +0.92% |
-| Solana | $70.41 | +1.06% |
+| Bitcoin | $60,802 | +3.46% |
+| Ethereum | $1,705.22 | +3.47% |
+| Solana | $70.95 | +4.66% |
 
 **🔭 NASA:** [NASA Science](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)
 
-**🚗 Car news:** [The New Hyundai Elantra Almost Looked Very Different](https://www.motor1.com/news/816787/hyundai-elantra-liftback-rejected/)
+**🚗 Car news:** [2027 Toyota 4Runner Finally Adds Heated Seats, Then Crosses $45,000](https://www.motor1.com/news/816890/2027-toyota-4runner-price-updates/)
 
-**📜 On this day, -571:** Servius Tullius, king of Rome, celebrates the first of his three triumphs for his victory over the Etruscans. — [Servius Tullius](https://en.wikipedia.org/wiki/Servius_Tullius)
+**📜 On this day, 783:** The Asturian queen Adosinda is held at a monastery to prevent her nephew from retaking the throne from Mauregatus. — [Kingdom of Asturias](https://en.wikipedia.org/wiki/Kingdom_of_Asturias)
 
 **🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 11 repos · 7 followers
 
