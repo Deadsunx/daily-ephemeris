@@ -43,11 +43,9 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $61,294 | +0.8% |
-| Ethereum | $1,716.25 | +0.65% |
-| Solana | $73.05 | +2.96% |
-
-**🔭 NASA:** [NASA Science](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)
+| Bitcoin | $59,861 | -1.0% |
+| Ethereum | $1,660.47 | -1.51% |
+| Solana | $71.51 | +0.79% |
 
 **🚗 Car news:** [Michael Schumacher’s Porsche Carrera GT Is Going to Auction With A Remarkable Paper Trail](https://www.motor1.com/news/817030/michael-schumacher-porsche-carrera-gt/)
 

@@ -1,11 +1,11 @@
 {
   "date": "2026-11-27",
-  "fetched_at": "2026-11-27T13:22:22.076434+00:00",
+  "fetched_at": "2026-11-27T23:53:56.579792+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 61294,
-      "usd_24h_change": 0.8,
-      "usd_market_cap": 1233101134820.6843,
+      "usd": 59861,
+      "usd_24h_change": -1.0,
+      "usd_market_cap": 1204272721429.4749,
       "spark": [
         81274.37,
         77838.81,
@@ -37,13 +37,13 @@
         59758.92,
         60374.15,
         60510.4,
-        61307.62
+        59860.68
       ]
     },
     "ethereum": {
-      "usd": 1716.25,
-      "usd_24h_change": 0.65,
-      "usd_market_cap": 209822418489.71002,
+      "usd": 1660.47,
+      "usd_24h_change": -1.51,
+      "usd_market_cap": 203003198848.8759,
       "spark": [
         2357.47,
         2249.48,
@@ -75,13 +75,13 @@
         1677.95,
         1690.52,
         1687.92,
-        1716.4
+        1660.57
       ]
     },
     "solana": {
-      "usd": 73.05,
-      "usd_24h_change": 2.96,
-      "usd_market_cap": 43262352060.35299,
+      "usd": 71.51,
+      "usd_24h_change": 0.79,
+      "usd_market_cap": 42353790716.43993,
       "spark": [
         102.32,
         95.47,
@@ -113,7 +113,7 @@
         69.62,
         70.38,
         70.97,
-        73.07
+        71.51
       ]
     }
   },
@@ -122,11 +122,7 @@
     "author": "Napoleon Hill"
   },
   "nasa": {
-    "title": "NASA Science",
-    "explanation": "On November 24, all denizens of our fair planet could watch the Moon rise opposite the setting Sun. Easy to spot in twilight skies above fields, fences, backyards, and even stone walls, the Moon was big and bright, and at its full phase. Known to some as a Beaver Moon, November's Full Moon was also near perigee, the closest point in its elliptical orbit around planet Earth. That made it one of the biggest and brightest Full Moons, also known as a supermoon. In fact, November's Full Moon was the first in a series of four consecutive Full Moon's near perigee. So your next chance to watch a supermoon rise will be when the Cold Moon rises on December 23.Tomorrow's picture: remember where you parked\t\t\t\t\t\t",
-    "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
-    "media_type": "image",
-    "thumbnail_url": null
+    "error": "HTTP Error 500: Internal Server Error"
   },
   "car_news": {
     "headline": "Michael Schumacher\u2019s Porsche Carrera GT Is Going to Auction With A Remarkable Paper Trail",
