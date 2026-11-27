@@ -1889,5 +1889,21 @@
       "year": 783,
       "title": "Kingdom of Asturias"
     }
+  },
+  {
+    "date": "2026-11-27",
+    "quote": {
+      "text": "It takes half your life before you discover life is a do-it-yourself project.",
+      "author": "Napoleon Hill"
+    },
+    "nasa": {
+      "title": "NASA Science",
+      "media_type": "image"
+    },
+    "car": "Meet Ford's New Le Mans Fighter: The GT41",
+    "onthisday": {
+      "year": 25,
+      "title": "20s"
+    }
   }
 ]

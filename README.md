@@ -35,23 +35,23 @@ python daily_update.py
 Only the Python standard library is used — nothing to install.
 
 <!-- LATEST:START -->
-### 📅 Latest snapshot — 2026-11-26
+### 📅 Latest snapshot — 2026-11-27
 
-> *"Keep your eyes on the stars, but remember to keep your feet on the ground."* — **Theodore Roosevelt**
+> *"It takes half your life before you discover life is a do-it-yourself project."* — **Napoleon Hill**
 
 **Crypto (USD)**
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $60,802 | +3.46% |
-| Ethereum | $1,705.22 | +3.47% |
-| Solana | $70.95 | +4.66% |
+| Bitcoin | $60,519 | -1.27% |
+| Ethereum | $1,688.47 | -1.6% |
+| Solana | $71.01 | -0.51% |
 
 **🔭 NASA:** [NASA Science](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)
 
-**🚗 Car news:** [2027 Toyota 4Runner Finally Adds Heated Seats, Then Crosses $45,000](https://www.motor1.com/news/816890/2027-toyota-4runner-price-updates/)
+**🚗 Car news:** [Meet Ford's New Le Mans Fighter: The GT41](https://www.motor1.com/news/816800/ford-gt41-le-mans-hypercar-debut-bts/)
 
-**📜 On this day, 783:** The Asturian queen Adosinda is held at a monastery to prevent her nephew from retaking the throne from Mauregatus. — [Kingdom of Asturias](https://en.wikipedia.org/wiki/Kingdom_of_Asturias)
+**📜 On this day, 25:** Luoyang is declared capital of the Eastern Han dynasty by Emperor Guangwu of Han. — [20s](https://en.wikipedia.org/wiki/20s)
 
 **🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 11 repos · 7 followers
 

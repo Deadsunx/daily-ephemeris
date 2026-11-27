@@ -1,11 +1,11 @@
 {
-  "date": "2026-11-26",
-  "fetched_at": "2026-11-26T13:25:34.750919+00:00",
+  "date": "2026-11-27",
+  "fetched_at": "2026-11-27T00:18:20.704223+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 60802,
-      "usd_24h_change": 3.46,
-      "usd_market_cap": 1223209344647.0654,
+      "usd": 60519,
+      "usd_24h_change": -1.27,
+      "usd_market_cap": 1217413906209.0698,
       "spark": [
         80800.83,
         81274.37,
@@ -37,15 +37,14 @@
         61227.55,
         59758.92,
         60374.15,
-        60777.49
+        60517.46
       ]
     },
     "ethereum": {
-      "usd": 1705.22,
-      "usd_24h_change": 3.47,
-      "usd_market_cap": 208489688669.7984,
+      "usd": 1688.47,
+      "usd_24h_change": -1.6,
+      "usd_market_cap": 206363713397.59503,
       "spark": [
-        2347.32,
         2357.47,
         2249.48,
         2242.5,
@@ -75,15 +74,14 @@
         1709.32,
         1677.95,
         1690.52,
-        1704.52
+        1688.41
       ]
     },
     "solana": {
-      "usd": 70.95,
-      "usd_24h_change": 4.66,
-      "usd_market_cap": 42020522064.299385,
+      "usd": 71.01,
+      "usd_24h_change": -0.51,
+      "usd_market_cap": 42047325856.60732,
       "spark": [
-        101.2,
         102.32,
         95.47,
         96.25,
@@ -113,13 +111,13 @@
         71.99,
         69.62,
         70.38,
-        70.9
+        71.05
       ]
     }
   },
   "quote": {
-    "text": "Keep your eyes on the stars, but remember to keep your feet on the ground.",
-    "author": "Theodore Roosevelt"
+    "text": "It takes half your life before you discover life is a do-it-yourself project.",
+    "author": "Napoleon Hill"
   },
   "nasa": {
     "title": "NASA Science",
@@ -129,15 +127,15 @@
     "thumbnail_url": null
   },
   "car_news": {
-    "headline": "2027 Toyota 4Runner Finally Adds Heated Seats, Then Crosses $45,000",
-    "url": "https://www.motor1.com/news/816890/2027-toyota-4runner-price-updates/",
+    "headline": "Meet Ford's New Le Mans Fighter: The GT41",
+    "url": "https://www.motor1.com/news/816800/ford-gt41-le-mans-hypercar-debut-bts/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {
-    "year": 783,
-    "text": "The Asturian queen Adosinda is held at a monastery to prevent her nephew from retaking the throne from Mauregatus.",
-    "title": "Kingdom of Asturias",
-    "url": "https://en.wikipedia.org/wiki/Kingdom_of_Asturias"
+    "year": 25,
+    "text": "Luoyang is declared capital of the Eastern Han dynasty by Emperor Guangwu of Han.",
+    "title": "20s",
+    "url": "https://en.wikipedia.org/wiki/20s"
   },
   "github": {
     "login": "Deadsunx",
