@@ -43,13 +43,13 @@ Only the Python standard library is used — nothing to install.
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $60,519 | -1.27% |
-| Ethereum | $1,688.47 | -1.6% |
-| Solana | $71.01 | -0.51% |
+| Bitcoin | $61,294 | +0.8% |
+| Ethereum | $1,716.25 | +0.65% |
+| Solana | $73.05 | +2.96% |
 
 **🔭 NASA:** [NASA Science](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)
 
-**🚗 Car news:** [Meet Ford's New Le Mans Fighter: The GT41](https://www.motor1.com/news/816800/ford-gt41-le-mans-hypercar-debut-bts/)
+**🚗 Car news:** [Michael Schumacher’s Porsche Carrera GT Is Going to Auction With A Remarkable Paper Trail](https://www.motor1.com/news/817030/michael-schumacher-porsche-carrera-gt/)
 
 **📜 On this day, 25:** Luoyang is declared capital of the Eastern Han dynasty by Emperor Guangwu of Han. — [20s](https://en.wikipedia.org/wiki/20s)
 

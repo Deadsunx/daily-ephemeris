@@ -1,13 +1,12 @@
 {
   "date": "2026-11-27",
-  "fetched_at": "2026-11-27T00:18:20.704223+00:00",
+  "fetched_at": "2026-11-27T13:22:22.076434+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 60519,
-      "usd_24h_change": -1.27,
-      "usd_market_cap": 1217413906209.0698,
+      "usd": 61294,
+      "usd_24h_change": 0.8,
+      "usd_market_cap": 1233101134820.6843,
       "spark": [
-        80800.83,
         81274.37,
         77838.81,
         77275.05,
@@ -37,13 +36,14 @@
         61227.55,
         59758.92,
         60374.15,
-        60517.46
+        60510.4,
+        61307.62
       ]
     },
     "ethereum": {
-      "usd": 1688.47,
-      "usd_24h_change": -1.6,
-      "usd_market_cap": 206363713397.59503,
+      "usd": 1716.25,
+      "usd_24h_change": 0.65,
+      "usd_market_cap": 209822418489.71002,
       "spark": [
         2357.47,
         2249.48,
@@ -74,13 +74,14 @@
         1709.32,
         1677.95,
         1690.52,
-        1688.41
+        1687.92,
+        1716.4
       ]
     },
     "solana": {
-      "usd": 71.01,
-      "usd_24h_change": -0.51,
-      "usd_market_cap": 42047325856.60732,
+      "usd": 73.05,
+      "usd_24h_change": 2.96,
+      "usd_market_cap": 43262352060.35299,
       "spark": [
         102.32,
         95.47,
@@ -111,7 +112,8 @@
         71.99,
         69.62,
         70.38,
-        71.05
+        70.97,
+        73.07
       ]
     }
   },
@@ -121,14 +123,14 @@
   },
   "nasa": {
     "title": "NASA Science",
-    "explanation": "Beauty is in the eye of the beholder. And there is much to behold in today's featured image. The Milky Way shines bright in the sky of Brazil, over the white sand dunes and dark lagoons of Len\u00e7\u00f3is Maranhenses National Park. We can see different parts of the Milky Way as it apparently rotates in the sky every night and throughout the year. This composite image was taken later in the night in July from a latitude of approximately 2\u00ba south. It shows some prominent Milky Way features, such as dark dust lanes and colorful nebulas. But does the Galaxy really appear arched like a rainbow in the sky? No, this is an artifact of a picture taken with a wide-angle lens. As the Galaxy was artfully framed by the photographer, it matches the contour of the dark lagoon creating the illusion of a cosmic eye, half in space and half on the ground. Is this eye in the sky looking back at you?Tomorrow's picture: what's next?\t\t\t\t\t\t",
+    "explanation": "On November 24, all denizens of our fair planet could watch the Moon rise opposite the setting Sun. Easy to spot in twilight skies above fields, fences, backyards, and even stone walls, the Moon was big and bright, and at its full phase. Known to some as a Beaver Moon, November's Full Moon was also near perigee, the closest point in its elliptical orbit around planet Earth. That made it one of the biggest and brightest Full Moons, also known as a supermoon. In fact, November's Full Moon was the first in a series of four consecutive Full Moon's near perigee. So your next chance to watch a supermoon rise will be when the Cold Moon rises on December 23.Tomorrow's picture: remember where you parked\t\t\t\t\t\t",
     "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
     "media_type": "image",
     "thumbnail_url": null
   },
   "car_news": {
-    "headline": "Meet Ford's New Le Mans Fighter: The GT41",
-    "url": "https://www.motor1.com/news/816800/ford-gt41-le-mans-hypercar-debut-bts/",
+    "headline": "Michael Schumacher\u2019s Porsche Carrera GT Is Going to Auction With A Remarkable Paper Trail",
+    "url": "https://www.motor1.com/news/817030/michael-schumacher-porsche-carrera-gt/",
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {
