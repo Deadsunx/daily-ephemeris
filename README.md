@@ -35,21 +35,23 @@ python daily_update.py
 Only the Python standard library is used — nothing to install.
 
 <!-- LATEST:START -->
-### 📅 Latest snapshot — 2026-11-27
+### 📅 Latest snapshot — 2026-11-28
 
-> *"It takes half your life before you discover life is a do-it-yourself project."* — **Napoleon Hill**
+> *"High thoughts must have high language."* — **Aristophanes**
 
 **Crypto (USD)**
 
 | Coin | Price | 24h |
 | --- | --- | --- |
-| Bitcoin | $59,861 | -1.0% |
-| Ethereum | $1,660.47 | -1.51% |
-| Solana | $71.51 | +0.79% |
+| Bitcoin | $59,238 | -3.71% |
+| Ethereum | $1,648.72 | -4.17% |
+| Solana | $70.86 | -3.02% |
+
+**🔭 NASA:** [NASA Science](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)
 
 **🚗 Car news:** [Michael Schumacher’s Porsche Carrera GT Is Going to Auction With A Remarkable Paper Trail](https://www.motor1.com/news/817030/michael-schumacher-porsche-carrera-gt/)
 
-**📜 On this day, 25:** Luoyang is declared capital of the Eastern Han dynasty by Emperor Guangwu of Han. — [20s](https://en.wikipedia.org/wiki/20s)
+**📜 On this day, 587:** Treaty of Andelot: King Guntram of Burgundy recognizes Childebert II as his heir. — [Treaty of Andelot](https://en.wikipedia.org/wiki/Treaty_of_Andelot)
 
 **🐙 GitHub [@Deadsunx](https://github.com/Deadsunx):** 11 repos · 7 followers
 

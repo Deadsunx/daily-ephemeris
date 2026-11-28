@@ -1,13 +1,12 @@
 {
-  "date": "2026-11-27",
-  "fetched_at": "2026-11-27T23:53:56.579792+00:00",
+  "date": "2026-11-28",
+  "fetched_at": "2026-11-28T12:36:48.414931+00:00",
   "crypto": {
     "bitcoin": {
-      "usd": 59861,
-      "usd_24h_change": -1.0,
-      "usd_market_cap": 1204272721429.4749,
+      "usd": 59238,
+      "usd_24h_change": -3.71,
+      "usd_market_cap": 1191747526937.2378,
       "spark": [
-        81274.37,
         77838.81,
         77275.05,
         77520.89,
@@ -37,15 +36,15 @@
         59758.92,
         60374.15,
         60510.4,
-        59860.68
+        59871.67,
+        59234.08
       ]
     },
     "ethereum": {
-      "usd": 1660.47,
-      "usd_24h_change": -1.51,
-      "usd_market_cap": 203003198848.8759,
+      "usd": 1648.72,
+      "usd_24h_change": -4.17,
+      "usd_market_cap": 201565948449.83322,
       "spark": [
-        2357.47,
         2249.48,
         2242.5,
         2254.13,
@@ -75,15 +74,15 @@
         1677.95,
         1690.52,
         1687.92,
-        1660.57
+        1661.11,
+        1648.63
       ]
     },
     "solana": {
-      "usd": 71.51,
-      "usd_24h_change": 0.79,
-      "usd_market_cap": 42353790716.43993,
+      "usd": 70.86,
+      "usd_24h_change": -3.02,
+      "usd_market_cap": 41973753023.91412,
       "spark": [
-        102.32,
         95.47,
         96.25,
         95.42,
@@ -113,16 +112,21 @@
         69.62,
         70.38,
         70.97,
-        71.51
+        71.59,
+        70.85
       ]
     }
   },
   "quote": {
-    "text": "It takes half your life before you discover life is a do-it-yourself project.",
-    "author": "Napoleon Hill"
+    "text": "High thoughts must have high language.",
+    "author": "Aristophanes"
   },
   "nasa": {
-    "error": "HTTP Error 500: Internal Server Error"
+    "title": "NASA Science",
+    "explanation": "Get out your red/blue glasses and check out this stereo scene from Taurus-Littrow valley on the Moon! The color anaglyph features a detailed 3D view of Apollo 17's Lunar Rover in the foreground. Behind it lies the Lunar Module and distant lunar hills. Because the world was going to be able to watch the Lunar Module's ascent stage liftoff via the rover's TV camera, this parking place was also known as the VIP Site. Fifty years ago, in December of 1972, Apollo 17 astronauts Eugene Cernan and Harrison Schmitt spent about 75 hours on the Moon, while colleague Ronald Evans orbited overhead. The crew returned with 110 kilograms of rock and soil samples, more than from any of the other lunar landing sites. Cernan and Schmitt are still the last to walk (or drive) on the Moon.Tomorrow's picture: dark cloud\t\t\t\t\t\t",
+    "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
+    "media_type": "image",
+    "thumbnail_url": null
   },
   "car_news": {
     "headline": "Michael Schumacher\u2019s Porsche Carrera GT Is Going to Auction With A Remarkable Paper Trail",
@@ -130,10 +134,10 @@
     "source": "https://www.motor1.com/rss/news/all/"
   },
   "onthisday": {
-    "year": 25,
-    "text": "Luoyang is declared capital of the Eastern Han dynasty by Emperor Guangwu of Han.",
-    "title": "20s",
-    "url": "https://en.wikipedia.org/wiki/20s"
+    "year": 587,
+    "text": "Treaty of Andelot: King Guntram of Burgundy recognizes Childebert II as his heir.",
+    "title": "Treaty of Andelot",
+    "url": "https://en.wikipedia.org/wiki/Treaty_of_Andelot"
   },
   "github": {
     "login": "Deadsunx",

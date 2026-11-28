@@ -1902,5 +1902,21 @@
       "year": 25,
       "title": "20s"
     }
+  },
+  {
+    "date": "2026-11-28",
+    "quote": {
+      "text": "High thoughts must have high language.",
+      "author": "Aristophanes"
+    },
+    "nasa": {
+      "title": "NASA Science",
+      "media_type": "image"
+    },
+    "car": "Michael Schumacher\u2019s Porsche Carrera GT Is Going to Auction With A Remarkable Paper Trail",
+    "onthisday": {
+      "year": 587,
+      "title": "Treaty of Andelot"
+    }
   }
 ]
